@@ -3,6 +3,29 @@
 Sistem produksi konten visual Instagram untuk Official OTCA, Info Jerman, Jepang Koey, dan Ciao Manda.
 Satu spec JSON menjadi PNG berukuran persis, lengkap dengan laporan QA.
 
+## Instalasi
+
+Butuh Node.js 24 dan Git.
+
+```bash
+git clone https://github.com/otcainovasi-sys/ai-content-creator.git
+cd ai-content-creator
+npm install
+npx playwright install chromium
+npm test
+```
+
+Coba render satu konten:
+
+```bash
+npm run render -- specs/khusus/otca/siapa-membantu-anak.json
+```
+
+Hasilnya ada di `projects/`. Folder ini tidak masuk repo, jadi render ulang di komputer masing-masing.
+
+- **`.env`:** salin dari `.env.example` hanya kalau mau mencari foto baru lewat Pexels atau Pixabay. Render tidak membutuhkannya.
+- **`assets/stock/`:** repo hanya memuat foto CC0 yang dipakai konten aktif, beserta catatan lisensinya (`.json`). Foto lain tetap di komputer pemiliknya. `specs/2026-11-09/otca/07-jumat-problem_education.json` dan `specs/samples/jepang-koey.json` memakai foto yang tidak ikut, jadi keduanya tidak bisa dirender dari repo.
+
 ## Alur kerja
 
 ```bash
