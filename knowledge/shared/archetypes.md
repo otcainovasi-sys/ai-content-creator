@@ -126,3 +126,7 @@ Disetujui user pada 5 November 2026.
 - Variasikan posisi antar-slide (kanan, kiri, tengah), dan pilih pose yang cocok dengan isi.
 - Pilih pose yang ikut bercerita sesuai isi slide (koper untuk keberangkatan, laptop untuk kelas online, kaca pembesar untuk pertanyaan), bukan maskot berdiri diam di setiap slide. Disetujui user 5 November 2026 untuk Info Jerman dan OTCA. Pose kecil (sekitar 350 px) dipakai di slide isi dan penutup; cover tetap memakai file resolusi tinggi.
 - Jangan menjepit maskot di pojok bersama kalimat pendek. Teks tidak menabrak maskot, dan tidak ada kata yang turun sendirian di baris terakhir.
+
+## Variasi antar-konten (arahan user, 7 November 2026)
+
+Berlaku untuk keempat brand. Standar PDF mengunci sistem (logo, warna, font, footer, batas baris, jarak, QA), bukan satu template. Maskot, posisi, dan susunan isi dipilih per tema, dan struktur carousel sebelumnya tidak disalin.

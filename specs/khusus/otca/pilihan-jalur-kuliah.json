@@ -1,0 +1,469 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-pilihan-jalur-kuliah",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "archetype": "D Kerangka dan alur keputusan",
+  "background": {
+    "src": "assets/brands/otca/feed/reichstag-bendera.png",
+    "position": "28% 35%"
+  },
+  "verified_claims": [
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "brief": {
+    "problem": "Orang tua bingung jalur kuliah ke Jerman mana yang cocok untuk anak.",
+    "angle": "Pilih jalur dari profil anak, bukan dari nama kampus",
+    "key_message": "Tiap jalur punya syarat dan persiapan bahasa yang berbeda.",
+    "audience": "Orang tua siswa SMA kelas 11 dan 12",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    },
+    "sources": [
+      {
+        "claim": "Studienkolleg umumnya dua semester, diakhiri Feststellungsprüfung",
+        "source": "DAAD",
+        "url": "https://www.daad.de/en/studying-in-germany/requirements/studienkollegs/"
+      },
+      {
+        "claim": "Akses kuliah dicek lewat database DAAD dan anabin",
+        "source": "Goethe-Universität Frankfurt, FAU",
+        "url": "https://www.uni-frankfurt.de/f7/certificate-recognition-and-studienkolleg-125023870"
+      },
+      {
+        "claim": "Duales Studium butuh kontrak perusahaan",
+        "source": "DAAD",
+        "url": "https://www.daad.de/en/studying-in-germany/universities/dual-studies/"
+      },
+      {
+        "claim": "Masuk Studienkolleg umumnya B1 sampai B2",
+        "source": "BayStKO § 6 dan sumber sekunder; berbeda antar-lembaga",
+        "url": "https://www.gesetze-bayern.de/Content/Document/BayStKO2019-6",
+        "check": true
+      },
+      {
+        "claim": "Duales Studium umumnya B2 sampai C1",
+        "source": "Panduan pihak ketiga, bukan sumber resmi",
+        "url": "https://www.uni2study.com/articles/duales-studium-dual-study-programs-germany",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Syarat bahasa berbeda antar-kampus dan lembaga; angka perlu dicek tim."
+    ],
+    "references": [
+      "PDF Education/Problem - Pilar OTCA"
+    ]
+  },
+  "caption": "Kuliah ke Jerman punya beberapa jalur, dan persiapannya tidak sama.\n\nLangsung S1 bergantung pada ijazah dan syarat kampus. Studienkolleg memberi persiapan akademik lebih dulu. Duales Studium menggabungkan kuliah dan kerja di perusahaan mitra.\n\nMulai dari profil anak, bukan langsung dari nama kampus.\n\nKomen \"STUDI\" di bawah untuk info lebih lanjut dari Tim OTCA.\n\n#KuliahDiJerman #StudiJerman #OTCA",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "feed",
+      "headline": "Anak mau kuliah ke Jerman, pilihan mana yang cocok?",
+      "intent": "Robot di kanan, tiga lencana di kiri: kebalikan cover sebelumnya.",
+      "blocks": [
+        {
+          "k": "bar",
+          "variant": "fogdark",
+          "x": -12,
+          "y": 36.56,
+          "w": 124,
+          "h": 63.44,
+          "z": 1
+        },
+        {
+          "k": "mascot",
+          "x": 58,
+          "y": 30,
+          "w": 36,
+          "h": 46,
+          "id": "robot-menunjuk-dua",
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "variant": "badge",
+          "x": 8,
+          "y": 33,
+          "w": 12.6,
+          "h": 10.3,
+          "id": "c-campus",
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "variant": "badge",
+          "x": 23,
+          "y": 33,
+          "w": 12.6,
+          "h": 10.3,
+          "id": "c-books",
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "variant": "badge",
+          "x": 38,
+          "y": 33,
+          "w": 12.6,
+          "h": 10.3,
+          "id": "c-briefcase",
+          "z": 2
+        },
+        {
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -12,
+          "y": 54.28,
+          "w": 124,
+          "h": 45.72,
+          "z": 2
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 63,
+          "w": 100,
+          "h": 18,
+          "t": "ANAK MAU KULIAH KE JERMAN, **PILIHAN MANA YANG COCOK?**",
+          "variant": "duo",
+          "color": "white",
+          "align": "left",
+          "max": 66.7,
+          "min": 66.7,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 81.4,
+          "w": 100,
+          "h": 7.2,
+          "t": "Jawabannya ada di profil anak, bukan nama kampus.",
+          "align": "left",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Tiga Pilihan, Tiga Titik Mulai",
+      "intent": "Tiga kolom bertangga untuk membandingkan jalur.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Tiga Pilihan, Tiga Titik Mulai",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "col",
+          "x": 0,
+          "y": 32,
+          "w": 31.5,
+          "h": 48,
+          "tone": "white",
+          "head": "Langsung S1",
+          "id": "c-campus",
+          "max": 27,
+          "items": [
+            {
+              "t": "Ijazah memenuhi syarat"
+            },
+            {
+              "t": "Bahasa ikut syarat kampus"
+            }
+          ]
+        },
+        {
+          "k": "col",
+          "x": 34.2,
+          "y": 28,
+          "w": 31.5,
+          "h": 52,
+          "tone": "white",
+          "head": "Studienkolleg",
+          "id": "c-books",
+          "max": 27,
+          "items": [
+            {
+              "t": "Persiapan umumnya dua semester"
+            },
+            {
+              "t": "Masuk umumnya B1 sampai B2"
+            }
+          ]
+        },
+        {
+          "k": "col",
+          "x": 68.5,
+          "y": 32,
+          "w": 31.5,
+          "h": 48,
+          "tone": "white",
+          "head": "Duales Studium",
+          "id": "c-briefcase",
+          "max": 27,
+          "items": [
+            {
+              "t": "Butuh kontrak perusahaan"
+            },
+            {
+              "t": "Bahasa umumnya B2 sampai C1"
+            }
+          ]
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 9,
+          "t": "Syaratnya berbeda **di tiap kampus dan program.**",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Mulai dari Tiga Pertanyaan",
+      "intent": "Alur keputusan: pertanyaan bertumpuk di kiri, robot besar di kanan.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Mulai dari Tiga Pertanyaan",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 0,
+          "y": 24,
+          "w": 66,
+          "h": 15,
+          "id": "c-contract",
+          "head": "Ijazah sudah cukup?",
+          "t": "Kalau ya, S1 bisa dicek. Kalau belum, lihat Studienkolleg.",
+          "max": 30,
+          "min": 28
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 0,
+          "y": 41,
+          "w": 66,
+          "h": 15,
+          "id": "c-compass",
+          "head": "Anak butuh persiapan dulu?",
+          "t": "Studienkolleg memberi bekal akademik sebelum S1.",
+          "max": 30,
+          "min": 28
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 0,
+          "y": 58,
+          "w": 66,
+          "h": 15,
+          "id": "c-briefcase",
+          "head": "Bidangnya sudah mantap?",
+          "t": "Duales Studium bisa dicek, dengan kontrak perusahaan.",
+          "max": 30,
+          "min": 28
+        },
+        {
+          "k": "mascot",
+          "x": 66,
+          "y": 34,
+          "w": 34,
+          "h": 44,
+          "id": "robot-berpikir",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 80,
+          "w": 100,
+          "h": 10,
+          "t": "Cek ijazah di **database DAAD atau anabin.**",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Cek Empat Hal Ini Bersama Anak",
+      "intent": "Empat tile dua kali dua.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Cek Empat Hal Ini Bersama Anak",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 28,
+          "w": 47,
+          "h": 24,
+          "id": "c-contract",
+          "head": "Ijazah",
+          "t": "Jalur mana yang terbuka",
+          "tone": "white",
+          "max": 30
+        },
+        {
+          "k": "tile",
+          "x": 53,
+          "y": 28,
+          "w": 47,
+          "h": 24,
+          "id": "c-target",
+          "head": "Tujuan",
+          "t": "Fokus akademik atau kerja",
+          "tone": "white",
+          "max": 30
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 55,
+          "w": 47,
+          "h": 24,
+          "id": "c-bubble-b1",
+          "head": "Bahasa",
+          "t": "Posisi level anak sekarang",
+          "tone": "white",
+          "max": 30
+        },
+        {
+          "k": "tile",
+          "x": 53,
+          "y": 55,
+          "w": 47,
+          "h": 24,
+          "id": "c-calendar",
+          "head": "Waktu",
+          "t": "Tenggat program tujuan",
+          "tone": "white",
+          "max": 30
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 9,
+          "t": "Jawabannya menentukan **target persiapan anak.**",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "feed",
+      "headline": "Pilihan yang Cocok Dimulai dari Profil Anak",
+      "intent": "Teks kiri, robot kanan, kartu CTA.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 13.26,
+          "w": 100,
+          "h": 22,
+          "t": "Pilihan yang Cocok **Dimulai dari Profil Anak**",
+          "variant": "duo",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 46,
+          "w": 54,
+          "h": 12,
+          "t": "Kenali kebutuhannya, lalu susun persiapannya.",
+          "align": "left",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        },
+        {
+          "k": "mascot",
+          "x": 56,
+          "y": 38,
+          "w": 40,
+          "h": 42,
+          "id": "robot-menunjuk-dua",
+          "z": 1
+        },
+        {
+          "k": "cta",
+          "variant": "tag",
+          "x": 8.23,
+          "y": 77.23,
+          "w": 88.78,
+          "h": 12.39,
+          "t": "KOMEN",
+          "id": "c-hand-point",
+          "note": "untuk info lebih lanjut dari Tim OTCA",
+          "z": 3,
+          "icons": [
+            "assets/brands/otca/feed/cta-tangan.png",
+            "assets/brands/otca/feed/cta-kilau.png"
+          ]
+        }
+      ],
+      "cta": "KOMEN “STUDI” DIBAWAH"
+    }
+  ]
+}

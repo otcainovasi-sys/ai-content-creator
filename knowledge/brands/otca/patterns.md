@@ -119,3 +119,7 @@ Ukur dengan `node scripts/measure-mascot.mjs projects/otca/<slug>`.
 - Lapisan cover: foto, gradasi utama, maskot dan lencana, kabut depan mulai y 740 (hanya menutup kaki), lalu teks.
 - Kartu CTA (bagian padat): x 149-980, y 1003-1145, radius 22. Tag kapsul emas polos #CB9D31 miring 17 derajat, teks mulai x 377. Robot penutup dipotong di belakang kartu.
 - Posisi PDF boleh disesuaikan isi: judul 2 baris tidak perlu segaris dengan judul 3 baris di PDF. Jarak judul ke kalimat di bawahnya ±60 px, maksimal 100 (QA `SPACE_LOOSE`).
+
+## Layout tambahan feed OTCA (7 November 2026)
+
+Contoh: `specs/khusus/otca/pilihan-jalur-kuliah.json`. Kolom bertangga (`col`, kartu putih bergaris emas, label emas), alur pertanyaan (kartu kiri, robot kanan), kotak 2x2 (`tile`), cover dengan robot kanan dan lencana berjajar.

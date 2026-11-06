@@ -894,3 +894,11 @@ tbody tr:last-child td{border-bottom:0}
 .brand-ciao-manda .ftext{letter-spacing:-.4px}
 .brand-ciao-manda .ftext mark.hot{color:#791F2A;font-weight:700}
 .brand-ciao-manda .ftext mark.hot{white-space:nowrap}
+/* Kolom pada tampilan feed OTCA: kartu putih bergaris emas, label emas, daftar terang */
+.skin-feed .fcol{background:#FFF;border:3px solid #CB9D31;border-radius:22px;padding:0 12px 14px;gap:6px}
+.skin-feed .fcol-a{background:#CB9D31;color:#000;font-size:26.7px;font-weight:700;padding:6px 20px;margin-top:-24px;white-space:nowrap}
+.skin-feed .fcol-ic{flex:none;height:130px;width:auto;max-width:90%}
+.skin-feed .fcol-l{flex:1 1 0;background:#F7F3E8;justify-content:space-evenly;padding:10px}
+.skin-feed .fcol-t{color:#000;font-weight:500;line-height:1.15}
+.skin-feed .ck{width:32px;height:32px}
+.skin-feed .ck::after{left:11px;top:4px;width:8px;height:16px;border-width:0 4px 4px 0;border-color:#000}
