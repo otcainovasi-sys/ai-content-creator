@@ -45,7 +45,7 @@
     {
       "layout": "free",
       "role": "cover",
-      "skin": "sky",
+      "skin": "cover",
       "bg": {
         "src": "assets/stock/openverse-a7fabd27-94d.jpg",
         "position": "70% 30%"
@@ -55,31 +55,30 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 27,
-          "y": 0,
-          "w": 46,
-          "h": 80,
-          "id": "cewe-calm",
-          "z": 1,
-          "variant": "bust"
+          "x": -8.75,
+          "y": 26.74,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
         },
         {
           "k": "bar",
-          "variant": "fog",
-          "x": -10,
-          "y": 40,
-          "w": 120,
-          "h": 60,
+          "variant": "fogfront",
+          "x": -8,
+          "y": 53.3,
+          "w": 116,
+          "h": 39.83,
           "z": 2
         },
         {
           "k": "icon",
-          "x": 0,
-          "y": 8,
+          "x": 36,
+          "y": 6,
           "w": 32,
           "h": 15,
           "id": "c-bubble-30",
-          "z": 3,
+          "z": 2,
           "r": -6
         },
         {
@@ -89,42 +88,34 @@
           "w": 26,
           "h": 22,
           "id": "c-alarm",
-          "z": 3,
+          "z": 2,
           "r": 8
-        },
-        {
-          "k": "icon",
-          "x": 2,
-          "y": 36,
-          "w": 28,
-          "h": 18,
-          "id": "c-books",
-          "z": 3
         },
         {
           "k": "title",
           "x": 0,
-          "y": 59,
+          "y": 60.16,
           "w": 100,
-          "h": 18,
-          "t": "Pulang Kerja Capek, Cuma Punya 30 Menit Sehari?",
+          "h": 22.16,
+          "t": "**Pulang Kerja Capek,** Cuma Punya 30 Menit Sehari?",
           "variant": "duo",
-          "align": "center",
-          "max": 58,
-          "min": 44,
-          "color": "accent",
+          "align": "left",
+          "max": 67.3,
+          "min": 67.3,
+          "color": "white",
           "z": 3
         },
         {
-          "k": "card",
-          "x": 4,
-          "y": 79,
-          "w": 92,
-          "h": 18,
-          "tone": "brand",
-          "head": "Kapan sempat belajarnya? **Coba bagi jadi 3 sesi kecil ini**",
-          "max": 46,
-          "min": 34,
+          "k": "text",
+          "x": 0,
+          "y": 82.78,
+          "w": 100,
+          "h": 11.9,
+          "t": "Kapan sempat belajarnya? Coba bagi jadi 3 sesi kecil ini.",
+          "align": "left",
+          "color": "white",
+          "min": 32.1,
+          "max": 32.1,
           "z": 3
         }
       ]
@@ -132,7 +123,6 @@
     {
       "layout": "free",
       "role": "point",
-      "skin": "sky",
       "bg": {
         "src": "assets/stock/openverse-a7fabd27-94d.jpg",
         "position": "70% 30%"
@@ -197,7 +187,6 @@
     {
       "layout": "free",
       "role": "closing",
-      "skin": "sky",
       "bg": {
         "src": "assets/stock/openverse-a7fabd27-94d.jpg",
         "position": "70% 30%"

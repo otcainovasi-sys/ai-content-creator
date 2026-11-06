@@ -63,22 +63,30 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 1,
-          "y": 18,
-          "w": 29,
-          "h": 46,
-          "id": "cewe-say-hi",
-          "z": 1,
-          "variant": "bust"
+          "x": -8.75,
+          "y": 26.74,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
+        },
+        {
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -8,
+          "y": 53.3,
+          "w": 116,
+          "h": 39.83,
+          "z": 2
         },
         {
           "k": "icon",
-          "x": 48,
+          "x": 62,
           "y": 18,
           "w": 26,
           "h": 14,
           "id": "c-bubble-grup",
-          "z": 3,
+          "z": 2,
           "r": -5
         },
         {
@@ -88,34 +96,35 @@
           "w": 34,
           "h": 14,
           "id": "c-bubble-private",
-          "z": 3,
+          "z": 2,
           "r": 4
         },
         {
           "k": "title",
           "x": 0,
-          "y": 58,
+          "y": 60.16,
           "w": 100,
-          "h": 23,
+          "h": 22.16,
           "t": "**Kelas Grup atau Private,** Mana yang Cocok Buat Kamu?",
           "variant": "duo",
           "align": "left",
-          "max": 66,
-          "min": 48,
+          "max": 67.3,
+          "min": 67.3,
           "color": "white",
           "z": 3
         },
         {
           "k": "text",
           "x": 0,
-          "y": 82,
+          "y": 82.78,
           "w": 100,
-          "h": 12,
+          "h": 11.9,
           "t": "Bandingkan dulu dari cara belajar dan jadwalmu.",
           "align": "left",
           "color": "white",
-          "min": 28,
-          "max": 32
+          "min": 32.1,
+          "max": 32.1,
+          "z": 3
         }
       ]
     },
@@ -131,32 +140,32 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 8,
-          "t": "Platinum N5–N4: Belajar Bareng",
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
+          "t": "Platinum N5⁠–⁠N4: Belajar Bareng",
           "variant": "duo",
           "align": "left",
-          "max": 54,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 29,
-          "y": 11,
-          "w": 42,
-          "h": 27,
+          "x": 32.61,
+          "y": 13.0,
+          "w": 34.78,
+          "h": 34.19,
           "id": "c-chat",
           "z": 1
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 40,
-          "w": 96,
-          "h": 23,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "Kelas **grup interaktif**."
@@ -165,14 +174,15 @@
               "t": "Disusun untuk **persiapan karier** di Jepang."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
-          "x": 6,
-          "y": 66,
-          "w": 88,
-          "h": 17,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "t": "Cocok kalau kamu semangat belajar bareng teman sekelas.",
           "max": 33
         }
@@ -190,32 +200,32 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 8,
-          "t": "Private 24–48 Jam: Belajar 1-on-1",
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
+          "t": "Private 24⁠–⁠48 Jam: Belajar 1-on-1",
           "variant": "duo",
           "align": "left",
-          "max": 54,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 31,
-          "y": 11,
-          "w": 38,
-          "h": 27,
+          "x": 35.69,
+          "y": 13.0,
+          "w": 28.62,
+          "h": 33.81,
           "id": "c-alarm",
           "z": 1
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 40,
-          "w": 96,
-          "h": 23,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "Kelas **privat 1-on-1**, durasi 24 atau 48 jam."
@@ -224,14 +234,15 @@
               "t": "**Jadwal fleksibel**, mengikuti waktumu."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
-          "x": 6,
-          "y": 66,
-          "w": 88,
-          "h": 17,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "t": "Cocok kalau jadwal kerjamu sering berubah.",
           "max": 33
         }
@@ -252,35 +263,35 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 33,
-          "y": 2,
-          "w": 34,
-          "h": 56,
-          "id": "cewe-say-hi",
-          "z": 1,
-          "variant": "bust"
+          "x": 24.06,
+          "y": 5.22,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
         },
         {
           "k": "title",
-          "x": 8,
-          "y": 49,
-          "w": 84,
-          "h": 19,
+          "x": 10.1,
+          "y": 50.55,
+          "w": 79.79,
+          "h": 19.69,
           "t": "**Masih Ragu Pilih yang Mana?**",
           "variant": "duo",
           "align": "center",
-          "max": 60,
-          "min": 44,
+          "max": 55.3,
+          "min": 55.3,
           "color": "accent",
           "z": 3
         },
         {
           "k": "cta",
           "variant": "pill",
-          "x": 12,
-          "y": 71,
-          "w": 76,
-          "h": 14
+          "x": 17.29,
+          "y": 72.8,
+          "w": 65.42,
+          "h": 18.41,
+          "z": 3
         }
       ]
     }

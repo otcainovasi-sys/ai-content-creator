@@ -60,49 +60,58 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 1,
-          "y": 18,
-          "w": 29,
-          "h": 46,
-          "id": "cowo-pointing",
-          "z": 1,
-          "variant": "bust"
+          "x": -8.75,
+          "y": 26.74,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
+        },
+        {
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -8,
+          "y": 53.3,
+          "w": 116,
+          "h": 39.83,
+          "z": 2
         },
         {
           "k": "icon",
-          "x": 58,
+          "x": 62,
           "y": 24,
           "w": 40,
           "h": 18,
           "id": "c-bubble-ohayou",
-          "z": 3,
+          "z": 2,
           "r": 5
         },
         {
           "k": "title",
           "x": 0,
-          "y": 58,
+          "y": 60.16,
           "w": 100,
-          "h": 23,
+          "h": 22.16,
           "t": "**Hari Pertama Kerja di Jepang,** Kamu Mau Bilang Apa?",
           "variant": "duo",
           "align": "left",
-          "max": 66,
-          "min": 48,
+          "max": 67.3,
+          "min": 67.3,
           "color": "white",
           "z": 3
         },
         {
           "k": "text",
           "x": 0,
-          "y": 82,
+          "y": 82.78,
           "w": 100,
-          "h": 12,
+          "h": 11.9,
           "t": "4 kalimat sapaan kantor, lengkap dengan cara bacanya.",
           "align": "left",
           "color": "white",
-          "min": 28,
-          "max": 32
+          "min": 32.1,
+          "max": 32.1,
+          "z": 3
         }
       ]
     },
@@ -258,35 +267,35 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 33,
-          "y": 2,
-          "w": 34,
-          "h": 56,
-          "id": "cowo-pointing",
-          "z": 1,
-          "variant": "bust"
+          "x": 24.06,
+          "y": 5.22,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
         },
         {
           "k": "title",
-          "x": 8,
-          "y": 49,
-          "w": 84,
-          "h": 19,
+          "x": 10.1,
+          "y": 50.55,
+          "w": 79.79,
+          "h": 19.69,
           "t": "**Mau Belajar Urut dari Nol?**",
           "variant": "duo",
           "align": "center",
-          "max": 60,
-          "min": 44,
+          "max": 55.3,
+          "min": 55.3,
           "color": "accent",
           "z": 3
         },
         {
           "k": "cta",
           "variant": "pill",
-          "x": 12,
-          "y": 71,
-          "w": 76,
-          "h": 14
+          "x": 17.29,
+          "y": 72.8,
+          "w": 65.42,
+          "h": 18.41,
+          "z": 3
         }
       ]
     }

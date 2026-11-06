@@ -88,15 +88,16 @@ const A = {
     const skull = at(disc(1.02, 0.72, dark, 0.1), 0, 0.98, 0);
     const board = at(box(3.1, 0.14, 3.1, 0.06, dark), 0, 1.4, 0, 0, Math.PI / 4, 0);
     const btn = at(disc(0.16, 0.1, acc, 0.04), 0, 1.5, 0);
-    const curve = new THREE.CatmullRomCurve3([new THREE.Vector3(0, 1.5, 0), new THREE.Vector3(0.9, 1.5, 0.55), new THREE.Vector3(1.42, 1.28, 0.9), new THREE.Vector3(1.48, 0.7, 0.95)]);
+    const curve = new THREE.CatmullRomCurve3([new THREE.Vector3(0, 1.5, 0), new THREE.Vector3(0.9, 1.5, 0.55), new THREE.Vector3(1.42, 1.28, 0.9), new THREE.Vector3(1.48, 1.08, 0.95)]);
     const cord = mesh(new THREE.TubeGeometry(curve, 48, 0.055, 16), acc);
-    const tas = at(box(0.26, 0.5, 0.26, 0.1, acc), 1.48, 0.46, 0.95);
-    return grp(b, spine, lab, at(flag, 1.74, 0, 1.53), at(grp(skull, board, btn, cord, tas), -0.1, 0.62, -0.1));
+    const tas = at(box(0.26, 0.42, 0.26, 0.1, acc), 1.48, 0.9, 0.95);
+    return grp(b, spine, lab, at(flag, 1.74, 0, 1.53), at(grp(skull, board, btn, cord, tas), -0.1, -0.06, -0.1));
   },
   'bubble-der': () => bubble('der?'),
   'bubble-die': () => bubble('die?'),
   'bubble-das': () => bubble('das?'),
   'bubble-b1': () => bubble('B1?'),
+  'bubble-b2': () => bubble('B2?'),
   'bubble-berapa': () => bubble('Berapa?', 4, 2.1),
   'bubble-aeh': () => bubble('Äh...', 3.4, 2.1),
   'bubble-sendiri': () => bubble('Sendirian?', 4.8, 2.1),

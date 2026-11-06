@@ -1,0 +1,395 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-b1-b2-ausbildung",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Belum dijadwalkan",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-273142cb-5d4.jpg",
+    "position": "center 12%"
+  },
+  "verified_claims": [],
+  "brief": {
+    "problem": "Calon peserta Ausbildung bingung target sertifikat bahasanya B1 atau B2.",
+    "angle": "Level yang dibutuhkan mengikuti bidang dan program tujuan",
+    "key_message": "B1 umumnya jadi patokan awal, lalu cek syarat program tujuan.",
+    "audience": "Calon peserta Ausbildung dari Indonesia",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Deskripsi B1 dan B2",
+        "source": "Council of Europe, CEFR global scale",
+        "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale",
+        "check": false
+      },
+      {
+        "claim": "B1 umumnya cukup; kebutuhan bisa berbeda",
+        "source": "Feed live Info Jerman (PDF Indah hal. 25)",
+        "url": "",
+        "check": false
+      },
+      {
+        "claim": "Bidang kesehatan sering meminta B2",
+        "source": "Panduan pihak ketiga, bukan sumber resmi",
+        "url": "https://msingermany.com/blog/b1-vs-b2-ausbildung-germany",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Klaim bidang kesehatan perlu dicek tim sebelum tayang."
+    ],
+    "references": [
+      "PDF Problem Edukasi - Indah hal. 23-26"
+    ]
+  },
+  "caption": "Mau Ausbildung, tapi bingung harus kejar B1 atau B2?\n\nUmumnya B1 jadi patokan awal. Tapi level yang diminta bisa beda, tergantung bidang, perusahaan, dan sekolah atau programnya.\n\nJadi sebelum pilih target, cek dulu syarat program tujuanmu.\n\nMau mulai belajar? Klik link di bio.\n\n#Ausbildung #BelajarBahasaJerman #InfoJerman",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "intent": "Pola PDF hal. 23: dua maskot berpikir, gelembung B1 dan B2, headline Black.",
+      "headline": "Ausbildung itu harus punya sertifikat B1 atau B2 sih?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 15,
+          "y": 31,
+          "w": 30,
+          "h": 60,
+          "id": "cewe-berpikir",
+          "variant": "fade",
+          "z": 1
+        },
+        {
+          "k": "mascot",
+          "x": 50,
+          "y": 29,
+          "w": 32,
+          "h": 62,
+          "id": "cowo-berpikir",
+          "variant": "fade",
+          "z": 1
+        },
+        {
+          "k": "icon",
+          "x": 13.84,
+          "y": -0.18,
+          "w": 28.93,
+          "h": 19.28,
+          "id": "c-bubble-b1",
+          "z": 2,
+          "r": -6
+        },
+        {
+          "k": "icon",
+          "x": 57.23,
+          "y": -0.64,
+          "w": 28.93,
+          "h": 19.28,
+          "id": "c-bubble-b2",
+          "z": 2,
+          "r": 6
+        },
+        {
+          "k": "title",
+          "x": 3,
+          "y": 60.79,
+          "w": 94.01,
+          "h": 24,
+          "t": "Ausbildung itu harus punya sertifikat B1 atau B2 sih?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66.7,
+          "min": 66.7,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "variant": "swipe",
+          "x": 3,
+          "y": 88.71,
+          "w": 94.01,
+          "h": 7,
+          "t": "Swipe untuk lebih jelasnya",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola PDF hal. 24: dua kolom bertangga.",
+      "headline": "B1 dan B2 apa bedanya?",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 5.37,
+          "y": 1.84,
+          "w": 88.84,
+          "h": 13.77,
+          "t": "B1 dan B2 **apa bedanya?**",
+          "variant": "duo",
+          "align": "left",
+          "max": 53.3,
+          "min": 53.3
+        },
+        {
+          "k": "col",
+          "x": 0.1,
+          "y": 26.54,
+          "w": 48.14,
+          "h": 57.21,
+          "tone": "white",
+          "head": "Level B1",
+          "note": "Menengah",
+          "id": "c-books",
+          "items": [
+            {
+              "t": "Paham obrolan harian yang jelas"
+            },
+            {
+              "t": "Bisa cerita pengalaman dan rencana"
+            },
+            {
+              "t": "Bisa hadapi situasi umum"
+            }
+          ],
+          "variant": "compact"
+        },
+        {
+          "k": "col",
+          "x": 51.96,
+          "y": 15.98,
+          "w": 48.04,
+          "h": 57.21,
+          "tone": "white",
+          "head": "Level B2",
+          "note": "Menengah Atas",
+          "id": "c-deutsch-cap",
+          "items": [
+            {
+              "t": "Paham topik yang lebih rumit"
+            },
+            {
+              "t": "Bisa diskusi lebih detail"
+            },
+            {
+              "t": "Lebih lancar di banyak situasi"
+            }
+          ],
+          "variant": "compact"
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 15.5,
+          "y": 87.51,
+          "w": 69.21,
+          "h": 8.36,
+          "t": "Level lebih tinggi, makin banyak situasi yang bisa kamu tangani!"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola PDF hal. 25: ikon, kartu putih, pill, 3 tile.",
+      "headline": "Jadi Ausbildung butuh B1 atau B2?",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 5.37,
+          "y": 1.84,
+          "w": 79.55,
+          "h": 13.77,
+          "t": "Jadi Ausbildung butuh **B1 atau B2?**",
+          "variant": "duo",
+          "align": "left",
+          "max": 53.3,
+          "min": 53.3
+        },
+        {
+          "k": "icon",
+          "x": 1.45,
+          "y": 18.64,
+          "w": 39.26,
+          "h": 27.55,
+          "id": "c-deutsch-cap",
+          "z": 1
+        },
+        {
+          "k": "bubble",
+          "x": 43.8,
+          "y": 21.4,
+          "w": 53.2,
+          "h": 22.5,
+          "tone": "white",
+          "max": 33.3,
+          "min": 30,
+          "t": "Umumnya B1 jadi patokan awal",
+          "note": "Tapi syarat tiap lowongan atau program bisa berbeda."
+        },
+        {
+          "k": "pill",
+          "variant": "flank",
+          "x": 0,
+          "y": 48.21,
+          "w": 100,
+          "h": 6.98,
+          "t": "Kenapa Bisa Berbeda?",
+          "tone": "cream",
+          "align": "center"
+        },
+        {
+          "k": "tile",
+          "x": -2.27,
+          "y": 58.13,
+          "w": 32.95,
+          "h": 29.11,
+          "id": "c-briefcase",
+          "head": "Bidang",
+          "t": "Kesehatan sering minta B2",
+          "tone": "cream",
+          "max": 33.3
+        },
+        {
+          "k": "tile",
+          "x": 33.57,
+          "y": 58.13,
+          "w": 32.95,
+          "h": 29.11,
+          "id": "c-building",
+          "head": "Perusahaan",
+          "t": "Tiap perusahaan punya syarat",
+          "tone": "cream",
+          "max": 33.3
+        },
+        {
+          "k": "tile",
+          "x": 69.32,
+          "y": 58.13,
+          "w": 32.95,
+          "h": 29.11,
+          "id": "c-books",
+          "head": "Program",
+          "t": "Sekolah bisa beda aturan",
+          "tone": "cream",
+          "max": 33.3
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 19.01,
+          "y": 89.9,
+          "w": 61.98,
+          "h": 8.36,
+          "t": "Cek level yang diminta program tujuanmu!"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Pola PDF hal. 26: pill, ikon target, 3 tile berlabel, CTA gelap.",
+      "headline": "Jangan salah tentukan target sertifikatmu!",
+      "cta": "Yuk mulai belajar Bahasa Jerman bareng Info Jerman by OTCA. Klik link di bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 5.37,
+          "y": 1.19,
+          "w": 88.84,
+          "h": 13.77,
+          "t": "Jangan salah tentukan **target sertifikatmu!**",
+          "variant": "duo",
+          "align": "left",
+          "max": 53.3,
+          "min": 53.3
+        },
+        {
+          "k": "pill",
+          "x": 3.2,
+          "y": 22.5,
+          "w": 35.95,
+          "h": 4.32,
+          "t": "B1 atau B2?",
+          "tone": "dark",
+          "align": "center",
+          "variant": "stackhead"
+        },
+        {
+          "k": "pill",
+          "x": 2.79,
+          "y": 26.63,
+          "w": 36.16,
+          "h": 10.84,
+          "t": "Cek 3 Hal ini Dulu!",
+          "tone": "brand",
+          "align": "center",
+          "variant": "stackbody"
+        },
+        {
+          "k": "icon",
+          "x": 42.77,
+          "y": 15.89,
+          "w": 55.79,
+          "h": 30.3,
+          "id": "c-cert-target",
+          "z": 1
+        },
+        {
+          "k": "tile",
+          "x": -2.58,
+          "y": 48.94,
+          "w": 32.95,
+          "h": 30.49,
+          "id": "c-magnifier",
+          "head": "Lowongan",
+          "t": "Cek level yang diminta",
+          "tone": "cream",
+          "max": 33.3,
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 33.26,
+          "y": 48.94,
+          "w": 32.95,
+          "h": 30.49,
+          "id": "c-clipboard",
+          "head": "Program",
+          "t": "Cek syarat bahasanya",
+          "tone": "cream",
+          "max": 33.3,
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 69.01,
+          "y": 48.94,
+          "w": 32.95,
+          "h": 30.49,
+          "id": "c-bars",
+          "head": "Kemampuan",
+          "t": "Latih 4 skill bahasa Jerman",
+          "tone": "cream",
+          "max": 33.3,
+          "variant": "pill"
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 9.61,
+          "y": 82.83,
+          "w": 80.79,
+          "h": 13.96
+        }
+      ]
+    }
+  ]
+}

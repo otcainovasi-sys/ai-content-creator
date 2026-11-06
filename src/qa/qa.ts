@@ -154,7 +154,7 @@ export async function runQa(a: { n: number; slide: Slide; spec: Spec; brand: Bra
   add(m.fitted, 'Teks muat tanpa terpotong', { level: 'critical', area: 'layout', code: 'TEXT_OVERFLOW', message: 'Teks tidak muat pada ukuran minimum. Pendekkan copy.' });
 
   const safe = m.safe;
-  const outside = m.runs.filter((r) => r.rects.some((q) => q.x < safe.x - 1 || q.y < safe.y - 1 || q.x + q.w > safe.x + safe.w + 1 || q.y + q.h > safe.y + safe.h + 1));
+  const outside = m.runs.filter((r) => !r.footer && r.rects.some((q) => q.x < safe.x - 1 || q.y < safe.y - 1 || q.x + q.w > safe.x + safe.w + 1 || q.y + q.h > safe.y + safe.h + 1));
   add(!outside.length, 'Teks di dalam safe zone', { level: 'critical', area: 'layout', code: 'OUTSIDE_SAFE', message: `Keluar safe zone: "${outside[0]?.text}"` });
 
   let overlap = '';
@@ -164,7 +164,7 @@ export async function runQa(a: { n: number; slide: Slide; spec: Spec; brand: Bra
   }
   add(!overlap, 'Tidak ada teks bertabrakan', { level: 'critical', area: 'layout', code: 'TEXT_OVERLAP', message: `Teks bertabrakan: ${overlap}` });
 
-  const small = m.runs.filter((r) => r.size < 20);
+  const small = m.runs.filter((r) => r.size < 20 && !r.footer);
   add(!small.length, 'Ukuran teks terbaca di ponsel', { level: 'warning', area: 'visual', code: 'TEXT_SMALL', message: `Teks ${small[0]?.size}px terlalu kecil: "${small[0]?.text}"` });
 
   add(!!m.logo?.ok, 'Logo resmi tampil', { level: 'critical', area: 'brand', code: 'NO_LOGO', message: 'Logo tidak termuat' });
@@ -173,7 +173,7 @@ export async function runQa(a: { n: number; slide: Slide; spec: Spec; brand: Bra
     const clash = m.runs.find((r) => r.rects.some((q) => hit(q, lg)));
     add(!clash, 'Clear space logo aman', { level: 'critical', area: 'brand', code: 'LOGO_OVERLAP', message: `Teks menimpa logo: "${clash?.text}"` });
   }
-  const wrongFont = m.runs.find((r) => r.family !== brand.font.family && r.family !== brand.font.cjkFont);
+  const wrongFont = m.runs.find((r) => r.family !== brand.font.family && r.family !== brand.font.cjkFont && !(r.footer && r.family === brand.font.footerFont));
   const loaded = m.fontsLoaded.some((f) => f.startsWith(brand.font.family));
   add(!wrongFont && loaded, `Font ${brand.font.family}`, { level: 'critical', area: 'brand', code: 'WRONG_FONT', message: `Font tidak sesuai: ${wrongFont?.family ?? 'font brand gagal dimuat'}` });
   add(m.runs.some((r) => r.footer), 'Footer brand ada', { level: 'critical', area: 'brand', code: 'NO_FOOTER', message: 'Footer tidak ada' });

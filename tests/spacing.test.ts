@@ -51,6 +51,16 @@ describe('pemeriksaan jarak', () => {
     expect(codes(s(140))).not.toContain('critical:SPACE_LOOSE');
   });
 
+  it('menerima pill judul yang menempel di tepi atas kartunya', () => {
+    const s: Space = { boxes: [box('die Wohnung', 150, 470, 400, 75, 1), box('kartu', 100, 545, 500, 170, 2)], texts: [], imgs: [], mascots: [] };
+    expect(codes(s).filter((c) => c.includes('SPACE_TIGHT') || c.includes('BOX_OVERLAP'))).toEqual([]);
+  });
+
+  it('memblokir teks yang tertutup elemen lain', () => {
+    const t = { ...text('sub', 100, 1100, 600, 40, 3, [], -1), covered: 'fz fbar fogfront' };
+    expect(codes({ boxes: [], texts: [t], imgs: [], mascots: [] })).toContain('critical:TEXT_COVERED');
+  });
+
   it('tidak menilai pill judul yang sengaja ditumpuk rapat', () => {
     const s: Space = { boxes: [box('Takut salah?', 100, 200, 500, 90, 1, { container: false, stack: true }), box('Latihan kecil', 100, 302, 600, 90, 2, { container: false, stack: true })], texts: [], imgs: [], mascots: [] };
     expect(codes(s)).toEqual([]);

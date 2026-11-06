@@ -100,3 +100,47 @@ Satu komposisi tidak boleh dipakai di semua slide. Pilihan yang tersedia di layo
 - Kartu: `card` varian `note` (sudut kecil, ikon besar, judul disorot pill krem, pakai titik dua).
 - Pill menumpang kartu (pola 4 komponen), pill berpengapit garis putih (`pill` varian `flank`), strip putih penutup (`card` varian `strip`), catatan miring di kartu putih.
 - Penutup slide bergantian: pill gelap, strip putih, atau CTA pill.
+
+## Metrik PDF "Problem Edukasi - Indah" (6 November 2026)
+
+28 halaman, 8 carousel, kanvas 1080x1350. Angka diukur dari teks PDF dan bagian padat gambar. Lembar ringkas: `refs/pdf-indah-hal-1-24.jpg`, `refs/pdf-indah-hal-25-28.jpg`. **Belum diterapkan ke render; menunggu keputusan user.**
+
+### Tiga keluarga tampilan
+
+| Halaman | Latar | Footer | Headline cover | Judul isi |
+|---|---|---|---|---|
+| 1–6 | foto krem, pita kuning padat di bawah | Medium 21,3, y 1300 | ExtraBold 73,3, langkah 95 | ExtraBold 60 + 53,3 Title Case, kotak nomor kuning |
+| 7–14 | foto krem, pita kuning padat di bawah | Medium 21,3, y 1299 | ExtraBold 66,7–72, langkah 86–93 | Bold 60 atau ExtraBold 40 dalam dua pita |
+| 15–28 | krem ke kuning, tanpa pita | Medium 24, x 482–645, y 1295 | Black 66,7 atau ExtraBold 66,7, langkah 86 | ExtraBold atau Black 53,3 kapital |
+
+### Keluarga terbaru (hal. 15–28)
+
+- Logo: bagian gelap ±122 x 74, y 74–148, tengah.
+- Gradasi tepi kiri: #F5F0E2 di y 500, #F2E4B5 di y 700, #EFD577 di y 800, #F0D158 di y 900, #F3CF45 padat mulai y 1100.
+- Cover: maskot tengah, lebar padat 446–457, puncak ±195–288, bawah melebur ke kuning. Headline x 85, y 859, 3 baris; hal. 19 mulai y 916, x 108. Sub Bold 40, y 1137, langkah ±52; baris swipe Bold 33,3–40.
+- Teks: #25272B. Sorotan judul: pill #F3CF45 tinggi ±72, teks tetap charcoal.
+- Isi: paragraf 33,3; label kartu SemiBold atau Bold 33,3; teks kartu Medium 24–26,7.
+- Pill kuning: tinggi 74, teks Bold 33,3. Pill charcoal: tinggi 57 (1 baris) atau 91 (2 baris), teks Bold 26,7 #F3CF45.
+- Kartu 3 kolom: 283 x 259 jarak 37 (hal. 20), 319 x 289 jarak 28 (hal. 25). Kartu 2x2: 399 x 132 jarak 24 (hal. 22). Warna #F7F1E2 atau putih.
+
+### Selisih dengan render kita (pilot 2026-11-16-07-jumat)
+
+| Hal | PDF terbaru | Kita |
+|---|---|---|
+| Headline cover | 66,7 Black, x 85, y 859, langkah 86 (1,29) | 74 ExtraBold, x 56, y 779, jarak baris 1,12 |
+| Judul isi | jarak baris ±1,29 | 1,12, spasi huruf -0,3 |
+| Footer | Medium 24, y 1295 | Bold 21, y 1261, spasi huruf 0,2 |
+| Logo | 122 lebar, y 74 | 148 lebar, y 65 |
+| Kuning padat | mulai y 1100 | baru di y ±1300 |
+| Maskot cover | lebar 446–457 | lebar 236–270 |
+| Pill kuning | tinggi 74 | tinggi 56 |
+| Pill charcoal | Bold 26,7, tinggi 57 atau 91 | ExtraBold 33, teks 84 |
+
+## Standar aktif (dipilih user 6 November 2026): PDF hal. 15–28
+
+Berlaku otomatis lewat kelas `.brand-info-jerman` di `src/render/base.css`; gradasi di `config/brands/info-jerman.json`. Headline cover maksimal 3 baris, sub 2 baris (QA). Posisi cover: maskot besar di tengah (`x 30, y 14.4, w 40, h 85`, persen kanvas), judul 3 baris mulai y 859, judul 2 baris mulai y 945, baris swipe y 1163.
+**Logo belum sama:** logo di PDF berbeda dari `assets/brands/info-jerman/logo/primary.png`. Perlu file resmi dari tim.
+
+Pembaruan 6 November: logo `primary.png` kini diambil dari lapisan transparan PDF (124 x 75 px, tampil 1:1), logo lama di `logo/_asli`. Logo ini kecil, jadi jangan diperbesar; `white.png` masih versi lama. Label kartu mengikuti PDF hal. 17: pill 33,3 setinggi 74 menempel di tepi atas kartu. Blokir ketat QA spasi aktif (`design.spacingStrict`).
+- Kolom (hal. 24): pill level 283 x 57 dan label kuning menempel tanpa jarak, ikon tinggi ±150, daftar mengisi sisa kotak. Toga duduk langsung di atas buku Deutsch.
+- Tumpukan label (hal. 26): pill gelap x 87-435 tinggi 47, Bold 33,3 putih, menempel pada kotak kuning x 83-432 sampai y 605, radius ±26, Bold 46,7. Varian `stackhead` dan `stackbody`.

@@ -20,258 +20,427 @@
     "cta": {
       "type": "link_bio"
     },
-    "sources": [],
+    "sources": [
+      {
+        "claim": "Bonus Business Conversation with Native dan Gratis Simulasi Ujian HSK",
+        "source": "Feed live Ciao Manda (PDF ciao manda ig hal. 4)",
+        "url": "",
+        "check": true
+      }
+    ],
     "risks": [
-      "Tips umum, tanpa angka atau klaim produk."
+      "Bonus berasal dari feed live; pastikan masih berlaku sebelum tayang."
     ],
     "references": [
-      "Carousel live 3 Langkah Menyapa Klien Tiongkok"
+      "PDF ciao manda ig (feed live, 4 halaman)"
     ]
   },
-  "caption": "Mau daftar kursus Mandarin? Tanyakan lima hal ini dulu:\n\n1. Tujuan belajarmu\n2. Levelmu sekarang\n3. Jadwal kelas\n4. Materi kelas\n5. Cara memantau progres\n\nMasih bingung pilih kelas? Klik link di bio.\n\n#BelajarMandarin #MandarinKantor #CiaoManda",
+  "caption": "Mau daftar kursus Mandarin? Jangan cuma bandingkan harga.\n\nCek 5 hal ini dulu:\n1. Level dan target belajar\n2. Tutor dan evaluasi\n3. Jadwal kelas\n4. Format kelas\n5. Fasilitas dan dukungan belajar\n\nSimpan postingan ini, lalu klik link di bio untuk tanya kelas yang cocok.\n\n#BelajarMandarin #MandarinKantor #CiaoManda",
   "slides": [
     {
       "layout": "free",
       "role": "cover",
-      "skin": "cover",
+      "skin": "ivory",
       "bg": {
-        "src": "assets/stock/openverse-d88bef86-ac9.jpg",
-        "position": "center 30%"
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
       },
-      "intent": "Hook: cek sebelum daftar.",
-      "headline": "Sebelum Daftar Kursus Mandarin, Cek 5 Hal Ini",
+      "intent": "Pola PDF hal. 1: maskot besar di tengah, headline kapital putih, sub dua baris.",
+      "headline": "Sebelum Daftar Kursus Mandarin, Cek 5 Hal Ini!",
       "blocks": [
         {
           "k": "mascot",
-          "x": 26,
-          "y": 0,
-          "w": 46,
-          "h": 66,
-          "id": "cowo-pointing",
-          "z": 1,
-          "variant": "bust"
+          "variant": "bleed",
+          "x": 17.96,
+          "y": 15.38,
+          "w": 65.8,
+          "h": 79.3,
+          "id": "cowo-pdf-cover",
+          "z": 1
         },
         {
-          "k": "icon",
-          "x": 70,
-          "y": 6,
-          "w": 26,
-          "h": 22,
-          "id": "c-clipboard",
-          "z": 3,
-          "r": 8
-        },
-        {
-          "k": "icon",
-          "x": 2,
-          "y": 22,
-          "w": 24,
-          "h": 20,
-          "id": "c-magnifier",
-          "z": 3,
-          "r": -6
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -8,
+          "y": 41.74,
+          "w": 116,
+          "h": 58.26,
+          "z": 2
         },
         {
           "k": "title",
-          "x": 0,
-          "y": 60,
-          "w": 100,
-          "h": 22,
-          "t": "Sebelum Daftar Kursus Mandarin, Cek 5 Hal Ini",
+          "x": 2.71,
+          "y": 68.9,
+          "w": 97.92,
+          "h": 13.76,
+          "t": "Sebelum Daftar Kursus Mandarin, Cek 5 Hal Ini!",
           "variant": "duo",
           "align": "left",
-          "max": 66,
-          "min": 46,
+          "max": 65,
+          "min": 65,
           "color": "white",
           "z": 3
         },
         {
           "k": "text",
-          "x": 0,
-          "y": 77,
-          "w": 100,
-          "h": 9,
-          "t": "Biar biaya dan waktumu nggak terbuang.",
-          "align": "left",
-          "color": "white",
-          "min": 27,
-          "max": 31
-        }
-      ]
-    },
-    {
-      "layout": "free",
-      "role": "point",
-      "skin": "ivory",
-      "bg": {
-        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
-        "position": "center 45%"
-      },
-      "intent": "Kartu berlabel: kebutuhan.",
-      "headline": "Mulai dari Kebutuhanmu",
-      "blocks": [
-        {
-          "k": "title",
-          "x": 0,
-          "y": 6,
-          "w": 100,
-          "h": 9,
-          "t": "Mulai dari Kebutuhanmu",
-          "variant": "duo",
-          "align": "center",
-          "max": 54,
-          "min": 40,
-          "color": "accent"
-        },
-        {
-          "k": "step",
-          "num": 1,
-          "x": 2,
-          "y": 19,
-          "w": 96,
-          "h": 22,
-          "head": "Tujuan belajar",
-          "t": "**Buat meeting, chat WeChat, atau ujian HSK?** Tiap tujuan butuh materi yang beda.",
-          "max": 31
-        },
-        {
-          "k": "step",
-          "num": 2,
-          "x": 2,
-          "y": 44,
-          "w": 96,
-          "h": 22,
-          "head": "Level sekarang",
-          "t": "**Mulai dari nol atau sudah bisa dasar?** Tanya kamu cocok masuk kelas yang mana.",
-          "max": 31
-        },
-        {
-          "k": "step",
-          "num": 3,
-          "x": 2,
-          "y": 69,
-          "w": 96,
-          "h": 22,
-          "head": "Jadwal kelas",
-          "t": "**Cocok dengan jam kerjamu?** Cek juga kalau kamu sering lembur atau kerja shift.",
-          "max": 31
-        }
-      ]
-    },
-    {
-      "layout": "free",
-      "role": "point",
-      "skin": "ivory",
-      "bg": {
-        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
-        "position": "center 45%"
-      },
-      "intent": "Kartu berlabel: isi kelas, maskot di bawah.",
-      "headline": "Lalu Cek Isi Kelasnya",
-      "blocks": [
-        {
-          "k": "title",
-          "x": 0,
-          "y": 6,
-          "w": 100,
-          "h": 9,
-          "t": "Lalu Cek Isi Kelasnya",
-          "variant": "duo",
-          "align": "center",
-          "max": 54,
-          "min": 40,
-          "color": "accent"
-        },
-        {
-          "k": "step",
-          "num": 4,
-          "x": 2,
-          "y": 19,
-          "w": 96,
-          "h": 22,
-          "head": "Materi kelas",
-          "t": "**Ada latihan situasi kantor?** Misalnya lapor ke atasan dan konfirmasi instruksi.",
-          "max": 31
-        },
-        {
-          "k": "step",
-          "num": 5,
-          "x": 2,
-          "y": 44,
-          "w": 96,
-          "h": 22,
-          "head": "Cara pantau progres",
-          "t": "**Ada yang koreksi pengucapanmu?** Tanya juga cara kamu tahu perkembanganmu.",
-          "max": 31
-        },
-        {
-          "k": "text",
-          "x": 0,
-          "y": 74,
-          "w": 62,
-          "h": 14,
-          "t": "Lima hal ini bisa kamu tanyakan **sebelum bayar.**",
+          "x": 2.71,
+          "y": 86.06,
+          "w": 72.92,
+          "h": 8.26,
+          "t": "Jangan cuma bandingkan harga. Kenali juga cara belajar di kelasnya.",
           "align": "left",
           "color": "white",
           "min": 30,
-          "max": 33,
+          "max": 30,
           "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Pola PDF hal. 2: judul berbingkai, pengantar, satu kartu besar berisi poin berikon.",
+      "headline": "Jangan Asal Pilih Kursus Mandarin!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 4.17,
+          "y": 0.0,
+          "w": 91.67,
+          "h": 6.05,
+          "t": "Jangan Asal Pilih Kursus Mandarin!",
+          "variant": "duo",
+          "align": "center",
+          "max": 45,
+          "min": 45,
+          "color": "outline"
         },
         {
-          "k": "mascot",
-          "x": 64,
-          "y": 68,
-          "w": 36,
-          "h": 32,
-          "id": "cewe-dm",
-          "z": 3
+          "k": "text",
+          "x": 6.98,
+          "y": 8.71,
+          "w": 86.88,
+          "h": 13.76,
+          "t": "Harga dan jumlah pertemuan memang penting. Tapi kelasnya juga harus cocok dengan kemampuan, tujuan, dan kebutuhan belajarmu. **Cek 5 hal ini sebelum memilih!**",
+          "align": "center",
+          "min": 30,
+          "max": 30
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 4.38,
+          "y": 26.33,
+          "w": 91.15,
+          "h": 62.47
+        },
+        {
+          "k": "icon",
+          "x": 9.38,
+          "y": 36.51,
+          "w": 13.54,
+          "h": 11.93,
+          "id": "p-target",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "variant": "head",
+          "x": 27.71,
+          "y": 32.84,
+          "w": 56.25,
+          "h": 3.67,
+          "t": "1. Level dan Target Belajar",
+          "align": "left",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 27.71,
+          "y": 36.51,
+          "w": 56.25,
+          "h": 19.27,
+          "t": "Pastikan kelasnya sesuai kemampuan awalmu, baik pemula maupun yang pernah belajar. Cek juga materi dan target belajarnya sejak awal.",
+          "align": "justify",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "x": 9.38,
+          "y": 63.12,
+          "w": 13.54,
+          "h": 11.93,
+          "id": "p-laptop",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "variant": "head",
+          "x": 27.71,
+          "y": 59.45,
+          "w": 56.25,
+          "h": 3.67,
+          "t": "2. Tutor dan Evaluasi",
+          "align": "left",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 27.71,
+          "y": 63.12,
+          "w": 56.25,
+          "h": 22.94,
+          "t": "Tanya cara tutor mendampingi, mengoreksi saat kamu salah, dan mengevaluasi kemampuanmu secara berkala.",
+          "align": "justify",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Pola PDF hal. 3: judul sama, kartu besar berisi tiga poin berikon.",
+      "headline": "Jangan Asal Pilih Kursus Mandarin!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 4.17,
+          "y": 0.0,
+          "w": 91.67,
+          "h": 6.05,
+          "t": "Jangan Asal Pilih Kursus Mandarin!",
+          "variant": "duo",
+          "align": "center",
+          "max": 45,
+          "min": 45,
+          "color": "outline"
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 4.38,
+          "y": 11.01,
+          "w": 91.15,
+          "h": 77.8
+        },
+        {
+          "k": "icon",
+          "x": 9.38,
+          "y": 20.0,
+          "w": 13.54,
+          "h": 11.93,
+          "id": "p-kalender",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "variant": "head",
+          "x": 27.71,
+          "y": 16.33,
+          "w": 56.25,
+          "h": 3.67,
+          "t": "3. Jadwal Kelas",
+          "align": "left",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 27.71,
+          "y": 20.0,
+          "w": 56.25,
+          "h": 18.35,
+          "t": "Pilih jadwal yang cocok dengan aktivitas harianmu, supaya bisa ikut kelas dengan konsisten tanpa mengganggu kerja.",
+          "align": "justify",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "x": 9.38,
+          "y": 43.85,
+          "w": 13.54,
+          "h": 11.93,
+          "id": "p-jam",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "variant": "head",
+          "x": 27.71,
+          "y": 40.18,
+          "w": 56.25,
+          "h": 3.67,
+          "t": "4. Format Kelas",
+          "align": "left",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 27.71,
+          "y": 43.85,
+          "w": 56.25,
+          "h": 18.35,
+          "t": "Bandingkan kelas privat dan grup dari fleksibilitas jadwal, intensitas interaksi, dan pendampingannya.",
+          "align": "justify",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "x": 9.38,
+          "y": 66.79,
+          "w": 13.54,
+          "h": 11.93,
+          "id": "p-orang",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "variant": "head",
+          "x": 27.71,
+          "y": 63.12,
+          "w": 56.25,
+          "h": 3.67,
+          "t": "5. Fasilitas dan Dukungan",
+          "align": "left",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 27.71,
+          "y": 66.79,
+          "w": 56.25,
+          "h": 21.1,
+          "t": "Cek materi, durasi program, serta bonus dan dukungan belajar yang sudah termasuk dalam biaya.",
+          "align": "justify",
+          "min": 30,
+          "max": 30,
+          "z": 2
         }
       ]
     },
     {
       "layout": "free",
       "role": "closing",
-      "skin": "cover",
+      "skin": "ivory",
       "bg": {
-        "src": "assets/stock/openverse-e493ecc2-2df.jpg",
-        "position": "40% 50%",
-        "zoom": 1.1
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
       },
-      "intent": "Penutup: maskot di tengah, judul, tombol.",
-      "headline": "Masih Bingung Pilih Kelas?",
-      "cta": "Klik link di bio untuk cek kelasmu!",
+      "cta": "Klik link di Bio!",
+      "intent": "Pola PDF hal. 4: kartu Kenapa Daftar Sekarang, dua poin berikon, maskot di tepi kanan, kalimat simpan.",
+      "headline": "Kenapa Daftar Sekarang?",
       "blocks": [
         {
-          "k": "mascot",
-          "x": 30,
-          "y": 2,
-          "w": 40,
-          "h": 58,
-          "id": "cewe-say-hi",
-          "z": 1,
-          "variant": "bust"
+          "k": "ring",
+          "variant": "plain",
+          "x": 6.25,
+          "y": 17.34,
+          "w": 87.5,
+          "h": 51.29
         },
         {
-          "k": "title",
-          "x": 0,
-          "y": 55,
-          "w": 100,
-          "h": 16,
-          "t": "Masih Bingung Pilih Kelas?",
-          "variant": "duo",
-          "align": "center",
-          "max": 58,
-          "min": 44,
-          "color": "white",
+          "k": "text",
+          "variant": "head",
+          "x": 15.94,
+          "y": 21.83,
+          "w": 58.33,
+          "h": 5.14,
+          "t": "Kenapa Daftar Sekarang?",
+          "align": "left",
+          "color": "accent",
+          "min": 40,
+          "max": 40,
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "x": 13.02,
+          "y": 32.39,
+          "w": 15.1,
+          "h": 11.46,
+          "id": "p-chat",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 33.85,
+          "y": 31.56,
+          "w": 36.46,
+          "h": 13.3,
+          "t": "Dapatkan juga bonus **Business Conversation with Native** dan gratis Simulasi Ujian HSK.",
+          "align": "left",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "x": 15.1,
+          "y": 46.79,
+          "w": 10.94,
+          "h": 12.84,
+          "id": "p-tangan",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 33.85,
+          "y": 46.79,
+          "w": 36.46,
+          "h": 16.51,
+          "t": "Tanya semua soal kelas Mandarin bareng Ciao.Manda! ^^Klik link di Bio!^^",
+          "align": "left",
+          "min": 30,
+          "max": 30,
+          "z": 2
+        },
+        {
+          "k": "mascot",
+          "x": 71.46,
+          "y": 19.36,
+          "w": 30.1,
+          "h": 53.67,
+          "id": "cewe-pdf-melambai",
           "z": 3
         },
         {
-          "k": "cta",
-          "variant": "pill",
-          "x": 10,
-          "y": 68,
-          "w": 80,
-          "h": 11
+          "k": "text",
+          "x": 18.75,
+          "y": 73.48,
+          "w": 62.5,
+          "h": 7.34,
+          "t": "Simpan postingan ini dan pakai saat memilih kursus Mandarinmu!",
+          "align": "center",
+          "color": "white",
+          "min": 30,
+          "max": 30
         }
       ]
     }

@@ -164,13 +164,13 @@ const block = z.object({
   k: z.enum(['title', 'text', 'card', 'big', 'bubble', 'pill', 'icon', 'mascot', 'scene', 'cta', 'bar', 'ring', 'photo', 'rows', 'grid', 'panel', 'tile', 'col', 'list', 'tip', 'step']),
   x: z.number(), y: z.number(), w: z.number(), h: z.number(),
   t: z.string().optional(), head: z.string().optional(), unit: z.string().optional(), id: z.string().optional(), note: z.string().optional(),
-  tone: z.enum(['light', 'dark', 'accent', 'ghost', 'brand', 'white', 'cream']).optional(), align: z.enum(['left', 'center', 'right']).optional(),
+  tone: z.enum(['light', 'dark', 'accent', 'ghost', 'brand', 'white', 'cream']).optional(), align: z.enum(['left', 'center', 'right', 'justify']).optional(),
   color: z.enum(['ink', 'muted', 'accent', 'white', 'outline']).optional(), side: z.enum(['l', 'r']).optional(),
   min: z.number().optional(), max: z.number().optional(), r: z.number().optional(), z: z.number().optional(), flip: z.boolean().optional(), num: z.number().optional(),
   // Blok editorial: baris bergaris, grid 2x2, kartu putih berheader pill, panel foto.
   items: z.array(z.object({ label: z.string().optional(), head: z.string().optional(), t: z.string().optional(), on: z.boolean().optional(), icon: z.string().optional() })).max(6).optional(),
   icons: z.array(z.string()).max(4).optional(), src: z.string().optional(), pos: z.string().optional(), zoom: z.number().optional(),
-  variant: z.enum(['outline', 'num', 'quote', 'plain', 'checker', 'dark', 'mono', 'dim', 'duo', 'big', 'punch', 'pill', 'swipe', 'fade', 'fat', 'flank', 'note', 'strip', 'bust', 'top', 'jp', 'fog', 'quote2', 'deal', 'ribbon', 'feed', 'tag', 'badge', 'fogdark', 'fogfront', 'bleed']).optional(),
+  variant: z.enum(['outline', 'num', 'quote', 'plain', 'checker', 'dark', 'mono', 'dim', 'duo', 'big', 'punch', 'pill', 'swipe', 'fade', 'fat', 'flank', 'note', 'strip', 'bust', 'top', 'jp', 'fog', 'quote2', 'deal', 'ribbon', 'feed', 'tag', 'badge', 'fogdark', 'fogfront', 'bleed', 'stackhead', 'stackbody', 'head', 'compact']).optional(),
 });
 const free = z.object({ layout: z.literal('free'), ...base, blocks: z.array(block).min(2).max(16) });
 
@@ -236,7 +236,7 @@ export function parseSpec(raw: unknown): Spec {
 
 export interface Brand {
   slug: string; name: string; pic: string; guideline: string;
-  font: { family: string; headline: number; sub: number; body: number; uppercaseHeadline: boolean; cjk?: boolean; cjkFont?: string; extra?: number[] };
+  font: { family: string; headline: number; sub: number; body: number; uppercaseHeadline: boolean; cjk?: boolean; cjkFont?: string; extra?: number[]; footerFont?: string };
   tokens: Record<string, string>;
   logo: { default: string; hero: string; width: number; height: number };
   frame: boolean; footer: string; style?: Record<string, string>; decor?: Record<string, { f: string; s: string }[]>;

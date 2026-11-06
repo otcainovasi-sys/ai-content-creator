@@ -71,3 +71,27 @@ Aset 3D `c-*` palet merah, putih, charcoal, dan emas (`npm run make3d -- jepang-
 - Kotak `QUICK TIPS`: lingkaran gelap berisi lampu bergaris dengan sinar (bukan bola 3D), label kuning di sampingnya, teks dengan jarak tetap. Di kotak sempit (di bawah ~85% lebar) pakai label di atas (`tip` varian `top`) supaya teks tidak turun tiga baris.
 - Cover langit: maskot besar, badan bawah tertutup kabut putih (`bar` varian `fog`), judul merah langsung di atas kabut tanpa jarak.
 - Lampu 3D (`c-bulb`) berbentuk bola kaca, ulir, dan sinar, supaya terbaca sebagai ide.
+
+## Metrik 3 PDF Canva Week 1 Nov 2026 (Campaign, Problem Education, Proof & Achievement), diukur 6 November 2026
+
+13 halaman, satu keluarga tampilan. Lembar ringkas `refs/pdf-week1-nov.jpg`. **Belum diterapkan ke render; menunggu persetujuan user.**
+
+- **Logo:** horizontal (ikon JK merah + "JEPANG KOEY by OTCA"), x 462–617, y 20–86 (155 x 66), sama di semua halaman. File di PDF 240 x 102 (xref 38 dst.). Berbeda dari `logo/primary.png` kita (vertikal, 209 x 89, y 58).
+- **Footer:** Open Sans Regular 19,2 putih, `www.otca.co.id  |  @jepang.koey`, tengah, y 1281, langsung di atas merah padat, tanpa pill dan tanpa globe.
+- **Ornamen:** garis lengkung merah #D60000 di kanan atas (x 973–1239, y -16–135) dan garis putih di kiri bawah (x -126–142, y 1257–1408).
+- **Latar:** foto Jepang (Fuji, kuil, sakura, ruang belajar) di atas, memudar ke merah. Tepi kanan slide isi: putih sampai y 800, #EAABA9 di y 900, #DD625B di y 1000, #DB3733 di y 1100, #D30000 padat dari y ±1260.
+- **Cover:** maskot cowo berbaju gi merah (aset baru, belum ada di folder kita) di kiri, padat x 65–307, y 507–1167. Headline ExtraBold 67,3, x 77, mulai y 855, langkah 78 (1,16), maks 3 baris. Baris berkotak putih persegi (tanpa radius) tinggi 82 dengan teks merah #D40000; baris tanpa kotak putih. Sub SemiBold 32,1 putih, y 1102, langkah 42.
+- **Judul isi:** ExtraBold 53,4 merah #D40000, rata kiri x 108, y 188–265, langkah 61 (1,14), Title Case.
+- **Isi:** ikon 3D besar di tengah (±320 x 290), poin bullet SemiBold 29,4 #303030, langkah 39.
+- **Kotak catatan:** charcoal #20252B, x 125–1010, tinggi ±181; label kuning #FAD703 "QUICK TIPS" atau pill kuning "Solusi Jepang Koey" (Bold 29,4); teks SemiBold 29,4 putih.
+- **Penutup:** maskot tengah, judul ExtraBold 55,3 merah dalam kotak putih (x 157–923), CTA tombol merah, Bold 28,6 putih.
+- **Promo:** angka harga Bold 61,8–67,9 merah, label pill, harga coret Regular 18–20.
+
+## Standar aktif (divalidasi user 6 November 2026)
+
+Berlaku lewat kelas `.brand-jepang-koey` di `src/render/base.css` dan `config/brands/jepang-koey.json`. Logo horizontal dan maskot `cowo-gi-*` diambil dari gambar di PDF (logo lama di `logo/_asli`, `white.png` belum diganti). Merah #D40000 dan #D30000. Skin `sky` tidak dipakai lagi: tampilan hanya `cover` dan default. Headline cover maks 3 baris, sub dan kalimat maks 3 baris, blokir ketat spasi aktif. Maskot cover dan penutup melebur ke merah sebelum headline. Judul 2 baris di cover mulai y 933 supaya dekat dengan sub.
+
+Revisi 6 November (perbandingan kedua): maskot cover dan penutup memakai gambar PDF utuh (`cowo-gi-berdiri-pdf`, kotak gambar cover x -24..434 y 490..1201, penutup x 291..749 y 255..966) tanpa mask; gi merah menyatu dengan merah latar. Penutup: satu kotak putih membungkus seluruh judul (x 157..923, y 750..957), tombol CTA memakai gambar tombol dari PDF (`feed/cta-btn.png`, x 226..854, y 993..1194), teks Bold 28,6 putih.
+- Lapisan cover: foto, scrim, maskot (z1), kabut merah depan kaki y 780-1215 (z2), headline dan sub (z3). QA `TEXT_COVERED` memblokir teks yang tertutup.
+- Ikon 3D (revisi 6 Nov): bayangan tanah lembut di bawah ikon (`.fic::after`), ikon rata bawah dalam kotaknya, seperti render di PDF.
+- Ikon slide isi: bagian terlihat maks 420 x 350 px (user minta lebih besar dari ukuran awal), tengah x 540, bawah y 690; daftar mulai y 722.

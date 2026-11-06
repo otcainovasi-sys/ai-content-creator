@@ -11,12 +11,13 @@ export const esc = (s: string) =>
   s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 /** **kata** menjadi highlight. Teks lain di-escape. */
-export const rich = (s: string) => pinyin(esc(s).replace(/\*\*(.+?)\*\*/g, '<mark>$1</mark>'));
+/** **tebal** jadi sorotan biasa; ^^teks^^ jadi sorotan ajakan (misalnya CTA merah di ujung kalimat). */
+export const rich = (s: string) => pinyin(esc(s).replace(/\*\*(.+?)\*\*/g, '<mark>$1</mark>').replace(/\^\^(.+?)\^\^/g, '<mark class="hot">$1</mark>'));
 /** Font brand (Lato v1) tidak punya huruf bernada pinyin. Segmen berpinyin (dipisah " · ") dipindah utuh ke font CJK
  *  supaya satu frasa tidak tercampur dua font. */
 const TONE = /[āǎēěīǐōǒūǔǖǘǚǜĀǍĒĚĪǏŌǑŪǓ]/;
 export const pinyin = (html: string) => html.split(' · ').map((seg) => (TONE.test(seg) ? `<span class="cjk">${seg}</span>` : seg)).join(' · ');
-export const plain = (s: string) => s.replace(/\*\*/g, '');
+export const plain = (s: string) => s.replace(/\*\*|\^\^/g, '');
 
 export function mascotPath(brand: Brand, id: string): string {
   return `assets/brands/${brand.slug}/mascots/${id}.png`;
@@ -255,7 +256,8 @@ export function fontFaces(brand: Brand): string {
   const fam = brand.font.family;
   const dir = `node_modules/@fontsource/${fam.toLowerCase()}/files`;
   const weights = [...new Set([brand.font.headline, brand.font.sub, brand.font.body, 700, ...(brand.font.extra ?? [])])];
-  return weights.map((w) => {
+  const foot = brand.font.footerFont ? `@font-face{font-family:'${brand.font.footerFont}';font-weight:400;src:url('${fileUrl(`node_modules/@fontsource/${brand.font.footerFont.toLowerCase().replace(/ /g, '-')}/files/${brand.font.footerFont.toLowerCase().replace(/ /g, '-')}-latin-400-normal.woff2`)}') format('woff2');}\n` : '';
+  return foot + weights.map((w) => {
     const f = `${dir}/${fam.toLowerCase()}-latin-${w}-normal.woff2`;
     if (!fs.existsSync(path.resolve(ROOT, f))) throw new Error(`Font tidak ditemukan: ${f}`);
     return `@font-face{font-family:'${fam}';font-weight:${w};src:url('${fileUrl(f)}') format('woff2');}`;

@@ -83,27 +83,25 @@
         "zoom": 1.1
       },
       "intent": "Hook: persiapan kerja ke Jepang yang tidak mengganggu jadwal.",
-      "headline": "Kenapa Kelas Malam Platinum N5–N4 Bikin Persiapan Kerja ke Jepang Lebih Tenang?",
+      "headline": "Kenapa Kelas Malam Platinum N5-N4 Bikin Kamu Lebih Tenang?",
       "blocks": [
         {
           "k": "mascot",
-          "x": 1,
-          "y": 10,
-          "w": 29,
-          "h": 46,
-          "id": "cewe-say-hi",
-          "z": 1,
-          "variant": "bust"
+          "x": -8.75,
+          "y": 26.74,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
         },
         {
-          "k": "mascot",
-          "x": 30,
-          "y": 22,
-          "w": 26,
-          "h": 36,
-          "id": "cowo-melipat-tangan",
-          "z": 1,
-          "variant": "bust"
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -8,
+          "y": 53.3,
+          "w": 116,
+          "h": 39.83,
+          "z": 2
         },
         {
           "k": "icon",
@@ -112,34 +110,35 @@
           "w": 26,
           "h": 20,
           "id": "c-calendar",
-          "z": 3,
+          "z": 2,
           "r": 6
         },
         {
           "k": "title",
           "x": 0,
-          "y": 50,
+          "y": 60.16,
           "w": 100,
-          "h": 30,
-          "t": "**Kenapa Kelas Malam Platinum N5–N4** Bikin Persiapan Kerja ke Jepang Lebih Tenang?",
+          "h": 22.16,
+          "t": "**Kenapa Kelas Malam Platinum N5–N4** Bikin Kamu Lebih Tenang?",
           "variant": "duo",
           "align": "left",
-          "max": 66,
-          "min": 48,
+          "max": 67.3,
+          "min": 67.3,
           "color": "white",
           "z": 3
         },
         {
           "k": "text",
           "x": 0,
-          "y": 82,
+          "y": 82.78,
           "w": 100,
-          "h": 10,
-          "t": "Buat pekerja, mahasiswa, dan orang tua yang ikut memutuskan.",
+          "h": 11.9,
+          "t": "Buat pekerja, mahasiswa, dan orang tua yang menyiapkan kerja ke Jepang.",
           "align": "left",
           "color": "white",
-          "min": 28,
-          "max": 32
+          "min": 32.1,
+          "max": 32.1,
+          "z": 3
         }
       ]
     },
@@ -155,32 +154,32 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 8,
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
           "t": "Jadwal Malam, Tetap Interaktif",
           "variant": "duo",
           "align": "left",
-          "max": 56,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 31,
-          "y": 11,
-          "w": 38,
-          "h": 27,
+          "x": 35.69,
+          "y": 13.0,
+          "w": 28.62,
+          "h": 33.81,
           "id": "c-alarm",
           "z": 1
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 40,
-          "w": 96,
-          "h": 24,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "Kelas **malam hari**, jadi tidak bentrok dengan jam kerja atau kuliah."
@@ -189,14 +188,15 @@
               "t": "Kelas **grup interaktif**, belajar bareng teman sekelas dan tutor."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
-          "x": 6,
-          "y": 67,
-          "w": 88,
-          "h": 16,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "t": "Cocok buat karyawan shift dan mahasiswa yang kuliah siang.",
           "max": 33
         }
@@ -215,32 +215,32 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 8,
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
           "t": "Garansi Mengulang Kelas",
           "variant": "duo",
           "align": "left",
-          "max": 56,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 32,
-          "y": 11,
-          "w": 36,
-          "h": 27,
+          "x": 34.78,
+          "y": 13.0,
+          "w": 30.44,
+          "h": 33.92,
           "id": "c-shield",
           "z": 1
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 40,
-          "w": 96,
-          "h": 24,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "Belum lulus ujian **JLPT/JFT**? Kamu bisa **mengulang kelas**."
@@ -249,15 +249,16 @@
               "t": "S&K berlaku, jadi cek detailnya sebelum mendaftar."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
           "variant": "top",
-          "x": 4,
-          "y": 67,
-          "w": 92,
-          "h": 19,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "note": "Buat Orang Tua",
           "t": "Siswa dan orang tua bisa fokus ke proses belajar, tanpa khawatir mulai dari nol lagi.",
           "max": 33
@@ -276,32 +277,32 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 8,
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
           "t": "Materi Terarah + Simulasi CBT",
           "variant": "duo",
           "align": "left",
-          "max": 56,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 22,
-          "y": 11,
-          "w": 56,
-          "h": 26,
+          "x": 28.12,
+          "y": 18.29,
+          "w": 43.75,
+          "h": 29.46,
           "id": "c-cert-target",
           "z": 1
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 39,
-          "w": 96,
-          "h": 26,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "Materi diarahkan ke kebutuhan kerja di **IT, Manufacturing, & Hospitality**."
@@ -310,14 +311,15 @@
               "t": "Latihan **simulasi ujian berbasis komputer (CBT)**, seperti format JFT-Basic."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
-          "x": 6,
-          "y": 68,
-          "w": 88,
-          "h": 15,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "t": "Biasakan format CBT sebelum hari ujian, biar nggak kaget.",
           "max": 33
         }
@@ -338,35 +340,35 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 33,
-          "y": 2,
-          "w": 34,
-          "h": 56,
-          "id": "cewe-say-hi",
-          "z": 1,
-          "variant": "bust"
+          "x": 24.06,
+          "y": 5.22,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
         },
         {
           "k": "title",
-          "x": 8,
-          "y": 49,
-          "w": 84,
-          "h": 19,
+          "x": 10.1,
+          "y": 50.55,
+          "w": 79.79,
+          "h": 19.69,
           "t": "**Diskusikan Bareng Orang Tua, Pilih Kelasnya**",
           "variant": "duo",
           "align": "center",
-          "max": 60,
-          "min": 44,
+          "max": 55.3,
+          "min": 55.3,
           "color": "accent",
           "z": 3
         },
         {
           "k": "cta",
           "variant": "pill",
-          "x": 12,
-          "y": 71,
-          "w": 76,
-          "h": 14
+          "x": 17.29,
+          "y": 72.8,
+          "w": 65.42,
+          "h": 18.41,
+          "z": 3
         }
       ]
     }

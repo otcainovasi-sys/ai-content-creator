@@ -62,3 +62,23 @@ Sumber: 10 slide live terbaru yang dikirim user (tidak tersimpan sebagai file ka
 - **Maskot:** baju diwarnai ulang ke marun dengan aksen krem dan hijab krem (`python scripts/recolor-ciao.py`). Asli tersimpan di `assets/brands/ciao-manda/mascots/_asli/`.
 - **Logo:** merah digelapkan ke #79202A atas permintaan user. Asli di `assets/brands/ciao-manda/logo/_asli/`.
 - **Ikon 3D `c-*`:** deep red, krem, graphite (`npm run make3d -- ciao-manda`), termasuk tangan menunjuk dan gelembung hanzi.
+
+## Metrik PDF "ciao manda ig" (6 November 2026)
+
+4 halaman, kanvas 1080x1350, tema sama dengan `specs/khusus/ciao-manda/cek-5-hal-kursus.json`. Teks tersimpan sebagai font Type3, jadi nama font tidak terbaca; bentuknya Montserrat. **Belum diterapkan ke render; menunggu persetujuan user.**
+
+- **Logo:** gambar 4096 x 3352 (xref 15), kotak x 487-593, y 65-151.
+- **Latar:** ivory bermotif gelombang, istana pudar, merah #791F2A padat mulai ±y 1000 (y 800 #BD999D).
+- **Cover:** maskot besar di tengah, padat x 244-736, y 223-1216, tubuh bawah melebur ke merah. Headline 65 kapital putih, x 86, y 953, langkah 70, 2 baris, tanda seru. Sub 30 putih, y 1140, langkah 40, 2 baris. Footer teks putih 26 dengan globe, y 1255, tanpa pill.
+- **Slide isi:** judul 45, x 140-939, y 202, teks #791F2A berbingkai ivory tebal, satu judul sama untuk slide 2 dan 3. Paragraf pengantar 30 hitam tengah, y 297, langkah 35. Kartu ivory #F7F6F2 x 102-977 dengan bayangan, ikon 3D kiri ±130 px, teks mulai x 326, 30 rata kanan-kiri, langkah 35, judul poin tebal. Footer pill ivory x 401-678, y 1253-1290, teks 26 maroon.
+- **Penutup:** kartu x 120-960, y 391-950, judul "Kenapa Daftar Sekarang?" 40 maroon, dua poin berikon, "Klik link di Bio!" merah di ujung poin, maskot padat x 338-1027 menumpang di tepi kanan, kalimat simpan 30 putih tengah y 1003.
+
+## Standar aktif (disetujui user 6 November 2026): PDF "ciao manda ig"
+
+Berlaku lewat `.brand-ciao-manda` di `src/render/base.css` dan `config/brands/ciao-manda.json` (blokir ketat spasi aktif). Contoh lengkap: `specs/khusus/ciao-manda/cek-5-hal-kursus.json`.
+- Aset dari PDF: logo `logo/master-pdf.png` (4096 px) dan `primary.png` (424 px; logo sebelumnya di `logo/_asli/primary-sebelum-pdf.png`), maskot `cowo-pdf-cover` dan `cewe-pdf-melambai`, ikon `p-target`, `p-laptop`, `p-kalender`, `p-jam`, `p-orang`, `p-chat`, `p-tangan`.
+- Semua slide memakai tampilan `ivory` (istana pudar + gelombang), merah #791F2A padat dari ±y 1000. Cover: maskot besar (`bleed`), kabut maroon depan y 657, headline 65 kapital putih 2 baris, sub 30 putih 2 baris, footer teks putih.
+- Slide isi: judul 45 satu baris, isi putih ivory bergaris maroon tebal dan bayangan ke bawah; pengantar 30 tengah; satu kartu besar ivory (`ring` plain) berisi poin: ikon kiri ±130 px, judul poin tebal (`text` varian `head`), isi 30 rata kanan-kiri (`align: justify`), teks mulai x 326. Footer pill ivory 26.
+- Penutup: kartu "Kenapa Daftar Sekarang?" (judul 40 maroon), dua poin berikon, "Klik link di Bio!" maroon #791F2A tebal, maskot cewe di tepi kanan kartu, kalimat simpan putih di bawah kartu.
+- Judul berbingkai dikecualikan dari cek kontras karena keterbacaannya dari garis maroon.
+- Area konten Ciao setelah footer absolut: x 60-1020, y 202-1292 (tinggi 1090). Konversi y% = (Y-202)/10,9.

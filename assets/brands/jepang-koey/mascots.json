@@ -34,5 +34,21 @@
   "cowo-bawa-buku-dan-pensil": {
     "file": "mascots/cowo-bawa-buku-dan-pensil.png",
     "transparent": false
+  },
+  "cowo-gi-berdiri": {
+    "file": "mascots/cowo-gi-berdiri.png",
+    "transparent": true
+  },
+  "cowo-gi-megaphone": {
+    "file": "mascots/cowo-gi-megaphone.png",
+    "transparent": true
+  },
+  "cowo-gi-duduk": {
+    "file": "mascots/cowo-gi-duduk.png",
+    "transparent": true
+  },
+  "cowo-gi-berdiri-pdf": {
+    "file": "mascots/cowo-gi-berdiri-pdf.png",
+    "transparent": true
   }
 }

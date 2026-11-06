@@ -32,11 +32,11 @@ export function pageHtml(slide: Slide, brand: Brand, format: Spec['format'], bac
     --surface:${t.surface};--surface-ink:${t.surfaceInk};--surface-muted:${t.surfaceMuted};--hl-color:${t.hlColor};--hl-bg:${t.hlBg};
     --hero-ink:${t.heroInk};--hero-muted:${t.heroMuted};--footer-ink:${t.footerInk};--scrim:${t.scrim};--photo-opacity:${t.photoOpacity};--line:${t.line};
     --num-color:${t.numColor};--num-zero:${t.numZero};--num-bg:${t.numBg};--hl-pad:${t.hlPad};--eyebrow:${t.eyebrow};--hero-cta-bg:${t.heroCtaBg};--hero-cta-ink:${t.heroCtaInk};--tick:${t.tick};--item-bg:${t.itemBg};--item-ink:${t.itemInk};--item-muted:${t.itemMuted};--item-border:${t.itemBorder};
-    ${Object.entries(brand.style ?? {}).map(([k, v]) => `--s-${k}:${v};`).join('')}`;
+    ${Object.entries(brand.style ?? {}).map(([k, v]) => `--s-${k}:${String(v).startsWith('asset:') ? `url('${fileUrl(String(v).slice(6))}')` : v};`).join('')}`;
   return `<!doctype html><html lang="id"><head><meta charset="utf-8"><title>${esc(slide.headline)}</title>
 <style>${fontFaces(brand)}
 :root{${vars}}
-${CSS}</style></head><body><div class="canvas theme-${theme}${slide.shade ? ` shade-${slide.shade}` : ''}${brand.style?.duoStyle === 'box' ? ' duo-box' : ''}${slide.skin ? ` skin-${slide.skin}` : ''}">${back}<div class="ishade"></div>${decorHtml(brand, slide.skin ?? theme)}${brand.frame ? '<div class="frame"></div>' : ''}
+${CSS}</style></head><body><div class="canvas brand-${brand.slug}${slide.role ? ` role-${slide.role}` : ''} theme-${theme}${slide.shade ? ` shade-${slide.shade}` : ''}${brand.style?.duoStyle === 'box' ? ' duo-box' : ''}${slide.skin ? ` skin-${slide.skin}` : ''}">${back}<div class="ishade"></div>${decorHtml(brand, slide.skin ?? theme)}${brand.frame ? '<div class="frame"></div>' : ''}
 <div class="safe"><div class="logo-wrap"><img class="logo" src="${fileUrl(logoFile)}" alt="${esc(brand.name)}"></div>
 <div class="main">${main}</div><div class="footer">${esc(brand.footer)}</div></div></div></body></html>`;
 }
@@ -65,7 +65,7 @@ export async function renderSpec(raw: unknown, opts: { browser?: Browser; outRoo
       const png = path.join(dir, `slide-${n}.png`);
       await page.screenshot({ path: png, clip: { x: 0, y: 0, width: w, height: h } });
       // Tanpa teks: dipakai untuk mengukur kontras teks terhadap latar sebenarnya.
-      await page.addStyleTag({ content: '.safe *{color:transparent!important;-webkit-text-fill-color:transparent!important}.title{background:none!important}.canvas:not(.duo-box) .title.duo mark,.fr-l{background:none!important}.skin-feed .ftext mark,.skin-feed .fr-h,.skin-feed .nm,.skin-feed .nm i{background:none!important}' });
+      await page.addStyleTag({ content: '.safe *{color:transparent!important;-webkit-text-fill-color:transparent!important}.canvas:not(.brand-jepang-koey) .title{background:none!important}.canvas:not(.duo-box) .title.duo mark,.fr-l{background:none!important}.skin-feed .ftext mark,.skin-feed .fr-h,.skin-feed .nm,.skin-feed .nm i{background:none!important}' });
       const bare = await page.screenshot({ clip: { x: 0, y: 0, width: w, height: h } });
       slides.push(await runQa({ n: i + 1, slide, spec, brand, png, bare, measure: measure as never }));
     }

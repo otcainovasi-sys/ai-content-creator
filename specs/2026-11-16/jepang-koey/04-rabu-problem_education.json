@@ -78,13 +78,21 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 1,
-          "y": 24,
-          "w": 29,
-          "h": 46,
-          "id": "cowo-melipat-tangan",
-          "z": 1,
-          "variant": "bust"
+          "x": -8.75,
+          "y": 26.74,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
+        },
+        {
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -8,
+          "y": 53.3,
+          "w": 116,
+          "h": 39.83,
+          "z": 2
         },
         {
           "k": "icon",
@@ -93,34 +101,35 @@
           "w": 34,
           "h": 16,
           "id": "c-bubble-cukup",
-          "z": 3,
+          "z": 2,
           "r": 5
         },
         {
           "k": "title",
           "x": 0,
-          "y": 64,
+          "y": 67.31,
           "w": 100,
-          "h": 16,
+          "h": 15.11,
           "t": "**Sudah Lulus N4,** Cukup buat Kerja di Jepang?",
           "variant": "duo",
           "align": "left",
-          "max": 66,
-          "min": 48,
+          "max": 67.3,
+          "min": 67.3,
           "color": "white",
           "z": 3
         },
         {
           "k": "text",
           "x": 0,
-          "y": 81,
+          "y": 82.78,
           "w": 100,
-          "h": 12,
+          "h": 11.9,
           "t": "Panduan singkat syarat SSW (i) buat pekerja dan career switcher, biar nggak salah langkah.",
           "align": "left",
           "color": "white",
-          "min": 28,
-          "max": 32
+          "min": 32.1,
+          "max": 32.1,
+          "z": 3
         }
       ]
     },
@@ -137,32 +146,32 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 13,
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
           "t": "Syarat 1: Bahasa, Pilih Salah Satu",
           "variant": "duo",
           "align": "left",
-          "max": 56,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 20,
-          "y": 13,
-          "w": 60,
-          "h": 25,
+          "x": 28.12,
+          "y": 18.29,
+          "w": 43.75,
+          "h": 29.46,
           "id": "c-cert-target",
           "z": 1
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 39,
-          "w": 96,
-          "h": 25,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "**JLPT** level N4 atau lebih tinggi."
@@ -171,14 +180,15 @@
               "t": "**JFT-Basic**, tes berbasis komputer dari Japan Foundation."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
-          "x": 6,
-          "y": 66,
-          "w": 88,
-          "h": 18,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "t": "Bidang perawat dan pengemudi punya syarat bahasa tambahan.",
           "max": 33,
           "head": "Catatan untuk Pekerja"
@@ -197,33 +207,33 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 8,
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
           "t": "Syarat 2: Ujian Keterampilan",
           "variant": "duo",
           "align": "left",
-          "max": 56,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 30,
-          "y": 11,
-          "w": 40,
-          "h": 25,
+          "x": 37.57,
+          "y": 13.0,
+          "w": 24.86,
+          "h": 33.58,
           "id": "c-clipboard",
           "z": 1,
           "r": 6
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 37,
-          "w": 96,
-          "h": 28,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "Ujiannya mengikuti **bidang kerja** yang kamu incar."
@@ -232,14 +242,15 @@
               "t": "Lulusan Technical Intern Training (ii) umumnya **bebas** dari kedua ujian ini."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
-          "x": 6,
-          "y": 67,
-          "w": 88,
-          "h": 16,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "t": "Bahasa lulus, ujian bidang belum? Syaratnya belum lengkap.",
           "max": 33
         }
@@ -257,32 +268,32 @@
       "blocks": [
         {
           "k": "title",
-          "x": 0,
-          "y": 2,
-          "w": 100,
-          "h": 8,
+          "x": 3.65,
+          "y": 0,
+          "w": 93.75,
+          "h": 12.36,
           "t": "Masa Tinggal SSW (i)",
           "variant": "duo",
           "align": "left",
-          "max": 56,
-          "min": 40,
+          "max": 53.4,
+          "min": 53.4,
           "color": "accent"
         },
         {
           "k": "icon",
-          "x": 31,
-          "y": 11,
-          "w": 38,
-          "h": 26,
+          "x": 34.3,
+          "y": 13.0,
+          "w": 31.39,
+          "h": 33.98,
           "id": "c-calendar",
           "z": 1
         },
         {
           "k": "list",
-          "x": 2,
-          "y": 39,
-          "w": 96,
-          "h": 23,
+          "x": 6.25,
+          "y": 47.99,
+          "w": 89.58,
+          "h": 22.89,
           "items": [
             {
               "t": "Maksimal **5 tahun**."
@@ -291,15 +302,16 @@
               "t": "Izinnya diberikan bertahap, tidak sekaligus 5 tahun."
             }
           ],
-          "max": 35
+          "max": 29.4,
+          "min": 29.4
         },
         {
           "k": "tip",
           "variant": "top",
-          "x": 4,
-          "y": 67,
-          "w": 92,
-          "h": 19,
+          "x": 6.77,
+          "y": 72.07,
+          "w": 92.19,
+          "h": 17.4,
           "note": "Solusi Jepang Koey",
           "t": "Kelas Platinum N5–N4 bantu kamu menyiapkan bahasanya secara bertahap, sambil tetap kerja.",
           "max": 33
@@ -321,35 +333,35 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 33,
-          "y": 2,
-          "w": 34,
-          "h": 56,
-          "id": "cowo-melipat-tangan",
-          "z": 1,
-          "variant": "bust"
+          "x": 24.06,
+          "y": 5.22,
+          "w": 47.71,
+          "h": 65.11,
+          "id": "cowo-gi-berdiri-pdf",
+          "z": 1
         },
         {
           "k": "title",
-          "x": 8,
-          "y": 49,
-          "w": 84,
-          "h": 19,
+          "x": 10.1,
+          "y": 50.55,
+          "w": 79.79,
+          "h": 19.69,
           "t": "**Siapkan Bahasanya dari Target Kecil**",
           "variant": "duo",
           "align": "center",
-          "max": 60,
-          "min": 44,
+          "max": 55.3,
+          "min": 55.3,
           "color": "accent",
           "z": 3
         },
         {
           "k": "cta",
           "variant": "pill",
-          "x": 12,
-          "y": 71,
-          "w": 76,
-          "h": 14
+          "x": 17.29,
+          "y": 72.8,
+          "w": 65.42,
+          "h": 18.41,
+          "z": 3
         }
       ]
     }

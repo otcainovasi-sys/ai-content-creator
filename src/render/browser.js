@@ -43,7 +43,7 @@ window.__fitAndMeasure = async function () {
     runs.push({
       text: n.textContent.trim().slice(0, 60), block: block.dataset.bid, color: cs.color,
       size: parseFloat(cs.fontSize), weight: cs.fontWeight, family: cs.fontFamily.split(',')[0].replace(/['"]/g, ''),
-      strike: cs.textDecorationLine.includes('line-through') || !!el.closest('.ct-tag'), footer: !!el.closest('.footer'),
+      strike: cs.textDecorationLine.includes('line-through') || !!el.closest('.ct-tag') || !!el.closest('.title.c-outline'), footer: !!el.closest('.footer'),
       rects: [...range.getClientRects()].map(rect),
     });
   }
@@ -80,7 +80,7 @@ window.__fitAndMeasure = async function () {
       if (!rs.length) return null;
       const x = Math.min(...rs.map((r) => r.left)), y = Math.min(...rs.map((r) => r.top));
       const box = { x, y, w: Math.max(...rs.map((r) => r.right)) - x, h: Math.max(...rs.map((r) => r.bottom)) - y };
-      return { text: e.textContent.trim().replace(/\s+/g, ' '), size: parseFloat(getComputedStyle(e).fontSize), rect: box, ...layer(e), boxes: boxEls.flatMap((b, i) => (b === e || b.contains(e) ? [i] : [])), inner: innerBox(e), hits: hits(box) };
+      return { text: e.textContent.trim().replace(/\s+/g, ' '), size: parseFloat(getComputedStyle(e).fontSize), rect: box, ...layer(e), boxes: boxEls.flatMap((b, i) => (b === e || b.contains(e) ? [i] : [])), inner: innerBox(e), hits: hits(box), covered: (() => { const el = document.elementFromPoint(box.x + box.w / 2, box.y + box.h / 2); return !!el && !e.contains(el) && !el.contains(e) && !!el.closest('.fbar,.fmas,.fz img,.fz') && !el.closest('.footer') ? (el.className || el.tagName) + '' : ''; })() };
     }).filter(Boolean),
     stacks: [...document.querySelectorAll('.frows,.pn-list')].map((e) => [...e.children].map((c) => { const g = document.createRange(); g.selectNodeContents(c.querySelector('.fr-b') || c); return rect(g.getBoundingClientRect()); })),
     imgs: [...document.querySelectorAll('.main img:not(.fmas-i):not(.ct-hand):not(.ct-spark)')].filter((i) => i.getBoundingClientRect().width > 0).map((i) => ({ rect: rect(i.getBoundingClientRect()), inner: innerBox(i) })),

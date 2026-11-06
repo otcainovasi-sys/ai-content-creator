@@ -55,11 +55,11 @@
       "blocks": [
         {
           "k": "mascot",
-          "x": 14,
-          "y": 2,
-          "w": 72,
-          "h": 72,
-          "id": "cewe-berdiri",
+          "x": 23.5,
+          "y": 14.4,
+          "w": 53,
+          "h": 85,
+          "id": "cewe-semangat",
           "variant": "fade",
           "z": 1
         },
@@ -84,23 +84,23 @@
         },
         {
           "k": "title",
-          "x": 0,
-          "y": 56,
-          "w": 100,
-          "h": 31,
+          "x": 3,
+          "y": 60.8,
+          "w": 94,
+          "h": 24,
           "t": "Bayar kursus, terus dibiarkan belajar sendiri?",
           "variant": "duo",
           "align": "left",
-          "max": 74,
-          "min": 50,
+          "max": 66.7,
+          "min": 66.7,
           "z": 3
         },
         {
           "k": "text",
           "variant": "swipe",
-          "x": 0,
-          "y": 89,
-          "w": 100,
+          "x": 3,
+          "y": 88.7,
+          "w": 94,
           "h": 7,
           "t": "Swipe, ini isi kelas Platinum",
           "z": 3
@@ -126,7 +126,7 @@
         {
           "k": "title",
           "x": 0,
-          "y": 7,
+          "y": 9,
           "w": 100,
           "h": 9,
           "t": "Ini yang **kamu dapat**",

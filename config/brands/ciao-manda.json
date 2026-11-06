@@ -10,7 +10,10 @@
     "body": 500,
     "uppercaseHeadline": false,
     "cjkFont": "Microsoft YaHei",
-    "cjk": true
+    "cjk": true,
+    "extra": [
+      600
+    ]
   },
   "tokens": {
     "bg": "#F8F6F2",
@@ -46,8 +49,8 @@
   "logo": {
     "default": "primary",
     "hero": "primary",
-    "width": 118,
-    "height": 96
+    "width": 106,
+    "height": 86
   },
   "frame": false,
   "footer": "www.otca.co.id",
@@ -169,6 +172,10 @@
       "cover",
       "ivory"
     ],
-    "ctaLastOnly": true
+    "ctaLastOnly": true,
+    "spacingStrict": true,
+    "coverTitleLines": 3,
+    "coverSubLines": 2,
+    "textLines": 6
   }
 }

@@ -9,7 +9,7 @@ export interface R { x: number; y: number; w: number; h: number }
 export interface Hit { asset: string; u: number; v: number; masked: boolean }
 interface Layer { z: number; ord: number; container: boolean; stack?: boolean; title: number }
 export interface SpaceBox extends Layer { name: string; rect: R; ribbon: boolean; parent: number; group: string; hits?: Hit[] }
-export interface SpaceText extends Layer { text: string; size: number; rect: R; boxes: number[]; inner: number; hits?: Hit[] }
+export interface SpaceText extends Layer { text: string; size: number; rect: R; boxes: number[]; inner: number; hits?: Hit[]; covered?: string }
 export interface SpaceImg { rect: R; inner: number }
 export interface SpaceMascot { asset: string; rect: R; z: number; ord: number }
 export interface Space { boxes: SpaceBox[]; texts: SpaceText[]; imgs: SpaceImg[]; mascots: SpaceMascot[]; stacks?: R[][] }
@@ -66,6 +66,9 @@ export async function prepareSpace(s: Space, root: string): Promise<Space & { so
   return { ...s, mascots, solid };
 }
 
+/** Pill judul kartu yang menempel tepat di tepi atas kartunya (pola PDF Info Jerman hal. 17). */
+const attached = (a: R, b: R) => { const [u, l] = a.y < b.y ? [a, b] : [b, a]; return Math.abs(l.y - (u.y + u.h)) <= 2 && u.h < 90 && u.x >= l.x && u.x + u.w <= l.x + l.w; };
+
 export function checkSpacing(s: Space & { solid?: (h: Hit) => boolean }, strict = false): SpaceIssue[] {
   const out: SpaceIssue[] = [];
   const add = (level: Level, code: string, message: string) => out.push({ level: strict ? level : 'warning', area: 'layout', code, message });
@@ -78,7 +81,7 @@ export function checkSpacing(s: Space & { solid?: (h: Hit) => boolean }, strict 
   // 1. Kotak dengan kotak
   for (let i = 0; i < s.boxes.length; i++) for (let j = i + 1; j < s.boxes.length; j++) {
     const a = s.boxes[i], b = s.boxes[j];
-    if (related(i, j) || sameDesign(a, b)) continue;
+    if (related(i, j) || sameDesign(a, b) || attached(a.rect, b.rect)) continue;
     if (xOver(a.rect, b.rect) > 2 && yOver(a.rect, b.rect) > 2) { add('critical', 'BOX_OVERLAP', `Kotak "${short(a.name)}" menimpa "${short(b.name)}" sebanyak ${Math.round(yOver(a.rect, b.rect))} px`); continue; }
     const gy = gapY(a.rect, b.rect), gx = gapX(a.rect, b.rect);
     if (xOver(a.rect, b.rect) > 20 && gy >= 0 && gy < SPACE.boxGap) add('warning', 'SPACE_TIGHT', `Jarak kotak "${short(a.name)}" ke "${short(b.name)}" hanya ${Math.round(gy)} px, minimal ${SPACE.boxGap}`);
@@ -87,7 +90,7 @@ export function checkSpacing(s: Space & { solid?: (h: Hit) => boolean }, strict 
 
   // 2. Teks dengan kotak yang bukan wadahnya (contoh: pill menempel ke poin pertama)
   for (const t of s.texts) s.boxes.forEach((b, i) => {
-    if (t.boxes.includes(i) || sameDesign(t, b)) return;
+    if (t.boxes.includes(i) || sameDesign(t, b) || t.boxes.some((x) => attached(s.boxes[x].rect, b.rect))) return;
     if (xOver(t.rect, b.rect) > 2 && yOver(t.rect, b.rect) > 2) { add('critical', 'TEXT_ON_BOX', `Teks "${short(t.text)}" tertimpa kotak "${short(b.name)}"`); return; }
     const need = Math.min(SPACE.textGapMax, Math.max(SPACE.textGapMin, t.size * SPACE.textGapRatio));
     const g = gapY(t.rect, b.rect);
@@ -160,6 +163,9 @@ export function checkSpacing(s: Space & { solid?: (h: Hit) => boolean }, strict 
     if (r.y - end > SPACE.voidMax) add('warning', 'SPACE_VOID', `Ada rongga kosong ${Math.round(r.y - end)} px (y ${Math.round(end)} sampai ${Math.round(r.y)})`);
     end = Math.max(end, r.y + r.h);
   }
+
+  // 6b. Teks tertutup elemen lain (kabut, gambar, blok lain) di titik tengahnya
+  for (const t of s.texts) if (t.covered) add('critical', 'TEXT_COVERED', `Teks "${short(t.text)}" tertutup ${t.covered.split(' ').slice(0, 2).join(' ')}`);
 
   // 7. Maskot menimpa kotak atau teks: piksel maskot yang tidak transparan berada paling atas di titik sampel.
   if (s.solid) {

@@ -26,5 +26,13 @@
   "cowo-pointing": {
     "file": "mascots/cowo-pointing.png",
     "transparent": true
+  },
+  "cowo-pdf-cover": {
+    "file": "mascots/cowo-pdf-cover.png",
+    "transparent": true
+  },
+  "cewe-pdf-melambai": {
+    "file": "mascots/cewe-pdf-melambai.png",
+    "transparent": true
   }
 }

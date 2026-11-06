@@ -25,6 +25,7 @@ QA memanggil `src/qa/spacing.ts` di setiap slide. Kodenya:
 | `SPACE_UNEVEN` | jarak antar-kartu bertumpuk tidak seragam | samakan jarak antar-kartu |
 | `SPACE_LOOSE` | butir daftar terlalu renggang (lebih dari 80 px) | pakai jarak tetap, jangan dibagi rata ke seluruh ruang |
 | `SPACE_VOID` | rongga kosong lebih dari 150 px di tengah slide | sebar isi dengan rata, atau pindahkan blok ke rongga itu |
+| `TEXT_COVERED` | teks tertutup elemen lain (kabut, gambar, blok) di titik tengahnya | naikkan lapisan teks (`z`) atau geser elemen penutupnya |
 | `MASCOT_OVER` | piksel maskot menutupi teks atau kotak | geser atau kecilkan maskot, atau turunkan lapisannya |
 
 Brand dengan `design.spacingStrict: true` (sekarang OTCA) memblokir pelanggaran berat. Brand lain mendapat catatan saja. Ambangnya ada di `SPACE` di `src/qa/spacing.ts`.

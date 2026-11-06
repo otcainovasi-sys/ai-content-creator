@@ -8,7 +8,11 @@
     "headline": 800,
     "sub": 700,
     "body": 500,
-    "uppercaseHeadline": true
+    "uppercaseHeadline": true,
+    "extra": [
+      600,
+      900
+    ]
   },
   "tokens": {
     "bg": "#F7F1E2",
@@ -44,8 +48,8 @@
   "logo": {
     "default": "primary",
     "hero": "primary",
-    "width": 150,
-    "height": 76
+    "width": 126,
+    "height": 77
   },
   "frame": false,
   "footer": "infojerman.id",
@@ -85,7 +89,7 @@
     "requireWords": []
   },
   "style": {
-    "innerBase": "linear-gradient(180deg,#F7F1E2 0%,#F7F1E2 46%,#F5E3A6 56%,#F4D76F 66%,#F3CF45 100%)",
+    "innerBase": "linear-gradient(180deg,#F7F1E2 0%,#F5F0E2 37%,#F2E4B5 52%,#EFD577 59%,#F0D158 67%,#F1CF4D 74%,#F3CF45 81%,#F3CF45 100%)",
     "innerPhotoOpacity": ".11",
     "innerScrim": "linear-gradient(to bottom,rgba(247,241,226,.35) 0%,rgba(247,241,226,0) 30%)",
     "titleColor": "#25272B",
@@ -153,6 +157,9 @@
       "flow-lines"
     ],
     "coverFree": true,
-    "ctaPill": true
+    "ctaPill": true,
+    "coverTitleLines": 3,
+    "coverSubLines": 2,
+    "spacingStrict": true
   }
 }

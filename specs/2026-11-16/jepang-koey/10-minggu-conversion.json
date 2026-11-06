@@ -52,7 +52,6 @@
     {
       "layout": "free",
       "role": "single",
-      "skin": "sky",
       "bg": {
         "src": "assets/stock/openverse-a7fabd27-94d.jpg",
         "position": "70% 30%"
@@ -72,7 +71,8 @@
           "align": "center",
           "max": 52,
           "min": 40,
-          "color": "accent"
+          "color": "accent",
+          "z": 3
         },
         {
           "k": "ring",
@@ -92,7 +92,8 @@
           "align": "center",
           "color": "ink",
           "min": 27,
-          "max": 32
+          "max": 32,
+          "z": 3
         },
         {
           "k": "list",
