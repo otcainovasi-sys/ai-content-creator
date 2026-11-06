@@ -1,0 +1,22 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-07-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "caption": "Atasan bicara cepat saat briefing, dan kamu hanya menangkap sebagian?\n\nMinta klarifikasi bukan tanda tidak kompeten. Justru itu cara memastikan pekerjaanmu tepat.\n\n您能再说一遍吗？\nNín néng zài shuō yí biàn ma?\nBisa diulangi sekali lagi?\n\nSimpan untuk dipakai di kantor.\n\n#MandarinUntukKerja #CiaoManda",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "mascot_hero",
+      "headline": "Atasan bicara cepat **saat briefing?**",
+      "sub": "Kamu menangkap sebagian, tapi takut salah. Belajar minta klarifikasi dengan sopan.",
+      "cta": "Simpan untuk dipakai di kantor",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      },
+      "mascot": "cowo-pointing"
+    }
+  ]
+}

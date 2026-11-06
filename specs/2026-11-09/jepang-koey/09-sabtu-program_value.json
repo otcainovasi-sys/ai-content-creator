@@ -1,0 +1,29 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-09-09-program-value",
+  "month": "2026-11",
+  "pillar": "program_value",
+  "format": "feed_portrait",
+  "schedule": "Sabtu 11:00",
+  "caption": "Jepang Koey punya dua jalur belajar bahasa Jepang online:\n\nPlatinum N5–N4\nKelas grup yang interaktif, cocok kalau kamu ingin belajar bersama peserta lain.\n\nPrivate 24 atau 48 jam\nKelas 1-on-1 dengan jadwal fleksibel, menyesuaikan kebutuhan dan aktivitasmu.\n\nMasih ragu pilih yang mana? DM kami untuk diskusikan kelas yang paling cocok dengan targetmu.\n\n#KursusBahasaJepang #JepangKoey",
+  "verified_claims": [
+    "24",
+    "48"
+  ],
+  "slides": [
+    {
+      "layout": "program_value",
+      "headline": "Pilih kelas sesuai **ritme kerjamu**",
+      "sub": "Dua jalur belajar bahasa Jepang online untuk karyawan dan fresh graduate.",
+      "benefits": [
+        "Platinum N5–N4: kelas grup interaktif",
+        "Private 24 atau 48 jam: kelas 1-on-1",
+        "Jadwal private menyesuaikan aktivitasmu"
+      ],
+      "cta": "Diskusikan kelas yang cocok",
+      "image": {
+        "src": "assets/stock/openverse-c6fc30c0-cf5.jpg"
+      }
+    }
+  ]
+}

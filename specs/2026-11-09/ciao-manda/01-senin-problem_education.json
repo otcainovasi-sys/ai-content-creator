@@ -1,0 +1,93 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-01-senin",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "pillar": "problem_education",
+  "schedule": "Senin 10:00",
+  "brief": {
+    "problem": "Atasan mengirim voice note WeChat yang cepat; karyawan hanya menangkap sebagian dan takut salah.",
+    "angle": "Tiga respons sopan yang langsung bisa dipakai, satu situasi per slide.",
+    "key_message": "Bertanya untuk klarifikasi itu profesional, bukan tanda tidak kompeten.",
+    "audience": "Karyawan 25–40 tahun di perusahaan China",
+    "cta": {
+      "type": "dm",
+      "keyword": "KANTOR"
+    },
+    "sources": [
+      {
+        "claim": "Kalimat Mandarin, pinyin, dan terjemahan di slide 2–4",
+        "source": "Ditulis Claude; wajib dicek tutor Ciao Manda",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Guideline: hanzi, pinyin, dan terjemahan wajib dicek tutor.",
+      "CTA DM KANTOR mengikuti guideline; feed live memakai link di bio."
+    ],
+    "references": [
+      "Guideline Ciao Manda: momen kerja nyata, formula situasi → masalah → solusi → aksi"
+    ]
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Hook: situasi kerja nyata (voice note atasan).",
+      "headline": "Atasan kirim voice note, **kamu cuma nangkap separuh?**",
+      "sub": "Daripada menebak, pakai 3 respons sopan ini.",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      }
+    },
+    {
+      "layout": "point",
+      "role": "point",
+      "number": 1,
+      "intent": "Respons 1: minta diulang.",
+      "headline": "Minta **diulang**",
+      "example": {
+        "text": "不好意思，能再说一遍吗？",
+        "reading": "Bù hǎoyìsi, néng zài shuō yí biàn ma?",
+        "meaning": "Maaf, bisa diulang sekali lagi?"
+      },
+      "tip": "Pakai saat kamu menangkap sebagian, tapi belum yakin detailnya."
+    },
+    {
+      "layout": "point",
+      "role": "point",
+      "number": 2,
+      "intent": "Respons 2: minta versi tulisan.",
+      "headline": "Minta **versi tulisan**",
+      "example": {
+        "text": "您能打字发给我吗？",
+        "reading": "Nín néng dǎzì fā gěi wǒ ma?",
+        "meaning": "Bisa diketik dan dikirim ke saya?"
+      },
+      "tip": "Pesan tertulis lebih mudah diterjemahkan dan disimpan sebagai catatan kerja."
+    },
+    {
+      "layout": "point",
+      "role": "point",
+      "number": 3,
+      "intent": "Respons 3: konfirmasi pemahaman.",
+      "headline": "Konfirmasi **pemahamanmu**",
+      "example": {
+        "text": "我确认一下，您是说……对吗？",
+        "reading": "Wǒ quèrèn yíxià, nín shì shuō…… duì ma?",
+        "meaning": "Saya konfirmasi ya, maksud Bapak/Ibu …, benar?"
+      },
+      "tip": "Ulangi poin pentingnya dengan kata-katamu sendiri."
+    },
+    {
+      "layout": "closing",
+      "role": "closing",
+      "intent": "Punchline empatik + CTA DM KANTOR.",
+      "headline": "Bertanya bukan tanda tidak kompeten. **Itu cara memastikan kerjamu tepat.**",
+      "cta": "DM \"KANTOR\"",
+      "ctaNote": "untuk cek kelas Mandarin untuk kerja"
+    }
+  ],
+  "caption": "Atasan kirim voice note, kamu cuma nangkap separuh? Daripada menebak, pakai 3 respons sopan ini.\n\n1. Minta diulang\n不好意思，能再说一遍吗？\nBù hǎoyìsi, néng zài shuō yí biàn ma?\nMaaf, bisa diulang sekali lagi?\n\n2. Minta versi tulisan\n您能打字发给我吗？\nNín néng dǎzì fā gěi wǒ ma?\nBisa diketik dan dikirim ke saya?\n\n3. Konfirmasi pemahamanmu\n我确认一下，您是说……对吗？\nWǒ quèrèn yíxià, nín shì shuō…… duì ma?\nSaya konfirmasi ya, maksud Bapak/Ibu …, benar?\n\nSimpan untuk dipakai di kantor. Mau latihan komunikasi kerja yang lebih lengkap? DM \"KANTOR\".\n\n#MandarinUntukKerja #BelajarMandarin #CiaoManda"
+}

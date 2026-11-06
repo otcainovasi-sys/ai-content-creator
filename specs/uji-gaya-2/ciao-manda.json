@@ -1,0 +1,162 @@
+{
+  "brand": "ciao-manda",
+  "slug": "uji-gaya-2",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+  "background": {
+    "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+  },
+  "brief": {
+    "problem": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+    "angle": "Uji layout",
+    "key_message": "-",
+    "cta": {
+      "type": "dm",
+      "keyword": "KANTOR"
+    }
+  },
+  "verified_claims": [
+    "garansi",
+    "6.390.000",
+    "6.590.000",
+    "6.890.000",
+    "8.990.000"
+  ],
+  "slides": [
+    {
+      "layout": "comment",
+      "role": "cover",
+      "intent": "G",
+      "author": "Pengikut",
+      "comment": "atasan kirim voice note cepat banget, saya cuma nangkap separuh",
+      "headline": "Atasan bicara cepat **saat briefing?**",
+      "sub": "Belajar respons yang sopan.",
+      "scene": "bahasa"
+    },
+    {
+      "layout": "compare",
+      "role": "point",
+      "intent": "E",
+      "headline": "Pilih kelas sesuai jadwal kerja",
+      "columns": [
+        {
+          "title": "Private 24 Jam",
+          "icon": "alarm-clock",
+          "rows": [
+            {
+              "label": "Format",
+              "text": "Kelas privat"
+            }
+          ]
+        },
+        {
+          "title": "Private 48 Jam",
+          "icon": "books",
+          "rows": [
+            {
+              "label": "Format",
+              "text": "Kelas privat"
+            }
+          ]
+        },
+        {
+          "title": "Semiprivate",
+          "icon": "speech",
+          "rows": [
+            {
+              "label": "Format",
+              "text": "Kelas kecil"
+            }
+          ]
+        }
+      ],
+      "punch": "Mandarin untuk kerja, bukan sekadar teori"
+    },
+    {
+      "layout": "feature",
+      "role": "point",
+      "intent": "H",
+      "headline": "Pantau progres belajarmu",
+      "screen": {
+        "src": "assets/brands/info-jerman/ui/portal-sample.png"
+      },
+      "steps": [
+        "Laporan belajar bulanan",
+        "Catatan tutor",
+        "Target berikutnya"
+      ],
+      "flow": [
+        "Belajar",
+        "Laporan",
+        "Target"
+      ]
+    },
+    {
+      "layout": "proof",
+      "role": "single",
+      "intent": "J",
+      "headline": "Cerita **Peserta**",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      },
+      "name": "Nama Siswa",
+      "label": "Contoh penempatan",
+      "quote": "Kutipan asli siswa tampil di sini, dengan izin.",
+      "cta": "DM KANTOR"
+    },
+    {
+      "layout": "program",
+      "role": "single",
+      "intent": "L",
+      "headline": "Salah pengucapan? **Ada tutor yang mengarahkan**",
+      "image": {
+        "src": "assets/stock/openverse-c6fc30c0-cf5.jpg"
+      },
+      "imageLabel": "Gold Class",
+      "guarantee": "**Garansi mengulang kelas** jika tidak lulus ujian HSK (S&K berlaku)",
+      "benefits": [
+        {
+          "icon": "speech",
+          "title": "Business Conversation with Native"
+        },
+        {
+          "icon": "memo",
+          "title": "Gratis Simulasi Ujian HSK"
+        }
+      ],
+      "cta": "DM KANTOR"
+    },
+    {
+      "layout": "promo",
+      "role": "closing",
+      "intent": "K",
+      "headline": "Gold Mandarin **Deals**",
+      "period": "Contoh periode",
+      "tiers": [
+        {
+          "name": "Super Promo",
+          "strike": "8.990.000",
+          "price": "6.390.000",
+          "featured": true
+        },
+        {
+          "name": "Early Bird",
+          "strike": "8.990.000",
+          "price": "6.590.000"
+        },
+        {
+          "name": "Normal",
+          "strike": "8.990.000",
+          "price": "6.890.000"
+        }
+      ],
+      "note": "HSK Level 1–3, durasi 8 bulan",
+      "cta": "DM KANTOR",
+      "badge": "BEST DEAL",
+      "ticketIcon": "crown",
+      "ctaNote": "untuk cek kelas"
+    }
+  ]
+}

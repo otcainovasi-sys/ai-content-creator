@@ -1,0 +1,337 @@
+{
+  "brand": "otca",
+  "minggu": "2026-11-16",
+  "diriset": "2026-11-05",
+  "kandidat": [
+    {
+      "topik": "Sudah B1, cukup untuk kuliah di Jerman?",
+      "masalah": "Orang tua senang anak lulus B1, lalu mengira bahasanya sudah cukup untuk mendaftar S1.",
+      "label": "hipotesis",
+      "angle": "Pisahkan level kursus dari level yang diminta kampus",
+      "arketipe": "E",
+      "skor": {
+        "relevansi": 24,
+        "kebaruan": 25,
+        "fakta": 20,
+        "aset": 13,
+        "momen": 5,
+        "total": 87
+      },
+      "fakta": [
+        {
+          "klaim": "DSH-2, TestDaF TDN 4, Goethe C2, telc C1 Hochschule diterima untuk masuk",
+          "sumber": "Goethe-Universität Frankfurt",
+          "dibaca": true,
+          "url": "http://www.uni-frankfurt.de/124980722/German_Language_Requirements",
+          "kutipan": "DSH-2 level"
+        },
+        {
+          "klaim": "Sertifikat serupa di TU Dresden",
+          "sumber": "TU Dresden",
+          "dibaca": true,
+          "url": "https://tu-dresden.de/studium/vor-dem-studium/bewerbung/studienvoraussetzungen/sprachkenntnisse"
+        },
+        {
+          "klaim": "Studienkolleg mengajar bahasa sampai C1",
+          "sumber": "DAAD",
+          "dibaca": true,
+          "url": "https://www.daad.de/en/studying-in-germany/requirements/studienkollegs/",
+          "kutipan": "up to level C1"
+        }
+      ],
+      "catatan": ""
+    },
+    {
+      "topik": "Dana 11.904 euro sebelum visa: apa itu Sperrkonto?",
+      "masalah": "Orang tua menyiapkan biaya les, tetapi belum tahu dana yang harus diblokir untuk visa.",
+      "label": "hipotesis",
+      "angle": "Biaya yang sering muncul paling akhir padahal harus siap sebelum visa",
+      "arketipe": "F",
+      "skor": {
+        "relevansi": 26,
+        "kebaruan": 25,
+        "fakta": 17,
+        "aset": 12,
+        "momen": 5,
+        "total": 85
+      },
+      "fakta": [
+        {
+          "klaim": "992 euro per bulan, 11.904 euro per tahun, lewat Sperrkonto, beasiswa, atau Verpflichtungserklärung",
+          "sumber": "Konsulat Jenderal Jerman Hong Kong, Merkblatt Student Visa (April 2026)",
+          "url": "https://hongkong.diplo.de/resource/blob/2583960/b00c7caf59e5aad04ba9ed5e8350d3fa/student-data.pdf",
+          "dibaca": true,
+          "kutipan": "minimum of 992 EUR (11,904€/year)"
+        }
+      ],
+      "catatan": "Dokumen resmi perwakilan Jerman, tetapi bukan Jakarta. Cocokkan dengan Kedutaan Jakarta."
+    },
+    {
+      "topik": "Siap berangkat, belum tentu siap belajar",
+      "masalah": "Persiapan fokus pada dokumen dan bahasa, kesiapan belajar anak terlewat.",
+      "label": "guideline",
+      "angle": "Checklist 4 kesiapan yang bisa dicek di rumah",
+      "arketipe": "B",
+      "skor": {
+        "relevansi": 26,
+        "kebaruan": 22,
+        "fakta": 20,
+        "aset": 13,
+        "momen": 3,
+        "total": 84
+      },
+      "fakta": [
+        {
+          "klaim": "Memahami, Mengatur, Bertanya, Mengevaluasi",
+          "sumber": "Dokumen evaluator OTCA",
+          "dibaca": true,
+          "kutipan": "Metakognisi"
+        }
+      ],
+      "catatan": ""
+    },
+    {
+      "topik": "Apa yang didapat dari PRINCE 60?",
+      "masalah": "Orang tua siap mendaftar, butuh rincian.",
+      "label": "guideline",
+      "angle": "Penawaran utama",
+      "arketipe": "K",
+      "skor": {
+        "relevansi": 22,
+        "kebaruan": 24,
+        "fakta": 20,
+        "aset": 12,
+        "momen": 3,
+        "total": 81
+      },
+      "fakta": [
+        {
+          "klaim": "60 jam + extra 2 jam, Rp 9.900.000",
+          "sumber": "Dokumen evaluator OTCA",
+          "dibaca": true
+        }
+      ],
+      "catatan": ""
+    },
+    {
+      "topik": "Progres anak bisa dipantau",
+      "masalah": "Orang tua ingin tahu perkembangan tanpa menunggu ujian.",
+      "label": "guideline",
+      "angle": "Program dari sudut pandang orang tua",
+      "arketipe": "I",
+      "skor": {
+        "relevansi": 22,
+        "kebaruan": 22,
+        "fakta": 18,
+        "aset": 12,
+        "momen": 2,
+        "total": 76
+      },
+      "fakta": [
+        {
+          "klaim": "Progres terukur, dapat dipantau orang tua",
+          "sumber": "Dokumen evaluator OTCA",
+          "dibaca": true
+        }
+      ],
+      "catatan": ""
+    },
+    {
+      "topik": "Lulus SMA, langsung S1? Studienkolleg dua semester",
+      "masalah": "Orang tua mengira lulus SMA bisa langsung daftar S1.",
+      "label": "guideline",
+      "angle": "Lanjutan seri jalur: isi Studienkolleg",
+      "arketipe": "C",
+      "skor": {
+        "relevansi": 26,
+        "kebaruan": 12,
+        "fakta": 20,
+        "aset": 12,
+        "momen": 3,
+        "total": 73
+      },
+      "fakta": [
+        {
+          "klaim": "Umumnya dua semester, diakhiri FSP",
+          "sumber": "DAAD",
+          "dibaca": true,
+          "url": "https://www.daad.de/en/studying-in-germany/requirements/studienkollegs/",
+          "kutipan": "takes two semesters"
+        }
+      ],
+      "catatan": "Dekat dengan carousel Jalur ke Jerman. Pakai setelah jeda."
+    },
+    {
+      "topik": "Lesen, Hören, Schreiben, Sprechen: mana yang lemah?",
+      "masalah": "Ujian makin dekat, latihan anak tidak terarah.",
+      "label": "guideline",
+      "angle": "Tanda kelemahan yang bisa dikenali orang tua",
+      "arketipe": "B",
+      "skor": {
+        "relevansi": 24,
+        "kebaruan": 20,
+        "fakta": 14,
+        "aset": 12,
+        "momen": 3,
+        "total": 73
+      },
+      "fakta": [
+        {
+          "klaim": "Empat kemampuan",
+          "sumber": "Dokumen evaluator OTCA",
+          "dibaca": true
+        }
+      ],
+      "catatan": ""
+    },
+    {
+      "topik": "Kelas 11 sekarang: mundur dari tenggat pendaftaran",
+      "masalah": "Anak kelas 11, orang tua tidak tahu harus mulai kapan.",
+      "label": "hipotesis",
+      "angle": "Timeline mundur dari tenggat",
+      "arketipe": "C",
+      "skor": {
+        "relevansi": 24,
+        "kebaruan": 24,
+        "fakta": 8,
+        "aset": 12,
+        "momen": 5,
+        "total": 73
+      },
+      "fakta": [
+        {
+          "klaim": "Tenggat umum 15 Juli dan 15 Januari",
+          "sumber": "uni-assist (ringkasan pencarian)",
+          "dibaca": false
+        }
+      ],
+      "catatan": "Halaman uni-assist gagal dibuka. Tenggat Studienkolleg berbeda-beda."
+    },
+    {
+      "topik": "Kuliah kedokteran di Jerman: syarat bahasanya lebih tinggi",
+      "masalah": "Anak ingin kedokteran, target bahasa disamakan dengan jurusan lain.",
+      "label": "hipotesis",
+      "angle": "Jurusan menentukan target bahasa",
+      "arketipe": "F",
+      "skor": {
+        "relevansi": 18,
+        "kebaruan": 24,
+        "fakta": 14,
+        "aset": 10,
+        "momen": 2,
+        "total": 68
+      },
+      "fakta": [
+        {
+          "klaim": "DSH-3, TDN 5, atau Goethe C2 minimal \"gut\" di Frankfurt",
+          "sumber": "Goethe-Universität Frankfurt",
+          "dibaca": true,
+          "url": "http://www.uni-frankfurt.de/124980722/German_Language_Requirements"
+        }
+      ],
+      "catatan": "Bisa jadi satu poin di kandidat 1."
+    },
+    {
+      "topik": "Apa bedanya 1-on-1 dengan kelas grup?",
+      "masalah": "Orang tua membandingkan lembaga.",
+      "label": "hipotesis",
+      "angle": "Perbandingan yang tidak merendahkan lembaga lain",
+      "arketipe": "E",
+      "skor": {
+        "relevansi": 20,
+        "kebaruan": 22,
+        "fakta": 10,
+        "aset": 12,
+        "momen": 2,
+        "total": 66
+      },
+      "fakta": [],
+      "catatan": ""
+    },
+    {
+      "topik": "Anak hanya menghafal, bukan memahami",
+      "masalah": "Nilai bagus, tetapi tidak bisa menjelaskan alasan.",
+      "label": "guideline",
+      "angle": "Satu dari empat kesiapan",
+      "arketipe": "A",
+      "skor": {
+        "relevansi": 18,
+        "kebaruan": 20,
+        "fakta": 14,
+        "aset": 12,
+        "momen": 2,
+        "total": 66
+      },
+      "fakta": [],
+      "catatan": ""
+    },
+    {
+      "topik": "Jadwal les bentrok dengan sekolah",
+      "masalah": "Anak kelas 12 padat, les sering batal.",
+      "label": "guideline",
+      "angle": "Jadwal fleksibel",
+      "arketipe": "A",
+      "skor": {
+        "relevansi": 18,
+        "kebaruan": 20,
+        "fakta": 14,
+        "aset": 12,
+        "momen": 2,
+        "total": 66
+      },
+      "fakta": [],
+      "catatan": ""
+    },
+    {
+      "topik": "Kelas online tetap kondusif?",
+      "masalah": "Khawatir anak susah fokus.",
+      "label": "live",
+      "angle": "Sudah tayang",
+      "arketipe": "G",
+      "skor": {
+        "relevansi": 20,
+        "kebaruan": 0,
+        "fakta": 10,
+        "aset": 10,
+        "momen": 2,
+        "total": 42
+      },
+      "fakta": [],
+      "catatan": "Sudah tayang. Tidak dipakai."
+    },
+    {
+      "topik": "Beasiswa studi di Jerman",
+      "masalah": "Orang tua mencari beasiswa.",
+      "label": "live",
+      "angle": "Sudah tayang",
+      "arketipe": "D",
+      "skor": {
+        "relevansi": 20,
+        "kebaruan": 0,
+        "fakta": 5,
+        "aset": 12,
+        "momen": 2,
+        "total": 39
+      },
+      "fakta": [],
+      "catatan": "Mengulang \"Kenali 3 jalur ini\". Tidak dipakai."
+    },
+    {
+      "topik": "Grammar harus langsung dikuasai?",
+      "masalah": "Anak takut grammar.",
+      "label": "live",
+      "angle": "Sudah tayang",
+      "arketipe": "B",
+      "skor": {
+        "relevansi": 15,
+        "kebaruan": 0,
+        "fakta": 10,
+        "aset": 10,
+        "momen": 2,
+        "total": 37
+      },
+      "fakta": [],
+      "catatan": "Sudah tayang. Tidak dipakai."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-03-proof-achievement",
+  "month": "2026-11",
+  "pillar": "proof_achievement",
+  "format": "feed_portrait",
+  "schedule": "Selasa 18:30",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "achievement",
+      "headline": "[headline]",
+      "sub": "[subheadline]",
+      "cta": "[CTA]",
+      "image": {
+        "src": "[assets/stock/... atau foto brand]"
+      },
+      "name": "[nama + izin]"
+    }
+  ]
+}

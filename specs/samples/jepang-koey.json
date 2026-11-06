@@ -1,0 +1,162 @@
+{
+  "brand": "jepang-koey",
+  "slug": "uji-layout",
+  "month": "2026-11",
+  "format": "feed_portrait",
+  "verified_claims": [
+    "garansi"
+  ],
+  "slides": [
+    {
+      "layout": "hero_photo",
+      "headline": "Sudah kerja, tapi ingin cari **peluang di Jepang?**",
+      "sub": "Mulai dari bahasa dan rencana belajar yang tepat.",
+      "cta": "Cek langkah awal",
+      "image": {
+        "src": "assets/stock/openverse-a9f740c8-8df.jpg"
+      },
+      "mascot": "cewe-say-hi"
+    },
+    {
+      "layout": "mascot_hero",
+      "headline": "Cuma punya 30 menit per hari?",
+      "sub": "Begini cara konsisten belajar bahasa Jepang sambil kerja.",
+      "benefits": [
+        "Laporan perkembangan transparan setiap level",
+        "Garansi mengulang kelas apabila belum lulus ujian sertifikasi, dengan S&K berlaku"
+      ],
+      "cta": "Simpan panduannya",
+      "image": {
+        "src": "assets/stock/openverse-a9f740c8-8df.jpg"
+      },
+      "mascot": "cowo-melipat-tangan"
+    },
+    {
+      "layout": "score_infographic",
+      "headline": "Perbandingan **nilai awal & akhir** siswa",
+      "sub": "Kelas Platinum N5–N4",
+      "tableTitle": "Hasil Belajar",
+      "rows": [
+        {
+          "skill": "Mendengar / Chōkai",
+          "before": "89.0",
+          "after": "89.0",
+          "note": "Pertahankan kecepatan tangkap"
+        },
+        {
+          "skill": "Membaca / Dokkai",
+          "before": "90.0",
+          "after": "93.0",
+          "note": "Cepat memahami pola kalimat"
+        },
+        {
+          "skill": "Menulis / Sakubun",
+          "after": "92.0",
+          "note": "Lancar menyusun tata bahasa"
+        },
+        {
+          "skill": "Berbicara / Kaiwa",
+          "after": "93.0",
+          "note": "Mampu merespons dengan tepat"
+        }
+      ],
+      "cta": "Lihat alur kelas"
+    },
+    {
+      "layout": "story_card",
+      "headline": "Belajar sambil kerja itu **realistis.**",
+      "quote": "[kutipan asli peserta + izin]",
+      "sub": "Dengar proses, kendala, dan tips dari peserta kelas.",
+      "cta": "Lihat cerita mereka",
+      "image": {
+        "src": "assets/stock/openverse-be224b0f-981.jpg"
+      },
+      "name": "[Nama Siswa]",
+      "role": "Siswa"
+    },
+    {
+      "layout": "achievement",
+      "eyebrow": "Student Achievement",
+      "headline": "Lulus JFT Basic A2",
+      "sub": "Satu langkah dalam rencana belajarnya.",
+      "cta": "Konsultasikan target belajarmu",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      },
+      "name": "[Nama Siswa]"
+    },
+    {
+      "layout": "tutor_profile",
+      "headline": "Bingung bedanya **JLPT dan JFT-Basic?**",
+      "name": "[Nama Sensei]",
+      "role": "Tutor Jepang Koey by OTCA",
+      "credentials": [
+        "[kredensial terverifikasi]"
+      ],
+      "cta": "Simpan panduannya",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      }
+    },
+    {
+      "layout": "program_value",
+      "headline": "Fondasi kuat, kemampuan bahasa Jepang meningkat",
+      "sub": "Mulai dari dasar hingga level berikutnya dengan pendampingan tutor.",
+      "guarantee": "**Garansi mengulang kelas** jika tidak lulus ujian JLPT/JFT (S&K berlaku)",
+      "benefits": [
+        "Japan Career Blueprint",
+        "Kelas persiapan SSW/TG",
+        "Simulasi ujian JLPT/JFT"
+      ],
+      "cta": "Lihat alur kelas",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      }
+    },
+    {
+      "layout": "price_table",
+      "headline": "Diskusikan kelas yang cocok dengan targetmu",
+      "sub": "Platinum N5–N4 atau Private 24–48 jam",
+      "tiers": [
+        {
+          "name": "Platinum",
+          "price": "[harga]"
+        },
+        {
+          "name": "Private 24",
+          "price": "[harga]",
+          "featured": true
+        },
+        {
+          "name": "Private 48",
+          "price": "[harga]"
+        }
+      ],
+      "features": [
+        "Laporan progres tiap level",
+        "Jadwal sesuai kelas"
+      ],
+      "cta": "Konsultasikan target belajarmu"
+    },
+    {
+      "layout": "numbered_list",
+      "headline": "Pulang kerja capek, **kapan sempat belajar?**",
+      "items": [
+        {
+          "title": "Tentukan target kecil",
+          "text": "Mulai dari yang bisa konsisten"
+        },
+        {
+          "title": "Pakai 30 menit sehari",
+          "text": "Tidak harus 3 jam"
+        },
+        {
+          "title": "Pantau progres",
+          "text": "Lihat level dan latihan tiap minggu"
+        }
+      ],
+      "cta": "Simpan panduannya",
+      "mascot": "cowo-melipat-tangan"
+    }
+  ]
+}

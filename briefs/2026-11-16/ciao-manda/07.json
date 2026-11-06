@@ -1,0 +1,41 @@
+{
+  "brand": "ciao-manda",
+  "minggu": "2026-11-16",
+  "slot": 7,
+  "topik": "Atasan Bicara Cepat? Minta Ulang dengan Sopan",
+  "angle": "3 kalimat minta ulang dan konfirmasi dengan sopan",
+  "arketipe": "B",
+  "situasi": "Atasan bicara cepat, takut salah tangkap instruksi.",
+  "pesan": "Lebih baik konfirmasi daripada menebak.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: atasan bicara cepat."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola 3 Langkah Menyapa Klien: kartu putih berlabel."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Penutup: maskot di tengah, judul merah putih, tombol."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "请再说一遍、请说慢一点、我理解的是……，对吗？",
+      "sumber": "Ungkapan kantor umum; hanzi, pinyin, dan arti wajib dicek tutor Ciao Manda",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Kalimat Mandarin wajib dicek tutor."
+  ]
+}

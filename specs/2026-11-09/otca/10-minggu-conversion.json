@@ -1,0 +1,34 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-09-10-conversion",
+  "month": "2026-11",
+  "pillar": "conversion",
+  "format": "feed_portrait",
+  "schedule": "Minggu 19:00",
+  "caption": "PRINCE 60 - Online\n60 jam coaching + extra 2 jam\nRp 9.900.000\n\n- Private 1-on-1\n- Jadwal fleksibel\n- Fokus target\n\nSesuai jadwal. Sesuai kebutuhan. Sesuai target.\nDaftar 1-on-1 sekarang melalui DM atau www.otca.co.id.\n\n#KursusBahasaJerman #StudiDiJerman #OTCA",
+  "verified_claims": [
+    "9.900.000",
+    "60",
+    "2"
+  ],
+  "slides": [
+    {
+      "layout": "price_table",
+      "headline": "PRINCE 60 **Online**",
+      "sub": "60 jam coaching + extra 2 jam",
+      "tiers": [
+        {
+          "name": "PRINCE 60 - Online",
+          "price": "Rp 9.900.000",
+          "featured": true
+        }
+      ],
+      "features": [
+        "Private 1-on-1",
+        "Jadwal fleksibel",
+        "Fokus target"
+      ],
+      "cta": "Daftar 1-on-1 sekarang"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-09-09-program-value",
+  "month": "2026-11",
+  "pillar": "program_value",
+  "format": "feed_portrait",
+  "schedule": "Sabtu 11:00",
+  "caption": "Tuntaskan bahasa Jerman anak dengan pembelajaran personal dan terarah.\n\n- Coaching privat 1-on-1 secara online, sesuai kecepatan anak.\n- Jadwal fleksibel, menyesuaikan kesibukan sekolah.\n- Progres belajar terukur dan dapat dipantau orang tua.\n\nSesuai jadwal. Sesuai kebutuhan. Sesuai target.\n\nKonsultasi dengan Tim OTCA.\n\n#KursusBahasaJerman #StudiDiJerman #OTCA",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "program_value",
+      "headline": "Tuntaskan bahasa Jerman anak dengan **pembelajaran personal**",
+      "guarantee": "Sesuai jadwal. Sesuai kebutuhan. Sesuai target.",
+      "benefits": [
+        "Private 1-on-1 online",
+        "Jadwal fleksibel",
+        "Progres terukur, dapat dipantau orang tua"
+      ],
+      "cta": "Konsultasi dengan Tim OTCA",
+      "image": {
+        "src": "assets/stock/openverse-49eac6aa-885.jpg"
+      }
+    }
+  ]
+}

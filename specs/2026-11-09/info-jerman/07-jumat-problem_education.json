@@ -1,0 +1,21 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-09-07-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "caption": "Masih bekerja sambil menyiapkan Ausbildung?\n\nAtur ritmenya:\n- Tentukan jam belajar tetap setiap minggu.\n- Fokus selesaikan satu level sebelum lanjut.\n- Ukur progres di akhir setiap level.\n\nKonsultasikan target belajarmu dengan tim Info Jerman lewat DM.\n\n#Ausbildung #BelajarSambilKerja #InfoJerman",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "hero_photo",
+      "headline": "Kerja sambil siapkan Ausbildung? **Atur ritmenya.**",
+      "sub": "Tentukan jam belajar tetap tiap minggu, lalu ukur progres per level.",
+      "cta": "Konsultasikan target belajarmu",
+      "image": {
+        "src": "assets/stock/openverse-b90b48bd-5f3.jpg"
+      }
+    }
+  ]
+}

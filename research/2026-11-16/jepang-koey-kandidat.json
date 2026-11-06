@@ -1,0 +1,114 @@
+{
+ "brand": "jepang-koey",
+ "minggu": "2026-11-16",
+ "diriset": "2026-11-05",
+ "kandidat": [
+  {
+   "topik": "Cuma punya 30 menit per hari",
+   "masalah": "Pulang kerja capek, waktu belajar sebentar",
+   "label": "guideline",
+   "angle": "Bagi 30 menit jadi 3 sesi",
+   "arketipe": "A",
+   "skor": {
+    "relevansi": 28,
+    "kebaruan": 22,
+    "fakta": 5,
+    "aset": 14,
+    "momen": 3,
+    "total": 72
+   },
+   "fakta": [],
+   "catatan": "Tips, tanpa klaim hasil."
+  },
+  {
+   "topik": "Sudah lulus N4, cukup buat SSW?",
+   "masalah": "Mengira ujian bahasa saja cukup",
+   "label": "guideline",
+   "angle": "Dua syarat SSW (i)",
+   "arketipe": "D",
+   "skor": {
+    "relevansi": 28,
+    "kebaruan": 20,
+    "fakta": 20,
+    "aset": 12,
+    "momen": 5,
+    "total": 85
+   },
+   "fakta": [
+    {
+     "klaim": "SSW (i): lulus ujian keterampilan bidang, serta JFT-Basic atau JLPT N4 ke atas; lulusan Technical Intern Training (ii) umumnya bebas ujian; perawat dan pengemudi punya syarat bahasa tambahan",
+     "sumber": "Portal resmi SSW Jepang, Steps to Working in Japan",
+     "url": "https://www.ssw.go.jp/en/about/step/",
+     "dibaca": true,
+     "kutipan": ""
+    },
+    {
+     "klaim": "Masa tinggal SSW maksimal 5 tahun, diberikan bertahap",
+     "sumber": "Portal resmi SSW Jepang, FAQ",
+     "url": "https://www.ssw.go.jp/en/faq/",
+     "dibaca": true,
+     "kutipan": ""
+    },
+    {
+     "klaim": "JFT-Basic: tes berbasis komputer dari Japan Foundation",
+     "sumber": "Japan Foundation, About JFT-Basic",
+     "url": "https://www.jpf.go.jp/jft-basic/e/about/index.html",
+     "dibaca": true,
+     "kutipan": ""
+    }
+   ],
+   "catatan": "Jumlah bidang tidak ditulis: sumber menyebut 16 dan 19."
+  },
+  {
+   "topik": "Sapaan hari pertama kerja",
+   "masalah": "Bingung bilang apa di kantor",
+   "label": "hipotesis",
+   "angle": "4 sapaan kantor",
+   "arketipe": "B",
+   "skor": {
+    "relevansi": 25,
+    "kebaruan": 24,
+    "fakta": 8,
+    "aset": 12,
+    "momen": 3,
+    "total": 72
+   },
+   "fakta": [],
+   "catatan": "Tulisan Jepang dicek tutor."
+  },
+  {
+   "topik": "Platinum N5–N4 atau Private 24–48 jam?",
+   "masalah": "Bingung pilih kelas",
+   "label": "guideline",
+   "angle": "Bandingkan cara belajar dan jadwal",
+   "arketipe": "E",
+   "skor": {
+    "relevansi": 25,
+    "kebaruan": 20,
+    "fakta": 15,
+    "aset": 12,
+    "momen": 3,
+    "total": 75
+   },
+   "fakta": [],
+   "catatan": "Tanpa harga."
+  },
+  {
+   "topik": "Bonus persiapan dan garansi",
+   "masalah": "Belum tahu dapat apa",
+   "label": "live",
+   "angle": "Bonus tanpa harga",
+   "arketipe": "I",
+   "skor": {
+    "relevansi": 22,
+    "kebaruan": 14,
+    "fakta": 10,
+    "aset": 14,
+    "momen": 5,
+    "total": 65
+   },
+   "fakta": [],
+   "catatan": "\"Senilai jutaan rupiah\" tidak dipakai."
+  }
+ ]
+}

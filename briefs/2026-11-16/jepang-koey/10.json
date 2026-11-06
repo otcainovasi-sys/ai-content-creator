@@ -1,0 +1,32 @@
+{
+  "brand": "jepang-koey",
+  "minggu": "2026-11-16",
+  "slot": 10,
+  "topik": "Mulai Persiapanmu dari Sekarang",
+  "angle": "Bonus persiapan dan garansi, tanpa harga",
+  "arketipe": "I",
+  "situasi": "Mau mulai tapi belum tahu dapat apa saja.",
+  "pesan": "Ada konsultasi, materi, dan garansi mengulang kelas (S&K berlaku).",
+  "alur": [
+    {
+      "peran": "single",
+      "layout": "free",
+      "tujuan": "Pola penawaran Choukai: kartu putih, centang, FREE, BONUS, maskot, kartu merah."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "FREE Special Academic Consultation, FREE Premium Learning Material, Garansi Mengulang Kelas (S&K berlaku)",
+      "sumber": "Post penawaran live Jepang Koey",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Bonus dari post live; cek masih berlaku.",
+    "Harga belum ada."
+  ]
+}

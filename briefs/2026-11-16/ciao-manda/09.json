@@ -1,0 +1,48 @@
+{
+  "brand": "ciao-manda",
+  "minggu": "2026-11-16",
+  "slot": 9,
+  "topik": "Jadwal Kerja Padat, Kapan Belajar Mandarinnya?",
+  "angle": "Kelas privat yang mengikuti jadwal kerja",
+  "arketipe": "H",
+  "situasi": "Jadwal kerja padat, susah ikut kelas tetap.",
+  "pesan": "Private 24 atau 48 jam, dengan laporan belajar untuk memantau progres.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: jadwal padat."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Kenapa Daftar Sekarang: judul kerangka, kartu ikon, maskot."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Penutup: maskot di tengah, judul, tombol."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Mandarin Private 24 Jam dan 48 Jam",
+      "sumber": "knowledge/brands/ciao-manda/products.json",
+      "url": "",
+      "check": false
+    },
+    {
+      "klaim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+      "sumber": "Post live Ciao Manda",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Fitur dari post live perlu dicek.",
+    "Harga belum ada."
+  ]
+}

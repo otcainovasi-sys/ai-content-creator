@@ -1,0 +1,427 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-16-01-senin",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Senin 10:00",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+    "position": "center 45%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 24,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 89,
+    "catatan": "Situasi kantor spesifik. Hanzi dan pinyin wajib dicek tutor."
+  },
+  "brief": {
+    "problem": "Bos minta revisi mendadak, bingung membalas dengan sopan.",
+    "angle": "3 kalimat siap pakai saat diminta revisi",
+    "key_message": "Terima, tanyakan bagian yang diubah, lalu beri tenggat.",
+    "audience": "Pekerja 25–40 tahun di perusahaan China (manufaktur, logistik, IT), berinteraksi dengan atasan atau partner Tiongkok",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "好的，我马上改。请问，哪里需要修改？我今天下班前发给您。您 lebih sopan dari 你",
+        "source": "Ungkapan kantor umum; hanzi, pinyin, dan arti wajib dicek tutor Ciao Manda",
+        "url": "",
+        "check": true
+      },
+      {
+        "claim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+        "source": "Post live Ciao Manda",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Kalimat Mandarin wajib dicek tutor."
+    ],
+    "references": [
+      "Carousel live 3 Langkah Menyapa Klien Tiongkok",
+      "Kartu Kenapa Daftar Sekarang"
+    ]
+  },
+  "caption": "Bos minta revisi mendadak? Coba balas dengan tiga kalimat ini:\n\n1. 好的，我马上改。(Hǎo de, wǒ mǎshàng gǎi.) Baik, saya segera revisi.\n2. 请问，哪里需要修改？(Qǐngwèn, nǎlǐ xūyào xiūgǎi?) Maaf, bagian mana yang perlu diubah?\n3. 我今天下班前发给您。(Wǒ jīntiān xiàbān qián fā gěi nín.) Saya kirim sebelum pulang kerja hari ini.\n\nPakai 您 (nín) untuk atasan, karena lebih sopan dari 你 (nǐ).\n\nSimpan buat dipakai di kantor. Mau latihan bareng tutor? Klik link di bio.\n\n#BelajarMandarin #MandarinKantor #CiaoManda",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-e493ecc2-2df.jpg",
+        "position": "40% 50%",
+        "zoom": 1.1
+      },
+      "intent": "Hook: revisi mendadak.",
+      "headline": "Bos Minta Revisi Mendadak? Balas Pakai 3 Kalimat Ini",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 28,
+          "y": 0,
+          "w": 44,
+          "h": 66,
+          "id": "cewe-say-hi",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 8,
+          "w": 30,
+          "h": 15,
+          "id": "c-bubble-haode",
+          "z": 3,
+          "r": -6
+        },
+        {
+          "k": "icon",
+          "x": 70,
+          "y": 4,
+          "w": 30,
+          "h": 15,
+          "id": "c-bubble-shoudao",
+          "z": 3,
+          "r": 5
+        },
+        {
+          "k": "icon",
+          "x": 72,
+          "y": 26,
+          "w": 26,
+          "h": 22,
+          "id": "c-memo",
+          "z": 3,
+          "r": 8
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 60,
+          "w": 100,
+          "h": 22,
+          "t": "Bos Minta Revisi Mendadak? Balas Pakai 3 Kalimat Ini",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 46,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 9,
+          "t": "Simpan buat dipakai di kantor.",
+          "align": "left",
+          "color": "white",
+          "min": 27,
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Pola 3 Langkah Menyapa Klien: kartu putih berlabel.",
+      "headline": "3 Kalimat Saat Bos Minta Revisi",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6,
+          "w": 100,
+          "h": 9,
+          "t": "3 Kalimat Saat Bos Minta Revisi",
+          "variant": "duo",
+          "align": "center",
+          "max": 54,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "step",
+          "num": 1,
+          "x": 2,
+          "y": 19,
+          "w": 96,
+          "h": 22,
+          "head": "Menerima permintaan",
+          "t": "“**好的，我马上改。**” (Hǎo de, wǒ mǎshàng gǎi.) Baik, saya segera revisi.",
+          "max": 31
+        },
+        {
+          "k": "step",
+          "num": 2,
+          "x": 2,
+          "y": 44,
+          "w": 96,
+          "h": 22,
+          "head": "Menanyakan bagian yang diubah",
+          "t": "“**请问，哪里需要修改？**” (Qǐngwèn, nǎlǐ xūyào xiūgǎi?) Maaf, bagian mana yang perlu diubah?",
+          "max": 31
+        },
+        {
+          "k": "step",
+          "num": 3,
+          "x": 2,
+          "y": 69,
+          "w": 96,
+          "h": 22,
+          "head": "Memberi tenggat",
+          "t": "“**我今天下班前发给您。**” (Wǒ jīntiān xiàbān qián fā gěi nín.) Saya kirim sebelum pulang kerja hari ini.",
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Kartu tips berikon, maskot menumpang di tepi kartu.",
+      "headline": "Biar balasanmu terdengar sopan",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 13,
+          "t": "Biar Balasanmu Terdengar Sopan",
+          "variant": "duo",
+          "align": "center",
+          "max": 58,
+          "min": 40,
+          "color": "outline"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 16.5,
+          "w": 100,
+          "h": 9,
+          "t": "Kalimat yang sama bisa terasa beda kalau sapaannya salah.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 31
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 0,
+          "y": 28,
+          "w": 68,
+          "h": 46
+        },
+        {
+          "k": "text",
+          "x": 3,
+          "y": 30,
+          "w": 64,
+          "h": 6,
+          "t": "**Ingat 2 hal ini**",
+          "align": "left",
+          "color": "accent",
+          "min": 32,
+          "max": 38
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 41.0,
+          "w": 13,
+          "h": 10,
+          "id": "c-bubble-nin",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 38,
+          "w": 46,
+          "h": 16,
+          "t": "Pakai **您 (nín)** untuk atasan, lebih sopan dari 你 (nǐ).",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 59.0,
+          "w": 13,
+          "h": 10,
+          "id": "c-alarm",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 56,
+          "w": 46,
+          "h": 16,
+          "t": "Sebut waktunya jelas, misalnya **下班前** (xiàbān qián): sebelum pulang kerja.",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "mascot",
+          "x": 62,
+          "y": 24,
+          "w": 38,
+          "h": 60,
+          "id": "cewe-say-hi",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Penutup Kenapa Daftar Sekarang.",
+      "headline": "Siap Pakai Mandarin di Kantor?",
+      "cta": "Klik link di Bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 13,
+          "t": "Siap Pakai Mandarin di Kantor?",
+          "variant": "duo",
+          "align": "center",
+          "max": 56,
+          "min": 40,
+          "color": "outline"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 16,
+          "w": 100,
+          "h": 9,
+          "t": "Latihan kalimat kantor lebih cepat lancar kalau ada yang mengoreksi.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 31
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 0,
+          "y": 28,
+          "w": 68,
+          "h": 47
+        },
+        {
+          "k": "text",
+          "x": 3,
+          "y": 30,
+          "w": 64,
+          "h": 6,
+          "t": "**Kenapa Daftar Sekarang?**",
+          "align": "left",
+          "color": "accent",
+          "min": 32,
+          "max": 38
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 39.5,
+          "w": 13,
+          "h": 10,
+          "id": "c-chat",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 37,
+          "w": 46,
+          "h": 15,
+          "t": "Dapatkan juga Bonus **Business Conversation with Native** dan Gratis Simulasi Ujian HSK.",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 56.5,
+          "w": 13,
+          "h": 10,
+          "id": "c-hand-point",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 54,
+          "w": 46,
+          "h": 15,
+          "t": "Latihan bareng tutor Ciao Manda. **Klik link di Bio!**",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "mascot",
+          "x": 62,
+          "y": 26,
+          "w": 38,
+          "h": 60,
+          "id": "cewe-dm",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 88,
+          "w": 100,
+          "h": 8,
+          "t": "Simpan postingan ini buat dipakai di kantor.",
+          "align": "center",
+          "color": "white",
+          "min": 27,
+          "max": 31
+        }
+      ]
+    }
+  ]
+}

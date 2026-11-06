@@ -1,0 +1,166 @@
+{
+  "brand": "ciao-manda",
+  "slug": "uji-layout",
+  "month": "2026-11",
+  "format": "feed_portrait",
+  "verified_claims": [
+    "garansi",
+    "6.890.000",
+    "6.590.000",
+    "6.390.000",
+    "8.990.000"
+  ],
+  "slides": [
+    {
+      "layout": "hero_photo",
+      "headline": "Bos China minta **revisi lagi?**",
+      "sub": "3 kalimat untuk memberi update kerja dengan jelas.",
+      "cta": "Simpan untuk dipakai di kantor",
+      "image": {
+        "src": "assets/stock/openverse-3dcdb607-02a.jpg"
+      },
+      "mascot": "cewe-say-hi"
+    },
+    {
+      "layout": "mascot_hero",
+      "headline": "Atasan bicara cepat saat briefing?",
+      "sub": "Belajar respons yang sopan.",
+      "benefits": [
+        "Latihan komunikasi bisnis bareng native",
+        "Garansi mengulang kelas jika tidak lulus ujian HSK (S&K berlaku)"
+      ],
+      "cta": "DM KANTOR untuk cek kelas",
+      "image": {
+        "src": "assets/stock/openverse-3dcdb607-02a.jpg"
+      },
+      "mascot": "cowo-pointing"
+    },
+    {
+      "layout": "score_infographic",
+      "headline": "Gimana cara **pantau progres** belajarmu?",
+      "sub": "Melalui laporan belajar bulanan Ciao Manda.",
+      "tableTitle": "Laporan Belajar",
+      "rows": [
+        {
+          "skill": "Mendengar",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        },
+        {
+          "skill": "Membaca",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        },
+        {
+          "skill": "Berbicara",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        }
+      ],
+      "cta": "Simpan untuk dipakai di kantor"
+    },
+    {
+      "layout": "story_card",
+      "headline": "Lebih percaya diri saat **daily meeting.**",
+      "quote": "[kutipan asli + izin]",
+      "cta": "DM KANTOR untuk cek kelas",
+      "image": {
+        "src": "assets/stock/openverse-be224b0f-981.jpg"
+      },
+      "name": "[Nama Siswa]",
+      "role": "Siswa"
+    },
+    {
+      "layout": "achievement",
+      "eyebrow": "Cerita Peserta",
+      "headline": "Lanjut HSK 2 karena jadwal fleksibel",
+      "sub": "Pengalaman peserta Ciao Manda.",
+      "cta": "DM KANTOR untuk cek kelas",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      },
+      "name": "[Nama Siswa]"
+    },
+    {
+      "layout": "tutor_profile",
+      "headline": "Bagaimana pekerja full-time bisa **efektif belajar Mandarin?**",
+      "name": "Nia Laoshi",
+      "role": "Tutor Ciao Manda by OTCA",
+      "credentials": [
+        "HSK 5",
+        "Spesialisasi HSK Standar Course"
+      ],
+      "cta": "DM KANTOR untuk cek kelas",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      }
+    },
+    {
+      "layout": "program_value",
+      "headline": "Persiapan HSK lebih terarah",
+      "sub": "Kuasai materi secara bertahap bersama Ciao Manda by OTCA.",
+      "guarantee": "**Garansi mengulang kelas** jika tidak lulus ujian HSK (S&K berlaku)",
+      "benefits": [
+        "Business Conversation Class with Native",
+        "Gratis Simulasi Ujian HSK"
+      ],
+      "cta": "Cek kelas",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      }
+    },
+    {
+      "layout": "price_table",
+      "eyebrow": "Gold Mandarin Deals",
+      "headline": "Unlock your Mandarin potential",
+      "period": "Periode 1–10 November 2026",
+      "tiers": [
+        {
+          "name": "Normal",
+          "price": "6.890.000",
+          "strike": "8.990.000"
+        },
+        {
+          "name": "Super Promo",
+          "price": "6.390.000",
+          "strike": "8.990.000",
+          "featured": true
+        },
+        {
+          "name": "Early Bird",
+          "price": "6.590.000",
+          "strike": "8.990.000"
+        }
+      ],
+      "features": [
+        "Speaking with Native Class",
+        "Garansi mengulang kelas"
+      ],
+      "note": "HSK Level 1–3, durasi 8 bulan",
+      "cta": "DM KANTOR untuk cek kelas"
+    },
+    {
+      "layout": "numbered_list",
+      "headline": "Bos minta update mendadak lewat chat Mandarin?",
+      "items": [
+        {
+          "title": "Konfirmasi instruksi",
+          "text": "Pastikan yang diminta sudah benar"
+        },
+        {
+          "title": "Beri status singkat",
+          "text": "Sebutkan progres dan kendala"
+        },
+        {
+          "title": "Sebutkan estimasi waktu",
+          "text": "Supaya atasan bisa merencanakan"
+        }
+      ],
+      "cta": "Simpan untuk dipakai di kantor",
+      "mascot": "cowo-pointing"
+    }
+  ]
+}

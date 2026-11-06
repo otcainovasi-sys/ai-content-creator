@@ -1,0 +1,126 @@
+{
+  "brand": "ciao-manda",
+  "catatan": "Tanggal tayang belum diketahui. Jenis diperkirakan dari ikon grid; ikon pin menutupi jenis (tidak_terlihat). Pilar dan arketipe diperkirakan.",
+  "items": [
+    {
+      "id": "ciao-manda-live-01",
+      "tanggal": null,
+      "jenis": "tidak_terlihat",
+      "hook": "Belajar Mandarin dari NOL, Tapi Tetap Bisa Ngikutin dengan Lancar!",
+      "topik": "Testimoni Bryant Arya",
+      "pilar": "student_story",
+      "arketipe": "J Bukti",
+      "cta": null,
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-02",
+      "tanggal": null,
+      "jenis": "tidak_terlihat",
+      "hook": "Salah Pengucapan? Tenang, Ada Tutor yang Siap Mengarahkan!",
+      "topik": "Latihan pelafalan",
+      "pilar": "program_value",
+      "arketipe": "L Program",
+      "cta": null,
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-03",
+      "tanggal": null,
+      "jenis": "tidak_terlihat",
+      "hook": "Gold Mandarin Deals: Unlock Your Mandarin Potential",
+      "topik": "Promo 1–10 November",
+      "pilar": "conversion",
+      "arketipe": "K Promo",
+      "cta": null,
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-04",
+      "tanggal": null,
+      "jenis": "carousel",
+      "hook": "Gimana cara pantau progres belajarmu?",
+      "topik": "Laporan belajar bulanan",
+      "pilar": "program_value",
+      "arketipe": "H Fitur produk",
+      "cta": "Klik link di bio",
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-05",
+      "tanggal": null,
+      "jenis": "reels",
+      "hook": "Lanjut HSK 2 karena jadwal fleksibel!",
+      "topik": "Pengalaman Kak Mia",
+      "pilar": "student_story",
+      "arketipe": "reels",
+      "cta": null,
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-06",
+      "tanggal": null,
+      "jenis": "carousel",
+      "hook": "Satu kantor, bisa beda gaji karena Mandarin?",
+      "topik": "Perbandingan gaji karyawan",
+      "pilar": "problem_education",
+      "arketipe": "tidak diketahui",
+      "cta": null,
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-07",
+      "tanggal": null,
+      "jenis": "reels",
+      "hook": "Persiapan HSK Lebih Terarah dengan Bimbingan yang Tepat!",
+      "topik": "Persiapan HSK",
+      "pilar": "program_value",
+      "arketipe": "L Program",
+      "cta": null,
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-08",
+      "tanggal": null,
+      "jenis": "tidak_terlihat",
+      "hook": "Kuliah di Kampus Elit Dunia? Ini 3 Universitas Top China & Syarat Lolosnya!",
+      "topik": "Tsinghua, Peking, Fudan",
+      "pilar": "problem_education",
+      "arketipe": "E Perbandingan",
+      "cta": "Komen \"MAU\"",
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-09",
+      "tanggal": null,
+      "jenis": "reels",
+      "hook": "Mau Lancar Berbicara dan Menulis? Tutor Bisa Bantu Belajarmu Lebih Mudah!",
+      "topik": "Nia Laoshi",
+      "pilar": "tutor_authority",
+      "arketipe": "reels",
+      "cta": "Klik link di bio",
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    },
+    {
+      "id": "ciao-manda-live-10",
+      "tanggal": null,
+      "jenis": "carousel",
+      "hook": "Salah cari sapaan bisa bikin deals gagal? Ini etiket berkenalan dengan klien China",
+      "topik": "Etiket berkenalan dengan klien",
+      "pilar": "problem_education",
+      "arketipe": "B Daftar padat",
+      "cta": "Klik link di bio",
+      "performa": null,
+      "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+    }
+  ]
+}

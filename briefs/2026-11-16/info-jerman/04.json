@@ -1,0 +1,64 @@
+{
+  "brand": "info-jerman",
+  "minggu": "2026-11-16",
+  "slot": 4,
+  "topik": "Mau Ausbildung, tapi takut gajinya kecil?",
+  "angle": "Angka minimal resmi per tahun, plus catatan brutto dan tarif",
+  "arketipe": "F",
+  "situasi": "Calon Azubi takut gaji Ausbildung kecil, tapi belum tahu angka resminya.",
+  "pesan": "Gaji Ausbildung punya batas minimal resmi yang naik tiap tahun pelatihan.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: takut gaji kecil."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Angka besar di antara pill, seperti Cek 3 Hal ini."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Tangga kenaikan empat tahun."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Kenapa Bisa Berbeda: visual, kartu putih, pill putih, tile."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Dari angka ke kesiapan bahasa, CTA dalam pill."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Mindestausbildungsvergütung untuk Ausbildung yang mulai 2027: 764, 902, 1.031, 1.070 euro per bulan (tahun 1–4)",
+      "sumber": "BIBB, halaman Mindestausbildungsvergütung (diubah 7 Oktober 2026)",
+      "url": "https://www.bibb.de/de/199658.php",
+      "check": false
+    },
+    {
+      "klaim": "Untuk Ausbildung yang mulai 2026: 724 euro per bulan di tahun pertama",
+      "sumber": "BIBB, Pressemitteilung 28/2025",
+      "url": "https://www.bibb.de/de/pressemitteilung_212952.php",
+      "check": false
+    },
+    {
+      "klaim": "Perusahaan yang terikat Tarifvertrag boleh memakai tarif sendiri, termasuk di bawah angka minimal",
+      "sumber": "BIBB, halaman Mindestausbildungsvergütung",
+      "url": "https://www.bibb.de/de/199658.php",
+      "check": false
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Angka brutto; jangan dibaca sebagai uang bersih.",
+    "Perusahaan bertarif bisa memakai angka berbeda; sudah disebut di slide 4."
+  ]
+}

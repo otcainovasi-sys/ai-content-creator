@@ -1,0 +1,31 @@
+{
+  "brand": "ciao-manda",
+  "minggu": "2026-11-16",
+  "slot": 10,
+  "topik": "Mau Kuasai Percakapan & Etiket Bisnis Mandarin Tanpa Canggung?",
+  "angle": "Bonus percakapan bisnis dan simulasi ujian, tanpa harga",
+  "arketipe": "I",
+  "situasi": "Mau mulai kelas tapi ragu manfaatnya buat kerja.",
+  "pesan": "Mulai persiapan Mandarin kerja, dengan bonus kelas percakapan bisnis.",
+  "alur": [
+    {
+      "peran": "single",
+      "layout": "free",
+      "tujuan": "Pola penutup bonus live: panel merah, kartu kutipan, maskot."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+      "sumber": "Post live Ciao Manda",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Bonus dari post live, cek masih berlaku."
+  ]
+}

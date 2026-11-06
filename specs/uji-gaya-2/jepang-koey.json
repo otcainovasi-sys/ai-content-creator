@@ -1,0 +1,163 @@
+{
+  "brand": "jepang-koey",
+  "slug": "uji-gaya-2",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+  "background": {
+    "src": "assets/stock/openverse-9a384aed-861.jpg",
+    "position": "28% center"
+  },
+  "brief": {
+    "problem": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+    "angle": "Uji layout",
+    "key_message": "-",
+    "cta": {
+      "type": "comment",
+      "keyword": "JAPAN"
+    }
+  },
+  "verified_claims": [
+    "garansi"
+  ],
+  "slides": [
+    {
+      "layout": "comment",
+      "role": "cover",
+      "intent": "G",
+      "author": "Pengikut",
+      "comment": "pulang kerja sudah capek, kapan sempat belajar bahasa Jepang?",
+      "headline": "Pulang kerja capek, **kapan sempat belajar?**",
+      "sub": "Mulai dari target kecil yang konsisten.",
+      "scene": "jadwal"
+    },
+    {
+      "layout": "compare",
+      "role": "point",
+      "intent": "E",
+      "headline": "Pilih kelas sesuai **ritme kerjamu**",
+      "columns": [
+        {
+          "title": "Platinum N5–N4",
+          "icon": "books",
+          "rows": [
+            {
+              "label": "Format",
+              "text": "Kelas grup interaktif"
+            },
+            {
+              "label": "Cocok untuk",
+              "text": "Belajar bersama peserta lain"
+            }
+          ]
+        },
+        {
+          "title": "Private 24–48 Jam",
+          "icon": "laptop",
+          "rows": [
+            {
+              "label": "Format",
+              "text": "Kelas privat 1-on-1"
+            },
+            {
+              "label": "Cocok untuk",
+              "text": "Jadwal fleksibel"
+            }
+          ]
+        }
+      ],
+      "punch": "Diskusikan kelas yang paling cocok dengan targetmu"
+    },
+    {
+      "layout": "feature",
+      "role": "point",
+      "intent": "H",
+      "headline": "Seperti apa kelas online **Jepang Koey?**",
+      "screen": {
+        "src": "assets/brands/info-jerman/ui/portal-sample.png"
+      },
+      "steps": [
+        "Sensei mendampingi",
+        "Latihan per level",
+        "Progres terpantau"
+      ],
+      "flow": [
+        "Kelas",
+        "Latihan",
+        "Progres"
+      ]
+    },
+    {
+      "layout": "proof",
+      "role": "single",
+      "intent": "J",
+      "headline": "Wall of **Success**",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      },
+      "name": "Nama Siswa",
+      "label": "Contoh penempatan",
+      "quote": "Kutipan asli siswa tampil di sini, dengan izin.",
+      "cta": "Komen \"JAPAN\""
+    },
+    {
+      "layout": "program",
+      "role": "single",
+      "intent": "L",
+      "headline": "Fondasi kuat, **kemampuan meningkat**",
+      "image": {
+        "src": "assets/stock/openverse-c6fc30c0-cf5.jpg"
+      },
+      "imageLabel": "Platinum Class",
+      "guarantee": "**Garansi mengulang kelas** jika tidak lulus ujian JLPT/JFT (S&K berlaku)",
+      "benefits": [
+        {
+          "icon": "compass",
+          "title": "Japan Career Blueprint"
+        },
+        {
+          "icon": "briefcase",
+          "title": "Kelas persiapan SSW/TG"
+        },
+        {
+          "icon": "memo",
+          "title": "Simulasi ujian"
+        }
+      ],
+      "cta": "Komen \"JAPAN\""
+    },
+    {
+      "layout": "promo",
+      "role": "closing",
+      "intent": "K",
+      "headline": "Pilih kelas **yang cocok**",
+      "period": "Contoh periode",
+      "tiers": [
+        {
+          "name": "Contoh harga kelas",
+          "price": "Rp X.XXX.XXX",
+          "featured": true
+        }
+      ],
+      "features": [
+        {
+          "icon": "check",
+          "title": "Konsultasi akademik"
+        },
+        {
+          "icon": "books",
+          "title": "Materi belajar"
+        },
+        {
+          "icon": "gift",
+          "title": "Kelas SSW/TG"
+        }
+      ],
+      "cta": "Komen \"JAPAN\"",
+      "badge": "HEMAT",
+      "ticketIcon": "crown",
+      "ctaNote": "untuk diskusi kelas yang cocok dengan targetmu"
+    }
+  ]
+}

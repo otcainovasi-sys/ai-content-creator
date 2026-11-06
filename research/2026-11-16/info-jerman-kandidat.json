@@ -1,0 +1,164 @@
+{
+ "brand": "info-jerman",
+ "minggu": "2026-11-16",
+ "diriset": "2026-11-05",
+ "kandidat": [
+  {
+   "topik": "Der, die, das nggak harus dihafal satu-satu",
+   "masalah": "Hafalan artikel buyar tiap ketemu kata baru, apalagi pulang kerja capek",
+   "label": "hipotesis",
+   "angle": "Pola akhiran kata yang bisa langsung dipakai",
+   "arketipe": "B",
+   "skor": {
+    "relevansi": 26,
+    "kebaruan": 22,
+    "fakta": 18,
+    "aset": 12,
+    "momen": 4,
+    "total": 82
+   },
+   "fakta": [
+    {
+     "klaim": "Akhiran -ung, -heit, -keit, -schaft, -ion feminin; -chen, -lein neutral; -ling, -ismus maskulin. Hanya membantu sebagian kata.",
+     "sumber": "Duden Learnattack Schülerlexikon, Genus des Substantivs",
+     "url": "https://www.lernhelfer.de/schuelerlexikon/deutsch/artikel/genus-des-substantivs",
+     "dibaca": true,
+     "kutipan": "Endungen helfen, das Genus einiger Substantive zu bestimmen"
+    }
+   ],
+   "catatan": "Bilang terang: pola ini membantu sebagian kata, bukan semua."
+  },
+  {
+   "topik": "Gaji Ausbildung minimal berapa?",
+   "masalah": "Calon Azubi takut gaji tidak cukup, tapi belum tahu angka resminya",
+   "label": "guideline",
+   "angle": "Angka minimal resmi per tahun, plus catatan brutto dan tarif",
+   "arketipe": "F",
+   "skor": {
+    "relevansi": 28,
+    "kebaruan": 22,
+    "fakta": 20,
+    "aset": 10,
+    "momen": 8,
+    "total": 88
+   },
+   "fakta": [
+    {
+     "klaim": "Mindestausbildungsvergütung untuk Ausbildung yang mulai 2027: 764, 902, 1.031, 1.070 euro per bulan (tahun 1–4), brutto",
+     "sumber": "BIBB, halaman Mindestausbildungsvergütung (diubah 7 Oktober 2026)",
+     "url": "https://www.bibb.de/de/199658.php",
+     "dibaca": true,
+     "kutipan": "Ausbildungsjahr 1: 764 Euro"
+    },
+    {
+     "klaim": "Untuk Ausbildung yang mulai 2026: 724, 854, 977, 1.014 euro per bulan (tahun 1–4)",
+     "sumber": "BIBB, Pressemitteilung 28/2025 (13 Oktober 2025)",
+     "url": "https://www.bibb.de/de/pressemitteilung_212952.php",
+     "dibaca": true,
+     "kutipan": "Ausbildungsjahr 1: 724 Euro"
+    },
+    {
+     "klaim": "Perusahaan yang terikat Tarifvertrag boleh memakai tarif sendiri, termasuk di bawah angka minimal",
+     "sumber": "BIBB, halaman Mindestausbildungsvergütung",
+     "url": "https://www.bibb.de/de/199658.php",
+     "dibaca": true,
+     "kutipan": "Tarifgebundene Betriebe dürfen sich an einen Tarifvertrag halten, der unter der Mindestvergütung liegt."
+    }
+   ],
+   "catatan": "Pakai angka 2027 karena penonton yang mulai daftar sekarang kemungkinan mulai 2027. Jangan menghitung biaya hidup tanpa sumber."
+  },
+  {
+   "topik": "Takut ngomong karena takut salah",
+   "masalah": "Paham materi tapi diam saat sesi speaking",
+   "label": "hipotesis",
+   "angle": "3 cara mulai ngomong tanpa nunggu sempurna",
+   "arketipe": "A",
+   "skor": {
+    "relevansi": 27,
+    "kebaruan": 23,
+    "fakta": 5,
+    "aset": 12,
+    "momen": 3,
+    "total": 70
+   },
+   "fakta": [],
+   "catatan": "Tips praktik, tanpa klaim angka."
+  },
+  {
+   "topik": "Kursus bukan cuma dikasih materi",
+   "masalah": "Pernah ikut kursus yang cuma kirim modul",
+   "label": "live",
+   "angle": "Apa saja yang didapat di kelas Platinum A1–B1",
+   "arketipe": "H",
+   "skor": {
+    "relevansi": 25,
+    "kebaruan": 12,
+    "fakta": 15,
+    "aset": 14,
+    "momen": 4,
+    "total": 70
+   },
+   "fakta": [],
+   "catatan": "Fitur dari post live; Kak Pandu sudah tayang sebagai Reels, angle beda: daftar fasilitas."
+  },
+  {
+   "topik": "Garansi mengulang kelas",
+   "masalah": "Takut biaya kursus hangus kalau gagal ujian",
+   "label": "live",
+   "angle": "Garansi sebagai pengaman, S&K berlaku",
+   "arketipe": "I",
+   "skor": {
+    "relevansi": 24,
+    "kebaruan": 15,
+    "fakta": 12,
+    "aset": 12,
+    "momen": 6,
+    "total": 69
+   },
+   "fakta": [],
+   "catatan": "Harga promo kedaluwarsa 10 November, jadi tidak menampilkan harga."
+  },
+  {
+   "topik": "Goethe atau telc, pilih yang mana?",
+   "masalah": "Bingung pilih lembaga ujian",
+   "label": "guideline",
+   "angle": "Bandingkan format, bukan mana yang lebih mudah",
+   "arketipe": "E",
+   "skor": {
+    "relevansi": 24,
+    "kebaruan": 20,
+    "fakta": 0,
+    "aset": 10,
+    "momen": 4,
+    "total": 58
+   },
+   "fakta": [],
+   "catatan": "Belum riset sumber resmi. Minggu depan."
+  },
+  {
+   "topik": "Sudah kuliah, masih bisa Ausbildung?",
+   "masalah": "Lulusan S1 ragu ikut Ausbildung",
+   "label": "hipotesis",
+   "angle": "Ausbildung bukan hanya untuk lulusan SMA",
+   "arketipe": "D",
+   "skor": {
+    "relevansi": 25,
+    "kebaruan": 22,
+    "fakta": 0,
+    "aset": 10,
+    "momen": 3,
+    "total": 60
+   },
+   "fakta": [
+    {
+     "klaim": "Visa Ausbildung umumnya meminta bahasa Jerman B1; bisa diganti konfirmasi dari perusahaan",
+     "sumber": "Make it in Germany (ringkasan pencarian, halaman meminta verifikasi browser)",
+     "url": "https://www.make-it-in-germany.com/en/visa-residence/types/training",
+     "dibaca": false,
+     "kutipan": ""
+    }
+   ],
+   "catatan": "Butuh sumber resmi yang terbaca langsung."
+  }
+ ]
+}

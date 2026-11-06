@@ -1,0 +1,81 @@
+{
+  "_catatan": "Setiap skema = warna bagian ikon terbesar, kedua, dan ketiga. Warna utama selalu warna brand atau putih keabu-abuan; hitam/charcoal hanya aksen ketiga. Skema diputar antar-ikon. Semua warna dari brand guideline.",
+  "otca": [
+    [
+      "#CB9D31",
+      "#E4E5E8",
+      "#3A3A3A"
+    ],
+    [
+      "#B3822C",
+      "#FDF1A4",
+      "#3A3A3A"
+    ],
+    [
+      "#CB9D31",
+      "#FDF1A4",
+      "#E4E5E8"
+    ]
+  ],
+  "info-jerman": [
+    [
+      "#25272B",
+      "#F3CF45",
+      "#F7F1E2"
+    ],
+    [
+      "#F3CF45",
+      "#25272B",
+      "#F7F1E2"
+    ],
+    [
+      "#25272B",
+      "#F7F1E2",
+      "#F3CF45"
+    ]
+  ],
+  "jepang-koey": [
+    [
+      "#D71920",
+      "#E4E5E8",
+      "#20252B"
+    ],
+    [
+      "#DADCE0",
+      "#D71920",
+      "#20252B"
+    ],
+    [
+      "#EAF1F5",
+      "#D71920",
+      "#E8B957"
+    ],
+    [
+      "#D71920",
+      "#FFFFFF",
+      "#E8B957"
+    ]
+  ],
+  "ciao-manda": [
+    [
+      "#BD2331",
+      "#E8E2DA",
+      "#D4A65C"
+    ],
+    [
+      "#DDD6CC",
+      "#BD2331",
+      "#79202A"
+    ],
+    [
+      "#79202A",
+      "#D4A65C",
+      "#F8F6F2"
+    ],
+    [
+      "#BD2331",
+      "#F8F6F2",
+      "#79202A"
+    ]
+  ]
+}

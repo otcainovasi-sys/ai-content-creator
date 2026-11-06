@@ -1,0 +1,46 @@
+{
+  "brand": "info-jerman",
+  "minggu": "2026-11-16",
+  "slot": 7,
+  "topik": "Paham materinya, tapi diam pas disuruh ngomong?",
+  "angle": "3 cara mulai ngomong tanpa nunggu sempurna",
+  "arketipe": "A",
+  "situasi": "Paham materi, tapi diam setiap sesi speaking karena takut salah.",
+  "pesan": "Rasa takut berkurang kalau latihan ngomong dibuat kecil dan rutin.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: diam saat speaking."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola tips live: pill, visual besar, pill putih, 3 tile, pill gelap."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Angka 3 raksasa di antara pill, kartu putih detail."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Maskot, kartu putih fitur, CTA dalam pill."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Speaking with Native termasuk fasilitas kelas",
+      "sumber": "Post promo live Info Jerman (tangkapan 5 Nov 2026)",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Speaking with Native dari post promo; pastikan masih termasuk kelas."
+  ]
+}

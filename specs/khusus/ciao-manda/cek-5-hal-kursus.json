@@ -1,0 +1,279 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-cek-5-hal-kursus",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Belum dijadwalkan",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+    "position": "center 45%"
+  },
+  "verified_claims": [],
+  "brief": {
+    "problem": "Pekerja ingin kursus Mandarin tapi bingung menilai kelas sebelum membayar.",
+    "angle": "Lima hal yang perlu ditanyakan sebelum daftar",
+    "key_message": "Pilih kelas dari kebutuhan kerja, jadwal, dan cara memantau progres.",
+    "audience": "Pekerja 25-40 tahun di perusahaan China",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [],
+    "risks": [
+      "Tips umum, tanpa angka atau klaim produk."
+    ],
+    "references": [
+      "Carousel live 3 Langkah Menyapa Klien Tiongkok"
+    ]
+  },
+  "caption": "Mau daftar kursus Mandarin? Tanyakan lima hal ini dulu:\n\n1. Tujuan belajarmu\n2. Levelmu sekarang\n3. Jadwal kelas\n4. Materi kelas\n5. Cara memantau progres\n\nMasih bingung pilih kelas? Klik link di bio.\n\n#BelajarMandarin #MandarinKantor #CiaoManda",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-d88bef86-ac9.jpg",
+        "position": "center 30%"
+      },
+      "intent": "Hook: cek sebelum daftar.",
+      "headline": "Sebelum Daftar Kursus Mandarin, Cek 5 Hal Ini",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 26,
+          "y": 0,
+          "w": 46,
+          "h": 66,
+          "id": "cowo-pointing",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 70,
+          "y": 6,
+          "w": 26,
+          "h": 22,
+          "id": "c-clipboard",
+          "z": 3,
+          "r": 8
+        },
+        {
+          "k": "icon",
+          "x": 2,
+          "y": 22,
+          "w": 24,
+          "h": 20,
+          "id": "c-magnifier",
+          "z": 3,
+          "r": -6
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 60,
+          "w": 100,
+          "h": 22,
+          "t": "Sebelum Daftar Kursus Mandarin, Cek 5 Hal Ini",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 46,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 77,
+          "w": 100,
+          "h": 9,
+          "t": "Biar biaya dan waktumu nggak terbuang.",
+          "align": "left",
+          "color": "white",
+          "min": 27,
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Kartu berlabel: kebutuhan.",
+      "headline": "Mulai dari Kebutuhanmu",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6,
+          "w": 100,
+          "h": 9,
+          "t": "Mulai dari Kebutuhanmu",
+          "variant": "duo",
+          "align": "center",
+          "max": 54,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "step",
+          "num": 1,
+          "x": 2,
+          "y": 19,
+          "w": 96,
+          "h": 22,
+          "head": "Tujuan belajar",
+          "t": "**Buat meeting, chat WeChat, atau ujian HSK?** Tiap tujuan butuh materi yang beda.",
+          "max": 31
+        },
+        {
+          "k": "step",
+          "num": 2,
+          "x": 2,
+          "y": 44,
+          "w": 96,
+          "h": 22,
+          "head": "Level sekarang",
+          "t": "**Mulai dari nol atau sudah bisa dasar?** Tanya kamu cocok masuk kelas yang mana.",
+          "max": 31
+        },
+        {
+          "k": "step",
+          "num": 3,
+          "x": 2,
+          "y": 69,
+          "w": 96,
+          "h": 22,
+          "head": "Jadwal kelas",
+          "t": "**Cocok dengan jam kerjamu?** Cek juga kalau kamu sering lembur atau kerja shift.",
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Kartu berlabel: isi kelas, maskot di bawah.",
+      "headline": "Lalu Cek Isi Kelasnya",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6,
+          "w": 100,
+          "h": 9,
+          "t": "Lalu Cek Isi Kelasnya",
+          "variant": "duo",
+          "align": "center",
+          "max": 54,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "step",
+          "num": 4,
+          "x": 2,
+          "y": 19,
+          "w": 96,
+          "h": 22,
+          "head": "Materi kelas",
+          "t": "**Ada latihan situasi kantor?** Misalnya lapor ke atasan dan konfirmasi instruksi.",
+          "max": 31
+        },
+        {
+          "k": "step",
+          "num": 5,
+          "x": 2,
+          "y": 44,
+          "w": 96,
+          "h": 22,
+          "head": "Cara pantau progres",
+          "t": "**Ada yang koreksi pengucapanmu?** Tanya juga cara kamu tahu perkembanganmu.",
+          "max": 31
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 74,
+          "w": 62,
+          "h": 14,
+          "t": "Lima hal ini bisa kamu tanyakan **sebelum bayar.**",
+          "align": "left",
+          "color": "white",
+          "min": 30,
+          "max": 33,
+          "z": 3
+        },
+        {
+          "k": "mascot",
+          "x": 64,
+          "y": 68,
+          "w": 36,
+          "h": 32,
+          "id": "cewe-dm",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-e493ecc2-2df.jpg",
+        "position": "40% 50%",
+        "zoom": 1.1
+      },
+      "intent": "Penutup: maskot di tengah, judul, tombol.",
+      "headline": "Masih Bingung Pilih Kelas?",
+      "cta": "Klik link di bio untuk cek kelasmu!",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 30,
+          "y": 2,
+          "w": 40,
+          "h": 58,
+          "id": "cewe-say-hi",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 55,
+          "w": 100,
+          "h": 16,
+          "t": "Masih Bingung Pilih Kelas?",
+          "variant": "duo",
+          "align": "center",
+          "max": 58,
+          "min": 44,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 10,
+          "y": 68,
+          "w": 80,
+          "h": 11
+        }
+      ]
+    }
+  ]
+}

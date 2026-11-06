@@ -1,0 +1,157 @@
+{
+ "brand": "info-jerman",
+ "minggu": "2026-11-16",
+ "slot": [
+  {
+   "no": 1,
+   "jadwal": "Senin 10:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Der, die, das nggak harus dihafal satu-satu",
+   "angle": "Pola akhiran kata yang bisa langsung dipakai",
+   "arketipe": "B",
+   "format": "carousel",
+   "mascot": "cewe-berdiri",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "platinum-a1-b1"
+   ]
+  },
+  {
+   "no": 2,
+   "jadwal": "Senin 18:30",
+   "pilar": "student_story",
+   "status": "butuh_data",
+   "topik": "Cerita siswa",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Nama, foto, kutipan asli siswa, beserta izin"
+   ]
+  },
+  {
+   "no": 3,
+   "jadwal": "Selasa 18:30",
+   "pilar": "proof_achievement",
+   "status": "butuh_data",
+   "topik": "Siswa lulus sertifikat",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Sertifikat, nama, izin siswa"
+   ]
+  },
+  {
+   "no": 4,
+   "jadwal": "Rabu 09:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Gaji Ausbildung minimal berapa?",
+   "angle": "Angka minimal resmi per tahun, plus catatan brutto dan tarif",
+   "arketipe": "F",
+   "format": "carousel",
+   "scene": "dana",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "platinum-a1-b1"
+   ]
+  },
+  {
+   "no": 5,
+   "jadwal": "Rabu 18:30",
+   "pilar": "tutor_authority",
+   "status": "butuh_data",
+   "topik": "Profil tutor",
+   "arketipe": "J",
+   "format": "reels",
+   "data_dibutuhkan": [
+    "Foto atau video tutor, kredensial terbaru (Frau Priska perlu konfirmasi masih aktif)"
+   ]
+  },
+  {
+   "no": 6,
+   "jadwal": "Kamis 18:30",
+   "pilar": "student_story",
+   "status": "butuh_data",
+   "topik": "Cerita Azubi",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Foto dan kutipan Azubi berizin"
+   ]
+  },
+  {
+   "no": 7,
+   "jadwal": "Jumat 09:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Takut ngomong karena takut salah",
+   "angle": "3 cara mulai ngomong tanpa nunggu sempurna",
+   "arketipe": "A",
+   "format": "carousel",
+   "mascot": "cowo-berdiri",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "fitur-native"
+   ]
+  },
+  {
+   "no": 8,
+   "jadwal": "Jumat 18:30",
+   "pilar": "proof_achievement",
+   "status": "butuh_data",
+   "topik": "Infografis nilai",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Nilai ujian siswa dengan izin"
+   ]
+  },
+  {
+   "no": 9,
+   "jadwal": "Sabtu 11:00",
+   "pilar": "program_value",
+   "status": "siap_brief",
+   "topik": "Kursus bukan cuma dikasih materi",
+   "angle": "Apa saja yang didapat di kelas Platinum A1–B1",
+   "arketipe": "H",
+   "format": "carousel",
+   "mascot": "duo",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "platinum-a1-b1",
+    "fitur-native",
+    "rekaman",
+    "portal",
+    "fitur-blueprint"
+   ]
+  },
+  {
+   "no": 10,
+   "jadwal": "Minggu 19:00",
+   "pilar": "conversion",
+   "status": "siap_brief",
+   "topik": "Garansi mengulang kelas",
+   "angle": "Garansi sebagai pengaman, S&K berlaku, tanpa harga",
+   "arketipe": "I",
+   "format": "single",
+   "mascot": "duo",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "platinum-a1-b1",
+    "garansi"
+   ],
+   "catatan": "Harga promo November kedaluwarsa 10 November. Bila tim punya harga periode baru yang terkonfirmasi, slot ini bisa diganti tabel harga."
+  }
+ ]
+}

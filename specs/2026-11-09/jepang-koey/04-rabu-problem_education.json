@@ -1,0 +1,31 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-09-04-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "caption": "JLPT dan JFT-Basic sama-sama tes bahasa Jepang, tapi tujuannya berbeda.\n\nJLPT punya lima level, dari N5 sampai N1, dan mengukur kemampuan membaca serta mendengar.\nJFT-Basic hanya satu level, berbasis komputer, dan mengukur kemampuan bahasa Jepang dasar setara A2.\n\nSebelum memilih, cek dulu tes apa yang diminta oleh program kerja atau studi yang kamu incar.\n\nSimpan postingan ini supaya tidak tertukar.\n\n#JLPT #JFTBasic #BelajarBahasaJepang #JepangKoey",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "numbered_list",
+      "headline": "Bingung bedanya **JLPT dan JFT-Basic?**",
+      "items": [
+        {
+          "title": "JLPT: level N5 sampai N1",
+          "text": "Mengukur membaca dan mendengar, tanpa tes berbicara"
+        },
+        {
+          "title": "JFT-Basic: satu level",
+          "text": "Tes berbasis komputer dari Japan Foundation, setara A2"
+        },
+        {
+          "title": "Cek syarat jalurmu dulu",
+          "text": "Program kerja dan studi bisa meminta tes yang berbeda"
+        }
+      ],
+      "cta": "Simpan panduannya"
+    }
+  ]
+}

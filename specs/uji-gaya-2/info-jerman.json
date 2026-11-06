@@ -1,0 +1,206 @@
+{
+  "brand": "info-jerman",
+  "slug": "uji-gaya-2",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+  "background": {
+    "src": "assets/stock/openverse-bb4a35d7-7ad.jpg"
+  },
+  "brief": {
+    "problem": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+    "angle": "Uji layout",
+    "key_message": "-",
+    "cta": {
+      "type": "link_bio"
+    }
+  },
+  "verified_claims": [
+    "garansi",
+    "9.200.000",
+    "9.500.000",
+    "9.800.000"
+  ],
+  "slides": [
+    {
+      "layout": "comment",
+      "role": "cover",
+      "intent": "G",
+      "author": "Pengikut",
+      "comment": "kak, kalau sering lembur, materinya tetap bisa dikejar nggak?",
+      "headline": "Sering lembur? **Materi tetap bisa dikejar**",
+      "sub": "Swipe buat tau caranya",
+      "mascot": "duo"
+    },
+    {
+      "layout": "compare",
+      "role": "point",
+      "intent": "E",
+      "eyebrow": "Info Level",
+      "headline": "A1, A2, B1: bedanya apa?",
+      "columns": [
+        {
+          "title": "A1",
+          "icon": "open-book",
+          "rows": [
+            {
+              "label": "Bisa",
+              "text": "Kenalan dan kalimat sederhana"
+            }
+          ]
+        },
+        {
+          "title": "A2",
+          "icon": "speech",
+          "rows": [
+            {
+              "label": "Bisa",
+              "text": "Percakapan rutin sehari-hari"
+            }
+          ]
+        },
+        {
+          "title": "B1",
+          "icon": "briefcase",
+          "rows": [
+            {
+              "label": "Bisa",
+              "text": "Cerita, kasih alasan, ngobrol kerja"
+            }
+          ]
+        }
+      ],
+      "punch": "Pelan-pelan yang penting konsisten"
+    },
+    {
+      "layout": "feature",
+      "role": "point",
+      "intent": "H",
+      "headline": "3 Langkah Cek Progresmu",
+      "screen": {
+        "src": "assets/brands/info-jerman/ui/portal-sample.png"
+      },
+      "steps": [
+        "Login pakai username dan password",
+        "Pilih level yang sedang kamu pelajari",
+        "Kerjakan ujian dengan fokus"
+      ],
+      "flow": [
+        "LOGIN",
+        "PILIH LEVEL",
+        "UJIAN"
+      ]
+    },
+    {
+      "layout": "proof",
+      "role": "single",
+      "intent": "J",
+      "headline": "Cerita **Siswa Info Jerman**",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      },
+      "name": "Nama Siswa",
+      "label": "Contoh penempatan",
+      "quote": "Kutipan asli siswa tampil di sini, dengan izin.",
+      "cta": "Klik Link di Bio"
+    },
+    {
+      "layout": "program",
+      "role": "single",
+      "intent": "L",
+      "headline": "Belajar Terarah Bareng Tutor",
+      "image": {
+        "src": "assets/stock/openverse-c6fc30c0-cf5.jpg"
+      },
+      "imageLabel": "Kelas Platinum",
+      "guarantee": "**Garansi Mengulang Kelas** jika tidak lolos ujian sertifikasi (S&K berlaku)",
+      "benefits": [
+        {
+          "icon": "speech",
+          "title": "Speaking with Native"
+        },
+        {
+          "icon": "compass",
+          "title": "German Career Blueprint"
+        },
+        {
+          "icon": "chart",
+          "title": "Portal progres"
+        }
+      ],
+      "cta": "Klik Link di Bio"
+    },
+    {
+      "layout": "promo",
+      "role": "closing",
+      "intent": "K",
+      "headline": "Super Promo **Best Deal!**",
+      "period": "Contoh periode",
+      "tiers": [
+        {
+          "name": "Super Promo",
+          "price": "Rp 9.200.000",
+          "featured": true
+        },
+        {
+          "name": "Early Bird",
+          "price": "Rp 9.500.000"
+        },
+        {
+          "name": "Normal",
+          "price": "Rp 9.800.000"
+        }
+      ],
+      "matrix": [
+        {
+          "label": "Ausbildung Preparation",
+          "icon": "memo",
+          "values": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "label": "Kelas Persiapan Sertifikasi",
+          "icon": "grad-cap",
+          "values": [
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "label": "German Career Blueprint",
+          "icon": "compass",
+          "values": [
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "label": "Speaking with Native",
+          "icon": "speech",
+          "values": [
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "label": "Garansi Mengulang Kelas",
+          "icon": "check",
+          "values": [
+            true,
+            true,
+            true
+          ]
+        }
+      ],
+      "cta": "Klik Link di Bio",
+      "ctaNote": "klaim sebelum periode berakhir"
+    }
+  ]
+}

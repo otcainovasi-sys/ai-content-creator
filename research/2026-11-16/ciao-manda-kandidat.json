@@ -1,0 +1,92 @@
+{
+ "brand": "ciao-manda",
+ "minggu": "2026-11-16",
+ "diriset": "2026-11-05",
+ "kandidat": [
+  {
+   "topik": "Bos minta revisi mendadak",
+   "masalah": "Bingung membalas sopan",
+   "label": "guideline",
+   "angle": "3 kalimat siap pakai",
+   "arketipe": "B",
+   "skor": {
+    "relevansi": 29,
+    "kebaruan": 24,
+    "fakta": 8,
+    "aset": 13,
+    "momen": 3,
+    "total": 77
+   },
+   "fakta": [],
+   "catatan": "Contoh suara di guideline."
+  },
+  {
+   "topik": "Balasan singkat di WeChat",
+   "masalah": "Bingung membalas chat atasan",
+   "label": "guideline",
+   "angle": "4 balasan singkat",
+   "arketipe": "A",
+   "skor": {
+    "relevansi": 28,
+    "kebaruan": 24,
+    "fakta": 8,
+    "aset": 13,
+    "momen": 3,
+    "total": 76
+   },
+   "fakta": [],
+   "catatan": ""
+  },
+  {
+   "topik": "Atasan bicara cepat",
+   "masalah": "Takut salah tangkap instruksi",
+   "label": "guideline",
+   "angle": "Minta ulang dan konfirmasi",
+   "arketipe": "B",
+   "skor": {
+    "relevansi": 28,
+    "kebaruan": 23,
+    "fakta": 8,
+    "aset": 12,
+    "momen": 3,
+    "total": 74
+   },
+   "fakta": [],
+   "catatan": ""
+  },
+  {
+   "topik": "Kelas privat untuk jadwal padat",
+   "masalah": "Susah ikut kelas tetap",
+   "label": "guideline",
+   "angle": "Private 24/48 jam",
+   "arketipe": "H",
+   "skor": {
+    "relevansi": 24,
+    "kebaruan": 18,
+    "fakta": 12,
+    "aset": 12,
+    "momen": 3,
+    "total": 69
+   },
+   "fakta": [],
+   "catatan": "Tanpa harga."
+  },
+  {
+   "topik": "Bonus percakapan bisnis",
+   "masalah": "Ragu manfaat kelas untuk kerja",
+   "label": "live",
+   "angle": "Bonus tanpa harga",
+   "arketipe": "I",
+   "skor": {
+    "relevansi": 22,
+    "kebaruan": 15,
+    "fakta": 10,
+    "aset": 13,
+    "momen": 3,
+    "total": 63
+   },
+   "fakta": [],
+   "catatan": "Promo November berakhir 10 November."
+  }
+ ]
+}

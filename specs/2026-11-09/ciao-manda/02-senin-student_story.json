@@ -1,0 +1,22 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-02-student-story",
+  "month": "2026-11",
+  "pillar": "student_story",
+  "format": "feed_portrait",
+  "schedule": "Senin 18:30",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "story_card",
+      "headline": "[headline]",
+      "sub": "[subheadline]",
+      "cta": "[CTA]",
+      "image": {
+        "src": "[assets/stock/... atau foto brand]"
+      },
+      "name": "[nama + izin]",
+      "quote": "[kutipan asli]"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-08-proof-achievement",
+  "month": "2026-11",
+  "pillar": "proof_achievement",
+  "format": "feed_portrait",
+  "schedule": "Jumat 18:30",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "score_infographic",
+      "headline": "[headline]",
+      "sub": "[subheadline]",
+      "cta": "[CTA]",
+      "tableTitle": "Hasil Belajar",
+      "rows": [
+        {
+          "skill": "[keterampilan]",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        },
+        {
+          "skill": "[keterampilan]",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "cewe-say-hi": {
+    "file": "mascots/cewe-say-hi.png",
+    "transparent": true
+  },
+  "cewe-dm": {
+    "file": "mascots/cewe-dm.png",
+    "transparent": true
+  },
+  "cewe-uang": {
+    "file": "mascots/cewe-uang.png",
+    "transparent": true
+  },
+  "cewe-nyanyi": {
+    "file": "mascots/cewe-nyanyi.png",
+    "transparent": true
+  },
+  "cewe-bawa-megaphone": {
+    "file": "mascots/cewe-bawa-megaphone.png",
+    "transparent": false
+  },
+  "cowo-nyanyi": {
+    "file": "mascots/cowo-nyanyi.png",
+    "transparent": true
+  },
+  "cowo-pointing": {
+    "file": "mascots/cowo-pointing.png",
+    "transparent": true
+  }
+}

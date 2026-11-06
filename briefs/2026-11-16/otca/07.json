@@ -1,0 +1,60 @@
+{
+  "brand": "otca",
+  "minggu": "2026-11-16",
+  "slot": 7,
+  "topik": "Siap berangkat, belum tentu siap belajar",
+  "angle": "Checklist 4 kesiapan yang bisa dicek di rumah",
+  "arketipe": "B",
+  "situasi": "Dokumen lengkap, sertifikat bahasa ada, tetapi anak belum pernah mengatur belajar sendiri.",
+  "insight": "Yang sering terlewat adalah cara anak menjalani proses belajar saat tuntutannya naik.",
+  "pesan": "Cek empat kesiapan belajar sebelum berangkat.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "cover",
+      "tujuan": "Hook paradoks",
+      "unit": [
+        "Headline",
+        "Sub",
+        "Maskot"
+      ]
+    },
+    {
+      "peran": "point",
+      "layout": "grid",
+      "tujuan": "Empat kesiapan",
+      "unit": [
+        "Memahami",
+        "Mengatur",
+        "Bertanya",
+        "Mengevaluasi"
+      ]
+    },
+    {
+      "peran": "closing",
+      "layout": "offer",
+      "tujuan": "Pergeseran sudut pandang + CTA",
+      "unit": [
+        "Punchline",
+        "Komen STUDI"
+      ]
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Empat kesiapan belajar",
+      "sumber": "Dokumen evaluator OTCA",
+      "check": false
+    }
+  ],
+  "cta": {
+    "type": "comment",
+    "keyword": "STUDI"
+  },
+  "risiko": [
+    "Pertanyaan cek adalah contoh, bukan tes psikologi."
+  ],
+  "acuan": [
+    "Carousel \"Jalur ke Jerman Beragam, Mana yang Cocok?\""
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "info-jerman",
+  "name": "Info Jerman",
+  "pic": "Indah",
+  "guideline": "Info Jerman Brand Guideline 2026 + slide Target Market",
+  "font": {
+    "family": "Montserrat",
+    "headline": 800,
+    "sub": 700,
+    "body": 500,
+    "uppercaseHeadline": true
+  },
+  "tokens": {
+    "bg": "#F7F1E2",
+    "ink": "#25272B",
+    "muted": "#55575C",
+    "accent": "#F3CF45",
+    "accentGradient": "#F3CF45",
+    "accentInk": "#25272B",
+    "surface": "#FFFFFF",
+    "surfaceInk": "#25272B",
+    "surfaceMuted": "#55575C",
+    "hlColor": "#F3CF45",
+    "hlBg": "#25272B",
+    "heroInk": "#25272B",
+    "heroMuted": "#3A3C40",
+    "footerInk": "#25272B",
+    "scrim": "linear-gradient(to bottom,#F7F1E2 0%,rgba(247,241,226,0) 18%,rgba(247,241,226,0) 44%,#F6DF87 66%,#F3CF45 100%)",
+    "photoOpacity": ".32",
+    "line": "#25272B",
+    "hlPad": ".14em",
+    "eyebrow": "#25272B",
+    "heroCtaBg": "#25272B",
+    "heroCtaInk": "#F3CF45",
+    "tick": "#25272B",
+    "itemBg": "#FFFFFF",
+    "itemInk": "#25272B",
+    "itemMuted": "#55575C",
+    "itemBorder": "transparent",
+    "numZero": "#25272B",
+    "numColor": "#25272B",
+    "numBg": "#F3CF45"
+  },
+  "logo": {
+    "default": "primary",
+    "hero": "primary",
+    "width": 150,
+    "height": 76
+  },
+  "frame": false,
+  "footer": "infojerman.id",
+  "safe": {
+    "feed_portrait": [
+      56,
+      64
+    ],
+    "feed_square": [
+      56,
+      64
+    ],
+    "story": [
+      78,
+      315
+    ],
+    "reels_cover": [
+      78,
+      421
+    ],
+    "landscape": [
+      70,
+      56
+    ]
+  },
+  "rules": {
+    "headlineMaxWords": 12,
+    "accentHex": "#F3CF45",
+    "accentMaxPct": 45,
+    "banned": [
+      "100% pasti lulus",
+      "paling nomor satu",
+      "nomor satu se-indonesia",
+      "24/7",
+      "pasti berangkat"
+    ],
+    "requireWords": []
+  },
+  "style": {
+    "innerBase": "linear-gradient(180deg,#F7F1E2 0%,#F7F1E2 46%,#F5E3A6 56%,#F4D76F 66%,#F3CF45 100%)",
+    "innerPhotoOpacity": ".11",
+    "innerScrim": "linear-gradient(to bottom,rgba(247,241,226,.35) 0%,rgba(247,241,226,0) 30%)",
+    "titleColor": "#25272B",
+    "titleFill": "none",
+    "titleTransform": "uppercase",
+    "cardBg": "#F7F1E2",
+    "cardInk": "#25272B",
+    "cardMuted": "#4A4C50",
+    "cardBorder": "0",
+    "pillBg": "#F3CF45",
+    "pillInk": "#25272B",
+    "labelBg": "#F3CF45",
+    "labelInk": "#25272B",
+    "punchBg": "#25272B",
+    "punchInk": "#F3CF45",
+    "punchHl": "#FFFFFF",
+    "noteBg": "#FFFFFF",
+    "noteInk": "#25272B",
+    "noteLabel": "#25272B",
+    "footerBg": "transparent",
+    "footerFg": "#25272B",
+    "footerPad": "0",
+    "softBg": "#FFFFFF",
+    "accentText": "#25272B",
+    "innerPhotoHeight": "74%",
+    "footerIcon": "inline-block",
+    "innerPhotoOpacityDense": ".11",
+    "iconHalo": "#FFF0B8",
+    "cardTint": "#FFFFFF",
+    "cardAccent": "#F3CF45",
+    "heroGlow": "rgba(255,255,255,.85)",
+    "ctaBg": "#25272B",
+    "ctaInk": "#F3CF45",
+    "ticketBg": "#25272B",
+    "ticketInk": "#FFFFFF",
+    "ticketPrice": "#F3CF45",
+    "titleBar": "block",
+    "stickerInk": "#F3CF45",
+    "coverInk": "#25272B",
+    "toneDark": "#25272B",
+    "toneDarkInk": "#FFFFFF",
+    "duoStyle": "box",
+    "duoBg": "#F3CF45",
+    "duoInk": "#25272B",
+    "bigInk": "#25272B",
+    "photoFilter": "grayscale(.9) sepia(.22) brightness(1.08) contrast(.92)",
+    "innerMask": "linear-gradient(to bottom,#000 0%,#000 48%,transparent 100%)",
+    "titleShadow": "2px 3px 5px rgba(70,55,10,.26)",
+    "pillFont": "33px"
+  },
+  "decor": {
+    "inner": [],
+    "hero": []
+  },
+  "design": {
+    "background": true,
+    "backgroundSrc": "assets/stock/openverse-273142cb-5d4.jpg",
+    "noBlocks": [
+      "photo"
+    ],
+    "noFrame": true,
+    "noDecor": [
+      "arc",
+      "dots",
+      "flow-lines"
+    ],
+    "coverFree": true,
+    "ctaPill": true
+  }
+}

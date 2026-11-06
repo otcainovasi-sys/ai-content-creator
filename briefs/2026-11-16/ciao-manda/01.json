@@ -1,0 +1,52 @@
+{
+  "brand": "ciao-manda",
+  "minggu": "2026-11-16",
+  "slot": 1,
+  "topik": "Bos Minta Revisi Mendadak? Balas Pakai 3 Kalimat Ini",
+  "angle": "3 kalimat siap pakai saat diminta revisi",
+  "arketipe": "B",
+  "situasi": "Bos minta revisi mendadak, bingung membalas dengan sopan.",
+  "pesan": "Terima, tanyakan bagian yang diubah, lalu beri tenggat.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: revisi mendadak."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola 3 Langkah Menyapa Klien: kartu putih berlabel."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Kartu tips berikon, maskot menumpang di tepi kartu."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Penutup Kenapa Daftar Sekarang."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "好的，我马上改。请问，哪里需要修改？我今天下班前发给您。您 lebih sopan dari 你",
+      "sumber": "Ungkapan kantor umum; hanzi, pinyin, dan arti wajib dicek tutor Ciao Manda",
+      "url": "",
+      "check": true
+    },
+    {
+      "klaim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+      "sumber": "Post live Ciao Manda",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Kalimat Mandarin wajib dicek tutor."
+  ]
+}

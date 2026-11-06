@@ -1,0 +1,288 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-16-09-sabtu",
+  "month": "2026-11",
+  "pillar": "program_value",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Sabtu 11:00",
+  "archetype": "E Perbandingan",
+  "background": {
+    "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+    "position": "70% 30%"
+  },
+  "verified_claims": [
+    "24",
+    "48"
+  ],
+  "rubric": {
+    "target": 22,
+    "informasi": 22,
+    "struktur": 21,
+    "copy": 21,
+    "pengurang": 0,
+    "total": 86,
+    "catatan": "Dari products.json berstatus terkonfirmasi. Tanpa harga."
+  },
+  "brief": {
+    "problem": "Bingung pilih kelas grup atau private.",
+    "angle": "Bandingkan dari jadwal dan cara belajar",
+    "key_message": "Kelas yang cocok tergantung target dan waktumu.",
+    "audience": "Karyawan dan fresh graduate 22–35 tahun yang menimbang karier di Jepang",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Platinum N5–N4 kelas grup interaktif; Private 24–48 jam 1-on-1 jadwal fleksibel",
+        "source": "knowledge/brands/jepang-koey/products.json",
+        "url": "",
+        "check": false
+      }
+    ],
+    "risks": [
+      "Harga belum ada; tidak ditampilkan."
+    ],
+    "references": [
+      "Carousel live Pilih JLPT N4 atau JFT-Basic A2"
+    ]
+  },
+  "caption": "Kelas grup atau private, mana yang cocok buat kamu?\n\nPlatinum N5–N4 adalah kelas grup interaktif untuk persiapan karier di Jepang. Private 24–48 Jam adalah kelas 1-on-1 dengan jadwal fleksibel.\n\nMasih ragu? Diskusikan kelas yang paling cocok dengan targetmu. Klik link di bio.\n\n#KursusBahasaJepang #BelajarBahasaJepang #JepangKoey",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-b90b48bd-5f3.jpg",
+        "position": "center",
+        "zoom": 1.1
+      },
+      "intent": "Hook: bingung pilih kelas.",
+      "headline": "Kelas Grup atau Private, Mana yang Cocok Buat Kamu?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 1,
+          "y": 18,
+          "w": 29,
+          "h": 46,
+          "id": "cewe-say-hi",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 48,
+          "y": 18,
+          "w": 26,
+          "h": 14,
+          "id": "c-bubble-grup",
+          "z": 3,
+          "r": -5
+        },
+        {
+          "k": "icon",
+          "x": 62,
+          "y": 34,
+          "w": 34,
+          "h": 14,
+          "id": "c-bubble-private",
+          "z": 3,
+          "r": 4
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 58,
+          "w": 100,
+          "h": 23,
+          "t": "**Kelas Grup atau Private,** Mana yang Cocok Buat Kamu?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 48,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 82,
+          "w": 100,
+          "h": 12,
+          "t": "Bandingkan dulu dari cara belajar dan jadwalmu.",
+          "align": "left",
+          "color": "white",
+          "min": 28,
+          "max": 32
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg",
+        "position": "center 30%"
+      },
+      "intent": "Pola Tentukan Jalur untuk Platinum.",
+      "headline": "Platinum N5–N4",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "Platinum N5–N4: Belajar Bareng",
+          "variant": "duo",
+          "align": "left",
+          "max": 54,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 29,
+          "y": 11,
+          "w": 42,
+          "h": 27,
+          "id": "c-chat",
+          "z": 1
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 40,
+          "w": 96,
+          "h": 23,
+          "items": [
+            {
+              "t": "Kelas **grup interaktif**."
+            },
+            {
+              "t": "Disusun untuk **persiapan karier** di Jepang."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "x": 6,
+          "y": 66,
+          "w": 88,
+          "h": 17,
+          "t": "Cocok kalau kamu semangat belajar bareng teman sekelas.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-c6fc30c0-cf5.jpg",
+        "position": "center"
+      },
+      "intent": "Pola Tentukan Jalur untuk Private.",
+      "headline": "Private 24–48 Jam",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "Private 24–48 Jam: Belajar 1-on-1",
+          "variant": "duo",
+          "align": "left",
+          "max": 54,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 31,
+          "y": 11,
+          "w": 38,
+          "h": 27,
+          "id": "c-alarm",
+          "z": 1
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 40,
+          "w": 96,
+          "h": 23,
+          "items": [
+            {
+              "t": "Kelas **privat 1-on-1**, durasi 24 atau 48 jam."
+            },
+            {
+              "t": "**Jadwal fleksibel**, mengikuti waktumu."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "x": 6,
+          "y": 66,
+          "w": 88,
+          "h": 17,
+          "t": "Cocok kalau jadwal kerjamu sering berubah.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+        "position": "72% 40%",
+        "zoom": 1.1
+      },
+      "intent": "Penutup: maskot tengah, sorotan putih, tombol merah.",
+      "headline": "Masih Ragu Pilih yang Mana?",
+      "cta": "Klik Link di Bio untuk Diskusi Kelas yang Paling Cocok",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 33,
+          "y": 2,
+          "w": 34,
+          "h": 56,
+          "id": "cewe-say-hi",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "title",
+          "x": 8,
+          "y": 49,
+          "w": 84,
+          "h": 19,
+          "t": "**Masih Ragu Pilih yang Mana?**",
+          "variant": "duo",
+          "align": "center",
+          "max": 60,
+          "min": 44,
+          "color": "accent",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 12,
+          "y": 71,
+          "w": 76,
+          "h": 14
+        }
+      ]
+    }
+  ]
+}

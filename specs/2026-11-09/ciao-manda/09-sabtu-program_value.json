@@ -1,0 +1,29 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-09-program-value",
+  "month": "2026-11",
+  "pillar": "program_value",
+  "format": "feed_portrait",
+  "schedule": "Sabtu 11:00",
+  "caption": "Mandarin untuk kerja, bukan sekadar teori.\n\nPilihan kelas online Ciao Manda:\n- Mandarin Private 24 jam\n- Mandarin Private 48 jam\n- Kelas semiprivate\n\nKetik KANTOR lewat DM untuk cek kelas yang sesuai dengan kebutuhan kerjamu.\n\n#KursusMandarin #MandarinUntukKerja #CiaoManda",
+  "verified_claims": [
+    "24",
+    "48"
+  ],
+  "slides": [
+    {
+      "layout": "program_value",
+      "headline": "Mandarin untuk kerja, **bukan sekadar teori**",
+      "sub": "Kelas online yang ramah untuk jadwal kerja.",
+      "benefits": [
+        "Mandarin Private 24 jam",
+        "Mandarin Private 48 jam",
+        "Kelas semiprivate"
+      ],
+      "cta": "DM KANTOR untuk cek kelas",
+      "image": {
+        "src": "assets/stock/openverse-49eac6aa-885.jpg"
+      }
+    }
+  ]
+}

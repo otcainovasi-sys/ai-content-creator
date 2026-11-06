@@ -1,0 +1,455 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-16-01-senin",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Senin 10:00",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-273142cb-5d4.jpg",
+    "position": "center 12%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 22,
+    "informasi": 22,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 88,
+    "catatan": "Pola akhiran dari Duden Learnattack. Slide jujur bahwa pola hanya berlaku untuk sebagian kata."
+  },
+  "brief": {
+    "problem": "Hafalan artikel buyar tiap ketemu kata baru, apalagi belajar setelah pulang kerja.",
+    "angle": "Pola akhiran kata yang bisa langsung dipakai",
+    "key_message": "Sebagian artikel bisa ditebak dari akhiran katanya.",
+    "audience": "Karyawan 22–35 tahun yang menyiapkan Ausbildung, belajar sambil kerja",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Akhiran -ung, -heit, -keit, -schaft, -ion feminin; -chen, -lein neutral; -ling, -ismus maskulin; hanya membantu sebagian kata",
+        "source": "Duden Learnattack Schülerlexikon, Genus des Substantivs",
+        "url": "https://www.lernhelfer.de/schuelerlexikon/deutsch/artikel/genus-des-substantivs",
+        "check": false
+      }
+    ],
+    "risks": [
+      "Pola tidak berlaku untuk semua kata; sudah disebut di slide 2."
+    ],
+    "references": [
+      "Carousel live B1 atau B2 (kolom bertangga, tile ikon besar)"
+    ]
+  },
+  "caption": "Der, die, das sering bikin hafalan buyar, apalagi kalau belajarnya sepulang kerja.\n\nSebagian artikel bisa ditebak dari akhiran katanya:\n• -ung, -heit, -keit, -schaft, -ion: die\n• -chen, -lein: das\n• -ling, -ismus: der\n\nPola ini berlaku buat sebagian kata saja. Untuk kata lain, biasakan catat kata baru bareng artikelnya.\n\nMau latihan bareng tutor? Klik link di bio untuk info kelas Platinum A1–B1.\n\n#BelajarBahasaJerman #InfoJerman #Ausbildung",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "intent": "Hook: hafalan artikel buyar.",
+      "headline": "Der, die, das bikin hafalan buyar?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 14,
+          "y": 2,
+          "w": 72,
+          "h": 80,
+          "id": "cewe-berdiri",
+          "variant": "fade",
+          "z": 1
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 6,
+          "w": 27,
+          "h": 18,
+          "id": "c-bubble-der",
+          "z": 2,
+          "r": -6
+        },
+        {
+          "k": "icon",
+          "x": 72,
+          "y": 2,
+          "w": 27,
+          "h": 18,
+          "id": "c-bubble-die",
+          "z": 2,
+          "r": 5
+        },
+        {
+          "k": "icon",
+          "x": 74,
+          "y": 28,
+          "w": 26,
+          "h": 17,
+          "id": "c-bubble-das",
+          "z": 2,
+          "r": -4
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 63,
+          "w": 100,
+          "h": 22,
+          "t": "Der, die, das bikin hafalan buyar?",
+          "variant": "duo",
+          "align": "left",
+          "max": 74,
+          "min": 50,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "variant": "swipe",
+          "x": 0,
+          "y": 87,
+          "w": 100,
+          "h": 7,
+          "t": "Swipe buat tau polanya",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Kolom bertangga seperti B1 dan B2 apa bedanya.",
+      "headline": "Cek dulu akhiran katanya",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 9,
+          "t": "Cek dulu **akhiran katanya**",
+          "variant": "duo",
+          "align": "left",
+          "max": 50,
+          "min": 38
+        },
+        {
+          "k": "col",
+          "x": 0,
+          "y": 16,
+          "w": 34,
+          "h": 68,
+          "tone": "white",
+          "head": "die",
+          "note": "feminin",
+          "id": "c-books",
+          "items": [
+            {
+              "t": "-ung"
+            },
+            {
+              "t": "-heit"
+            },
+            {
+              "t": "-keit"
+            },
+            {
+              "t": "-schaft"
+            },
+            {
+              "t": "-ion"
+            }
+          ]
+        },
+        {
+          "k": "col",
+          "x": 35.5,
+          "y": 30,
+          "w": 31,
+          "h": 54,
+          "tone": "white",
+          "head": "das",
+          "note": "neutral",
+          "id": "c-roll",
+          "items": [
+            {
+              "t": "-chen"
+            },
+            {
+              "t": "-lein"
+            }
+          ]
+        },
+        {
+          "k": "col",
+          "x": 68,
+          "y": 22,
+          "w": 32,
+          "h": 62,
+          "tone": "white",
+          "head": "der",
+          "note": "maskulin",
+          "id": "c-briefcase",
+          "items": [
+            {
+              "t": "-ling"
+            },
+            {
+              "t": "-ismus"
+            }
+          ]
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 7,
+          "y": 88,
+          "w": 86,
+          "h": 11,
+          "t": "Pola ini berlaku buat sebagian kata, jadi tetap cek kamus ya!"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Empat kata sehari-hari, ikon besar.",
+      "headline": "Contoh yang sering ketemu",
+      "blocks": [
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 7.5,
+          "t": "Contoh yang",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 8.5,
+          "w": 100,
+          "h": 7.5,
+          "t": "Sering ketemu",
+          "tone": "white",
+          "align": "center"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 18,
+          "w": 100,
+          "h": 5.5,
+          "t": "Lihat **akhirannya** dulu, baru tebak artikelnya.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 33
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 0,
+          "y": 30.5,
+          "w": 49,
+          "h": 21.5,
+          "tone": "white",
+          "id": "c-house",
+          "t": "Tempat tinggal. Akhiran **-ung**."
+        },
+        {
+          "k": "pill",
+          "x": 2,
+          "y": 26,
+          "w": 45,
+          "h": 6.5,
+          "t": "die Wohnung",
+          "tone": "brand",
+          "align": "center",
+          "z": 3
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 51,
+          "y": 30.5,
+          "w": 49,
+          "h": 21.5,
+          "tone": "white",
+          "id": "c-bulb",
+          "t": "Kemungkinan. Akhiran **-keit**."
+        },
+        {
+          "k": "pill",
+          "x": 53,
+          "y": 26,
+          "w": 45,
+          "h": 6.5,
+          "t": "die Möglichkeit",
+          "tone": "brand",
+          "align": "center",
+          "z": 3
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 0,
+          "y": 59.5,
+          "w": 49,
+          "h": 21.5,
+          "tone": "white",
+          "id": "c-roll",
+          "t": "Roti kecil. Akhiran **-chen**."
+        },
+        {
+          "k": "pill",
+          "x": 2,
+          "y": 55,
+          "w": 45,
+          "h": 6.5,
+          "t": "das Brötchen",
+          "tone": "brand",
+          "align": "center",
+          "z": 3
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 51,
+          "y": 59.5,
+          "w": 49,
+          "h": 21.5,
+          "tone": "white",
+          "id": "c-briefcase",
+          "t": "Peserta pelatihan. Akhiran **-ling**."
+        },
+        {
+          "k": "pill",
+          "x": 53,
+          "y": 55,
+          "w": 45,
+          "h": 6.5,
+          "t": "der Lehrling",
+          "tone": "brand",
+          "align": "center",
+          "z": 3
+        },
+        {
+          "k": "card",
+          "variant": "strip",
+          "x": 2,
+          "y": 84.5,
+          "w": 96,
+          "h": 12,
+          "tone": "white",
+          "id": "c-memo",
+          "t": "Kata tanpa pola? **Catat langsung** bareng artikelnya."
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Visual besar, 3 kebiasaan, CTA dalam pill.",
+      "headline": "Satu pola sehari, artikel makin nempel",
+      "cta": "Yuk latihan bareng tutor di kelas Platinum A1–B1 dengan klik link di bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 15,
+          "t": "Satu pola sehari, **artikel makin nempel**",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 38
+        },
+        {
+          "k": "pill",
+          "x": 0,
+          "y": 20,
+          "w": 46,
+          "h": 6,
+          "t": "Biar nggak lupa?",
+          "tone": "dark",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "fat",
+          "x": 0,
+          "y": 27,
+          "w": 46,
+          "h": 12,
+          "t": "Coba Ini!",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "mascot",
+          "x": 54,
+          "y": 12,
+          "w": 42,
+          "h": 36,
+          "id": "cewe-baca-buku",
+          "z": 2
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 49,
+          "w": 32,
+          "h": 35,
+          "id": "c-memo",
+          "head": "Catat",
+          "tone": "cream",
+          "max": 30,
+          "t": "Tulis kata bareng artikelnya",
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 34,
+          "y": 49,
+          "w": 32,
+          "h": 35,
+          "id": "c-chat",
+          "head": "Pakai",
+          "tone": "cream",
+          "max": 30,
+          "t": "Masukkan ke kalimat sendiri",
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 68,
+          "y": 49,
+          "w": 32,
+          "h": 35,
+          "id": "c-calendar",
+          "head": "Ulang",
+          "tone": "cream",
+          "max": 30,
+          "t": "Satu pola tiap hari",
+          "variant": "pill"
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 5,
+          "y": 86,
+          "w": 90,
+          "h": 13
+        }
+      ]
+    }
+  ]
+}

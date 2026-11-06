@@ -1,0 +1,284 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-16-01-senin",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Senin 10:00",
+  "archetype": "E Perbandingan",
+  "background": {
+    "src": "assets/stock/openverse-54d1bd2b-97a.jpg",
+    "position": "50% 40%",
+    "zoom": 1.5
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 23,
+    "informasi": 22,
+    "struktur": 21,
+    "copy": 21,
+    "pengurang": 0,
+    "total": 87,
+    "catatan": "Hook dari situasi orang tua. Satu klaim B1+/B2 masih perlu dicek."
+  },
+  "brief": {
+    "problem": "Sabtu sore, anak kelas 12 pulang membawa sertifikat B1. Orang tua lega dan bertanya: berarti sudah bisa daftar kuliah?",
+    "angle": "Pisahkan level kursus dari level yang diminta kampus",
+    "key_message": "Target bahasa anak ditentukan kampus dan jurusan, umumnya setara C1.",
+    "audience": "Orang tua 35–55 tahun, anak kelas 11–12",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    },
+    "sources": [
+      {
+        "claim": "DSH-2, TestDaF TDN 4, Goethe C2, telc C1 Hochschule",
+        "source": "Goethe-Universität Frankfurt",
+        "url": "http://www.uni-frankfurt.de/124980722/German_Language_Requirements"
+      },
+      {
+        "claim": "Sertifikat setara di TU Dresden",
+        "source": "TU Dresden",
+        "url": "https://tu-dresden.de/studium/vor-dem-studium/bewerbung/studienvoraussetzungen/sprachkenntnisse"
+      },
+      {
+        "claim": "Studienkolleg mengajar bahasa sampai C1",
+        "source": "DAAD",
+        "url": "https://www.daad.de/en/studying-in-germany/requirements/studienkollegs/"
+      },
+      {
+        "claim": "Kedokteran: DSH-3 atau TDN 5",
+        "source": "Goethe-Universität Frankfurt",
+        "url": "http://www.uni-frankfurt.de/124980722/German_Language_Requirements"
+      },
+      {
+        "claim": "Masuk Studienkolleg setara B1+/B2",
+        "source": "BayStKO § 6, belum dibaca langsung",
+        "url": "https://www.gesetze-bayern.de/Content/Document/BayStKO2019-6",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Syarat berbeda per kampus dan jurusan.",
+      "TU Dresden menulis rata-rata TestDaF 4; Frankfurt menulis semua bagian TDN 4."
+    ],
+    "references": [
+      "Carousel live \"Jalur ke Jerman Beragam, Mana yang Cocok?\""
+    ]
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Hook: momen orang tua menerima sertifikat B1.",
+      "headline": "Anak sudah B1, **cukup untuk kuliah di Jerman?**",
+      "sub": "Sertifikat B1 layak dirayakan. Tapi kampus punya angka sendiri.",
+      "image": {
+        "src": "assets/stock/openverse-c6190c13-da1.jpg",
+        "position": "center 18%",
+        "zoom": 1.15
+      },
+      "mascot": "robot-berpikir",
+      "props": [
+        "c-deutsch-cap",
+        "c-cert-target",
+        "c-campus"
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Editorial: tiga level sebagai baris bergaris, C1 emas.",
+      "headline": "Level bahasa anak, dipakai untuk apa?",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 80,
+          "h": 26,
+          "t": "Level bahasa anak, **dipakai untuk apa?**",
+          "variant": "duo",
+          "align": "left",
+          "max": 72,
+          "min": 44
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 27,
+          "w": 62,
+          "h": 8,
+          "t": "Sertifikat kursus dan syarat kampus adalah dua hal berbeda.",
+          "color": "muted",
+          "min": 24,
+          "max": 28
+        },
+        {
+          "k": "rows",
+          "x": 0,
+          "y": 38,
+          "w": 78,
+          "h": 60,
+          "variant": "outline",
+          "items": [
+            {
+              "label": "B1",
+              "head": "Pencapaian kursus",
+              "t": "Belum cukup untuk program S1 berbahasa Jerman."
+            },
+            {
+              "label": "B2",
+              "head": "Pintu Studienkolleg",
+              "t": "Kisaran syarat masuk, berbeda antar-lembaga."
+            },
+            {
+              "label": "C1",
+              "head": "Syarat mulai kuliah",
+              "t": "Setara yang diminta kampus untuk program S1.",
+              "on": true
+            }
+          ]
+        }
+      ],
+      "shade": "dark"
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola kartu putih berheader pill dari feed OTCA.",
+      "headline": "Bukti bahasa yang diterima kampus",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 20,
+          "t": "Bukti bahasa yang **diterima kampus**",
+          "variant": "duo",
+          "align": "center",
+          "max": 64,
+          "min": 44
+        },
+        {
+          "k": "panel",
+          "x": 0,
+          "y": 28,
+          "w": 100,
+          "h": 62,
+          "head": "Contoh di Goethe-Universität Frankfurt dan TU Dresden",
+          "icons": [
+            "c-contract",
+            "c-campus",
+            "c-cert-target"
+          ],
+          "items": [
+            {
+              "head": "DSH-2",
+              "t": "ujian bahasa dari perguruan tinggi"
+            },
+            {
+              "head": "TestDaF TDN 4",
+              "t": "syarat nilai berbeda antar-kampus"
+            },
+            {
+              "head": "Goethe C2",
+              "t": "kedokteran di Frankfurt minimal \"gut\""
+            },
+            {
+              "head": "telc C1 Hochschule",
+              "t": "hasil minimal \"befriedigend\""
+            }
+          ]
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 93,
+          "w": 100,
+          "h": 6,
+          "align": "center",
+          "t": "Tiap kampus dan jurusan **bisa berbeda.**",
+          "min": 24,
+          "max": 28
+        }
+      ],
+      "shade": "dark"
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Penutup pola OTCA: pergeseran sudut pandang, maskot, CTA.",
+      "headline": "Jangan hanya tanya \"sudah level berapa?\"",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 62,
+          "h": 22,
+          "t": "Jangan hanya tanya **\"sudah level berapa?\"**",
+          "variant": "duo",
+          "align": "left",
+          "max": 64,
+          "min": 44
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 24,
+          "w": 58,
+          "h": 10,
+          "t": "Tanya juga: kampus dan jurusan anak **meminta level berapa?**",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "rows",
+          "x": 0,
+          "y": 38,
+          "w": 58,
+          "h": 42,
+          "variant": "plain",
+          "max": 32,
+          "items": [
+            {
+              "icon": "c-campus",
+              "head": "Pilih jurusan tujuan",
+              "t": "Syarat bahasa mengikuti jurusan"
+            },
+            {
+              "icon": "c-target",
+              "head": "Hitung jaraknya",
+              "t": "Dari level anak sekarang"
+            }
+          ]
+        },
+        {
+          "k": "mascot",
+          "x": 56,
+          "y": 20,
+          "w": 44,
+          "h": 58,
+          "id": "robot-presentasi",
+          "z": 2
+        },
+        {
+          "k": "cta",
+          "x": 0,
+          "y": 86,
+          "w": 100,
+          "h": 14,
+          "note": "Untuk info lebih lanjut dari Tim OTCA",
+          "id": "c-chat",
+          "z": 3
+        }
+      ],
+      "cta": "KOMEN \"STUDI\" DIBAWAH",
+      "shade": "mid"
+    }
+  ],
+  "caption": "Anak sudah lulus B1? Selamat, itu pencapaian yang layak dirayakan.\n\nTapi untuk program S1 berbahasa Jerman, kampus meminta bukti setara C1. Contohnya di Goethe-Universität Frankfurt dan TU Dresden: DSH-2, TestDaF, Goethe-Zertifikat C2, atau telc Deutsch C1 Hochschule. Syarat nilainya bisa berbeda antar-kampus, dan jurusan seperti kedokteran bisa meminta lebih tinggi.\n\nJadi jangan hanya tanya \"sudah level berapa?\" Tanya juga: kampus dan jurusan anak meminta level berapa?\n\nKomen \"STUDI\" untuk info lebih lanjut dari Tim OTCA.\n\n#StudiDiJerman #BahasaJerman #OTCA"
+}

@@ -1,0 +1,27 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-09-10-conversion",
+  "month": "2026-11",
+  "pillar": "conversion",
+  "format": "feed_portrait",
+  "schedule": "Minggu 19:00",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "price_table",
+      "headline": "[headline]",
+      "sub": "[subheadline]",
+      "cta": "[CTA]",
+      "tiers": [
+        {
+          "name": "[paket]",
+          "price": "[harga]",
+          "featured": true
+        }
+      ],
+      "features": [
+        "[fitur]"
+      ]
+    }
+  ]
+}

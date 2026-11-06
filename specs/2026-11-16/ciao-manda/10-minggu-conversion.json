@@ -1,0 +1,120 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-16-10-minggu",
+  "month": "2026-11",
+  "pillar": "conversion",
+  "type": "single",
+  "format": "feed_portrait",
+  "schedule": "Minggu 19:00",
+  "archetype": "I Penutup penawaran",
+  "background": {
+    "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+    "position": "center 45%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 23,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 88,
+    "catatan": "Pola penutup bonus live. Bonus dari post live, perlu dicek. Tanpa harga karena promo November berakhir."
+  },
+  "brief": {
+    "problem": "Mau mulai kelas tapi ragu manfaatnya buat kerja.",
+    "angle": "Bonus percakapan bisnis dan simulasi ujian, tanpa harga",
+    "key_message": "Mulai persiapan Mandarin kerja, dengan bonus kelas percakapan bisnis.",
+    "audience": "Pekerja 25–40 tahun di perusahaan China (manufaktur, logistik, IT), berinteraksi dengan atasan atau partner Tiongkok",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+        "source": "Post live Ciao Manda",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Bonus dari post live, cek masih berlaku."
+    ],
+    "references": [
+      "Slide live penutup bonus"
+    ]
+  },
+  "caption": "Mau kuasai percakapan dan etiket bisnis Mandarin tanpa canggung?\n\nKlik link di bio untuk mulai persiapan. Ada extra bonus Business Conversation Class with Native dan gratis simulasi ujian HSK.\n\nJangan biarkan peluang kerja sama terlewat gara-gara hambatan bahasa dan etiket.\n\n#KursusMandarin #MandarinBisnis #CiaoManda",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "single",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Pola penutup bonus live: panel merah, kartu kutipan, maskot.",
+      "headline": "Mau Kuasai Percakapan & Etiket Bisnis Mandarin Tanpa Canggung?",
+      "cta": "Klik link di bio",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 8,
+          "w": 100,
+          "h": 15,
+          "t": "Mau Kuasai Percakapan & Etiket Bisnis Mandarin Tanpa Canggung?",
+          "variant": "duo",
+          "align": "center",
+          "max": 52,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "card",
+          "variant": "deal",
+          "x": 6,
+          "y": 27,
+          "w": 88,
+          "h": 19,
+          "id": "c-phone-chat",
+          "head": "Klik link di bio",
+          "t": "untuk mulai persiapan dan klaim extra bonusmu.",
+          "max": 34
+        },
+        {
+          "k": "card",
+          "variant": "deal",
+          "x": 6,
+          "y": 48,
+          "w": 88,
+          "h": 19,
+          "id": "c-bonus",
+          "head": "Extra Bonus",
+          "t": "**Business Conversation Class with Native** + GRATIS Simulasi Ujian HSK.",
+          "max": 34
+        },
+        {
+          "k": "card",
+          "variant": "quote2",
+          "x": 6,
+          "y": 71,
+          "w": 60,
+          "h": 18,
+          "tone": "white",
+          "t": "Jangan biarkan peluang kerja sama terlewat gara-gara hambatan bahasa dan etiket."
+        },
+        {
+          "k": "mascot",
+          "x": 64,
+          "y": 68,
+          "w": 36,
+          "h": 32,
+          "id": "cewe-dm",
+          "z": 3
+        }
+      ]
+    }
+  ]
+}

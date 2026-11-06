@@ -1,0 +1,46 @@
+{
+  "brand": "info-jerman",
+  "minggu": "2026-11-16",
+  "slot": 1,
+  "topik": "Der, die, das bikin hafalan buyar?",
+  "angle": "Pola akhiran kata yang bisa langsung dipakai",
+  "arketipe": "B",
+  "situasi": "Hafalan artikel buyar tiap ketemu kata baru, apalagi belajar setelah pulang kerja.",
+  "pesan": "Sebagian artikel bisa ditebak dari akhiran katanya.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: hafalan artikel buyar."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Kolom bertangga seperti B1 dan B2 apa bedanya."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Empat kata sehari-hari, ikon besar."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Visual besar, 3 kebiasaan, CTA dalam pill."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Akhiran -ung, -heit, -keit, -schaft, -ion feminin; -chen, -lein neutral; -ling, -ismus maskulin; hanya membantu sebagian kata",
+      "sumber": "Duden Learnattack Schülerlexikon, Genus des Substantivs",
+      "url": "https://www.lernhelfer.de/schuelerlexikon/deutsch/artikel/genus-des-substantivs",
+      "check": false
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Pola tidak berlaku untuk semua kata; sudah disebut di slide 2."
+  ]
+}

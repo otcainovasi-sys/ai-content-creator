@@ -1,0 +1,419 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-16-07-jumat",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "archetype": "A Tips N cara",
+  "background": {
+    "src": "assets/stock/openverse-273142cb-5d4.jpg",
+    "position": "center 12%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 23,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 88,
+    "catatan": "Tips praktik tanpa angka. Fitur Speaking with Native perlu dicek masih berlaku."
+  },
+  "brief": {
+    "problem": "Paham materi, tapi diam setiap sesi speaking karena takut salah.",
+    "angle": "3 cara mulai ngomong tanpa nunggu sempurna",
+    "key_message": "Rasa takut berkurang kalau latihan ngomong dibuat kecil dan rutin.",
+    "audience": "Karyawan 22–35 tahun yang menyiapkan Ausbildung, belajar sambil kerja",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Speaking with Native termasuk fasilitas kelas",
+        "source": "Post promo live Info Jerman (tangkapan 5 Nov 2026)",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Speaking with Native dari post promo; pastikan masih termasuk kelas."
+    ],
+    "references": [
+      "Carousel live biaya kursus (Cek 3 Hal ini)",
+      "Tips tengah Info Jerman (absen-ketinggalan)"
+    ]
+  },
+  "caption": "Paham materinya, tapi langsung diam pas disuruh ngomong?\n\nCoba 3 cara ini:\n1. Rekam dirimu 1 menit cerita soal harimu, lalu dengarkan ulang.\n2. Siapkan 5 kalimat andalan, misalnya „Können Sie das bitte wiederholen?“ buat minta diulang.\n3. Habis ngomong, minta tutor tunjukkan satu bagian yang perlu dibenerin.\n\nSalah dikit nggak apa-apa, yang penting pesannya nyambung.\n\nMau latihan langsung? Klik link di bio untuk ikut kelas Platinum A1–B1.\n\n#BelajarBahasaJerman #SpeakingJerman #InfoJerman",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "intent": "Hook: diam saat speaking.",
+      "headline": "Paham materinya, tapi diam pas disuruh ngomong?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 14,
+          "y": 2,
+          "w": 72,
+          "h": 72,
+          "id": "cowo-cermin",
+          "variant": "fade",
+          "z": 1
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 5,
+          "w": 31,
+          "h": 19,
+          "id": "c-bubble-aeh",
+          "z": 2,
+          "r": -5
+        },
+        {
+          "k": "icon",
+          "x": 76,
+          "y": 16,
+          "w": 22,
+          "h": 30,
+          "id": "c-mic",
+          "z": 2,
+          "r": 8
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 56,
+          "w": 100,
+          "h": 31,
+          "t": "Paham materinya, tapi diam pas disuruh ngomong?",
+          "variant": "duo",
+          "align": "left",
+          "max": 74,
+          "min": 50,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "variant": "swipe",
+          "x": 0,
+          "y": 89,
+          "w": 100,
+          "h": 7,
+          "t": "Swipe buat tau caranya",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola tips live: pill, visual besar, pill putih, 3 tile, pill gelap.",
+      "headline": "Mulai ngomong tanpa nunggu sempurna",
+      "blocks": [
+        {
+          "k": "pill",
+          "x": 0,
+          "y": 0,
+          "w": 40,
+          "h": 5.5,
+          "t": "Tips Belajar",
+          "tone": "brand",
+          "align": "left"
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 7.5,
+          "w": 100,
+          "h": 14,
+          "t": "Mulai ngomong **tanpa nunggu sempurna**",
+          "variant": "duo",
+          "align": "left",
+          "max": 52,
+          "min": 38
+        },
+        {
+          "k": "icon",
+          "x": 24,
+          "y": 23,
+          "w": 52,
+          "h": 25,
+          "id": "c-chat",
+          "z": 1
+        },
+        {
+          "k": "pill",
+          "variant": "flank",
+          "x": 0,
+          "y": 50,
+          "w": 100,
+          "h": 6.5,
+          "t": "3 Cara Biar Berani",
+          "tone": "cream",
+          "align": "center"
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 58,
+          "w": 32,
+          "h": 27,
+          "id": "c-mic",
+          "head": "Rekam 1 menit",
+          "tone": "cream",
+          "max": 28
+        },
+        {
+          "k": "tile",
+          "x": 34,
+          "y": 58,
+          "w": 32,
+          "h": 27,
+          "id": "c-memo",
+          "head": "5 kalimat andalan",
+          "tone": "cream",
+          "max": 28
+        },
+        {
+          "k": "tile",
+          "x": 68,
+          "y": 58,
+          "w": 32,
+          "h": 27,
+          "id": "c-headset",
+          "head": "Minta dikoreksi",
+          "tone": "cream",
+          "max": 28
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 7,
+          "y": 88,
+          "w": 86,
+          "h": 11,
+          "t": "Salah dikit nggak apa-apa, yang penting nyambung"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Angka 3 raksasa di antara pill, kartu putih detail.",
+      "headline": "3 latihan yang bisa dicoba",
+      "blocks": [
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 7.5,
+          "t": "Takut salah?",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 8.5,
+          "w": 100,
+          "h": 7.5,
+          "t": "Latihan kecil dulu!",
+          "tone": "white",
+          "align": "center"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 18,
+          "w": 100,
+          "h": 9,
+          "t": "Sebelum kelas, **mulai sendiri** dari **hal kecil** yang bisa kamu lakukan hari ini.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 33
+        },
+        {
+          "k": "pill",
+          "variant": "fat",
+          "x": 0,
+          "y": 31,
+          "w": 38,
+          "h": 11,
+          "t": "Coba",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "big",
+          "x": 0,
+          "y": 43,
+          "w": 38,
+          "h": 22,
+          "t": "3",
+          "max": 210,
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "fat",
+          "x": 0,
+          "y": 66,
+          "w": 38,
+          "h": 11,
+          "t": "Latihan",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 41,
+          "y": 29,
+          "w": 59,
+          "h": 17,
+          "tone": "white",
+          "id": "c-mic",
+          "head": "Rekam 1 menit:",
+          "t": "Cerita soal harimu, lalu dengarkan ulang.",
+          "max": 31,
+          "min": 25
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 41,
+          "y": 47.5,
+          "w": 59,
+          "h": 17,
+          "tone": "white",
+          "id": "c-memo",
+          "head": "Kalimat andalan:",
+          "t": "Siapkan 5, misalnya „Können Sie das wiederholen?“",
+          "max": 31,
+          "min": 25
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 41,
+          "y": 66,
+          "w": 59,
+          "h": 17,
+          "tone": "white",
+          "id": "c-headset",
+          "head": "Minta dikoreksi:",
+          "t": "Tanya tutor bagian mana yang perlu dibenerin.",
+          "max": 31,
+          "min": 25
+        },
+        {
+          "k": "card",
+          "variant": "strip",
+          "x": 2,
+          "y": 86,
+          "w": 96,
+          "h": 12,
+          "tone": "white",
+          "id": "c-bulb",
+          "t": "Kecil tapi rutin biasanya **lebih ngefek** daripada nunggu siap."
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Maskot, kartu putih fitur, CTA dalam pill.",
+      "headline": "Makin sering ngomong, makin hilang takutnya",
+      "cta": "Mau latihan langsung? Klik link di bio untuk ikut kelasnya!",
+      "blocks": [
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 7.5,
+          "t": "Makin sering ngomong",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 8.5,
+          "w": 100,
+          "h": 7.5,
+          "t": "Makin hilang takutnya",
+          "tone": "white",
+          "align": "center"
+        },
+        {
+          "k": "mascot",
+          "x": 0,
+          "y": 22,
+          "w": 46,
+          "h": 60,
+          "id": "cowo-presentasi",
+          "z": 2
+        },
+        {
+          "k": "bubble",
+          "x": 46,
+          "y": 21,
+          "w": 54,
+          "h": 22,
+          "tone": "white",
+          "t": "Ada sesi **Speaking with Native** buat latihan langsung",
+          "max": 35,
+          "min": 25
+        },
+        {
+          "k": "pill",
+          "x": 46,
+          "y": 47,
+          "w": 54,
+          "h": 7,
+          "t": "Latihan ngomong",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "x": 46,
+          "y": 57,
+          "w": 54,
+          "h": 7,
+          "t": "Dikoreksi langsung",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "icon",
+          "x": 56,
+          "y": 66,
+          "w": 34,
+          "h": 18,
+          "id": "c-headset",
+          "z": 1
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 5,
+          "y": 86,
+          "w": 90,
+          "h": 13
+        }
+      ]
+    }
+  ]
+}

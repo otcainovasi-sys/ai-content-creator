@@ -1,0 +1,26 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-09-07-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "caption": "Pulang kerja sudah capek, kapan sempat belajar bahasa Jepang?\n\nTidak harus 3 jam. Mulai dari 30 menit sehari:\n- Pilih jam belajar yang sama setiap hari.\n- Ulang kosakata kemarin sebelum masuk materi baru.\n- Catat progresmu setiap akhir minggu.\n\nKonsisten lebih penting daripada lama.\n\nSimpan panduannya untuk minggu ini.\n\n#BelajarSambilKerja #BelajarBahasaJepang #JepangKoey",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "mascot_hero",
+      "headline": "Pulang kerja capek, **kapan sempat belajar?**",
+      "sub": "Mulai dari 30 menit sehari dengan target kecil yang konsisten.",
+      "benefits": [
+        "Pilih jam belajar yang sama setiap hari",
+        "Ulang kosakata kemarin sebelum materi baru"
+      ],
+      "cta": "Simpan panduannya",
+      "image": {
+        "src": "assets/stock/openverse-b90b48bd-5f3.jpg"
+      },
+      "mascot": "cewe-calm"
+    }
+  ]
+}

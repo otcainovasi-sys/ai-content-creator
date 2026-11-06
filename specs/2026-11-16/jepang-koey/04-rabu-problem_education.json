@@ -1,0 +1,357 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-16-04-rabu",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "archetype": "D Kerangka dan alur keputusan",
+  "background": {
+    "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+    "position": "70% 30%"
+  },
+  "verified_claims": [
+    "N4",
+    "JFT-Basic",
+    "5 tahun",
+    "N3"
+  ],
+  "rubric": {
+    "target": 24,
+    "informasi": 23,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 91,
+    "catatan": "Syarat dibaca langsung dari ssw.go.jp dan Japan Foundation. Jumlah bidang sengaja tidak ditulis karena sumber berbeda."
+  },
+  "brief": {
+    "problem": "Sudah lulus N4, lalu mengira syarat kerja SSW sudah lengkap.",
+    "angle": "Dua syarat SSW (i): bahasa dan ujian keterampilan",
+    "key_message": "Lulus ujian bahasa baru separuh syarat SSW (i).",
+    "audience": "Karyawan dan fresh graduate 22–35 tahun yang menimbang karier di Jepang",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "SSW (i): lulus ujian keterampilan bidang, serta JFT-Basic atau JLPT N4 ke atas; lulusan Technical Intern Training (ii) umumnya bebas ujian; perawat dan pengemudi punya syarat bahasa tambahan",
+        "source": "Portal resmi SSW Jepang, Steps to Working in Japan",
+        "url": "https://www.ssw.go.jp/en/about/step/",
+        "check": false
+      },
+      {
+        "claim": "Masa tinggal SSW maksimal 5 tahun, diberikan bertahap",
+        "source": "Portal resmi SSW Jepang, FAQ",
+        "url": "https://www.ssw.go.jp/en/faq/",
+        "check": false
+      },
+      {
+        "claim": "JFT-Basic: tes berbasis komputer dari Japan Foundation",
+        "source": "Japan Foundation, About JFT-Basic",
+        "url": "https://www.jpf.go.jp/jft-basic/e/about/index.html",
+        "check": false
+      }
+    ],
+    "risks": [
+      "Kursus bahasa bukan penempatan kerja; slide tidak menjanjikan keberangkatan.",
+      "Aturan bisa berubah; caption mengarahkan cek ke portal resmi."
+    ],
+    "references": [
+      "Carousel live Pilih JLPT N4 atau JFT-Basic A2"
+    ]
+  },
+  "caption": "Sudah lulus N4, apakah syarat kerja SSW sudah lengkap?\n\nUntuk Specified Skilled Worker (i), kamu perlu dua hal:\n1. Bahasa: JFT-Basic, atau JLPT N4 ke atas.\n2. Ujian keterampilan sesuai bidang kerja.\n\nBeberapa bidang punya syarat bahasa tambahan. Masa tinggal SSW (i) maksimal 5 tahun dan diberikan bertahap.\n\nAturan bisa berubah, jadi cek portal resmi ssw.go.jp sebelum membuat rencana.\n\nKlik link di bio untuk lihat kelas Platinum N5–N4.\n\n#TokuteiGinou #SSW #JepangKoey",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+        "position": "72% 40%",
+        "zoom": 1.1
+      },
+      "intent": "Hook: mengira N4 sudah cukup.",
+      "headline": "Sudah Lulus N4, Cukup buat Kerja di Jepang?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 1,
+          "y": 24,
+          "w": 29,
+          "h": 46,
+          "id": "cowo-melipat-tangan",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 62,
+          "y": 22,
+          "w": 34,
+          "h": 16,
+          "id": "c-bubble-cukup",
+          "z": 3,
+          "r": 5
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 64,
+          "w": 100,
+          "h": 16,
+          "t": "**Sudah Lulus N4,** Cukup buat Kerja di Jepang?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 48,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 81,
+          "w": 100,
+          "h": 12,
+          "t": "Panduan singkat syarat SSW (i) buat pekerja dan career switcher, biar nggak salah langkah.",
+          "align": "left",
+          "color": "white",
+          "min": 28,
+          "max": 32
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-629264e9-b7d.jpg",
+        "position": "center",
+        "zoom": 1.1
+      },
+      "intent": "Pola Karakteristik JLPT: judul merah, ikon besar, poin, QUICK TIPS.",
+      "headline": "Syarat 1: Bahasa, Pilih Salah Satu",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 13,
+          "t": "Syarat 1: Bahasa, Pilih Salah Satu",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 20,
+          "y": 13,
+          "w": 60,
+          "h": 25,
+          "id": "c-cert-target",
+          "z": 1
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 39,
+          "w": 96,
+          "h": 25,
+          "items": [
+            {
+              "t": "**JLPT** level N4 atau lebih tinggi."
+            },
+            {
+              "t": "**JFT-Basic**, tes berbasis komputer dari Japan Foundation."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "x": 6,
+          "y": 66,
+          "w": 88,
+          "h": 18,
+          "t": "Bidang perawat dan pengemudi punya syarat bahasa tambahan.",
+          "max": 33,
+          "head": "Catatan untuk Pekerja"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg",
+        "position": "center 30%"
+      },
+      "intent": "Pola JFT: ikon clipboard, poin, QUICK TIPS.",
+      "headline": "Syarat 2: Ujian Keterampilan",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "Syarat 2: Ujian Keterampilan",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 30,
+          "y": 11,
+          "w": 40,
+          "h": 25,
+          "id": "c-clipboard",
+          "z": 1,
+          "r": 6
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 37,
+          "w": 96,
+          "h": 28,
+          "items": [
+            {
+              "t": "Ujiannya mengikuti **bidang kerja** yang kamu incar."
+            },
+            {
+              "t": "Lulusan Technical Intern Training (ii) umumnya **bebas** dari kedua ujian ini."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "x": 6,
+          "y": 67,
+          "w": 88,
+          "h": 16,
+          "t": "Bahasa lulus, ujian bidang belum? Syaratnya belum lengkap.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-b90b48bd-5f3.jpg",
+        "position": "center"
+      },
+      "intent": "Pola Tentukan Jalur: ikon besar, poin, Solusi Jepang Koey.",
+      "headline": "Masa Tinggal SSW (i)",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "Masa Tinggal SSW (i)",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 31,
+          "y": 11,
+          "w": 38,
+          "h": 26,
+          "id": "c-calendar",
+          "z": 1
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 39,
+          "w": 96,
+          "h": 23,
+          "items": [
+            {
+              "t": "Maksimal **5 tahun**."
+            },
+            {
+              "t": "Izinnya diberikan bertahap, tidak sekaligus 5 tahun."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "variant": "top",
+          "x": 4,
+          "y": 67,
+          "w": 92,
+          "h": 19,
+          "note": "Solusi Jepang Koey",
+          "t": "Kelas Platinum N5–N4 bantu kamu menyiapkan bahasanya secara bertahap, sambil tetap kerja.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-fff159f9-f8b.jpg",
+        "position": "center 40%",
+        "zoom": 1.1
+      },
+      "intent": "Penutup: maskot tengah, sorotan putih, tombol merah.",
+      "headline": "Siapkan Bahasanya dari Target Kecil",
+      "cta": "Klik Link di Bio untuk Lihat Kelas Platinum N5–N4",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 33,
+          "y": 2,
+          "w": 34,
+          "h": 56,
+          "id": "cowo-melipat-tangan",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "title",
+          "x": 8,
+          "y": 49,
+          "w": 84,
+          "h": 19,
+          "t": "**Siapkan Bahasanya dari Target Kecil**",
+          "variant": "duo",
+          "align": "center",
+          "max": 60,
+          "min": 44,
+          "color": "accent",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 12,
+          "y": 71,
+          "w": 76,
+          "h": 14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "brand": "info-jerman",
+  "slug": "uji-gaya",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+  "background": {
+    "src": "assets/stock/openverse-bb4a35d7-7ad.jpg"
+  },
+  "brief": {
+    "problem": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+    "angle": "Uji gaya desain terhadap guideline dan feed live",
+    "key_message": "-",
+    "cta": {
+      "type": "link_bio"
+    }
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Cover ilustrasi",
+      "eyebrow": "Tips Belajar",
+      "headline": "Sering lembur? Tenang, materi tetap bisa dikejar!",
+      "sub": "Swipe buat tau caranya",
+      "mascot": "cewe-berdiri"
+    },
+    {
+      "layout": "tips",
+      "role": "point",
+      "intent": "Arketipe A: 3 kartu",
+      "eyebrow": "Tips Belajar",
+      "headline": "Absen sekali langsung merasa ketinggalan?",
+      "sub": "3 Cara Biar Gak Panik",
+      "cards": [
+        {
+          "icon": "magnifier",
+          "title": "Cari materi yang terlewat"
+        },
+        {
+          "icon": "direct-hit",
+          "title": "Tentukan prioritas"
+        },
+        {
+          "icon": "movie-camera",
+          "title": "Tonton video rekaman kelas"
+        }
+      ],
+      "punch": "Pelan-pelan yang penting mulai dulu",
+      "scene": "jadwal"
+    },
+    {
+      "layout": "tips",
+      "role": "point",
+      "intent": "Arketipe A: grid 2x2",
+      "eyebrow": "Tips Belajar",
+      "headline": "Sering lembur bukan berarti harus berhenti belajar",
+      "cards": [
+        {
+          "icon": "memo",
+          "title": "Catat materi"
+        },
+        {
+          "icon": "direct-hit",
+          "title": "Target mingguan"
+        },
+        {
+          "icon": "books",
+          "title": "Pakai bahan belajar"
+        },
+        {
+          "icon": "magnifier",
+          "title": "Evaluasi rutin"
+        }
+      ],
+      "punch": "Konsisten sedikit demi sedikit",
+      "scene": "lembur"
+    },
+    {
+      "layout": "offer",
+      "role": "closing",
+      "intent": "Arketipe I: penutup",
+      "headline": "Mau belajar bahasa Jerman lebih konsisten?",
+      "items": [
+        {
+          "icon": "chart",
+          "title": "Progres Belajar",
+          "text": "Lihat perkembanganmu"
+        },
+        {
+          "icon": "pin",
+          "title": "Progres Level",
+          "text": "Level yang sudah ditempuh"
+        },
+        {
+          "icon": "notebook",
+          "title": "Riwayat Belajar",
+          "text": "Semua catatan di satu tempat"
+        }
+      ],
+      "itemsTitle": "Pantau dalam satu portal",
+      "cta": "Klik Link di Bio",
+      "ctaNote": "untuk belajar bahasa Jerman lebih konsisten",
+      "hero": [
+        "star"
+      ],
+      "ctaIcon": "point-right",
+      "mascot": "cowo-berdiri",
+      "badge": "PORTAL"
+    }
+  ]
+}

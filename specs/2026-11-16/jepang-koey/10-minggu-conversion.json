@@ -1,0 +1,157 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-16-10-minggu",
+  "month": "2026-11",
+  "pillar": "conversion",
+  "type": "single",
+  "format": "feed_portrait",
+  "schedule": "Minggu 19:00",
+  "archetype": "I Penutup penawaran",
+  "background": {
+    "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+    "position": "70% 30%"
+  },
+  "verified_claims": [
+    "garansi"
+  ],
+  "rubric": {
+    "target": 22,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 21,
+    "pengurang": 0,
+    "total": 86,
+    "catatan": "Bonus dari post live, perlu dicek masih berlaku. \"Senilai jutaan rupiah\" tidak dipakai."
+  },
+  "brief": {
+    "problem": "Mau mulai tapi belum tahu dapat apa saja.",
+    "angle": "Bonus persiapan dan garansi, tanpa harga",
+    "key_message": "Ada konsultasi, materi, dan garansi mengulang kelas (S&K berlaku).",
+    "audience": "Karyawan dan fresh graduate 22–35 tahun yang menimbang karier di Jepang",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "FREE Special Academic Consultation, FREE Premium Learning Material, Garansi Mengulang Kelas (S&K berlaku)",
+        "source": "Post penawaran live Jepang Koey",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Bonus dari post live; cek masih berlaku.",
+      "Harga belum ada."
+    ],
+    "references": [
+      "Slide penawaran Choukai"
+    ]
+  },
+  "caption": "Target ke Jepang-mu kapan? Mulai persiapannya dari sekarang.\n\nBonus yang bisa kamu dapat:\n• FREE Special Academic Consultation\n• FREE Premium Learning Material\n• Garansi Mengulang Kelas (S&K berlaku)\n\nKlik link di bio untuk info lengkapnya.\n\n#KursusBahasaJepang #KerjaDiJepang #JepangKoey",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "single",
+      "skin": "sky",
+      "bg": {
+        "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+        "position": "70% 30%"
+      },
+      "intent": "Pola penawaran Choukai: kartu putih, centang, FREE, BONUS, maskot, kartu merah.",
+      "headline": "Mulai Persiapanmu dari Sekarang",
+      "cta": "Siap mulai? Klik link di bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 8,
+          "t": "Mulai Persiapanmu dari Sekarang",
+          "variant": "duo",
+          "align": "center",
+          "max": 52,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 2,
+          "y": 10,
+          "w": 96,
+          "h": 52
+        },
+        {
+          "k": "text",
+          "x": 6,
+          "y": 13,
+          "w": 88,
+          "h": 12,
+          "t": "Biar persiapan bahasamu lebih tenang, ada **bonus** ini:",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 32
+        },
+        {
+          "k": "list",
+          "x": 6,
+          "y": 26,
+          "w": 66,
+          "h": 34,
+          "items": [
+            {
+              "t": "**FREE Special Academic Consultation:** petakan jalurmu bareng mentor."
+            },
+            {
+              "t": "**FREE Premium Learning Material:** modul dan bank soal."
+            },
+            {
+              "t": "**Garansi Mengulang Kelas** (S&K berlaku)."
+            }
+          ],
+          "max": 28,
+          "note": "check"
+        },
+        {
+          "k": "icon",
+          "x": 72,
+          "y": 24,
+          "w": 28,
+          "h": 20,
+          "id": "c-free-sign",
+          "z": 3,
+          "r": 6
+        },
+        {
+          "k": "icon",
+          "x": -3,
+          "y": 56,
+          "w": 22,
+          "h": 16,
+          "id": "c-bonus",
+          "z": 4,
+          "r": -8
+        },
+        {
+          "k": "mascot",
+          "x": 60,
+          "y": 56,
+          "w": 40,
+          "h": 44,
+          "id": "cowo-pointing",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 2,
+          "y": 72,
+          "w": 60,
+          "h": 16
+        }
+      ]
+    }
+  ]
+}

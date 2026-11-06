@@ -1,0 +1,94 @@
+{
+  "brand": "ciao-manda",
+  "slug": "uji-gaya",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+  "background": {
+    "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+  },
+  "verified_claims": [
+    "garansi"
+  ],
+  "brief": {
+    "problem": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+    "angle": "Uji gaya desain terhadap guideline dan feed live",
+    "key_message": "-",
+    "cta": {
+      "type": "link_bio"
+    }
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Cover maskot",
+      "headline": "Salah cari sapaan bisa bikin **deals gagal?**",
+      "sub": "Ini etiket berkenalan dengan klien China.",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      }
+    },
+    {
+      "layout": "labels",
+      "role": "point",
+      "intent": "Arketipe B: daftar padat",
+      "headline": "3 Langkah Menyapa Klien Tiongkok",
+      "items": [
+        {
+          "label": "Etiket Menerima Kartu Nama (名片 · Míngpiàn)",
+          "text": "Terima dan berikan dengan **dua tangan** sambil sedikit membungkuk. Baca sebentar, jangan langsung masuk saku.",
+          "icon": "card"
+        },
+        {
+          "label": "Sapaan Formal",
+          "example": {
+            "text": "您好，王经理！",
+            "reading": "Nín hǎo, Wáng jīnglǐ!",
+            "meaning": "Halo, Manager Wang!"
+          },
+          "icon": "handshake"
+        },
+        {
+          "label": "Kalimat Perkenalan Singkat",
+          "example": {
+            "text": "很高兴认识您。",
+            "reading": "Hěn gāoxìng rènshi nín.",
+            "meaning": "Senang berkenalan dengan Anda."
+          },
+          "icon": "speech"
+        }
+      ]
+    },
+    {
+      "layout": "offer",
+      "role": "closing",
+      "intent": "Arketipe I: penutup",
+      "headline": "Mau kuasai percakapan bisnis Mandarin tanpa canggung?",
+      "itemsTitle": "Extra Bonus",
+      "mascot": "cowo-pointing",
+      "items": [
+        {
+          "icon": "speech",
+          "title": "Business Conversation Class",
+          "text": "Latihan bersama native"
+        },
+        {
+          "icon": "memo",
+          "title": "Gratis Simulasi Ujian HSK",
+          "text": "Ukur kesiapan sebelum ujian"
+        }
+      ],
+      "cta": "Klik link di bio",
+      "ctaNote": "untuk mulai persiapan dari sekarang",
+      "badge": "EXTRA",
+      "hero": [
+        "speech",
+        "gift",
+        "star"
+      ],
+      "ctaIcon": "point-right"
+    }
+  ]
+}

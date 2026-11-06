@@ -1,0 +1,24 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-05-tutor-authority",
+  "month": "2026-11",
+  "pillar": "tutor_authority",
+  "format": "feed_portrait",
+  "schedule": "Rabu 18:30",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "tutor_profile",
+      "headline": "[headline]",
+      "sub": "[subheadline]",
+      "cta": "[CTA]",
+      "image": {
+        "src": "[assets/stock/... atau foto brand]"
+      },
+      "name": "[nama tutor]",
+      "credentials": [
+        "[kredensial]"
+      ]
+    }
+  ]
+}

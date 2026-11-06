@@ -1,0 +1,152 @@
+{
+  "brand": "otca",
+  "slug": "uji-layout",
+  "month": "2026-11",
+  "format": "feed_portrait",
+  "verified_claims": [
+    "9.900.000"
+  ],
+  "slides": [
+    {
+      "layout": "hero_photo",
+      "headline": "Siap berangkat, **belum tentu siap belajar.**",
+      "sub": "Persiapan sering hanya fokus pada dokumen dan bahasa.",
+      "cta": "Konsultasi dengan Tim OTCA",
+      "image": {
+        "src": "assets/stock/openverse-582dd4f6-377.jpg"
+      }
+    },
+    {
+      "layout": "hero_photo",
+      "headline": "Target berbeda, **ritme belajar pun tak harus sama.**",
+      "sub": "Setiap anak berkembang dengan fokus dan kecepatan yang sesuai kebutuhannya.",
+      "cta": "Konsultasi dengan Tim OTCA",
+      "image": {
+        "src": "assets/stock/openverse-582dd4f6-377.jpg"
+      }
+    },
+    {
+      "layout": "score_infographic",
+      "headline": "Progres belajar anak **terukur**",
+      "sub": "Lesen, Hören, Schreiben, Sprechen",
+      "tableTitle": "Laporan Belajar Anak",
+      "rows": [
+        {
+          "skill": "Lesen",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan]"
+        },
+        {
+          "skill": "Hören",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan]"
+        },
+        {
+          "skill": "Schreiben",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan]"
+        },
+        {
+          "skill": "Sprechen",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan]"
+        }
+      ],
+      "cta": "Konsultasi dengan Tim OTCA"
+    },
+    {
+      "layout": "story_card",
+      "headline": "Cerita **siswa OTCA**",
+      "quote": "[kutipan asli + izin]",
+      "sub": "Setiap anak punya cara belajar yang berbeda.",
+      "cta": "Konsultasi dengan Tim OTCA",
+      "image": {
+        "src": "assets/stock/openverse-be224b0f-981.jpg"
+      },
+      "name": "[Nama Siswa]",
+      "role": "Siswa"
+    },
+    {
+      "layout": "achievement",
+      "headline": "Student **achievement**",
+      "sub": "Setiap pencapaian adalah bagian dari perjalanan menuju Jerman.",
+      "cta": "Konsultasi dengan Tim OTCA",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      },
+      "name": "[Nama Siswa]"
+    },
+    {
+      "layout": "tutor_profile",
+      "headline": "Belajar Jerman harus langsung tahu grammar? **Mulai bertahap.**",
+      "name": "[Nama Tutor]",
+      "role": "Tutor OTCA",
+      "credentials": [
+        "[kredensial terverifikasi]"
+      ],
+      "cta": "Konsultasi dengan Tim OTCA",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      }
+    },
+    {
+      "layout": "program_value",
+      "headline": "Tuntaskan bahasa Jerman anak dengan **pembelajaran personal**",
+      "guarantee": "Sesuai jadwal. Sesuai kebutuhan. Sesuai target.",
+      "benefits": [
+        "Private 1-on-1",
+        "Jadwal fleksibel",
+        "Fokus target"
+      ],
+      "cta": "Daftar 1-on-1 sekarang",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      }
+    },
+    {
+      "layout": "price_table",
+      "headline": "Prince 60 **Online**",
+      "sub": "60 jam coaching + extra 2 jam",
+      "tiers": [
+        {
+          "name": "Prince 60",
+          "price": "Rp 9.900.000",
+          "featured": true
+        }
+      ],
+      "features": [
+        "Private 1-on-1",
+        "Jadwal fleksibel",
+        "Fokus target"
+      ],
+      "cta": "Konsultasi dengan Tim OTCA"
+    },
+    {
+      "layout": "numbered_list",
+      "headline": "Sebelum tanya nilai, **cek dulu jalur masuknya.**",
+      "items": [
+        {
+          "title": "Memahami",
+          "text": "Mampu menjelaskan alasan, bukan cuma menghafal"
+        },
+        {
+          "title": "Mengatur",
+          "text": "Menyusun waktu dan prioritas"
+        },
+        {
+          "title": "Bertanya",
+          "text": "Berani mencari bantuan saat tidak paham"
+        },
+        {
+          "title": "Mengevaluasi",
+          "text": "Mengganti strategi saat cara lama tidak efektif"
+        }
+      ],
+      "cta": "Konsultasi dengan Tim OTCA"
+    }
+  ]
+}

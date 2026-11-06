@@ -1,0 +1,307 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-16-09-sabtu",
+  "month": "2026-11",
+  "pillar": "program_value",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Sabtu 11:00",
+  "archetype": "H Fitur produk",
+  "background": {
+    "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+    "position": "center 45%"
+  },
+  "verified_claims": [
+    "24",
+    "48"
+  ],
+  "rubric": {
+    "target": 22,
+    "informasi": 21,
+    "struktur": 21,
+    "copy": 21,
+    "pengurang": 0,
+    "total": 85,
+    "catatan": "Private 24/48 terkonfirmasi. Laporan bulanan dan kelas native dari post live, perlu dicek. Tanpa harga."
+  },
+  "brief": {
+    "problem": "Jadwal kerja padat, susah ikut kelas tetap.",
+    "angle": "Kelas privat yang mengikuti jadwal kerja",
+    "key_message": "Private 24 atau 48 jam, dengan laporan belajar untuk memantau progres.",
+    "audience": "Pekerja 25–40 tahun di perusahaan China (manufaktur, logistik, IT), berinteraksi dengan atasan atau partner Tiongkok",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Mandarin Private 24 Jam dan 48 Jam",
+        "source": "knowledge/brands/ciao-manda/products.json",
+        "url": "",
+        "check": false
+      },
+      {
+        "claim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+        "source": "Post live Ciao Manda",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Fitur dari post live perlu dicek.",
+      "Harga belum ada."
+    ],
+    "references": [
+      "Penutup Kenapa Daftar Sekarang",
+      "Cover live Gimana cara pantau progres"
+    ]
+  },
+  "caption": "Jadwal kerja padat, tapi tetap mau belajar Mandarin?\n\nDi Ciao Manda ada kelas Mandarin Private 24 Jam dan 48 Jam. Perkembanganmu bisa dipantau lewat laporan belajar bulanan.\n\nKlik link di bio untuk cek kelas yang cocok dengan jadwalmu.\n\n#KursusMandarin #MandarinKantor #CiaoManda",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-d88bef86-ac9.jpg",
+        "position": "center 30%"
+      },
+      "intent": "Hook: jadwal padat.",
+      "headline": "Jadwal Kerja Padat, Kapan Belajar Mandarinnya?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 26,
+          "y": 0,
+          "w": 46,
+          "h": 66,
+          "id": "cewe-uang",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 70,
+          "y": 6,
+          "w": 26,
+          "h": 22,
+          "id": "c-alarm",
+          "z": 3,
+          "r": 8
+        },
+        {
+          "k": "icon",
+          "x": 2,
+          "y": 22,
+          "w": 24,
+          "h": 20,
+          "id": "c-calendar",
+          "z": 3,
+          "r": -6
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 60,
+          "w": 100,
+          "h": 22,
+          "t": "Jadwal Kerja Padat, Kapan Belajar Mandarinnya?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 46,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 9,
+          "t": "Ada kelas privat yang mengikuti waktumu.",
+          "align": "left",
+          "color": "white",
+          "min": 27,
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Pola Kenapa Daftar Sekarang: judul kerangka, kartu ikon, maskot.",
+      "headline": "Kelas privat, jadwal ikut kamu",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 13,
+          "t": "Kelas Privat, Jadwal Ikut Kamu",
+          "variant": "duo",
+          "align": "center",
+          "max": 58,
+          "min": 40,
+          "color": "outline"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 16,
+          "w": 100,
+          "h": 9,
+          "t": "Pilih durasi yang cocok, lalu pantau progresmu tiap bulan.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 32
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 0,
+          "y": 28,
+          "w": 68,
+          "h": 64
+        },
+        {
+          "k": "text",
+          "x": 2,
+          "y": 30,
+          "w": 70,
+          "h": 7,
+          "t": "**Yang kamu dapat**",
+          "align": "left",
+          "color": "accent",
+          "min": 30,
+          "max": 38
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 41.0,
+          "w": 13,
+          "h": 10,
+          "id": "c-alarm",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 38,
+          "w": 44,
+          "h": 16,
+          "t": "**Private 24 Jam atau 48 Jam**, kelas 1-on-1.",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 58.0,
+          "w": 13,
+          "h": 10,
+          "id": "c-tablet",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 55,
+          "w": 44,
+          "h": 16,
+          "t": "**Laporan belajar bulanan** buat pantau perkembanganmu.",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 75.5,
+          "w": 13,
+          "h": 10,
+          "id": "c-chat",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 72,
+          "w": 44,
+          "h": 17,
+          "t": "**Business Conversation Class with Native.**",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "mascot",
+          "x": 62,
+          "y": 30,
+          "w": 38,
+          "h": 62,
+          "id": "cewe-say-hi",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-e493ecc2-2df.jpg",
+        "position": "40% 50%",
+        "zoom": 1.1
+      },
+      "intent": "Penutup: maskot di tengah, judul, tombol.",
+      "headline": "Belajar Mandarin Tanpa Ganggu Jam Kerja",
+      "cta": "Klik link di bio untuk cek kelas yang cocok!",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 30,
+          "y": 2,
+          "w": 40,
+          "h": 58,
+          "id": "cewe-dm",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 55,
+          "w": 100,
+          "h": 16,
+          "t": "Belajar Mandarin Tanpa Ganggu Jam Kerja",
+          "variant": "duo",
+          "align": "center",
+          "max": 56,
+          "min": 42,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 10,
+          "y": 74,
+          "w": 80,
+          "h": 13
+        }
+      ]
+    }
+  ]
+}

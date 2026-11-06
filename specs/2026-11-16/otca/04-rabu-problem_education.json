@@ -1,0 +1,254 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-16-04-rabu",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "archetype": "F Edukasi berangka",
+  "background": {
+    "src": "assets/stock/openverse-2ffc5811-594.jpg",
+    "position": "50% 28%",
+    "zoom": 1.6
+  },
+  "verified_claims": [
+    "11.904",
+    "beasiswa",
+    "jaminan"
+  ],
+  "rubric": {
+    "target": 23,
+    "informasi": 21,
+    "struktur": 21,
+    "copy": 21,
+    "pengurang": 0,
+    "total": 86,
+    "catatan": "Angka dari perwakilan Hong Kong, belum dicocokkan dengan Jakarta."
+  },
+  "brief": {
+    "problem": "Orang tua sudah menghitung biaya les dan tiket, lalu baru mendengar soal rekening blokir saat mengurus visa.",
+    "angle": "Biaya yang sering muncul paling akhir padahal harus siap sebelum visa",
+    "key_message": "Siapkan bukti dana sejak awal, bukan menjelang keberangkatan.",
+    "audience": "Orang tua 35–55 tahun, anak kelas 11–12",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    },
+    "sources": [
+      {
+        "claim": "992 euro per bulan, 11.904 euro per tahun; Sperrkonto, beasiswa, atau Verpflichtungserklärung",
+        "source": "Konsulat Jenderal Jerman Hong Kong, April 2026. Cocokkan dengan Kedutaan Jakarta.",
+        "url": "https://hongkong.diplo.de/resource/blob/2583960/b00c7caf59e5aad04ba9ed5e8350d3fa/student-data.pdf",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Sumber resmi, tetapi bukan Kedutaan Jakarta.",
+      "Angka bisa berubah; slide mengarahkan cek ke kedutaan."
+    ],
+    "references": [
+      "Carousel potongan gaji Jepang Koey sebagai pola edukasi berangka"
+    ]
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Hook: biaya yang belum masuk hitungan keluarga.",
+      "headline": "Biaya les sudah dihitung. **Dana 11.904 euro ini sudah?**",
+      "sub": "Bukti dana hidup diminta saat mengurus visa, bukan setelah anak tiba di Jerman.",
+      "image": {
+        "src": "assets/stock/openverse-2ffc5811-594.jpg",
+        "position": "50% 30%",
+        "zoom": 1.25
+      },
+      "mascot": "robot-berpikir",
+      "props": [
+        "c-coins",
+        "c-passport",
+        "c-lock"
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Angka raksasa sebagai tokoh, detail di baris bergaris.",
+      "headline": "Apa itu Sperrkonto?",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 80,
+          "h": 12,
+          "t": "Apa itu **Sperrkonto?**",
+          "variant": "duo",
+          "align": "left",
+          "max": 64,
+          "min": 44
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 13,
+          "w": 66,
+          "h": 8,
+          "t": "Rekening blokir untuk bukti dana hidup pelajar di Jerman.",
+          "color": "muted",
+          "min": 23,
+          "max": 28
+        },
+        {
+          "k": "big",
+          "x": 0,
+          "y": 24,
+          "w": 80,
+          "h": 26,
+          "t": "11.904",
+          "unit": "euro per tahun",
+          "max": 200
+        },
+        {
+          "k": "rows",
+          "x": 0,
+          "y": 56,
+          "w": 74,
+          "h": 42,
+          "variant": "plain",
+          "max": 34,
+          "items": [
+            {
+              "icon": "c-calendar",
+              "head": "992 euro per bulan",
+              "t": "Batas penarikan dari rekening"
+            },
+            {
+              "icon": "c-lock",
+              "head": "Dibuka langsung di bank",
+              "t": "Nilainya mengikuti lama tinggal anak"
+            }
+          ]
+        }
+      ],
+      "shade": "mid"
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola daftar opsi OTCA: nomor dual-tone.",
+      "headline": "Bukti dana tidak hanya satu jalan",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 20,
+          "t": "Bukti dana **tidak hanya satu jalan**",
+          "variant": "duo",
+          "align": "center",
+          "max": 64,
+          "min": 44
+        },
+        {
+          "k": "rows",
+          "x": 0,
+          "y": 25,
+          "w": 100,
+          "h": 62,
+          "variant": "num",
+          "max": 36,
+          "items": [
+            {
+              "head": "Sperrkonto",
+              "t": "Rekening blokir atas nama anak."
+            },
+            {
+              "head": "Bukti beasiswa",
+              "t": "Bila beasiswa menanggung biaya hidup."
+            },
+            {
+              "head": "Verpflichtungserklärung",
+              "t": "Surat jaminan dari kantor imigrasi di Jerman, ditandatangani penjamin."
+            }
+          ]
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 91,
+          "w": 100,
+          "h": 8,
+          "align": "center",
+          "t": "Pastikan ketentuan terbaru **ke Kedutaan Jerman di Jakarta.**",
+          "min": 24,
+          "max": 28
+        }
+      ],
+      "shade": "mid"
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Penutup: adegan dana di kiri, maskot kanan.",
+      "headline": "Jangan hanya hitung biaya les",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 20,
+          "t": "Jangan hanya hitung **biaya les**",
+          "variant": "duo",
+          "align": "center",
+          "max": 66,
+          "min": 44
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 20,
+          "w": 100,
+          "h": 7,
+          "align": "center",
+          "t": "Hitung juga dana hidup anak di tahun pertama.",
+          "color": "muted",
+          "min": 24,
+          "max": 29
+        },
+        {
+          "k": "scene",
+          "x": 0,
+          "y": 34,
+          "w": 56,
+          "h": 44,
+          "id": "o-dana"
+        },
+        {
+          "k": "mascot",
+          "x": 58,
+          "y": 30,
+          "w": 42,
+          "h": 50,
+          "id": "robot-koper",
+          "z": 2
+        },
+        {
+          "k": "cta",
+          "x": 0,
+          "y": 86,
+          "w": 100,
+          "h": 14,
+          "note": "Untuk info lebih lanjut dari Tim OTCA",
+          "id": "c-chat",
+          "z": 3
+        }
+      ],
+      "cta": "KOMEN \"STUDI\" DIBAWAH",
+      "shade": "mid"
+    }
+  ],
+  "caption": "Biaya les sudah dihitung. Bagaimana dengan dana hidup anak di Jerman?\n\nUntuk visa pelajar, dokumen perwakilan Jerman menyebut bukti dana minimal 992 euro per bulan, atau 11.904 euro per tahun. Bukti ini bisa berupa rekening blokir (Sperrkonto), bukti beasiswa, atau surat jaminan (Verpflichtungserklärung).\n\nSperrkonto dibuka langsung di bank, dan penarikannya dibatasi 992 euro per bulan.\n\nKetentuan bisa berubah, jadi pastikan angka terbaru ke Kedutaan Jerman di Jakarta.\n\nKomen \"STUDI\" untuk info lebih lanjut dari Tim OTCA.\n\n#StudiDiJerman #Sperrkonto #OTCA"
+}

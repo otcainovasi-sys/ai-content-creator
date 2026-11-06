@@ -1,0 +1,294 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-16-07-jumat",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+    "position": "70% 30%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 23,
+    "informasi": 21,
+    "struktur": 21,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 87,
+    "catatan": "Kalimat Jepang perlu dicek tutor."
+  },
+  "brief": {
+    "problem": "Sudah belajar kosakata, tapi bingung harus bilang apa di kantor Jepang.",
+    "angle": "4 kalimat sapaan kantor beserta waktunya",
+    "key_message": "Empat sapaan ini dipakai hampir tiap hari di kantor.",
+    "audience": "Karyawan dan fresh graduate 22–35 tahun yang menimbang karier di Jepang",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Kalimat Jepang di kantor: ohayou gozaimasu, yoroshiku onegaishimasu, otsukaresama desu, osaki ni shitsurei shimasu",
+        "source": "Ungkapan umum; minta tutor Jepang Koey memeriksa tulisan dan artinya",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Tulisan Jepang wajib dicek tutor."
+    ],
+    "references": [
+      "Carousel live Kuasai Bahasa Jepang (kotak judul putih, maskot kiri bawah)"
+    ]
+  },
+  "caption": "Hari pertama kerja di Jepang, kamu mau bilang apa?\n\n• おはようございます (ohayou gozaimasu): sapaan pagi\n• よろしくお願いします (yoroshiku onegaishimasu): saat berkenalan\n• お疲れ様です (otsukaresama desu): sapaan ke rekan kerja\n• お先に失礼します (osaki ni shitsurei shimasu): pamit pulang duluan\n\nSimpan buat latihan. Mau belajar urut dari nol? Klik link di bio.\n\n#BahasaJepang #KerjaDiJepang #JepangKoey",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-7d661fc0-ef1.jpg",
+        "position": "center 40%",
+        "zoom": 1.1
+      },
+      "intent": "Hook: bingung sapaan.",
+      "headline": "Hari Pertama Kerja di Jepang, Kamu Mau Bilang Apa?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 1,
+          "y": 18,
+          "w": 29,
+          "h": 46,
+          "id": "cowo-pointing",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 58,
+          "y": 24,
+          "w": 40,
+          "h": 18,
+          "id": "c-bubble-ohayou",
+          "z": 3,
+          "r": 5
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 58,
+          "w": 100,
+          "h": 23,
+          "t": "**Hari Pertama Kerja di Jepang,** Kamu Mau Bilang Apa?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 48,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 82,
+          "w": 100,
+          "h": 12,
+          "t": "4 kalimat sapaan kantor, lengkap dengan cara bacanya.",
+          "align": "left",
+          "color": "white",
+          "min": 28,
+          "max": 32
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-7d661fc0-ef1.jpg",
+        "position": "center 40%"
+      },
+      "intent": "Pola Tantangan: kotak judul putih, kartu sapaan.",
+      "headline": "Pagi dan Saat Berkenalan",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "**Pagi dan Saat Berkenalan**",
+          "variant": "duo",
+          "align": "left",
+          "max": 54,
+          "min": 42
+        },
+        {
+          "k": "card",
+          "variant": "jp",
+          "x": 0,
+          "y": 13,
+          "w": 66,
+          "h": 23,
+          "tone": "white",
+          "head": "おはようございます",
+          "t": "**Ohayou gozaimasu**: sapaan pagi saat tiba di kantor.",
+          "max": 54
+        },
+        {
+          "k": "card",
+          "variant": "jp",
+          "x": 0,
+          "y": 39,
+          "w": 66,
+          "h": 25,
+          "tone": "white",
+          "head": "よろしくお願いします",
+          "t": "**Yoroshiku onegaishimasu**: saat berkenalan dan minta kerja sama.",
+          "max": 54
+        },
+        {
+          "k": "mascot",
+          "x": 66,
+          "y": 22,
+          "w": 34,
+          "h": 78,
+          "id": "cewe-say-hi",
+          "z": 3,
+          "flip": true
+        },
+        {
+          "k": "tip",
+          "variant": "top",
+          "x": 2,
+          "y": 70,
+          "w": 62,
+          "h": 14,
+          "note": "Quick Tips",
+          "t": "Ucapkan sambil sedikit membungkuk.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg",
+        "position": "center 30%"
+      },
+      "intent": "Pola Kebutuhan: kotak judul putih, kartu sapaan.",
+      "headline": "Sapaan Rekan dan Pamit Pulang",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "**Sapaan Rekan dan Pamit Pulang**",
+          "variant": "duo",
+          "align": "left",
+          "max": 54,
+          "min": 40
+        },
+        {
+          "k": "card",
+          "variant": "jp",
+          "x": 34,
+          "y": 13,
+          "w": 66,
+          "h": 24,
+          "tone": "white",
+          "head": "お疲れ様です",
+          "t": "**Otsukaresama desu**: sapaan ke rekan kerja, juga saat selesai kerja.",
+          "max": 54
+        },
+        {
+          "k": "card",
+          "variant": "jp",
+          "x": 34,
+          "y": 40,
+          "w": 66,
+          "h": 24,
+          "tone": "white",
+          "head": "お先に失礼します",
+          "t": "**Osaki ni shitsurei shimasu**: pamit saat pulang lebih dulu.",
+          "max": 54
+        },
+        {
+          "k": "mascot",
+          "x": 0,
+          "y": 20,
+          "w": 33,
+          "h": 80,
+          "id": "cowo-pointing",
+          "z": 3
+        },
+        {
+          "k": "tip",
+          "variant": "top",
+          "x": 36,
+          "y": 70,
+          "w": 62,
+          "h": 15,
+          "note": "Tips Jepang Koey",
+          "t": "Latih sampai lancar sebelum hari pertama kerja.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-9519a9b1-ad4.jpg",
+        "position": "center 30%",
+        "zoom": 1.1
+      },
+      "intent": "Penutup: maskot tengah, sorotan putih, tombol merah.",
+      "headline": "Mau Belajar Urut dari Nol?",
+      "cta": "Klik Link di Bio untuk Lihat Alur Kelas Jepang Koey",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 33,
+          "y": 2,
+          "w": 34,
+          "h": 56,
+          "id": "cowo-pointing",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "title",
+          "x": 8,
+          "y": 49,
+          "w": 84,
+          "h": 19,
+          "t": "**Mau Belajar Urut dari Nol?**",
+          "variant": "duo",
+          "align": "center",
+          "max": 60,
+          "min": 44,
+          "color": "accent",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 12,
+          "y": 71,
+          "w": 76,
+          "h": 14
+        }
+      ]
+    }
+  ]
+}

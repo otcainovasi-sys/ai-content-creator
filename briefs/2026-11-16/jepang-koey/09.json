@@ -1,0 +1,46 @@
+{
+  "brand": "jepang-koey",
+  "minggu": "2026-11-16",
+  "slot": 9,
+  "topik": "Kelas Grup atau Private, Mana yang Cocok Buat Kamu?",
+  "angle": "Bandingkan dari jadwal dan cara belajar",
+  "arketipe": "E",
+  "situasi": "Bingung pilih kelas grup atau private.",
+  "pesan": "Kelas yang cocok tergantung target dan waktumu.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: bingung pilih kelas."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Tentukan Jalur untuk Platinum."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Tentukan Jalur untuk Private."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Penutup: maskot tengah, sorotan putih, tombol merah."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Platinum N5–N4 kelas grup interaktif; Private 24–48 jam 1-on-1 jadwal fleksibel",
+      "sumber": "knowledge/brands/jepang-koey/products.json",
+      "url": "",
+      "check": false
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Harga belum ada; tidak ditampilkan."
+  ]
+}

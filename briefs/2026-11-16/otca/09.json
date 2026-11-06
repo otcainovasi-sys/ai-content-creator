@@ -1,0 +1,61 @@
+{
+  "brand": "otca",
+  "minggu": "2026-11-16",
+  "slot": 9,
+  "topik": "Progres anak bisa dipantau",
+  "angle": "Program dari sudut pandang orang tua",
+  "arketipe": "I",
+  "situasi": "Orang tua membayar les tetapi baru tahu perkembangan anak saat ujian.",
+  "insight": "Yang dicari orang tua bukan sekadar kelas, tetapi kepastian anak bergerak maju.",
+  "pesan": "Coaching 1-on-1 dengan progres yang bisa dipantau.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "cover",
+      "tujuan": "Hook",
+      "unit": [
+        "Headline",
+        "Sub",
+        "Adegan progres"
+      ]
+    },
+    {
+      "peran": "point",
+      "layout": "tips",
+      "tujuan": "Empat kemampuan",
+      "unit": [
+        "Lesen",
+        "Hören",
+        "Schreiben",
+        "Sprechen"
+      ]
+    },
+    {
+      "peran": "closing",
+      "layout": "offer",
+      "tujuan": "Nilai program",
+      "unit": [
+        "1-on-1",
+        "Jadwal fleksibel",
+        "Progres",
+        "CTA"
+      ]
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "1-on-1, jadwal fleksibel, progres terukur dan dapat dipantau",
+      "sumber": "Dokumen evaluator OTCA",
+      "check": false
+    }
+  ],
+  "cta": {
+    "type": "other"
+  },
+  "risiko": [
+    "Bentuk laporan ke orang tua belum diketahui, jangan dirinci."
+  ],
+  "acuan": [
+    "Carousel \"Jalur ke Jerman Beragam, Mana yang Cocok?\""
+  ]
+}

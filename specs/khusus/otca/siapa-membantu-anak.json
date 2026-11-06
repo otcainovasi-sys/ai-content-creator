@@ -1,0 +1,520 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-siapa-membantu-anak",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "archetype": "D Kerangka dan alur keputusan",
+  "background": {
+    "src": "assets/brands/otca/feed/reichstag-bendera.png",
+    "position": "28% 35%"
+  },
+  "verified_claims": [
+    "110",
+    "24 jam"
+  ],
+  "rubric": {
+    "target": 24,
+    "informasi": 22,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 90,
+    "catatan": "Jalur bantuan dibaca langsung dari DAAD. Layanan tiap kampus bisa berbeda. Nomor hotline KBRI tidak ditulis karena belum ada sumber terbaru."
+  },
+  "brief": {
+    "problem": "Orang tua takut tidak bisa membantu langsung saat anak menghadapi masalah akademik, administrasi, atau kehidupan sehari-hari di Jerman.",
+    "angle": "Mengetahui sistem dukungan dan jalur bantuan sebelum berangkat, selain kesiapan anak hidup mandiri.",
+    "key_message": "Tiap jenis masalah punya kantor yang dituju. Kenali sebelum anak berangkat.",
+    "audience": "Orang tua 35–55 tahun, anak kelas 11–12",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    },
+    "sources": [
+      {
+        "claim": "International Office: kontak terpenting mahasiswa internasional, dan bisa mengarahkan ke kontak yang tepat",
+        "source": "DAAD",
+        "url": "https://www.daad.de/en/studying-in-germany/advisory-service/international-office/",
+        "check": false
+      },
+      {
+        "claim": "Fachstudienberatung, Prüfungsamt, Zentrale Studienberatung, bagian pendaftaran, AStA, Fachschaft",
+        "source": "DAAD, Main contacts",
+        "url": "https://daad.de/en/study-and-research-in-germany/first-steps-germany/main-contacts",
+        "check": false
+      },
+      {
+        "claim": "110 polisi 24 jam; kedutaan atau konsulat untuk paspor dan dokumen dari negara asal; Studierendenwerk memberi saran dan bantuan",
+        "source": "DAAD, Safety in Germany",
+        "url": "https://www.daad.de/en/studying-in-germany/living-in-germany/safety/",
+        "check": false
+      },
+      {
+        "claim": "Konseling psikologis Studierendenwerk oleh psikolog profesional, kerahasiaan dijaga",
+        "source": "DAAD, Psychological Wellbeing",
+        "url": "https://www.daad.de/en/studying-in-germany/advisory-service/psychological-wellbeing/",
+        "check": false
+      },
+      {
+        "claim": "Layanan dan nama kantor tiap kampus bisa berbeda",
+        "source": "Catatan redaksi",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Tidak mengklaim OTCA punya pendampingan di Jerman.",
+      "Nomor hotline KBRI tidak ditulis; arahkan ke kanal resmi."
+    ],
+    "references": [
+      "Carousel live Jalur ke Jerman"
+    ]
+  },
+  "caption": "Anak kuliah di Jerman, siapa yang membantu saat ada masalah?\n\nOrang tua tidak selalu bisa turun tangan langsung. Karena itu, jalur bantuannya perlu dikenali sebelum anak berangkat.\n\n• Akademik: Fachstudienberatung, Prüfungsamt, dan jam konsultasi dosen.\n• Administrasi: International Office, bagian pendaftaran kampus, serta KBRI atau KJRI untuk paspor dan dokumen dari Indonesia.\n• Keseharian: Studierendenwerk, program buddy, dan AStA. Dalam keadaan darurat, polisi di nomor 110.\n\nNama dan layanan kantor bisa berbeda di tiap kampus, jadi cek di situs kampus tujuan anak.\n\nKomen \"STUDI\" untuk info lebih lanjut dari Tim OTCA.\n\nSumber: DAAD.\n\n#StudiDiJerman #KuliahDiJerman #OTCA",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "feed",
+      "headline": "Anak di Jerman, siapa yang bantu saat ada masalah?",
+      "intent": "Pola cover PDF: robot di kiri, lencana, headline Black 66,7 di x=72, sub 33,3.",
+      "blocks": [
+        {
+          "k": "bar",
+          "variant": "fogdark",
+          "x": -12,
+          "y": 36.56,
+          "w": 124,
+          "h": 63.44,
+          "z": 1
+        },
+        {
+          "k": "mascot",
+          "x": 6.94,
+          "y": 34.9,
+          "w": 30.63,
+          "h": 41.1,
+          "id": "robot-berpikir",
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "variant": "badge",
+          "x": 39.85,
+          "y": 35.51,
+          "w": 12.61,
+          "h": 10.3,
+          "id": "c-campus",
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "variant": "badge",
+          "x": 48.4,
+          "y": 44.5,
+          "w": 12.61,
+          "h": 10.3,
+          "id": "c-shield",
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "variant": "badge",
+          "x": 39.85,
+          "y": 53.49,
+          "w": 12.61,
+          "h": 10.3,
+          "id": "c-chat",
+          "z": 2
+        },
+        {
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -12,
+          "y": 54.28,
+          "w": 124,
+          "h": 45.72,
+          "z": 2
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 63.0,
+          "w": 100,
+          "h": 18,
+          "t": "ANAK DI JERMAN, **SIAPA YANG BANTU SAAT ADA MASALAH?**",
+          "variant": "duo",
+          "color": "white",
+          "align": "left",
+          "max": 66.7,
+          "min": 66.7,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 81.4,
+          "w": 100,
+          "h": 7.2,
+          "t": "Saat anak kuliah jauh dari rumah, kenali jalur bantuannya sebelum berangkat.",
+          "align": "left",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Saat Kuliah Terasa Berat",
+      "intent": "Pola PDF halaman 2: judul emas, pita, kartu bertangga, robot kiri, kalimat bawah.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Saat Kuliah Terasa Berat",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "pill",
+          "variant": "ribbon",
+          "x": 10.04,
+          "y": 21.4,
+          "w": 79.91,
+          "h": 11,
+          "t": "Nilai turun, jadwal bentrok, atau bingung aturan ujian?"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 7,
+          "y": 33.42,
+          "w": 86,
+          "h": 10.47,
+          "id": "c-books",
+          "max": 30,
+          "min": 28,
+          "t": "**Fachstudienberatung →** isi jurusan dan jadwal kuliah"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 25,
+          "y": 46.07,
+          "w": 75,
+          "h": 10.47,
+          "id": "c-clipboard",
+          "max": 30,
+          "min": 28,
+          "t": "**Prüfungsamt →** aturan, tenggat, dan prosedur ujian"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 33,
+          "y": 59.77,
+          "w": 67,
+          "h": 10.47,
+          "id": "c-chat",
+          "max": 30,
+          "min": 28,
+          "t": "**Dosen →** jam konsultasi mingguan"
+        },
+        {
+          "k": "mascot",
+          "x": -4.81,
+          "y": 43.98,
+          "w": 27.64,
+          "h": 39.09,
+          "id": "robot-duduk-baca",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 10,
+          "t": "Tiap urusan akademik **punya kantor yang dituju.**",
+          "align": "center",
+          "min": 30,
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Urusan Dokumen, Mulai dari Sini",
+      "intent": "Pola PDF halaman 3: tiga kartu putih penuh berikon, kalimat bawah.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 17,
+          "t": "Urusan Dokumen, Mulai dari Sini",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 3.5,
+          "y": 25.57,
+          "w": 93,
+          "h": 14.83,
+          "id": "c-campus",
+          "max": 30,
+          "min": 28,
+          "t": "Kontak utama mahasiswa internasional, bisa mengarahkan ke kantor yang tepat.",
+          "head": "International Office"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 3.5,
+          "y": 43.89,
+          "w": 93,
+          "h": 14.83,
+          "id": "c-contract",
+          "max": 30,
+          "min": 28,
+          "t": "Daftar ulang, cuti, dan kartu mahasiswa.",
+          "head": "Bagian Pendaftaran Kampus"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 3.5,
+          "y": 62.22,
+          "w": 93,
+          "h": 14.83,
+          "id": "c-passport",
+          "max": 30,
+          "min": 28,
+          "t": "Paspor dan dokumen dari Indonesia.",
+          "head": "KBRI atau KJRI"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 85,
+          "w": 100,
+          "h": 8,
+          "t": "Nama kantor bisa berbeda **di tiap kampus.**",
+          "align": "center",
+          "min": 30,
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Saat Urusan Harian Tidak Mulus",
+      "intent": "Pola PDF halaman 4: kartu putih berpill, poin, robot kiri bawah, kalimat bawah.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 17,
+          "t": "Saat Urusan Harian Tidak Mulus",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "panel",
+          "x": 7,
+          "y": 30.45,
+          "w": 86,
+          "h": 45,
+          "head": "Jalur bantuan di sekitar anak",
+          "items": [
+            {
+              "head": "Studierendenwerk",
+              "t": "asrama, saran, dan bantuan mahasiswa"
+            },
+            {
+              "head": "Konseling psikolog",
+              "t": "psikolog profesional, kerahasiaan dijaga"
+            },
+            {
+              "head": "Program buddy",
+              "t": "teman pendamping dari kampus"
+            },
+            {
+              "head": "Darurat",
+              "t": "polisi di 110, siaga 24 jam"
+            }
+          ]
+        },
+        {
+          "k": "mascot",
+          "x": 1.94,
+          "y": 80.67,
+          "w": 22.77,
+          "h": 40,
+          "id": "robot-berpikir",
+          "z": 1,
+          "variant": "bleed"
+        },
+        {
+          "k": "text",
+          "x": 22,
+          "y": 84,
+          "w": 78,
+          "h": 10,
+          "t": "Cek layanannya **di situs kampus tujuan.**",
+          "align": "left",
+          "min": 30,
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Sebelum Berangkat, Catat Bersama Anak",
+      "intent": "Pola PDF halaman 9: judul emas, pita, nomor dual-tone, kalimat bawah.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 17,
+          "t": "Sebelum Berangkat, Catat Bersama Anak",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "pill",
+          "variant": "ribbon",
+          "x": 10.04,
+          "y": 21.8,
+          "w": 79.91,
+          "h": 6.5,
+          "t": "Tiga kontak ini perlu disimpan:"
+        },
+        {
+          "k": "rows",
+          "x": 4,
+          "y": 35.43,
+          "w": 92,
+          "h": 42.76,
+          "variant": "num",
+          "max": 30,
+          "items": [
+            {
+              "head": "Kontak International Office",
+              "t": "Ambil dari situs kampus tujuan anak, supaya tahu harus menghubungi siapa saat bingung."
+            },
+            {
+              "head": "Studierendenwerk Setempat",
+              "t": "Catat lokasi dan layanan konselingnya, untuk urusan asrama dan kehidupan sehari-hari."
+            },
+            {
+              "head": "KBRI atau KJRI",
+              "t": "Sesuai wilayah kota kuliah anak, untuk urusan paspor dan dokumen dari Indonesia."
+            }
+          ]
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 85.69,
+          "w": 100,
+          "h": 8,
+          "t": "Daftar ini disimpan **anak dan orang tua,** supaya keduanya tahu harus menghubungi siapa.",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "feed",
+      "headline": "Bantuan Tersedia, Anak Perlu Bisa Memintanya",
+      "intent": "Pola PDF halaman 11: judul putih emas, paragraf, robot tengah, kartu CTA bertag.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 13.26,
+          "w": 100,
+          "h": 22,
+          "t": "Bantuan Tersedia, **Anak Perlu Bisa Memintanya**",
+          "variant": "duo",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 31.76,
+          "w": 100,
+          "h": 10,
+          "t": "Persiapan bahasa Jerman membantu anak menjelaskan masalahnya sendiri.",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3
+        },
+        {
+          "k": "mascot",
+          "x": 30.67,
+          "y": 48.26,
+          "w": 38.33,
+          "h": 36.56,
+          "id": "robot-melambai",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "cta",
+          "variant": "tag",
+          "x": 8.23,
+          "y": 77.23,
+          "w": 88.78,
+          "h": 12.39,
+          "t": "KOMEN",
+          "id": "c-hand-point",
+          "note": "untuk info lebih lanjut dari Tim OTCA",
+          "z": 3,
+          "icons": [
+            "assets/brands/otca/feed/cta-tangan.png",
+            "assets/brands/otca/feed/cta-kilau.png"
+          ]
+        }
+      ],
+      "cta": "KOMEN “STUDI” DIBAWAH"
+    }
+  ]
+}

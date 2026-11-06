@@ -1,0 +1,38 @@
+{
+  "cewe-calm": {
+    "file": "mascots/cewe-calm.png",
+    "transparent": true
+  },
+  "cewe-dm": {
+    "file": "mascots/cewe-dm.png",
+    "transparent": true
+  },
+  "cewe-nyanyi": {
+    "file": "mascots/cewe-nyanyi.png",
+    "transparent": true
+  },
+  "cewe-say-hi": {
+    "file": "mascots/cewe-say-hi.png",
+    "transparent": true
+  },
+  "cewe-bawa-megaphone": {
+    "file": "mascots/cewe-bawa-megaphone.png",
+    "transparent": false
+  },
+  "cowo-pointing": {
+    "file": "mascots/cowo-pointing.png",
+    "transparent": true
+  },
+  "cowo-melipat-tangan": {
+    "file": "mascots/cowo-melipat-tangan.png",
+    "transparent": true
+  },
+  "cowo-nyanyi": {
+    "file": "mascots/cowo-nyanyi.png",
+    "transparent": true
+  },
+  "cowo-bawa-buku-dan-pensil": {
+    "file": "mascots/cowo-bawa-buku-dan-pensil.png",
+    "transparent": false
+  }
+}

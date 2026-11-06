@@ -1,0 +1,188 @@
+{
+  "slug": "otca",
+  "name": "Official OTCA",
+  "pic": "Nina",
+  "guideline": "Brand Guidelines OTCA New",
+  "font": {
+    "family": "Montserrat",
+    "headline": 800,
+    "sub": 700,
+    "body": 600,
+    "uppercaseHeadline": true,
+    "extra": [
+      500,
+      900
+    ]
+  },
+  "tokens": {
+    "bg": "#000000",
+    "ink": "#FFFFFF",
+    "muted": "#D9D9D9",
+    "accent": "#CB9D31",
+    "accentGradient": "linear-gradient(90deg,#CB9D31,#FDF1A4,#B3822C)",
+    "accentInk": "#000000",
+    "surface": "#FFFFFF",
+    "surfaceInk": "#000000",
+    "surfaceMuted": "#444444",
+    "hlColor": "#CB9D31",
+    "hlBg": "transparent",
+    "heroInk": "#FFFFFF",
+    "heroMuted": "#E6E6E6",
+    "footerInk": "#FFFFFF",
+    "scrim": "linear-gradient(to bottom,rgba(0,0,0,.6) 0%,rgba(0,0,0,.25) 16%,rgba(0,0,0,.2) 36%,rgba(0,0,0,.65) 52%,rgba(0,0,0,.93) 63%,#000 71%)",
+    "photoOpacity": "1",
+    "line": "#CB9D31",
+    "hlPad": "0",
+    "eyebrow": "#CB9D31",
+    "heroCtaBg": "linear-gradient(90deg,#CB9D31,#FDF1A4,#B3822C)",
+    "heroCtaInk": "#000000",
+    "tick": "#CB9D31",
+    "itemBg": "#000000",
+    "itemInk": "#FFFFFF",
+    "itemMuted": "#D9D9D9",
+    "itemBorder": "#CB9D31",
+    "numZero": "#FFFFFF",
+    "numColor": "#CB9D31",
+    "numBg": "transparent"
+  },
+  "logo": {
+    "default": "primary",
+    "hero": "primary",
+    "width": 235,
+    "height": 72
+  },
+  "frame": false,
+  "footer": "www.otca.co.id | @official.otca",
+  "safe": {
+    "feed_portrait": [
+      108,
+      108
+    ],
+    "feed_square": [
+      108,
+      108
+    ],
+    "story": [
+      108,
+      315
+    ],
+    "reels_cover": [
+      108,
+      421
+    ],
+    "landscape": [
+      96,
+      72
+    ]
+  },
+  "rules": {
+    "headlineMaxWords": 14,
+    "accentHex": "#CB9D31",
+    "accentMaxPct": 40,
+    "banned": [
+      "di era modern ini",
+      "tahukah anda",
+      "tidak dapat dipungkiri",
+      "jerman adalah negara impian",
+      "mari wujudkan mimpi",
+      "guys",
+      "bestie",
+      "kuy",
+      "gampang banget",
+      "anti ribet",
+      "dijamin auto lolos",
+      "murah meriah",
+      "!!!"
+    ],
+    "requireWords": []
+  },
+  "style": {
+    "innerBase": "#000",
+    "innerPhotoOpacity": ".8",
+    "innerScrim": "linear-gradient(to bottom,rgba(0,0,0,.5) 0%,rgba(0,0,0,.18) 22%,rgba(0,0,0,.35) 50%,rgba(0,0,0,.88) 76%,#000 96%)",
+    "titleColor": "#CB9D31",
+    "titleFill": "linear-gradient(90deg,#CB9D31,#FDF1A4,#B3822C)",
+    "titleTransform": "none",
+    "cardBg": "#FFFFFF",
+    "cardInk": "#000000",
+    "cardMuted": "#333333",
+    "cardBorder": "3px solid #CB9D31",
+    "pillBg": "#FFFFFF",
+    "pillInk": "#000000",
+    "labelBg": "linear-gradient(90deg,#CB9D31,#FDF1A4,#B3822C)",
+    "labelInk": "#000000",
+    "punchBg": "transparent",
+    "punchInk": "#FFFFFF",
+    "punchHl": "#CB9D31",
+    "noteBg": "#111111",
+    "noteInk": "#FFFFFF",
+    "noteLabel": "#CB9D31",
+    "footerBg": "transparent",
+    "footerFg": "#FFFFFF",
+    "footerPad": "0",
+    "softBg": "#111111",
+    "accentText": "#7A5C14",
+    "innerPhotoHeight": "100%",
+    "footerIcon": "inline-block",
+    "innerPhotoOpacityDense": ".8",
+    "iconHalo": "#161616",
+    "cardTint": "#F6EEDC",
+    "cardAccent": "#CB9D31",
+    "heroGlow": "rgba(203,157,49,.35)",
+    "ctaBg": "linear-gradient(90deg,#CB9D31,#FDF1A4,#B3822C)",
+    "ctaInk": "#000000",
+    "ticketBg": "linear-gradient(115deg,#B3822C,#FDF1A4 48%,#CB9D31)",
+    "ticketInk": "#000000",
+    "ticketPrice": "#000000",
+    "titleBar": "none",
+    "stickerInk": "#000000",
+    "coverInk": "#FFFFFF",
+    "toneDark": "#0D0D0D",
+    "toneDarkInk": "#FFFFFF",
+    "photoFilter": "brightness(.74) contrast(1.12) saturate(.82)",
+    "propBg": "#F6EFDD"
+  },
+  "decor": {
+    "inner": [
+      {
+        "f": "sparkle.svg",
+        "s": "left:70px;top:330px;width:36px;opacity:.9"
+      },
+      {
+        "f": "sparkle.svg",
+        "s": "left:990px;top:420px;width:24px;opacity:.8"
+      },
+      {
+        "f": "sparkle.svg",
+        "s": "left:990px;top:1200px;width:30px;opacity:.7"
+      }
+    ],
+    "hero": [
+      {
+        "f": "sparkle.svg",
+        "s": "left:930px;top:820px;width:34px;opacity:.9"
+      }
+    ],
+    "feed": []
+  },
+  "design": {
+    "background": true,
+    "noBlocks": [
+      "photo"
+    ],
+    "coverImage": true,
+    "coverMascot": true,
+    "coverProps": true,
+    "noFrame": true,
+    "noDecor": [
+      "flow-lines",
+      "sheen",
+      "arc"
+    ],
+    "coverTitleLines": 3,
+    "coverSubLines": 2,
+    "spacingStrict": true,
+    "textLines": 2,
+    "listLines": 2
+  }
+}

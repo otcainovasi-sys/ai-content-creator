@@ -1,0 +1,250 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-16-07-jumat",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-71593db7-5ab.jpg",
+    "position": "center 18%",
+    "zoom": 1.3
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 24,
+    "informasi": 22,
+    "struktur": 21,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 89,
+    "catatan": "Pola resmi OTCA. Pertanyaan cek adalah contoh."
+  },
+  "brief": {
+    "problem": "Dokumen lengkap, sertifikat bahasa ada, tetapi anak belum pernah mengatur belajar sendiri.",
+    "angle": "Checklist 4 kesiapan yang bisa dicek di rumah",
+    "key_message": "Cek empat kesiapan belajar sebelum berangkat.",
+    "audience": "Orang tua 35–55 tahun, anak kelas 11–12",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    },
+    "sources": [
+      {
+        "claim": "Memahami, Mengatur, Bertanya, Mengevaluasi",
+        "source": "Dokumen evaluator OTCA"
+      }
+    ],
+    "risks": [
+      "Pertanyaan cek adalah contoh, bukan tes psikologi."
+    ],
+    "references": [
+      "Pola \"Siap Berangkat, Belum Tentu Siap Belajar\""
+    ]
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Hook paradoks resmi OTCA.",
+      "headline": "Siap berangkat, **belum tentu siap belajar.**",
+      "sub": "Dokumen lengkap, bahasa lulus. Siapa yang mengatur belajar anak di sana?",
+      "image": {
+        "src": "assets/stock/openverse-582dd4f6-377.jpg",
+        "position": "35% 40%",
+        "zoom": 1.1
+      },
+      "mascot": "robot-berpikir",
+      "props": [
+        "c-bulb",
+        "c-calendar",
+        "c-chat"
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Papan catur 2x2 sesuai guideline OTCA.",
+      "headline": "Cek 4 kesiapan ini di rumah",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 18,
+          "t": "Cek 4 kesiapan **ini di rumah**",
+          "variant": "duo",
+          "align": "center",
+          "max": 66,
+          "min": 44
+        },
+        {
+          "k": "grid",
+          "x": 0,
+          "y": 22,
+          "w": 100,
+          "h": 76,
+          "variant": "checker",
+          "max": 40,
+          "items": [
+            {
+              "icon": "c-bulb",
+              "head": "Memahami",
+              "t": "Bisa menjelaskan alasan, bukan cuma menghafal?"
+            },
+            {
+              "icon": "c-calendar",
+              "head": "Mengatur",
+              "t": "Menyusun waktu dan prioritas sendiri?"
+            },
+            {
+              "icon": "c-chat",
+              "head": "Bertanya",
+              "t": "Berani minta bantuan saat tidak paham?"
+            },
+            {
+              "icon": "c-target",
+              "head": "Mengevaluasi",
+              "t": "Mengganti strategi saat cara lama gagal?"
+            }
+          ]
+        }
+      ],
+      "shade": "mid"
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Editorial: tiga kutipan besar dengan garis.",
+      "headline": "Coba tanyakan ini ke anak",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 72,
+          "h": 18,
+          "t": "Coba tanyakan **ini ke anak**",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 44
+        },
+        {
+          "k": "rows",
+          "x": 0,
+          "y": 20,
+          "w": 100,
+          "h": 66,
+          "variant": "quote",
+          "max": 34,
+          "items": [
+            {
+              "head": "Bagian mana yang paling sulit?",
+              "t": "Minta anak menjelaskan alasannya, bukan sekadar \"susah\"."
+            },
+            {
+              "head": "Apa yang kamu tunda minggu ini?",
+              "t": "Terlihat cara anak mengatur prioritas."
+            },
+            {
+              "head": "Kalau caranya gagal, apa yang diganti?",
+              "t": "Terlihat kemampuan mengevaluasi diri."
+            }
+          ]
+        },
+        {
+          "k": "mascot",
+          "x": 72,
+          "y": -2,
+          "w": 28,
+          "h": 22,
+          "id": "robot-kaca-pembesar"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 90,
+          "w": 100,
+          "h": 9,
+          "t": "Jawaban anak **lebih jujur dari nilai rapor.**",
+          "min": 25,
+          "max": 30
+        }
+      ],
+      "shade": "dark"
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Tipografi besar bertumpuk, maskot kanan.",
+      "headline": "Siap masuk ≠ siap menjalani",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 56,
+          "h": 46,
+          "t": "Siap masuk **≠ siap menjalani.**",
+          "variant": "duo",
+          "align": "left",
+          "min": 60,
+          "max": 84
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 50,
+          "w": 56,
+          "h": 12,
+          "t": "Kesiapan belajar bisa dilatih sebelum anak berangkat.",
+          "color": "muted",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "rows",
+          "x": 0,
+          "y": 64,
+          "w": 56,
+          "h": 20,
+          "variant": "plain",
+          "max": 30,
+          "items": [
+            {
+              "icon": "c-target",
+              "head": "Coaching 1-on-1",
+              "t": "Fokus pada target anak"
+            }
+          ]
+        },
+        {
+          "k": "mascot",
+          "x": 56,
+          "y": 22,
+          "w": 44,
+          "h": 60,
+          "id": "robot-duduk-baca",
+          "z": 2
+        },
+        {
+          "k": "cta",
+          "x": 0,
+          "y": 86,
+          "w": 100,
+          "h": 14,
+          "note": "Untuk info lebih lanjut dari Tim OTCA",
+          "id": "c-chat",
+          "z": 3
+        }
+      ],
+      "cta": "KOMEN \"STUDI\" DIBAWAH",
+      "shade": "mid"
+    }
+  ],
+  "caption": "Dokumen lengkap. Sertifikat bahasa lulus. Tapi siapa yang mengatur belajar anak saat sudah di Jerman?\n\nAda satu kesiapan yang sering terlewat: bagaimana anak menjalani proses belajar ketika tuntutannya meningkat.\n\nCek empat hal ini di rumah:\n1. Memahami: bisa menjelaskan alasan, bukan cuma menghafal.\n2. Mengatur: menyusun waktu dan prioritas sendiri.\n3. Bertanya: berani minta bantuan saat tidak paham.\n4. Mengevaluasi: mengganti strategi saat cara lama tidak efektif.\n\nSiap masuk belum tentu siap menjalani.\n\nKomen \"STUDI\" untuk info lebih lanjut dari Tim OTCA.\n\n#StudiDiJerman #OTCA"
+}

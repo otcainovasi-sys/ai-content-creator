@@ -1,0 +1,64 @@
+{
+  "brand": "jepang-koey",
+  "minggu": "2026-11-16",
+  "slot": 4,
+  "topik": "Sudah Lulus N4, Cukup buat Kerja di Jepang?",
+  "angle": "Dua syarat SSW (i): bahasa dan ujian keterampilan",
+  "arketipe": "D",
+  "situasi": "Sudah lulus N4, lalu mengira syarat kerja SSW sudah lengkap.",
+  "pesan": "Lulus ujian bahasa baru separuh syarat SSW (i).",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: mengira N4 sudah cukup."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Karakteristik JLPT: judul merah, ikon besar, poin, QUICK TIPS."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola JFT: ikon clipboard, poin, QUICK TIPS."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Tentukan Jalur: ikon besar, poin, Solusi Jepang Koey."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Penutup: maskot tengah, sorotan putih, tombol merah."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "SSW (i): lulus ujian keterampilan bidang, serta JFT-Basic atau JLPT N4 ke atas; lulusan Technical Intern Training (ii) umumnya bebas ujian; perawat dan pengemudi punya syarat bahasa tambahan",
+      "sumber": "Portal resmi SSW Jepang, Steps to Working in Japan",
+      "url": "https://www.ssw.go.jp/en/about/step/",
+      "check": false
+    },
+    {
+      "klaim": "Masa tinggal SSW maksimal 5 tahun, diberikan bertahap",
+      "sumber": "Portal resmi SSW Jepang, FAQ",
+      "url": "https://www.ssw.go.jp/en/faq/",
+      "check": false
+    },
+    {
+      "klaim": "JFT-Basic: tes berbasis komputer dari Japan Foundation",
+      "sumber": "Japan Foundation, About JFT-Basic",
+      "url": "https://www.jpf.go.jp/jft-basic/e/about/index.html",
+      "check": false
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Kursus bahasa bukan penempatan kerja; slide tidak menjanjikan keberangkatan.",
+    "Aturan bisa berubah; caption mengarahkan cek ke portal resmi."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-09-01-senin",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "pillar": "problem_education",
+  "schedule": "Senin 10:00",
+  "brief": {
+    "problem": "Calon pekerja SSW bingung memilih JFT-Basic atau JLPT N4.",
+    "angle": "Perbandingan akurat dua tes, tanpa menyiratkan bahwa lulus tes berarti berangkat.",
+    "key_message": "Pilih tes sesuai jalur dan jadwalmu, lalu susun rencana belajarnya.",
+    "audience": "Karyawan dan fresh graduate 22–35 tahun yang mempertimbangkan kerja di Jepang",
+    "cta": {
+      "type": "comment",
+      "keyword": "JAPAN"
+    },
+    "sources": [
+      {
+        "claim": "Syarat bahasa SSW dapat dipenuhi dengan JFT-Basic atau JLPT minimal N4, ditambah tes keterampilan bidang",
+        "source": "Ringkasan sumber komersial; wajib dicocokkan dengan situs Imigrasi Jepang",
+        "url": "https://immigrationstartguide.com/blog/jft-basic-vs-jlpt-n4-ssw",
+        "check": true
+      },
+      {
+        "claim": "JFT-Basic berbasis komputer, jadwal sepanjang tahun, lulus 200/250 (setara A2)",
+        "source": "Ringkasan sumber komersial; cocokkan dengan Japan Foundation",
+        "url": "https://immigrationstartguide.com/blog/jft-basic-vs-jlpt-n4-ssw",
+        "check": true
+      },
+      {
+        "claim": "JLPT tes kertas, Juli dan Desember, ada nilai minimum per bagian",
+        "source": "Ringkasan sumber komersial; cocokkan dengan jlpt.jp",
+        "url": "https://immigrationstartguide.com/blog/jft-basic-vs-jlpt-n4-ssw",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Jangan menyiratkan kursus bahasa sama dengan penempatan kerja.",
+      "Syarat bisa berubah; slide 4 mengarahkan ke sumber resmi."
+    ],
+    "references": [
+      "Carousel live \"Mulai Sekarang, Target ke Jepang-mu Kapan?\""
+    ]
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Hook: dua tes yang sering membingungkan di syarat SSW.",
+      "headline": "JFT-Basic atau JLPT N4: **mana yang kamu butuhkan?**",
+      "sub": "Dua tes ini sering muncul di syarat bahasa jalur kerja SSW.",
+      "mascot": "cowo-melipat-tangan"
+    },
+    {
+      "layout": "point",
+      "role": "context",
+      "intent": "Konteks: posisi kedua tes dalam syarat SSW.",
+      "headline": "Untuk SSW, **umumnya cukup salah satu**",
+      "body": "Syarat bahasa jalur SSW (Tokutei Ginou) umumnya bisa dipenuhi dengan JFT-Basic atau JLPT minimal N4.",
+      "tip": "Selain tes bahasa, ada tes keterampilan sesuai bidang kerja yang kamu pilih."
+    },
+    {
+      "layout": "grid",
+      "numbered": false,
+      "role": "point",
+      "intent": "Isi utama: perbandingan dua tes.",
+      "headline": "Bedanya **di mana?**",
+      "cells": [
+        {
+          "title": "JFT-Basic",
+          "text": "Tes berbasis komputer, jadwal tersedia sepanjang tahun. Lulus di nilai 200 dari 250, setara A2."
+        },
+        {
+          "title": "JLPT N4",
+          "text": "Tes kertas, dua kali setahun (Juli dan Desember). Ada nilai minimum di setiap bagian."
+        }
+      ]
+    },
+    {
+      "layout": "point",
+      "role": "context",
+      "intent": "Cara memilih, tanpa menjanjikan hasil.",
+      "headline": "Jadi, **pilih yang mana?**",
+      "body": "Butuh hasil lebih cepat? JFT-Basic punya jadwal lebih sering. Ingin sertifikat yang juga dikenal di luar SSW? JLPT lebih umum dipakai.",
+      "tip": "Cek syarat terbaru di situs resmi Japan Foundation dan JLPT sebelum mendaftar."
+    },
+    {
+      "layout": "closing",
+      "role": "closing",
+      "intent": "Punchline + CTA komentar, pola Koey.",
+      "headline": "Mulai dari target tesmu, **lalu susun jadwal belajarnya.**",
+      "cta": "Komen \"JAPAN\"",
+      "ctaNote": "untuk diskusi kelas yang cocok dengan targetmu",
+      "mascot": "cewe-dm"
+    }
+  ],
+  "caption": "JFT-Basic atau JLPT N4, mana yang kamu butuhkan?\n\nUntuk jalur SSW (Tokutei Ginou), syarat bahasa umumnya bisa dipenuhi dengan salah satu tes ini, ditambah tes keterampilan sesuai bidang kerja.\n\nJFT-Basic: tes berbasis komputer, jadwal tersedia sepanjang tahun, lulus di nilai 200 dari 250 (setara A2).\nJLPT N4: tes kertas, dua kali setahun (Juli dan Desember), dengan nilai minimum di setiap bagian.\n\nSyarat bisa berubah, jadi selalu cek situs resmi sebelum mendaftar.\n\nMau diskusi kelas yang cocok dengan targetmu? Komen \"JAPAN\".\n\n#JFTBasic #JLPT #SSWJepang #JepangKoey"
+}

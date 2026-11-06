@@ -1,0 +1,374 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-kelas-malam-platinum",
+  "month": "2026-11",
+  "pillar": "program_value",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "archetype": "H Fitur produk",
+  "background": {
+    "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+    "position": "70% 30%"
+  },
+  "verified_claims": [
+    "garansi"
+  ],
+  "rubric": {
+    "target": 23,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 88,
+    "catatan": "Dari brief user. Superlatif (teraman, terbaik) dan \"100% gratis\" diganti karena belum ada dasar; kelas malam, simulasi CBT, dan materi per bidang ditandai perlu dicek."
+  },
+  "brief": {
+    "problem": "Mau persiapan kerja ke Jepang, tapi khawatir mengganggu jadwal kerja atau kuliah dan ragu soal hasilnya.",
+    "angle": "Tiga alasan kelas malam Platinum N5–N4 bikin siswa dan orang tua lebih tenang",
+    "key_message": "Jadwal malam, garansi mengulang kelas (S&K berlaku), dan materi yang terarah.",
+    "audience": "Pekerja, mahasiswa, dan orang tua yang ikut memutuskan",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Platinum N5–N4 kelas grup interaktif",
+        "source": "products.json (terkonfirmasi)",
+        "url": "",
+        "check": true
+      },
+      {
+        "claim": "Kelas malam dengan jadwal fleksibel",
+        "source": "Post live Jepang Koey; perlu konfirmasi tim",
+        "url": "",
+        "check": true
+      },
+      {
+        "claim": "Garansi Mengulang Kelas jika tidak lulus ujian JLPT/JFT, S&K berlaku",
+        "source": "products.json (dari post live)",
+        "url": "",
+        "check": true
+      },
+      {
+        "claim": "Latihan simulasi ujian berbasis komputer (CBT)",
+        "source": "products.json fitur-simulasi (perlu konfirmasi)",
+        "url": "",
+        "check": true
+      },
+      {
+        "claim": "Materi diarahkan ke kebutuhan kerja IT, Manufacturing, Hospitality",
+        "source": "Brief user 5 Nov 2026; belum ada di products.json",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Tidak menjanjikan kelulusan atau keberangkatan.",
+      "Garansi selalu disertai S&K berlaku.",
+      "Superlatif dihindari sampai ada data pembanding."
+    ],
+    "references": [
+      "Carousel live Pilih JLPT N4 atau JFT-Basic A2"
+    ]
+  },
+  "caption": "Mau persiapan karier ke Jepang, tapi khawatir mengganggu jadwal kerja atau kuliah dan ragu soal hasilnya?\n\nIni tiga hal yang bikin kelas malam Platinum N5–N4 terasa lebih tenang buat kamu dan orang tua:\n\n1. Jadwal malam yang interaktif, cocok buat karyawan shift dan mahasiswa.\n2. Garansi Mengulang Kelas kalau belum lulus ujian JLPT/JFT (S&K berlaku).\n3. Materi terarah untuk kebutuhan kerja di IT, Manufacturing, dan Hospitality, plus latihan simulasi ujian berbasis komputer.\n\nDiskusikan bareng orang tua, lalu klik link di bio untuk konsultasi kelasnya.\n\n#KursusBahasaJepang #KerjaDiJepang #JepangKoey",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+        "position": "72% 40%",
+        "zoom": 1.1
+      },
+      "intent": "Hook: persiapan kerja ke Jepang yang tidak mengganggu jadwal.",
+      "headline": "Kenapa Kelas Malam Platinum N5–N4 Bikin Persiapan Kerja ke Jepang Lebih Tenang?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 1,
+          "y": 10,
+          "w": 29,
+          "h": 46,
+          "id": "cewe-say-hi",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "mascot",
+          "x": 30,
+          "y": 22,
+          "w": 26,
+          "h": 36,
+          "id": "cowo-melipat-tangan",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 70,
+          "y": 14,
+          "w": 26,
+          "h": 20,
+          "id": "c-calendar",
+          "z": 3,
+          "r": 6
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 50,
+          "w": 100,
+          "h": 30,
+          "t": "**Kenapa Kelas Malam Platinum N5–N4** Bikin Persiapan Kerja ke Jepang Lebih Tenang?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 48,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 82,
+          "w": 100,
+          "h": 10,
+          "t": "Buat pekerja, mahasiswa, dan orang tua yang ikut memutuskan.",
+          "align": "left",
+          "color": "white",
+          "min": 28,
+          "max": 32
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-b90b48bd-5f3.jpg",
+        "position": "center"
+      },
+      "intent": "Fitur 1: jadwal malam. Pola Karakteristik JLPT: ikon besar, poin, QUICK TIPS.",
+      "headline": "Jadwal Malam, Tetap Interaktif",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "Jadwal Malam, Tetap Interaktif",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 31,
+          "y": 11,
+          "w": 38,
+          "h": 27,
+          "id": "c-alarm",
+          "z": 1
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 40,
+          "w": 96,
+          "h": 24,
+          "items": [
+            {
+              "t": "Kelas **malam hari**, jadi tidak bentrok dengan jam kerja atau kuliah."
+            },
+            {
+              "t": "Kelas **grup interaktif**, belajar bareng teman sekelas dan tutor."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "x": 6,
+          "y": 67,
+          "w": 88,
+          "h": 16,
+          "t": "Cocok buat karyawan shift dan mahasiswa yang kuliah siang.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-629264e9-b7d.jpg",
+        "position": "center",
+        "zoom": 1.1
+      },
+      "intent": "Fitur 2: garansi. Pola Tentukan Jalur: ikon besar, poin, Solusi Jepang Koey.",
+      "headline": "Garansi Mengulang Kelas",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "Garansi Mengulang Kelas",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 32,
+          "y": 11,
+          "w": 36,
+          "h": 27,
+          "id": "c-shield",
+          "z": 1
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 40,
+          "w": 96,
+          "h": 24,
+          "items": [
+            {
+              "t": "Belum lulus ujian **JLPT/JFT**? Kamu bisa **mengulang kelas**."
+            },
+            {
+              "t": "S&K berlaku, jadi cek detailnya sebelum mendaftar."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "variant": "top",
+          "x": 4,
+          "y": 67,
+          "w": 92,
+          "h": 19,
+          "note": "Buat Orang Tua",
+          "t": "Siswa dan orang tua bisa fokus ke proses belajar, tanpa khawatir mulai dari nol lagi.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "bg": {
+        "src": "assets/stock/openverse-c6fc30c0-cf5.jpg",
+        "position": "center"
+      },
+      "intent": "Fitur 3: materi dan simulasi. Pola JFT: ikon clipboard, poin, QUICK TIPS.",
+      "headline": "Materi Terarah dan Simulasi CBT",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 8,
+          "t": "Materi Terarah + Simulasi CBT",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "icon",
+          "x": 22,
+          "y": 11,
+          "w": 56,
+          "h": 26,
+          "id": "c-cert-target",
+          "z": 1
+        },
+        {
+          "k": "list",
+          "x": 2,
+          "y": 39,
+          "w": 96,
+          "h": 26,
+          "items": [
+            {
+              "t": "Materi diarahkan ke kebutuhan kerja di **IT, Manufacturing, & Hospitality**."
+            },
+            {
+              "t": "Latihan **simulasi ujian berbasis komputer (CBT)**, seperti format JFT-Basic."
+            }
+          ],
+          "max": 35
+        },
+        {
+          "k": "tip",
+          "x": 6,
+          "y": 68,
+          "w": 88,
+          "h": 15,
+          "t": "Biasakan format CBT sebelum hari ujian, biar nggak kaget.",
+          "max": 33
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-fff159f9-f8b.jpg",
+        "position": "center 40%",
+        "zoom": 1.1
+      },
+      "intent": "Penutup: maskot tengah, sorotan putih, tombol merah.",
+      "headline": "Diskusikan Bareng Orang Tua, Pilih Kelasnya",
+      "cta": "Klik Link di Bio untuk Konsultasi Kelas Platinum N5–N4",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 33,
+          "y": 2,
+          "w": 34,
+          "h": 56,
+          "id": "cewe-say-hi",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "title",
+          "x": 8,
+          "y": 49,
+          "w": 84,
+          "h": 19,
+          "t": "**Diskusikan Bareng Orang Tua, Pilih Kelasnya**",
+          "variant": "duo",
+          "align": "center",
+          "max": 60,
+          "min": 44,
+          "color": "accent",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 12,
+          "y": 71,
+          "w": 76,
+          "h": 14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "brand": "otca",
+  "diperbarui": "2026-11-05",
+  "items": [
+    {
+      "id": "prince-60-online",
+      "kategori": "produk",
+      "nama": "PRINCE 60 - ONLINE",
+      "detail": "60 jam coaching + extra 2 jam. Private 1-on-1, jadwal fleksibel, fokus target.",
+      "sumber": "AI_RULE_OTCA_EVALUATOR_CONTENT.md",
+      "status": "terkonfirmasi",
+      "harga": "Rp 9.900.000",
+      "catatan": "Konfirmasi harga masih berlaku sebelum dipakai di slot conversion."
+    },
+    {
+      "id": "usp-1on1",
+      "kategori": "nilai",
+      "nama": "Coaching 1-on-1 online",
+      "detail": "Pendekatan personal sesuai kecepatan anak.",
+      "sumber": "AI_RULE_OTCA_EVALUATOR_CONTENT.md",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "usp-jadwal",
+      "kategori": "nilai",
+      "nama": "Jadwal fleksibel",
+      "detail": "Disesuaikan dengan kesibukan sekolah anak.",
+      "sumber": "AI_RULE_OTCA_EVALUATOR_CONTENT.md",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "usp-target",
+      "kategori": "nilai",
+      "nama": "Fokus target",
+      "detail": "Persiapan ujian bahasa dan kesiapan belajar di Jerman.",
+      "sumber": "AI_RULE_OTCA_EVALUATOR_CONTENT.md",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "usp-progres",
+      "kategori": "nilai",
+      "nama": "Progres terukur",
+      "detail": "Dapat dipantau orang tua.",
+      "sumber": "AI_RULE_OTCA_EVALUATOR_CONTENT.md",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "level",
+      "kategori": "cakupan",
+      "nama": "Level CEFR",
+      "detail": "A1, A2, B1, B2. Lesen, Hören, Schreiben, Sprechen.",
+      "sumber": "AI_RULE_OTCA_EVALUATOR_CONTENT.md",
+      "status": "terkonfirmasi"
+    }
+  ]
+}

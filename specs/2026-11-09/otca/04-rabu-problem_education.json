@@ -1,0 +1,36 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-09-04-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "caption": "Ujian makin dekat? Jangan biarkan anak latihan tanpa arah.\n\nUjian bahasa Jerman menguji empat kemampuan: Lesen (membaca), Hören (mendengar), Schreiben (menulis), dan Sprechen (berbicara). Kelemahan setiap anak bisa berbeda.\n\nDengan coaching 1-on-1, latihan difokuskan pada kemampuan yang paling dibutuhkan anak.\n\nKonsultasi dengan Tim OTCA.\n\n#BahasaJerman #StudiDiJerman #OTCA",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "numbered_list",
+      "headline": "Ujian makin dekat? **Jangan biarkan anak latihan tanpa arah.**",
+      "sub": "Latihan 1-on-1 sesuai kebutuhan anak.",
+      "items": [
+        {
+          "title": "Lesen",
+          "text": "Membaca teks dan menangkap informasi penting"
+        },
+        {
+          "title": "Hören",
+          "text": "Memahami percakapan dan pengumuman"
+        },
+        {
+          "title": "Schreiben",
+          "text": "Menulis teks sesuai format dan tujuan"
+        },
+        {
+          "title": "Sprechen",
+          "text": "Berbicara dan menanggapi dengan jelas"
+        }
+      ],
+      "cta": "Konsultasi dengan Tim OTCA"
+    }
+  ]
+}

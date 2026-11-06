@@ -1,0 +1,83 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-16-10-minggu",
+  "month": "2026-11",
+  "pillar": "conversion",
+  "type": "single",
+  "format": "feed_portrait",
+  "schedule": "Minggu 19:00",
+  "archetype": "K Promo",
+  "background": {
+    "src": "assets/stock/openverse-54d1bd2b-97a.jpg",
+    "position": "50% 40%",
+    "zoom": 1.5
+  },
+  "verified_claims": [
+    "9.900.000"
+  ],
+  "rubric": {
+    "target": 22,
+    "informasi": 22,
+    "struktur": 21,
+    "copy": 20,
+    "pengurang": 0,
+    "total": 85,
+    "catatan": "Harga dari dokumen evaluator. Konfirmasi masih berlaku."
+  },
+  "brief": {
+    "problem": "Orang tua sudah membandingkan lembaga dan siap memilih.",
+    "angle": "Penawaran utama dengan isi yang jelas",
+    "key_message": "PRINCE 60 Online: 60 jam coaching + extra 2 jam.",
+    "audience": "Orang tua 35–55 tahun, anak kelas 11–12",
+    "cta": {
+      "type": "other"
+    },
+    "sources": [
+      {
+        "claim": "PRINCE 60 - ONLINE, 60 jam + extra 2 jam, Rp 9.900.000",
+        "source": "Dokumen evaluator OTCA",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Konfirmasi harga masih berlaku."
+    ]
+  },
+  "slides": [
+    {
+      "layout": "promo",
+      "role": "single",
+      "intent": "Penawaran utama.",
+      "eyebrow": "Private 1-on-1 Coaching",
+      "headline": "PRINCE 60 **Online**",
+      "sub": "60 jam coaching + extra 2 jam",
+      "tiers": [
+        {
+          "name": "PRINCE 60 - Online",
+          "price": "Rp 9.900.000",
+          "featured": true
+        }
+      ],
+      "ticketIcon": "c-cert-target",
+      "features": [
+        {
+          "icon": "c-target",
+          "title": "Private 1-on-1"
+        },
+        {
+          "icon": "c-calendar",
+          "title": "Jadwal fleksibel"
+        },
+        {
+          "icon": "c-bars",
+          "title": "Fokus target"
+        }
+      ],
+      "cta": "Daftar 1-on-1 sekarang",
+      "ctaNote": "Sesuai Jadwal. Sesuai Kebutuhan. Sesuai Target.",
+      "ctaIcon": "c-chat",
+      "shade": "dark"
+    }
+  ],
+  "caption": "PRINCE 60 - Online\n60 jam coaching + extra 2 jam\nRp 9.900.000\n\n- Private 1-on-1\n- Jadwal fleksibel\n- Fokus target\n\nSesuai Jadwal. Sesuai Kebutuhan. Sesuai Target.\nDaftar 1-on-1 sekarang melalui www.otca.co.id.\n\n#KursusBahasaJerman #StudiDiJerman #OTCA"
+}

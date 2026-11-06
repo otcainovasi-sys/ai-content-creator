@@ -1,0 +1,85 @@
+{
+  "brand": "otca",
+  "minggu": "2026-11-16",
+  "slot": 1,
+  "topik": "Sudah B1, cukup untuk kuliah di Jerman?",
+  "angle": "Pisahkan level kursus dari level yang diminta kampus",
+  "arketipe": "E",
+  "situasi": "Sabtu sore, anak kelas 12 pulang membawa sertifikat B1. Orang tua lega dan bertanya: berarti sudah bisa daftar kuliah?",
+  "insight": "B1 adalah pencapaian kursus, bukan syarat masuk kuliah berbahasa Jerman.",
+  "pesan": "Target bahasa anak ditentukan kampus dan jurusan, umumnya setara C1.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "cover",
+      "tujuan": "Hook pertanyaan orang tua",
+      "unit": [
+        "Headline",
+        "Sub",
+        "Maskot"
+      ]
+    },
+    {
+      "peran": "point",
+      "layout": "options",
+      "tujuan": "Tiga titik level",
+      "unit": [
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    {
+      "peran": "point",
+      "layout": "labels",
+      "tujuan": "Sertifikat yang diterima",
+      "unit": [
+        "DSH-2",
+        "TestDaF TDN 4",
+        "Goethe C2",
+        "telc C1 Hochschule"
+      ]
+    },
+    {
+      "peran": "closing",
+      "layout": "offer",
+      "tujuan": "Pergeseran sudut pandang + CTA",
+      "unit": [
+        "Punchline",
+        "2 langkah",
+        "Komen STUDI"
+      ]
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "DSH-2, TestDaF TDN 4, Goethe C2, telc C1 Hochschule diterima",
+      "sumber": "Goethe-Universität Frankfurt; TU Dresden",
+      "url": "http://www.uni-frankfurt.de/124980722/German_Language_Requirements",
+      "check": false
+    },
+    {
+      "klaim": "Studienkolleg mengajar bahasa sampai C1",
+      "sumber": "DAAD",
+      "url": "https://www.daad.de/en/studying-in-germany/requirements/studienkollegs/",
+      "check": false
+    },
+    {
+      "klaim": "Masuk Studienkolleg setara B1+/B2",
+      "sumber": "BayStKO § 6 (ringkasan pencarian)",
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayStKO2019-6",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "comment",
+    "keyword": "STUDI"
+  },
+  "risiko": [
+    "Syarat berbeda per kampus dan jurusan.",
+    "TU Dresden menulis rata-rata TestDaF 4; Frankfurt menulis semua bagian TDN 4."
+  ],
+  "acuan": [
+    "Carousel \"Jalur ke Jerman Beragam, Mana yang Cocok?\""
+  ]
+}

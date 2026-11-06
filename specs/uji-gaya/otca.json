@@ -1,0 +1,110 @@
+{
+  "brand": "otca",
+  "slug": "uji-gaya",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+  "background": {
+    "src": "assets/stock/openverse-cc26331a-510.jpg",
+    "position": "center 30%"
+  },
+  "brief": {
+    "problem": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+    "angle": "Uji gaya desain terhadap guideline dan feed live",
+    "key_message": "-",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    }
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Foto landmark, headline kapital dual-tone",
+      "headline": "Jalur ke Jerman beragam, **mana yang cocok?**",
+      "sub": "Setiap jalur punya proses dan tuntutan berbeda. Pilihan perlu disesuaikan dengan tujuan anak.",
+      "image": {
+        "src": "assets/stock/openverse-582dd4f6-377.jpg"
+      },
+      "mascot": "robot-berpikir"
+    },
+    {
+      "layout": "framework",
+      "role": "context",
+      "intent": "Arketipe D: kerangka",
+      "headline": "Tidak Semua Anak Cocok di Jalur yang Sama",
+      "header": "Sebelum menentukan pilihan, parents perlu melihat:",
+      "flow": [
+        "grad-cap",
+        "thinking",
+        "direct-hit"
+      ],
+      "points": [
+        {
+          "key": "Kualifikasi Akademik",
+          "text": "Apakah anak memenuhi syarat masuk universitas?"
+        },
+        {
+          "key": "Cara belajar",
+          "text": "Lebih cocok akademik atau kombinasi teori dan praktik?"
+        },
+        {
+          "key": "Tujuan",
+          "text": "Apa yang ingin dicapai setelah menyelesaikan studi?"
+        }
+      ],
+      "punch": "Mulai dari profil anak, **bukan langsung dari nama kampus.**"
+    },
+    {
+      "layout": "options",
+      "role": "point",
+      "intent": "Arketipe D: opsi bernomor",
+      "headline": "3 Jalur yang Bisa Dipertimbangkan",
+      "items": [
+        {
+          "title": "Langsung S1",
+          "text": "Jika kualifikasi pendidikan anak memenuhi persyaratan masuk universitas."
+        },
+        {
+          "title": "Studienkolleg → S1",
+          "text": "Jika kualifikasi belum memberikan akses langsung, Studienkolleg dapat menjadi jalur persiapan sebelum studi."
+        },
+        {
+          "title": "Duales Studium",
+          "text": "Menggabungkan studi di perguruan tinggi dengan pengalaman praktik di perusahaan."
+        }
+      ],
+      "punch": "Jalur berbeda berarti **proses persiapannya juga berbeda.**"
+    },
+    {
+      "layout": "offer",
+      "role": "closing",
+      "intent": "Arketipe I: penutup",
+      "headline": "Jangan Hanya Tanya \"Jalur Mana yang Dipilih?\"",
+      "sub": "Tapi juga tanya: mana yang cocok untuk anak?",
+      "items": [
+        {
+          "icon": "compass",
+          "title": "Petakan jalur",
+          "text": "Sesuai profil anak"
+        },
+        {
+          "icon": "memo",
+          "title": "Susun target bahasa",
+          "text": "Sejak kelas 11–12"
+        }
+      ],
+      "cta": "KOMEN \"STUDI\" DIBAWAH",
+      "ctaNote": "Untuk info lebih lanjut dari Tim OTCA",
+      "hero": [
+        "pin",
+        "star"
+      ],
+      "ctaIcon": "speech",
+      "mascot": "robot-berpikir-cermin",
+      "badge": "STUDI"
+    }
+  ]
+}

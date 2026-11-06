@@ -1,0 +1,95 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-09-01-senin",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "pillar": "problem_education",
+  "schedule": "Senin 10:00",
+  "brief": {
+    "problem": "Calon peserta Ausbildung bingung harus mengejar B1 atau B2.",
+    "angle": "Syarat visa berbeda dengan syarat bidang dan perusahaan.",
+    "key_message": "Cek syarat bidang dan tempat Ausbildung dulu, baru tentukan target level.",
+    "audience": "Karyawan dan lulusan kuliah 22–35 tahun yang merencanakan Ausbildung",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Visa Ausbildung umumnya mensyaratkan bahasa Jerman minimal B1",
+        "source": "Make it in Germany; IHK §16a (Juni 2026)",
+        "url": "https://www.make-it-in-germany.com/de/visum/arten/berufsausbildung/"
+      },
+      {
+        "claim": "Sertifikat yang diakui: Goethe, telc, ÖSD",
+        "source": "Make it in Germany",
+        "url": "https://www.make-it-in-germany.com/de/visum/arten/berufsausbildung/",
+        "check": true
+      },
+      {
+        "claim": "Ausbildung keperawatan sering meminta B2",
+        "source": "Kedutaan Jerman, merkblatt Pflegekraft; IHK",
+        "url": "https://china.diplo.de/blob/1302112/18d3bbb6a1453e806e94245982d6001c/pdf-merkblatt-natvisum-pflegekraft-data.pdf"
+      },
+      {
+        "claim": "Sekolah vokasi dan perusahaan bisa menetapkan syarat lebih tinggi",
+        "source": "IHK §16a (Juni 2026)",
+        "url": "https://www.ihk.de/blueprint/servlet/resource/blob/7138474/5158607351b808c2ffccb3c420d7e872/ba-16a-aufenthg-data.pdf"
+      }
+    ],
+    "risks": [
+      "Syarat berbeda per negara bagian dan perusahaan.",
+      "Tidak menjanjikan visa atau penempatan."
+    ],
+    "references": [
+      "Seri live \"Tips Belajar\""
+    ]
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Hook: pertanyaan yang paling sering muncul soal level bahasa.",
+      "eyebrow": "Info Ausbildung",
+      "headline": "Ausbildung cukup B1, **atau harus B2?**",
+      "sub": "Jawabannya tergantung bidang dan tempat Ausbildung-mu.",
+      "image": {
+        "src": "assets/stock/openverse-bb4a35d7-7ad.jpg"
+      }
+    },
+    {
+      "layout": "point",
+      "role": "point",
+      "number": 1,
+      "intent": "Syarat dasar visa.",
+      "headline": "Visa Ausbildung: **umumnya minimal B1**",
+      "body": "Untuk visa Ausbildung, kamu perlu membuktikan kemampuan bahasa Jerman setidaknya level B1.",
+      "tip": "Contoh sertifikat yang diakui: Goethe, telc, atau ÖSD."
+    },
+    {
+      "layout": "point",
+      "role": "point",
+      "number": 2,
+      "intent": "Pengecualian bidang dengan syarat lebih tinggi.",
+      "headline": "Bidang keperawatan **sering minta B2**",
+      "body": "Banyak tempat Ausbildung Pflege meminta B2, karena kamu akan langsung berkomunikasi dengan pasien dan tim medis."
+    },
+    {
+      "layout": "point",
+      "role": "point",
+      "number": 3,
+      "intent": "Syarat perusahaan dan sekolah vokasi.",
+      "headline": "Perusahaan bisa minta **lebih dari syarat visa**",
+      "body": "Sekolah vokasi dan perusahaan boleh menetapkan syarat sendiri. Selalu cek syarat di lowongan yang kamu incar."
+    },
+    {
+      "layout": "closing",
+      "role": "closing",
+      "intent": "Punchline + CTA link di bio, pola seri Info Jerman.",
+      "headline": "Cek syarat bidangmu dulu, **baru tentukan target levelmu.**",
+      "cta": "Klik link di bio",
+      "ctaNote": "untuk konsultasi target belajar bahasa Jerman"
+    }
+  ],
+  "caption": "Ausbildung cukup B1, atau harus B2? Jawabannya tergantung bidang dan tempat Ausbildung-mu.\n\n1. Visa Ausbildung umumnya mensyaratkan bahasa Jerman minimal B1.\n2. Bidang keperawatan (Pflege) sering meminta B2.\n3. Sekolah vokasi dan perusahaan bisa menetapkan syarat sendiri.\n\nJadi, cek syarat bidang dan lowongan yang kamu incar dulu, baru tentukan target levelmu.\n\nMau konsultasi target belajar bahasa Jerman? Klik link di bio.\n\n#Ausbildung #BelajarBahasaJerman #InfoJerman"
+}

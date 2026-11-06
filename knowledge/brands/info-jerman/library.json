@@ -1,0 +1,162 @@
+{
+ "brand": "info-jerman",
+ "catatan": "Tanggal tayang belum diketahui. Jenis diperkirakan dari ikon grid; ikon pin menutupi jenis (tidak_terlihat). Pilar dan arketipe diperkirakan.",
+ "items": [
+  {
+   "id": "info-jerman-live-01",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Super Promo Best Deal! Klaim sekarang, cuma 1–10 November",
+   "topik": "Promo November",
+   "pilar": "conversion",
+   "arketipe": "K Promo",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-02",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Perjalanan Ausbildung bisa lebih terarah bareng Info Jerman by OTCA",
+   "topik": "Testimoni Rovi, bimbingan sampai visa",
+   "pilar": "student_story",
+   "arketipe": "J Bukti",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-03",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Ini keuntungan belajar Jerman secara online!",
+   "topik": "Kelas online, Frau Azizah",
+   "pilar": "tutor_authority",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-04",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Sering lembur? Tenang, materi tetap bisa dikejar!",
+   "topik": "Belajar saat sering lembur",
+   "pilar": "problem_education",
+   "arketipe": "A Tips N cara",
+   "cta": "Klik link di bio",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-05",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Investasi kursus bahasa Jerman, hasilnya mana?",
+   "topik": "Bukti progres kursus",
+   "pilar": "proof_achievement",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-06",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Belajar bahasa Jerman cuma di kasih materi?",
+   "topik": "Pengalaman Kak Pandu didampingi tutor",
+   "pilar": "student_story",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-07",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Ausbildung itu harus punya sertifikat B1 atau B2 sih?",
+   "topik": "Syarat level Ausbildung",
+   "pilar": "problem_education",
+   "arketipe": "tidak diketahui",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-08",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Grammar bahasa Jerman bikin pusing?",
+   "topik": "Tips grammar, Frau Volley",
+   "pilar": "tutor_authority",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-09",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Intip keseruan sharing bareng Azubi Jerman, yuk!",
+   "topik": "Sharing Azubi",
+   "pilar": "student_story",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-10",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Belajar terus, lalu progresnya gimana?",
+   "topik": "Portal Exam OTCA",
+   "pilar": "program_value",
+   "arketipe": "H Fitur produk",
+   "cta": "Klik link di bio",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-11",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Absen sekali langsung merasa ketinggalan?",
+   "topik": "Mengejar materi setelah absen",
+   "pilar": "problem_education",
+   "arketipe": "A Tips N cara",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-12",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Nggak punya waktu berjam-jam? Coba cara ini!",
+   "topik": "Belajar 3x10 menit",
+   "pilar": "problem_education",
+   "arketipe": "A Tips N cara",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "info-jerman-live-13",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Pengen kursus bahasa Jerman tapi takut biaya mahal?",
+   "topik": "Cara menilai harga kursus: 3 hal dan 4 komponen biaya",
+   "pilar": "problem_education",
+   "arketipe": "B Daftar padat",
+   "cta": null,
+   "performa": null,
+   "sumber": "Carousel live, kiriman user 5 Nov 2026"
+  }
+ ]
+}

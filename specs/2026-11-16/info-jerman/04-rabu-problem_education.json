@@ -1,0 +1,520 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-16-04-rabu",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "archetype": "F Edukasi berangka",
+  "background": {
+    "src": "assets/stock/openverse-273142cb-5d4.jpg",
+    "position": "center 12%"
+  },
+  "verified_claims": [
+    "764",
+    "902",
+    "1.031",
+    "1.070",
+    "724",
+    "2026",
+    "2027"
+  ],
+  "rubric": {
+    "target": 24,
+    "informasi": 23,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 91,
+    "catatan": "Angka resmi BIBB dibaca langsung. Tidak menghitung biaya hidup karena belum ada sumber."
+  },
+  "brief": {
+    "problem": "Calon Azubi takut gaji Ausbildung kecil, tapi belum tahu angka resminya.",
+    "angle": "Angka minimal resmi per tahun, plus catatan brutto dan tarif",
+    "key_message": "Gaji Ausbildung punya batas minimal resmi yang naik tiap tahun pelatihan.",
+    "audience": "Karyawan 22–35 tahun yang menyiapkan Ausbildung, belajar sambil kerja",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Mindestausbildungsvergütung untuk Ausbildung yang mulai 2027: 764, 902, 1.031, 1.070 euro per bulan (tahun 1–4)",
+        "source": "BIBB, halaman Mindestausbildungsvergütung (diubah 7 Oktober 2026)",
+        "url": "https://www.bibb.de/de/199658.php",
+        "check": false
+      },
+      {
+        "claim": "Untuk Ausbildung yang mulai 2026: 724 euro per bulan di tahun pertama",
+        "source": "BIBB, Pressemitteilung 28/2025",
+        "url": "https://www.bibb.de/de/pressemitteilung_212952.php",
+        "check": false
+      },
+      {
+        "claim": "Perusahaan yang terikat Tarifvertrag boleh memakai tarif sendiri, termasuk di bawah angka minimal",
+        "source": "BIBB, halaman Mindestausbildungsvergütung",
+        "url": "https://www.bibb.de/de/199658.php",
+        "check": false
+      }
+    ],
+    "risks": [
+      "Angka brutto; jangan dibaca sebagai uang bersih.",
+      "Perusahaan bertarif bisa memakai angka berbeda; sudah disebut di slide 4."
+    ],
+    "references": [
+      "Carousel live biaya kursus (angka 3 raksasa)",
+      "Carousel live B1 atau B2 (tile ikon besar)"
+    ]
+  },
+  "caption": "Mau Ausbildung tapi takut gajinya kecil? Kenali dulu angka minimal resminya.\n\nMenurut BIBB, untuk Ausbildung yang mulai tahun 2027, gaji minimal per bulan (brutto):\n• Tahun ke-1: 764 euro\n• Tahun ke-2: 902 euro\n• Tahun ke-3: 1.031 euro\n• Tahun ke-4: 1.070 euro\n\nYang mulai 2026 memakai angka 2026 (tahun pertama 724 euro). Perusahaan yang terikat Tarifvertrag boleh memakai tarifnya sendiri, jadi selalu cek nominal di kontrak.\n\nKalau angkanya sudah jelas, siapkan bahasanya. Klik link di bio untuk mulai dari A1.\n\nSumber: BIBB, Mindestausbildungsvergütung (Oktober 2026).\n\n#Ausbildung #KerjaDiJerman #InfoJerman",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "intent": "Hook: takut gaji kecil.",
+      "headline": "Mau Ausbildung, tapi takut gajinya kecil?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 14,
+          "y": 2,
+          "w": 72,
+          "h": 80,
+          "id": "cowo-berdiri",
+          "variant": "fade",
+          "z": 1
+        },
+        {
+          "k": "icon",
+          "x": 62,
+          "y": 3,
+          "w": 38,
+          "h": 19,
+          "id": "c-bubble-berapa",
+          "z": 2,
+          "r": 5
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 30,
+          "w": 30,
+          "h": 24,
+          "id": "c-coins",
+          "z": 2
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 63,
+          "w": 100,
+          "h": 22,
+          "t": "Mau Ausbildung, tapi takut gajinya kecil?",
+          "variant": "duo",
+          "align": "left",
+          "max": 74,
+          "min": 50,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "variant": "swipe",
+          "x": 0,
+          "y": 87,
+          "w": 100,
+          "h": 7,
+          "t": "Swipe buat lihat angka resminya",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Angka besar di antara pill, seperti Cek 3 Hal ini.",
+      "headline": "Gajinya ada batas minimal",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 8,
+          "t": "Gajinya **ada batas minimal**",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 38
+        },
+        {
+          "k": "bar",
+          "x": 0,
+          "y": 9.5,
+          "w": 100,
+          "h": 0.9
+        },
+        {
+          "k": "pill",
+          "variant": "fat",
+          "x": 0,
+          "y": 13.5,
+          "w": 48,
+          "h": 9.5,
+          "t": "Mulai 2027",
+          "tone": "brand",
+          "align": "center",
+          "max": 54
+        },
+        {
+          "k": "big",
+          "x": 0,
+          "y": 24,
+          "w": 48,
+          "h": 21,
+          "t": "764",
+          "max": 220,
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "fat",
+          "x": 0,
+          "y": 46,
+          "w": 48,
+          "h": 9.5,
+          "t": "euro/bulan",
+          "tone": "brand",
+          "align": "center",
+          "max": 54
+        },
+        {
+          "k": "icon",
+          "x": 52,
+          "y": 12,
+          "w": 48,
+          "h": 27,
+          "id": "c-coins",
+          "z": 1
+        },
+        {
+          "k": "bubble",
+          "x": 50,
+          "y": 40,
+          "w": 50,
+          "h": 20,
+          "tone": "white",
+          "t": "Angka minimal di **tahun pertama**",
+          "max": 29,
+          "min": 25,
+          "note": "Masih brutto, belum dipotong."
+        },
+        {
+          "k": "card",
+          "variant": "strip",
+          "x": 2,
+          "y": 62,
+          "w": 96,
+          "h": 12,
+          "tone": "white",
+          "id": "c-building",
+          "t": "Sumber: **BIBB**, untuk Ausbildung yang mulai tahun 2027."
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 7,
+          "y": 78,
+          "w": 86,
+          "h": 12,
+          "t": "Dan angkanya naik tiap tahun pelatihan"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Tangga kenaikan empat tahun.",
+      "headline": "Naik tiap tahun pelatihan",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 9,
+          "t": "Naik **tiap tahun pelatihan**",
+          "variant": "duo",
+          "align": "left",
+          "max": 50,
+          "min": 38
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 10.5,
+          "w": 100,
+          "h": 6,
+          "t": "Gaji minimal per bulan, **mulai 2027:**",
+          "align": "left",
+          "color": "ink",
+          "min": 26,
+          "max": 31
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 21,
+          "w": 34,
+          "h": 24,
+          "id": "c-bars",
+          "z": 1
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 52,
+          "w": 23.5,
+          "h": 32,
+          "tone": "cream",
+          "head": "764",
+          "t": "euro, tahun ke-1",
+          "max": 46
+        },
+        {
+          "k": "tile",
+          "x": 25.5,
+          "y": 42,
+          "w": 23.5,
+          "h": 42,
+          "tone": "cream",
+          "head": "902",
+          "t": "euro, tahun ke-2",
+          "max": 46
+        },
+        {
+          "k": "tile",
+          "x": 51,
+          "y": 32,
+          "w": 23.5,
+          "h": 52,
+          "tone": "cream",
+          "head": "1.031",
+          "t": "euro, tahun ke-3",
+          "max": 46
+        },
+        {
+          "k": "tile",
+          "x": 76.5,
+          "y": 22,
+          "w": 23.5,
+          "h": 62,
+          "tone": "brand",
+          "head": "1.070",
+          "t": "euro, tahun ke-4",
+          "max": 46
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 7,
+          "y": 88,
+          "w": 86,
+          "h": 11,
+          "t": "Semua angka ini brutto, belum dipotong"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola Kenapa Bisa Berbeda: visual, kartu putih, pill putih, tile.",
+      "headline": "Jadi gajimu bisa beda?",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 9,
+          "t": "Jadi gajimu **bisa beda?**",
+          "variant": "duo",
+          "align": "left",
+          "max": 50,
+          "min": 38
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 10,
+          "w": 38,
+          "h": 33,
+          "id": "c-contract",
+          "z": 1
+        },
+        {
+          "k": "bubble",
+          "x": 40,
+          "y": 13,
+          "w": 60,
+          "h": 26,
+          "tone": "white",
+          "t": "Nominal pastinya ada di **kontrak Ausbildung** kamu",
+          "max": 33,
+          "min": 25,
+          "note": "Perusahaan bertarif bisa memakai angka sendiri."
+        },
+        {
+          "k": "pill",
+          "variant": "flank",
+          "x": 0,
+          "y": 44.5,
+          "w": 100,
+          "h": 6.5,
+          "t": "Yang Bikin Beda?",
+          "tone": "cream",
+          "align": "center"
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 52,
+          "w": 32,
+          "h": 33,
+          "id": "c-calendar",
+          "head": "Tahun mulai",
+          "tone": "cream",
+          "max": 28,
+          "t": "Mulai 2026: 724 euro di tahun ke-1"
+        },
+        {
+          "k": "tile",
+          "x": 34,
+          "y": 52,
+          "w": 32,
+          "h": 33,
+          "id": "c-building",
+          "head": "Perusahaan",
+          "tone": "cream",
+          "max": 28,
+          "t": "Boleh pakai Tarifvertrag sendiri"
+        },
+        {
+          "k": "tile",
+          "x": 68,
+          "y": 52,
+          "w": 32,
+          "h": 33,
+          "id": "c-bars",
+          "head": "Tahun pelatihan",
+          "tone": "cream",
+          "max": 28,
+          "t": "Makin lanjut, makin naik"
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 7,
+          "y": 88,
+          "w": 86,
+          "h": 11,
+          "t": "Cek angkanya sebelum tanda tangan kontrak!"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Dari angka ke kesiapan bahasa, CTA dalam pill.",
+      "headline": "Angka sudah jelas, bahasanya gimana?",
+      "cta": "Yuk mulai dari A1 bareng kelas Platinum dengan klik link di bio!",
+      "blocks": [
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 7.5,
+          "t": "Angka sudah jelas",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 8.5,
+          "w": 100,
+          "h": 7.5,
+          "t": "Bahasanya gimana?",
+          "tone": "white",
+          "align": "center"
+        },
+        {
+          "k": "mascot",
+          "x": 54,
+          "y": 16,
+          "w": 42,
+          "h": 34,
+          "id": "cowo-koper",
+          "z": 2
+        },
+        {
+          "k": "bubble",
+          "x": 0,
+          "y": 21,
+          "w": 46,
+          "h": 26,
+          "tone": "white",
+          "t": "Kontrak, wawancara, sampai kerja harian pakai **bahasa Jerman**",
+          "max": 35,
+          "min": 25
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 52,
+          "w": 32,
+          "h": 31,
+          "id": "c-contract",
+          "head": "Baca kontrak",
+          "tone": "cream",
+          "max": 28,
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 34,
+          "y": 52,
+          "w": 32,
+          "h": 31,
+          "id": "c-chat",
+          "head": "Wawancara",
+          "tone": "cream",
+          "max": 28,
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 68,
+          "y": 52,
+          "w": 32,
+          "h": 31,
+          "id": "c-briefcase",
+          "head": "Kerja harian",
+          "tone": "cream",
+          "max": 28,
+          "variant": "pill"
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 5,
+          "y": 86,
+          "w": 90,
+          "h": 13
+        }
+      ]
+    }
+  ]
+}

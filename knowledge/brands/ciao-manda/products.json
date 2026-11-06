@@ -1,0 +1,117 @@
+{
+  "brand": "ciao-manda",
+  "diperbarui": "2026-11-05",
+  "items": [
+    {
+      "id": "private-24",
+      "kategori": "produk",
+      "nama": "Mandarin Private 24 Jam",
+      "detail": "Kelas privat.",
+      "sumber": "Slide target market (BRAND GUIDELINES)",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "private-48",
+      "kategori": "produk",
+      "nama": "Mandarin Private 48 Jam",
+      "detail": "Kelas privat.",
+      "sumber": "Slide target market (BRAND GUIDELINES)",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "semiprivate",
+      "kategori": "produk",
+      "nama": "Semiprivate",
+      "detail": "Detail belum ada.",
+      "sumber": "Slide target market (BRAND GUIDELINES)",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "gold-class",
+      "kategori": "produk",
+      "nama": "Gold Class",
+      "detail": "Terlihat di cuplikan kelas. Tampak terkait promo Gold Mandarin Deals.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi"
+    },
+    {
+      "id": "promo-normal",
+      "kategori": "harga",
+      "nama": "Gold Mandarin Deals: Normal",
+      "detail": "Rp 6.890.000, harga coret 8.990.000. HSK Level 1–3, durasi 8 bulan.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live",
+      "harga": "Rp 6.890.000",
+      "berlaku_sampai": "2026-11-10"
+    },
+    {
+      "id": "promo-early-bird",
+      "kategori": "harga",
+      "nama": "Gold Mandarin Deals: Early Bird",
+      "detail": "Rp 6.590.000, harga coret 8.990.000.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live",
+      "harga": "Rp 6.590.000",
+      "berlaku_sampai": "2026-11-10"
+    },
+    {
+      "id": "promo-super",
+      "kategori": "harga",
+      "nama": "Gold Mandarin Deals: Super Promo",
+      "detail": "Rp 6.390.000, harga coret 8.990.000. Tampak ada Mandarin Career Upgrade.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live",
+      "harga": "Rp 6.390.000",
+      "berlaku_sampai": "2026-11-10"
+    },
+    {
+      "id": "fitur-native",
+      "kategori": "fitur",
+      "nama": "Speaking with Native Class",
+      "detail": "Fasilitas promo.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "fitur-business",
+      "kategori": "bonus",
+      "nama": "Business Conversation Class with Native",
+      "detail": "Bonus.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "fitur-simulasi",
+      "kategori": "bonus",
+      "nama": "Gratis Simulasi Ujian HSK",
+      "detail": "Bonus.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "fitur-laporan",
+      "kategori": "fitur",
+      "nama": "Laporan belajar bulanan",
+      "detail": "Pantau perkembangan melalui laporan belajar.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "garansi",
+      "kategori": "garansi",
+      "nama": "Garansi Mengulang Kelas",
+      "detail": "Jika tidak lulus ujian HSK, S&K berlaku.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "tutor-nia",
+      "kategori": "tutor",
+      "nama": "Nia Laoshi",
+      "detail": "Tampak HSK 5, Awardee China Scholarship, spesialisasi HSK Standard Course.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi",
+      "catatan": "Teks kecil pada tangkapan grid."
+    }
+  ]
+}

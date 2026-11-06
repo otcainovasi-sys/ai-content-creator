@@ -1,0 +1,17 @@
+@font-face{font-family:M;font-weight:500;src:url(../../node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2)}
+@font-face{font-family:M;font-weight:600;src:url(../../node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2)}
+@font-face{font-family:M;font-weight:700;src:url(../../node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2)}
+@font-face{font-family:M;font-weight:800;src:url(../../node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2)}
+@font-face{font-family:M;font-weight:900;src:url(../../node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff2)}
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--gold:#CB9D31;--gold-hi:#FDF1A4;--gold-lo:#B3822C;--grad:linear-gradient(90deg,#CB9D31,#FDF1A4 50%,#B3822C);--white:#fff;--ink:#000}
+html,body{width:1080px;height:1350px;background:#000;overflow:hidden}
+body{font-family:M,sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
+.cv{position:relative;width:1080px;height:1350px;overflow:hidden;background:#000}
+/* Tetap: logo atas tengah, footer, garis emas kanan dan bawah (guideline). */
+.logo{position:absolute;left:50%;top:64px;transform:translateX(-50%);width:235px;height:72px;object-fit:contain;z-index:20}
+.foot{position:absolute;left:0;right:0;bottom:56px;text-align:center;font-weight:600;font-size:21px;letter-spacing:.3px;z-index:20}
+.edge-r,.edge-b{position:absolute;background:var(--grad);box-shadow:0 0 18px rgba(203,157,49,.55);z-index:21}
+.edge-r{top:0;right:0;width:7px;height:100%}.edge-b{left:0;bottom:0;height:7px;width:100%}
+.gold{color:var(--gold)}
+.gold-grad{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}

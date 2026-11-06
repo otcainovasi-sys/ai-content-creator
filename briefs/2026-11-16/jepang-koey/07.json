@@ -1,0 +1,46 @@
+{
+  "brand": "jepang-koey",
+  "minggu": "2026-11-16",
+  "slot": 7,
+  "topik": "Hari Pertama Kerja di Jepang, Kamu Mau Bilang Apa?",
+  "angle": "4 kalimat sapaan kantor beserta waktunya",
+  "arketipe": "B",
+  "situasi": "Sudah belajar kosakata, tapi bingung harus bilang apa di kantor Jepang.",
+  "pesan": "Empat sapaan ini dipakai hampir tiap hari di kantor.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: bingung sapaan."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Tantangan: kotak judul putih, kartu sapaan."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Kebutuhan: kotak judul putih, kartu sapaan."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Penutup: maskot tengah, sorotan putih, tombol merah."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Kalimat Jepang di kantor: ohayou gozaimasu, yoroshiku onegaishimasu, otsukaresama desu, osaki ni shitsurei shimasu",
+      "sumber": "Ungkapan umum; minta tutor Jepang Koey memeriksa tulisan dan artinya",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Tulisan Jepang wajib dicek tutor."
+  ]
+}

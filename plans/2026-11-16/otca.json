@@ -1,0 +1,145 @@
+{
+  "brand": "otca",
+  "minggu": "2026-11-16",
+  "slot": [
+    {
+      "no": 1,
+      "jadwal": "Senin 10:00",
+      "pilar": "problem_education",
+      "status": "siap_brief",
+      "topik": "Sudah B1, cukup untuk kuliah di Jerman?",
+      "arketipe": "E",
+      "format": "carousel",
+      "angle": "Pisahkan level kursus dari level yang diminta kampus",
+      "mascot": "robot-berpikir",
+      "cta": {
+        "type": "comment",
+        "keyword": "STUDI"
+      }
+    },
+    {
+      "no": 2,
+      "jadwal": "Senin 18:30",
+      "pilar": "student_story",
+      "status": "butuh_data",
+      "topik": "Cerita siswa",
+      "arketipe": "J",
+      "format": "single",
+      "data_dibutuhkan": [
+        "Nama, foto, dan kutipan asli siswa atau orang tua, beserta izin"
+      ]
+    },
+    {
+      "no": 3,
+      "jadwal": "Selasa 18:30",
+      "pilar": "proof_achievement",
+      "status": "butuh_data",
+      "topik": "Achievement siswa",
+      "arketipe": "J",
+      "format": "single",
+      "data_dibutuhkan": [
+        "Sertifikat, nama, dan izin siswa"
+      ]
+    },
+    {
+      "no": 4,
+      "jadwal": "Rabu 09:00",
+      "pilar": "problem_education",
+      "status": "siap_brief",
+      "topik": "Dana sebelum visa: apa itu Sperrkonto?",
+      "arketipe": "F",
+      "format": "carousel",
+      "angle": "Biaya yang sering muncul paling akhir padahal harus siap sebelum visa",
+      "scene": "bonus",
+      "cta": {
+        "type": "comment",
+        "keyword": "STUDI"
+      }
+    },
+    {
+      "no": 5,
+      "jadwal": "Rabu 18:30",
+      "pilar": "tutor_authority",
+      "status": "butuh_data",
+      "topik": "Profil tutor",
+      "arketipe": "J",
+      "format": "reels",
+      "data_dibutuhkan": [
+        "Nama, foto atau video, dan kredensial tutor"
+      ]
+    },
+    {
+      "no": 6,
+      "jadwal": "Kamis 18:30",
+      "pilar": "student_story",
+      "status": "butuh_data",
+      "topik": "Cerita orang tua",
+      "arketipe": "J",
+      "format": "single",
+      "data_dibutuhkan": [
+        "Nama, foto, dan kutipan asli siswa atau orang tua, beserta izin"
+      ]
+    },
+    {
+      "no": 7,
+      "jadwal": "Jumat 09:00",
+      "pilar": "problem_education",
+      "status": "siap_brief",
+      "topik": "Siap berangkat, belum tentu siap belajar",
+      "arketipe": "B",
+      "format": "carousel",
+      "angle": "Checklist 4 kesiapan yang bisa dicek di rumah",
+      "mascot": "robot-berpikir-cermin",
+      "cta": {
+        "type": "comment",
+        "keyword": "STUDI"
+      }
+    },
+    {
+      "no": 8,
+      "jadwal": "Jumat 18:30",
+      "pilar": "proof_achievement",
+      "status": "butuh_data",
+      "topik": "Infografis nilai",
+      "arketipe": "J",
+      "format": "single",
+      "data_dibutuhkan": [
+        "Nilai sebelum dan sesudah, dengan izin"
+      ]
+    },
+    {
+      "no": 9,
+      "jadwal": "Sabtu 11:00",
+      "pilar": "program_value",
+      "status": "siap_brief",
+      "topik": "Progres anak bisa dipantau",
+      "arketipe": "I",
+      "format": "carousel",
+      "angle": "Program dari sudut pandang orang tua",
+      "scene": "progres",
+      "cta": {
+        "type": "other"
+      },
+      "produk": [
+        "usp-1on1",
+        "usp-jadwal",
+        "usp-progres"
+      ]
+    },
+    {
+      "no": 10,
+      "jadwal": "Minggu 19:00",
+      "pilar": "conversion",
+      "status": "siap_brief",
+      "topik": "PRINCE 60 Online",
+      "arketipe": "K",
+      "format": "single",
+      "cta": {
+        "type": "other"
+      },
+      "produk": [
+        "prince-60-online"
+      ]
+    }
+  ]
+}

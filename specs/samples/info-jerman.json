@@ -1,0 +1,158 @@
+{
+  "brand": "info-jerman",
+  "slug": "uji-layout",
+  "month": "2026-11",
+  "format": "feed_portrait",
+  "verified_claims": [
+    "garansi"
+  ],
+  "slides": [
+    {
+      "layout": "hero_photo",
+      "headline": "Investasi kursus bahasa Jerman, **hasilnya mana?**",
+      "sub": "Kursus bukan sekadar hadir, tapi juga membuktikan progress.",
+      "cta": "Konsultasikan target ujianmu",
+      "image": {
+        "src": "assets/stock/openverse-582dd4f6-377.jpg"
+      }
+    },
+    {
+      "layout": "hero_photo",
+      "headline": "Perjalanan Ausbildung bisa lebih terarah",
+      "sub": "Bimbingan dari persiapan dokumen, belajar, hingga visa.",
+      "cta": "Konsultasikan target ujianmu",
+      "image": {
+        "src": "assets/stock/openverse-582dd4f6-377.jpg"
+      }
+    },
+    {
+      "layout": "score_infographic",
+      "headline": "Belajar terus, lalu **progresnya gimana?**",
+      "sub": "Cek laporan belajarmu di Portal Exam OTCA.",
+      "tableTitle": "Laporan Belajar",
+      "rows": [
+        {
+          "skill": "Lesen",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        },
+        {
+          "skill": "Hören",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        },
+        {
+          "skill": "Schreiben",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        },
+        {
+          "skill": "Sprechen",
+          "before": "[nilai]",
+          "after": "[nilai]",
+          "note": "[catatan tutor]"
+        }
+      ],
+      "cta": "Konsultasikan target ujianmu"
+    },
+    {
+      "layout": "story_card",
+      "headline": "Sering lembur? Materi tetap bisa dikejar",
+      "quote": "[kutipan asli + izin]",
+      "cta": "Konsultasikan target ujianmu",
+      "image": {
+        "src": "assets/stock/openverse-be224b0f-981.jpg"
+      },
+      "name": "[Nama Siswa]",
+      "role": "Siswa"
+    },
+    {
+      "layout": "achievement",
+      "eyebrow": "Student Achievement",
+      "headline": "Selangkah lebih dekat ke Ausbildung",
+      "sub": "Bukti proses belajar peserta Info Jerman.",
+      "cta": "Konsultasikan target ujianmu",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      },
+      "name": "[Nama Siswa]"
+    },
+    {
+      "layout": "tutor_profile",
+      "headline": "Grammar bahasa Jerman **bikin pusing?**",
+      "name": "Frau Priska",
+      "role": "Tutor Goethe & TELC",
+      "credentials": [
+        "Goethe C1",
+        "Penerima DAAD",
+        "Mengajar sejak 2019"
+      ],
+      "cta": "Konsultasikan target ujianmu",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      }
+    },
+    {
+      "layout": "program_value",
+      "headline": "Ausbildung itu harus punya sertifikat B1 atau B2?",
+      "sub": "Swipe untuk lebih jelasnya.",
+      "guarantee": "**Garansi mengulang kelas** jika tidak lulus ujian sertifikasi (S&K berlaku)",
+      "benefits": [
+        "German Career Blueprint",
+        "Speaking with Native",
+        "Laporan belajar di Portal Exam"
+      ],
+      "cta": "Konsultasikan target ujianmu",
+      "image": {
+        "src": "assets/stock/openverse-b73d6a7e-37f.jpg"
+      }
+    },
+    {
+      "layout": "price_table",
+      "headline": "Super promo best deal",
+      "period": "Periode [tanggal]",
+      "tiers": [
+        {
+          "name": "Normal",
+          "price": "[harga]"
+        },
+        {
+          "name": "Super Promo",
+          "price": "[harga]",
+          "featured": true
+        },
+        {
+          "name": "Early Bird",
+          "price": "[harga]"
+        }
+      ],
+      "features": [
+        "Ausbildung Preparation",
+        "Speaking with Native"
+      ],
+      "cta": "Konsultasikan target ujianmu"
+    },
+    {
+      "layout": "numbered_list",
+      "headline": "3 hal sebelum **ujian Goethe**",
+      "items": [
+        {
+          "title": "Kenali format ujian",
+          "text": "Lesen, Hören, Schreiben, Sprechen"
+        },
+        {
+          "title": "Latihan sesuai level",
+          "text": "Dari A1 sampai B1"
+        },
+        {
+          "title": "Konsultasikan target",
+          "text": "Tentukan jadwal belajarmu"
+        }
+      ],
+      "cta": "Konsultasikan target ujianmu"
+    }
+  ]
+}

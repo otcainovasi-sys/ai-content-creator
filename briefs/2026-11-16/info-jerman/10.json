@@ -1,0 +1,32 @@
+{
+  "brand": "info-jerman",
+  "minggu": "2026-11-16",
+  "slot": 10,
+  "topik": "Takut biaya kursus hangus kalau gagal ujian?",
+  "angle": "Garansi sebagai pengaman, S&K berlaku, tanpa harga",
+  "arketipe": "I",
+  "situasi": "Takut biaya kursus hangus kalau gagal ujian sertifikasi.",
+  "pesan": "Ada Garansi Mengulang Kelas jika tidak lolos ujian sertifikasi, S&K berlaku.",
+  "alur": [
+    {
+      "peran": "single",
+      "layout": "free",
+      "tujuan": "Single penawaran: perisai besar, kartu putih, maskot, CTA pill."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Garansi Mengulang Kelas jika tidak lolos ujian sertifikasi, S&K berlaku",
+      "sumber": "Post promo live Info Jerman (tangkapan 5 Nov 2026)",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Garansi dari post promo; pastikan masih berlaku dan S&K-nya.",
+    "Tidak menampilkan harga sampai ada harga periode baru yang terkonfirmasi."
+  ]
+}

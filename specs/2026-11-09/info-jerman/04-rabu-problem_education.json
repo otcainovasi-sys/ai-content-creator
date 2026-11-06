@@ -1,0 +1,31 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-09-04-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "caption": "Apa bedanya A1, A2, dan B1?\n\nA1: memperkenalkan diri dan memakai kalimat sehari-hari yang sederhana.\nA2: percakapan rutin, seperti belanja, jadwal, dan urusan pekerjaan.\nB1: bercerita, memberi alasan, dan mengikuti percakapan kerja. Level ini sering menjadi syarat awal Ausbildung, tetapi syarat tiap bidang bisa berbeda.\n\nSimpan panduannya.\n\n#Ausbildung #BelajarBahasaJerman #InfoJerman",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "numbered_list",
+      "headline": "Level bahasa Jerman: **A1 sampai B1**",
+      "items": [
+        {
+          "title": "A1",
+          "text": "Perkenalan diri dan kalimat sehari-hari yang sederhana"
+        },
+        {
+          "title": "A2",
+          "text": "Percakapan rutin seperti belanja, jadwal, dan pekerjaan"
+        },
+        {
+          "title": "B1",
+          "text": "Sering jadi syarat awal Ausbildung. Cek syarat bidangmu."
+        }
+      ],
+      "cta": "Simpan panduannya"
+    }
+  ]
+}

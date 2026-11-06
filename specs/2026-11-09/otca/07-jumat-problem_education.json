@@ -1,0 +1,21 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-09-07-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "caption": "Jangan mulai dari: 'Nilai anak cukup tidak?'\nMulai dari: 'Anak masuk melalui jalur apa?'\n\nYang dinilai bisa berbeda tergantung jalur, kampus, dan program studi. Jalur langsung universitas dan jalur Studienkolleg, yang diakhiri ujian Feststellungsprüfung (FSP), punya tuntutan persiapan yang berbeda.\n\nKonsultasi dengan Tim OTCA untuk memetakan jalur anak.\n\n#StudiDiJerman #Studienkolleg #OTCA",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "hero_photo",
+      "headline": "Sebelum tanya 'nilainya cukup?', **cek dulu jalur masuknya.**",
+      "sub": "Jalur langsung universitas dan jalur Studienkolleg punya tuntutan yang berbeda.",
+      "cta": "Konsultasi dengan Tim OTCA",
+      "image": {
+        "src": "assets/stock/openverse-7a4bb4f3-e9c.jpg"
+      }
+    }
+  ]
+}

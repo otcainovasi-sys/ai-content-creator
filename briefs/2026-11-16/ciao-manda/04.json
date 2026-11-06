@@ -1,0 +1,52 @@
+{
+  "brand": "ciao-manda",
+  "minggu": "2026-11-16",
+  "slot": 4,
+  "topik": "Pesan Atasan Masuk di WeChat, Balasnya Apa?",
+  "angle": "4 balasan singkat yang sering dipakai",
+  "arketipe": "A",
+  "situasi": "Pesan atasan di WeChat masuk, bingung membalas singkat tapi sopan.",
+  "pesan": "Balasan singkat yang tepat menunjukkan kamu sudah menangkap pesannya.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: bingung membalas chat atasan."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Empat kartu bergelembung hanzi 3D, pinyin, arti, dan kapan dipakai."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Contoh kalimat tersusun: hanzi, pinyin, arti."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Penutup Kenapa Daftar Sekarang."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "收到、好的、明白了、稍等一下",
+      "sumber": "Ungkapan kantor umum; hanzi, pinyin, dan arti wajib dicek tutor Ciao Manda",
+      "url": "",
+      "check": true
+    },
+    {
+      "klaim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+      "sumber": "Post live Ciao Manda",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Kalimat Mandarin wajib dicek tutor."
+  ]
+}

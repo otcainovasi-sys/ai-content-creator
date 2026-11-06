@@ -1,0 +1,34 @@
+{
+  "brand": "jepang-koey",
+  "minggu": "2026-11-16",
+  "slot": 1,
+  "topik": "Pulang Kerja Capek, Cuma Punya 30 Menit Sehari?",
+  "angle": "Bagi 30 menit jadi tiga sesi kecil",
+  "arketipe": "A",
+  "situasi": "Pulang kerja capek, waktu belajar cuma sebentar.",
+  "pesan": "Target kecil yang konsisten lebih realistis buat pekerja.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Pola cover Choukai: maskot besar, properti 3D, kartu merah."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola kartu bernomor Choukai."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Pola penawaran Choukai: kartu putih, centang, maskot, kartu merah."
+    }
+  ],
+  "fakta": [],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Tips umum, bukan metode resmi kelas."
+  ]
+}

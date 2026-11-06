@@ -1,0 +1,162 @@
+{
+ "brand": "jepang-koey",
+ "catatan": "Tanggal tayang belum diketahui. Jenis diperkirakan dari ikon grid; ikon pin menutupi jenis (tidak_terlihat). Pilar dan arketipe diperkirakan.",
+ "items": [
+  {
+   "id": "jepang-koey-live-01",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Dari Nol Hingga Mampu Berkomunikasi dalam Bahasa Jepang",
+   "topik": "Testimoni Liandra",
+   "pilar": "student_story",
+   "arketipe": "J Bukti",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-02",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Wall of Success: JFT Basic Exam Achievers",
+   "topik": "Kak Ariel lulus JFT Basic A2",
+   "pilar": "proof_achievement",
+   "arketipe": "J Bukti",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-03",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Bukti Peningkatan Kemampuan Bahasa Jepang Dari Nol!",
+   "topik": "Progres peserta Platinum N5–N4",
+   "pilar": "proof_achievement",
+   "arketipe": "tidak diketahui",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-04",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Dari Nol sampai Bisa Ngomong Jepang, Tutor dampingi Progres Siswa",
+   "topik": "Pendampingan tutor",
+   "pilar": "student_story",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-05",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Kuasai Bahasa Jepang untuk Karier IT & Manufacturing",
+   "topik": "Bahasa untuk karier IT dan Manufacturing",
+   "pilar": "problem_education",
+   "arketipe": "tidak diketahui",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-06",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Fondasi Kuat, Kemampuan Bahasa Jepang Meningkat!",
+   "topik": "Platinum Class",
+   "pilar": "program_value",
+   "arketipe": "L Program",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-07",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Beasiswa ke Jepang yang menanggung biaya hidup + uang saku bulanan!",
+   "topik": "Ajinomoto, LPDP, Mitsui-Bussan, INPEX",
+   "pilar": "problem_education",
+   "arketipe": "E Perbandingan",
+   "cta": "Komen \"JAPAN\"",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-08",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Punya Skill Saja Nggak Cukup! HR Juga Cari Pekerja Asing yang Adaptif",
+   "topik": "Penilaian HR Jepang, Rachmat Sensei",
+   "pilar": "tutor_authority",
+   "arketipe": "reels",
+   "cta": "Klik link di bio",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-09",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Tips Menghadapi Audio Ujian Choukai yang Ngomongnya Kecepatan!",
+   "topik": "Choukai JLPT/JFT-Basic",
+   "pilar": "problem_education",
+   "arketipe": "A Tips N cara",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-10",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "5 Jebakan Soal Partikel di Ujian JLPT N5",
+   "topik": "Partikel JLPT N5",
+   "pilar": "problem_education",
+   "arketipe": "B Daftar padat",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-11",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Mulai Sekarang, Target ke Jepang-mu Kapan?",
+   "topik": "Timeline persiapan 2027",
+   "pilar": "problem_education",
+   "arketipe": "C Timeline",
+   "cta": "Komen \"JAPAN\"",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-12",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Selisih gaji kotor ke gaji bersih di Jepang",
+   "topik": "Potongan gaji di Jepang",
+   "pilar": "problem_education",
+   "arketipe": "F Edukasi berangka",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "jepang-koey-live-13",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Pilih JLPT N4 atau JFT-Basic A2 untuk Kerja ke Jepang?",
+   "topik": "Perbandingan JLPT N4 dan JFT-Basic untuk pekerja",
+   "pilar": "problem_education",
+   "arketipe": "E Perbandingan",
+   "cta": "Klik link di bio",
+   "performa": null,
+   "sumber": "Carousel live, kiriman user 5 Nov 2026"
+  }
+ ]
+}

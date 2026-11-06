@@ -1,0 +1,150 @@
+{
+ "brand": "otca",
+ "catatan": "Tanggal tayang belum diketahui. Jenis diperkirakan dari ikon grid; ikon pin menutupi jenis (tidak_terlihat). Pilar dan arketipe diperkirakan.",
+ "items": [
+  {
+   "id": "otca-live-01",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Anak bingung dengan audio Jerman? Latih Hören di OTCA!",
+   "topik": "Latihan Hören",
+   "pilar": "proof_achievement",
+   "arketipe": "cuplikan kelas",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-02",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Cerita Siswa OTCA: Kak Athar",
+   "topik": "Cerita siswa 1-on-1",
+   "pilar": "student_story",
+   "arketipe": "J Bukti",
+   "cta": "Konsultasi dengan Tim OTCA",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-03",
+   "tanggal": null,
+   "jenis": "tidak_terlihat",
+   "hook": "Student Achievement: Kak Sesilia lulus Goethe Zertifikat B1",
+   "topik": "Lulus Goethe B1",
+   "pilar": "proof_achievement",
+   "arketipe": "J Bukti",
+   "cta": "Konsultasi dengan Tim OTCA",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-04",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Belajar Jerman harus langsung tau grammar? Mulai bertahap di OTCA!",
+   "topik": "Grammar untuk pemula",
+   "pilar": "tutor_authority",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-05",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Belajar online, siswa OTCA lolos sertifikasi bahasa Jerman B1",
+   "topik": "Hasil belajar online",
+   "pilar": "proof_achievement",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-06",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Ketemu grammar baru jangan cuma dihafal, pahami cara pakainya!",
+   "topik": "Memahami grammar",
+   "pilar": "tutor_authority",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-07",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Mau cari beasiswa studi di Jerman? Kenali 3 jalur ini.",
+   "topik": "Jalur beasiswa",
+   "pilar": "problem_education",
+   "arketipe": "D Kerangka",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-08",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Target berbeda, ritme belajar pun tak harus sama.",
+   "topik": "Pembelajaran personal",
+   "pilar": "problem_education",
+   "arketipe": "tidak diketahui",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-09",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Kelas online, tapi anak susah fokus?",
+   "topik": "Fokus di kelas online",
+   "pilar": "problem_education",
+   "arketipe": "G Hook komentar",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-10",
+   "tanggal": null,
+   "jenis": "reels",
+   "hook": "Sibuk kerja tapi butuh belajar bahasa Jerman? Kelas fleksibel di OTCA!",
+   "topik": "Kelas fleksibel",
+   "pilar": "student_story",
+   "arketipe": "reels",
+   "cta": null,
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-live-11",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Jalur ke Jerman beragam, mana yang cocok?",
+   "topik": "Langsung S1, Studienkolleg, Duales Studium",
+   "pilar": "problem_education",
+   "arketipe": "D Kerangka",
+   "cta": "Komen \"STUDI\"",
+   "performa": null,
+   "sumber": "Grid/carousel live, tangkapan 5 Nov 2026"
+  },
+  {
+   "id": "otca-pesanan-12",
+   "tanggal": null,
+   "jenis": "carousel",
+   "hook": "Anak kuliah di Jerman, siapa yang membantu saat ada masalah?",
+   "topik": "Jalur bantuan mahasiswa di Jerman",
+   "pilar": "problem_education",
+   "arketipe": "D Kerangka dan alur keputusan",
+   "cta": "Komen STUDI",
+   "performa": null,
+   "sumber": "Dibuat 6 Nov 2026, belum tayang"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-16-10-minggu",
+  "month": "2026-11",
+  "pillar": "conversion",
+  "type": "single",
+  "format": "feed_portrait",
+  "schedule": "Minggu 19:00",
+  "archetype": "I Penutup penawaran",
+  "background": {
+    "src": "assets/stock/openverse-273142cb-5d4.jpg",
+    "position": "center 12%"
+  },
+  "verified_claims": [
+    "garansi"
+  ],
+  "rubric": {
+    "target": 22,
+    "informasi": 21,
+    "struktur": 21,
+    "copy": 21,
+    "pengurang": 0,
+    "total": 85,
+    "catatan": "Tanpa harga karena promo November kedaluwarsa 10 November. Garansi dan S&K perlu dicek tim."
+  },
+  "brief": {
+    "problem": "Takut biaya kursus hangus kalau gagal ujian sertifikasi.",
+    "angle": "Garansi sebagai pengaman, S&K berlaku, tanpa harga",
+    "key_message": "Ada Garansi Mengulang Kelas jika tidak lolos ujian sertifikasi, S&K berlaku.",
+    "audience": "Karyawan 22–35 tahun yang menyiapkan Ausbildung, belajar sambil kerja",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Garansi Mengulang Kelas jika tidak lolos ujian sertifikasi, S&K berlaku",
+        "source": "Post promo live Info Jerman (tangkapan 5 Nov 2026)",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Garansi dari post promo; pastikan masih berlaku dan S&K-nya.",
+      "Tidak menampilkan harga sampai ada harga periode baru yang terkonfirmasi."
+    ],
+    "references": [
+      "Carousel live biaya kursus (komponen garansi)"
+    ]
+  },
+  "caption": "Takut biaya kursus hangus kalau belum lolos ujian?\n\nDi Info Jerman ada Garansi Mengulang Kelas jika kamu tidak lolos ujian sertifikasi (S&K berlaku).\n\nKlik link di bio untuk cek S&K dan info kelas Platinum A1–B1.\n\n#KursusBahasaJerman #Ausbildung #InfoJerman",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "single",
+      "intent": "Single penawaran: perisai besar, kartu putih, maskot, CTA pill.",
+      "headline": "Takut biaya kursus hangus kalau gagal ujian?",
+      "cta": "Cek S&K dan info kelasnya dengan klik link di bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 15,
+          "t": "Takut biaya kursus **hangus kalau gagal ujian?**",
+          "variant": "duo",
+          "align": "left",
+          "max": 52,
+          "min": 38
+        },
+        {
+          "k": "icon",
+          "x": 2,
+          "y": 18,
+          "w": 36,
+          "h": 26,
+          "id": "c-shield",
+          "z": 1
+        },
+        {
+          "k": "bubble",
+          "x": 42,
+          "y": 19,
+          "w": 58,
+          "h": 21,
+          "tone": "white",
+          "t": "Ada **Garansi Mengulang Kelas**",
+          "max": 35,
+          "min": 25,
+          "note": "Kalau kamu nggak lolos ujian sertifikasi. S&K berlaku."
+        },
+        {
+          "k": "pill",
+          "variant": "flank",
+          "x": 0,
+          "y": 46,
+          "w": 100,
+          "h": 6.5,
+          "t": "Yang Kamu Dapat",
+          "tone": "white",
+          "align": "center"
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 54,
+          "w": 32,
+          "h": 30,
+          "id": "c-books",
+          "head": "Kelas Platinum A1–B1",
+          "tone": "cream",
+          "max": 26
+        },
+        {
+          "k": "tile",
+          "x": 34,
+          "y": 54,
+          "w": 32,
+          "h": 30,
+          "id": "c-chat",
+          "head": "Speaking with Native",
+          "tone": "cream",
+          "max": 26
+        },
+        {
+          "k": "tile",
+          "x": 68,
+          "y": 54,
+          "w": 32,
+          "h": 30,
+          "id": "c-tablet",
+          "head": "Portal progres",
+          "tone": "cream",
+          "max": 26
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 5,
+          "y": 86,
+          "w": 90,
+          "h": 13
+        }
+      ]
+    }
+  ]
+}

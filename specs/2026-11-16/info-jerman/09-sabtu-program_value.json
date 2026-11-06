@@ -1,0 +1,372 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-16-09-sabtu",
+  "month": "2026-11",
+  "pillar": "program_value",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Sabtu 11:00",
+  "archetype": "H Fitur produk",
+  "background": {
+    "src": "assets/stock/openverse-273142cb-5d4.jpg",
+    "position": "center 12%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 22,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 21,
+    "pengurang": 0,
+    "total": 86,
+    "catatan": "Fitur diambil dari post live, perlu dicek masih berlaku. Hook dibedakan dari Reels Kak Pandu."
+  },
+  "brief": {
+    "problem": "Pernah ikut kursus yang cuma kirim modul, lalu dibiarkan belajar sendiri.",
+    "angle": "Apa saja yang didapat di kelas Platinum A1–B1",
+    "key_message": "Kelas Platinum memberi pendampingan selain materi.",
+    "audience": "Karyawan 22–35 tahun yang menyiapkan Ausbildung, belajar sambil kerja",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Fasilitas Platinum: Speaking with Native, rekaman kelas, portal progres, German Career Blueprint",
+        "source": "Post live Info Jerman (tangkapan 5 Nov 2026)",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Semua fitur dari post live; cek dengan tim sebelum tayang."
+    ],
+    "references": [
+      "Portal progres (maskot + kartu putih + pill)",
+      "Carousel live biaya kursus (4 komponen)"
+    ]
+  },
+  "caption": "Bayar kursus, terus dibiarkan belajar sendiri? Di kelas Platinum A1–B1, kamu punya teman belajar dan tutor.\n\nYang kamu dapat:\n• Speaking with Native buat latihan ngomong langsung\n• Rekaman kelas kalau kamu absen\n• Portal untuk pantau progres dan level\n• German Career Blueprint\n\nCocok buat kamu yang lagi siapin Ausbildung dan belajar sambil kerja.\n\nKlik link di bio untuk info kelas Platinum.\n\n#KursusBahasaJerman #Ausbildung #InfoJerman",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "intent": "Hook: dibiarkan belajar sendiri.",
+      "headline": "Bayar kursus, terus dibiarkan belajar sendiri?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 14,
+          "y": 2,
+          "w": 72,
+          "h": 72,
+          "id": "cewe-berdiri",
+          "variant": "fade",
+          "z": 1
+        },
+        {
+          "k": "icon",
+          "x": 58,
+          "y": 4,
+          "w": 42,
+          "h": 18,
+          "id": "c-bubble-sendiri",
+          "z": 2,
+          "r": 4
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 30,
+          "w": 30,
+          "h": 22,
+          "id": "c-books",
+          "z": 2
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 56,
+          "w": 100,
+          "h": 31,
+          "t": "Bayar kursus, terus dibiarkan belajar sendiri?",
+          "variant": "duo",
+          "align": "left",
+          "max": 74,
+          "min": 50,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "variant": "swipe",
+          "x": 0,
+          "y": 89,
+          "w": 100,
+          "h": 7,
+          "t": "Swipe, ini isi kelas Platinum",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Empat fasilitas, ikon besar.",
+      "headline": "Ini yang kamu dapat",
+      "blocks": [
+        {
+          "k": "pill",
+          "x": 0,
+          "y": 0,
+          "w": 56,
+          "h": 5.5,
+          "t": "Kelas Platinum A1–B1",
+          "tone": "brand",
+          "align": "left"
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 7,
+          "w": 100,
+          "h": 9,
+          "t": "Ini yang **kamu dapat**",
+          "variant": "duo",
+          "align": "left",
+          "max": 50,
+          "min": 38
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 18,
+          "w": 49,
+          "h": 33,
+          "id": "c-chat",
+          "head": "Speaking with Native",
+          "tone": "cream",
+          "max": 26,
+          "t": "Latihan ngomong langsung",
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 51,
+          "y": 18,
+          "w": 49,
+          "h": 33,
+          "id": "c-video",
+          "head": "Rekaman kelas",
+          "tone": "cream",
+          "max": 26,
+          "t": "Absen? Materi tetap bisa dikejar",
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 53,
+          "w": 49,
+          "h": 33,
+          "id": "c-tablet",
+          "head": "Portal progres",
+          "tone": "cream",
+          "max": 26,
+          "t": "Pantau level dan riwayat belajar",
+          "variant": "pill"
+        },
+        {
+          "k": "tile",
+          "x": 51,
+          "y": 53,
+          "w": 49,
+          "h": 33,
+          "id": "c-compass",
+          "head": "German Career Blueprint",
+          "tone": "cream",
+          "max": 26,
+          "variant": "pill"
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 7,
+          "y": 89,
+          "w": 86,
+          "h": 10,
+          "t": "Materi ada, pendampingnya juga ada"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola Yuk pantau progres: maskot kiri, kartu putih, pill kuning.",
+      "headline": "Cocok buat kamu yang",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 8,
+          "t": "Cocok buat **kamu yang**",
+          "variant": "duo",
+          "align": "left",
+          "max": 56,
+          "min": 38
+        },
+        {
+          "k": "bar",
+          "x": 0,
+          "y": 9.5,
+          "w": 100,
+          "h": 0.9
+        },
+        {
+          "k": "mascot",
+          "x": 0,
+          "y": 18,
+          "w": 46,
+          "h": 64,
+          "id": "cowo-laptop",
+          "z": 2
+        },
+        {
+          "k": "bubble",
+          "x": 46,
+          "y": 13,
+          "w": 54,
+          "h": 20,
+          "tone": "white",
+          "t": "Kelas grup interaktif dari **A1 sampai B1**",
+          "max": 35,
+          "min": 25
+        },
+        {
+          "k": "pill",
+          "x": 46,
+          "y": 37,
+          "w": 54,
+          "h": 7,
+          "t": "Lagi siapin Ausbildung",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "x": 46,
+          "y": 47,
+          "w": 54,
+          "h": 7,
+          "t": "Belajar sambil kerja",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "x": 46,
+          "y": 57,
+          "w": 54,
+          "h": 7,
+          "t": "Mulai dari nol",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "icon",
+          "x": 58,
+          "y": 66,
+          "w": 30,
+          "h": 19,
+          "id": "c-alarm",
+          "z": 1
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 7,
+          "y": 88,
+          "w": 86,
+          "h": 11,
+          "t": "Pelan-pelan, yang penting terarah"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Maskot duo besar, CTA dalam pill.",
+      "headline": "Belajar terarah dari A1 sampai B1",
+      "cta": "Yuk belajar lebih terstruktur. Klik link di bio untuk info kelas Platinum!",
+      "blocks": [
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 7.5,
+          "t": "Belajar terarah",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 8.5,
+          "w": 100,
+          "h": 7.5,
+          "t": "Dari A1 sampai B1",
+          "tone": "white",
+          "align": "center"
+        },
+        {
+          "k": "mascot",
+          "x": 18,
+          "y": 22,
+          "w": 30,
+          "h": 60,
+          "id": "cewe-melambai",
+          "z": 2
+        },
+        {
+          "k": "mascot",
+          "x": 50,
+          "y": 22,
+          "w": 30,
+          "h": 60,
+          "id": "cowo-jempol",
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 58,
+          "w": 28,
+          "h": 22,
+          "id": "c-deutsch-cap",
+          "z": 3
+        },
+        {
+          "k": "icon",
+          "x": 80,
+          "y": 30,
+          "w": 20,
+          "h": 24,
+          "id": "c-tablet",
+          "z": 3,
+          "r": 8
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 5,
+          "y": 86,
+          "w": 90,
+          "h": 13
+        }
+      ]
+    }
+  ]
+}

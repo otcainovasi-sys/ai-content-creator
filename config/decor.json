@@ -1,0 +1,148 @@
+{
+  "otca": {
+    "make": [
+      "flow-lines",
+      "sparkle",
+      "rings",
+      "sheen",
+      "blob-1",
+      "burst"
+    ],
+    "line": [
+      "#B3822C",
+      "#FDF1A4",
+      "#CB9D31",
+      "#B3822C"
+    ],
+    "sparkle": "#FDF1A4",
+    "ring": "#CB9D31",
+    "sheen": "#CB9D31",
+    "blob": [
+      [
+        "#3A2A0C",
+        "#000000"
+      ]
+    ],
+    "burst": [
+      "#FDF1A4",
+      "#B3822C"
+    ],
+    "burstLine": "#000000"
+  },
+  "info-jerman": {
+    "make": [
+      "blob-1",
+      "blob-2",
+      "blob-3",
+      "dots",
+      "rings",
+      "sparkle",
+      "wave",
+      "flow-lines",
+      "burst",
+      "arc"
+    ],
+    "line": [
+      "#F3CF45",
+      "#E0B526",
+      "#F3CF45"
+    ],
+    "blob": [
+      [
+        "#FFE27A",
+        "#F3CF45"
+      ],
+      [
+        "#FFFFFF",
+        "#F7E7B0"
+      ],
+      [
+        "#3A3C41",
+        "#25272B"
+      ]
+    ],
+    "dot": "#25272B",
+    "ring": "#25272B",
+    "sparkle": "#F3CF45",
+    "wave": [
+      "#F3CF45",
+      "#E9BE2C"
+    ],
+    "waveLine": "#25272B",
+    "burst": [
+      "#3A3C41",
+      "#25272B"
+    ],
+    "burstLine": "#F3CF45",
+    "arc": "#F3CF45",
+    "arc2": "#25272B"
+  },
+  "jepang-koey": {
+    "make": [
+      "seigaiha",
+      "cloud",
+      "sparkle",
+      "rings",
+      "blob-1",
+      "flow-lines",
+      "burst"
+    ],
+    "line": [
+      "#F2B9B9",
+      "#D71920",
+      "#F2B9B9"
+    ],
+    "pattern": "#F2C4C4",
+    "patternFill": "#FAF8F5",
+    "cloud": "#F0A9AB",
+    "cloudFill": "#FCE9E9",
+    "sparkle": "#E8B957",
+    "ring": "#D71920",
+    "blob": [
+      [
+        "#FFE4E4",
+        "#F7C9C9"
+      ]
+    ],
+    "burst": [
+      "#E8B957",
+      "#D9A23E"
+    ],
+    "burstLine": "#20252B"
+  },
+  "ciao-manda": {
+    "make": [
+      "flow-lines",
+      "wave",
+      "sparkle",
+      "dots",
+      "rings",
+      "blob-1",
+      "burst"
+    ],
+    "line": [
+      "#D4A65C",
+      "#F2DDB0",
+      "#D4A65C"
+    ],
+    "wave": [
+      "#9B2633",
+      "#79202A"
+    ],
+    "waveLine": "#D4A65C",
+    "sparkle": "#D4A65C",
+    "dot": "#BD2331",
+    "ring": "#BD2331",
+    "blob": [
+      [
+        "#F3E3E0",
+        "#EBD2CD"
+      ]
+    ],
+    "burst": [
+      "#E9C78D",
+      "#D4A65C"
+    ],
+    "burstLine": "#79202A"
+  }
+}

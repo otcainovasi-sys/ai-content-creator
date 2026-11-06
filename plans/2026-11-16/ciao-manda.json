@@ -1,0 +1,149 @@
+{
+ "brand": "ciao-manda",
+ "minggu": "2026-11-16",
+ "slot": [
+  {
+   "no": 1,
+   "jadwal": "Senin 10:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Bos minta revisi mendadak",
+   "angle": "3 kalimat siap pakai",
+   "arketipe": "B",
+   "format": "carousel",
+   "mascot": "cewe-say-hi",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": []
+  },
+  {
+   "no": 2,
+   "jadwal": "Senin 18:30",
+   "pilar": "student_story",
+   "status": "butuh_data",
+   "topik": "Cerita siswa",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Kutipan asli siswa, foto, izin"
+   ]
+  },
+  {
+   "no": 3,
+   "jadwal": "Selasa 18:30",
+   "pilar": "proof_achievement",
+   "status": "butuh_data",
+   "topik": "Siswa lulus HSK",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Sertifikat, izin siswa"
+   ]
+  },
+  {
+   "no": 4,
+   "jadwal": "Rabu 09:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Balasan singkat di WeChat",
+   "angle": "4 balasan singkat",
+   "arketipe": "A",
+   "format": "carousel",
+   "mascot": "cewe-dm",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": []
+  },
+  {
+   "no": 5,
+   "jadwal": "Rabu 18:30",
+   "pilar": "tutor_authority",
+   "status": "butuh_data",
+   "topik": "Profil tutor",
+   "arketipe": "J",
+   "format": "reels",
+   "data_dibutuhkan": [
+    "Kredensial terbaru Nia Laoshi"
+   ]
+  },
+  {
+   "no": 6,
+   "jadwal": "Kamis 18:30",
+   "pilar": "student_story",
+   "status": "butuh_data",
+   "topik": "Cerita siswa",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Kutipan asli berizin"
+   ]
+  },
+  {
+   "no": 7,
+   "jadwal": "Jumat 09:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Atasan bicara cepat",
+   "angle": "Minta ulang dan konfirmasi",
+   "arketipe": "B",
+   "format": "carousel",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [],
+   "scene": "bahasa"
+  },
+  {
+   "no": 8,
+   "jadwal": "Jumat 18:30",
+   "pilar": "proof_achievement",
+   "status": "butuh_data",
+   "topik": "Laporan belajar siswa",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Laporan belajar asli dengan izin"
+   ]
+  },
+  {
+   "no": 9,
+   "jadwal": "Sabtu 11:00",
+   "pilar": "program_value",
+   "status": "siap_brief",
+   "topik": "Kelas privat untuk jadwal padat",
+   "angle": "Private 24/48 jam",
+   "arketipe": "H",
+   "format": "carousel",
+   "mascot": "cewe-uang",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "private-24",
+    "private-48",
+    "fitur-laporan",
+    "fitur-business"
+   ]
+  },
+  {
+   "no": 10,
+   "jadwal": "Minggu 19:00",
+   "pilar": "conversion",
+   "status": "siap_brief",
+   "topik": "Bonus percakapan bisnis",
+   "angle": "Bonus tanpa harga",
+   "arketipe": "I",
+   "format": "single",
+   "mascot": "cewe-dm",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "fitur-business",
+    "fitur-simulasi"
+   ]
+  }
+ ]
+}

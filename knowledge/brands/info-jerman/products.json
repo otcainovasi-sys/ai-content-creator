@@ -1,0 +1,125 @@
+{
+  "brand": "info-jerman",
+  "diperbarui": "2026-11-05",
+  "items": [
+    {
+      "id": "platinum-a1-b1",
+      "kategori": "produk",
+      "nama": "Platinum A1–B1",
+      "detail": "Kelas grup interaktif untuk persiapan karier Ausbildung.",
+      "sumber": "Slide target market (BRAND GUIDELINES)",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "promo-super",
+      "kategori": "harga",
+      "nama": "Super Promo",
+      "detail": "Tertulis Rp9.200.000. Harga coret tidak terbaca. Klaim cuma 1–10 November.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi",
+      "berlaku_sampai": "2026-11-10",
+      "catatan": "Teks kecil pada tangkapan grid."
+    },
+    {
+      "id": "promo-early-bird",
+      "kategori": "harga",
+      "nama": "Early Bird",
+      "detail": "Tampak Rp9.500.000. Harga coret tidak terbaca.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi",
+      "berlaku_sampai": "2026-11-10",
+      "catatan": "Teks kecil pada tangkapan grid."
+    },
+    {
+      "id": "promo-normal",
+      "kategori": "harga",
+      "nama": "Normal",
+      "detail": "Tampak Rp9.800.000. Harga coret tidak terbaca.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi",
+      "berlaku_sampai": "2026-11-10",
+      "catatan": "Teks kecil pada tangkapan grid."
+    },
+    {
+      "id": "fitur-blueprint",
+      "kategori": "fitur",
+      "nama": "German Career Blueprint",
+      "detail": "Fasilitas semua tier promo.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "fitur-native",
+      "kategori": "fitur",
+      "nama": "Speaking with Native",
+      "detail": "Fasilitas semua tier promo.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "fitur-ausbildung-prep",
+      "kategori": "fitur",
+      "nama": "Ausbildung Preparation",
+      "detail": "Tampak mencakup CV dan Motivation Letter. Hanya Super Promo.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi"
+    },
+    {
+      "id": "fitur-sertifikasi",
+      "kategori": "fitur",
+      "nama": "Xtra Bonus Kelas Persiapan Sertifikasi Bahasa Jerman",
+      "detail": "Hanya Super Promo.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "garansi",
+      "kategori": "garansi",
+      "nama": "Garansi Mengulang Kelas",
+      "detail": "Jika tidak lolos ujian sertifikasi, S&K berlaku.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "portal",
+      "kategori": "fitur",
+      "nama": "Portal Exam OTCA",
+      "detail": "Login, pilih level, kerjakan ujian. Progres belajar, progres level, riwayat belajar. Tampak level A1.1–A2.2, Kelas Platinum.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "rekaman",
+      "kategori": "fitur",
+      "nama": "Video rekaman kelas",
+      "detail": "Disebut sebagai cara mengejar materi saat absen.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "tutor-priska",
+      "kategori": "tutor",
+      "nama": "Frau Priska",
+      "detail": "Goethe C1, penerima DAAD, mengajar sejak 2019.",
+      "sumber": "Info Jerman Brand Guideline 2026",
+      "status": "dari_post_live",
+      "catatan": "Tertulis di guideline. Pastikan masih aktif mengajar."
+    },
+    {
+      "id": "tutor-azizah",
+      "kategori": "tutor",
+      "nama": "Frau Azizah",
+      "detail": "Tampil di Reels. Kredensial belum diketahui.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi"
+    },
+    {
+      "id": "tutor-volley",
+      "kategori": "tutor",
+      "nama": "Frau Volley",
+      "detail": "Tampil di Reels. Kredensial belum diketahui.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi"
+    }
+  ]
+}

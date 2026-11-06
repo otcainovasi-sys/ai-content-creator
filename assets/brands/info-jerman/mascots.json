@@ -1,0 +1,606 @@
+{
+  "cowo-berdiri": {
+    "file": "mascots/cowo-berdiri.png",
+    "transparent": true
+  },
+  "cewe-berdiri": {
+    "file": "mascots/cewe-berdiri.png",
+    "transparent": true
+  },
+  "duo": {
+    "file": "mascots/duo.png",
+    "transparent": true
+  },
+  "cowo-bust": {
+    "file": "mascots/cowo-bust.png",
+    "transparent": true
+  },
+  "cewe-bust": {
+    "file": "mascots/cewe-bust.png",
+    "transparent": true
+  },
+  "cowo-cermin": {
+    "file": "mascots/cowo-cermin.png",
+    "transparent": true
+  },
+  "cewe-cermin": {
+    "file": "mascots/cewe-cermin.png",
+    "transparent": true
+  },
+  "cowo-melambai": {
+    "file": "mascots/cowo-melambai.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 00",
+    "ukuran": [
+      158,
+      357
+    ]
+  },
+  "cowo-jempol": {
+    "file": "mascots/cowo-jempol.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 01",
+    "ukuran": [
+      148,
+      356
+    ]
+  },
+  "cowo-menunjuk-samping": {
+    "file": "mascots/cowo-menunjuk-samping.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 02",
+    "ukuran": [
+      204,
+      356
+    ]
+  },
+  "cowo-menunjuk-atas": {
+    "file": "mascots/cowo-menunjuk-atas.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 03",
+    "ukuran": [
+      141,
+      356
+    ]
+  },
+  "cowo-presentasi": {
+    "file": "mascots/cowo-presentasi.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 10",
+    "ukuran": [
+      196,
+      356
+    ]
+  },
+  "cowo-tangan-terbuka": {
+    "file": "mascots/cowo-tangan-terbuka.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 11",
+    "ukuran": [
+      248,
+      355
+    ]
+  },
+  "cowo-berpikir": {
+    "file": "mascots/cowo-berpikir.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 12",
+    "ukuran": [
+      140,
+      357
+    ]
+  },
+  "cowo-semangat": {
+    "file": "mascots/cowo-semangat.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 13",
+    "ukuran": [
+      192,
+      356
+    ]
+  },
+  "cowo-baca-buku": {
+    "file": "mascots/cowo-baca-buku.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 20",
+    "ukuran": [
+      145,
+      359
+    ]
+  },
+  "cowo-laptop": {
+    "file": "mascots/cowo-laptop.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 21",
+    "ukuran": [
+      179,
+      358
+    ]
+  },
+  "cowo-clipboard": {
+    "file": "mascots/cowo-clipboard.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 22",
+    "ukuran": [
+      163,
+      360
+    ]
+  },
+  "cowo-ponsel": {
+    "file": "mascots/cowo-ponsel.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 23",
+    "ukuran": [
+      170,
+      359
+    ]
+  },
+  "cowo-oke": {
+    "file": "mascots/cowo-oke.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 30",
+    "ukuran": [
+      160,
+      355
+    ]
+  },
+  "cowo-lipat-tangan": {
+    "file": "mascots/cowo-lipat-tangan.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 31",
+    "ukuran": [
+      119,
+      356
+    ]
+  },
+  "cowo-tangan-dirapatkan": {
+    "file": "mascots/cowo-tangan-dirapatkan.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 32",
+    "ukuran": [
+      133,
+      356
+    ]
+  },
+  "cowo-bendera-jerman": {
+    "file": "mascots/cowo-bendera-jerman.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 1 sel 33",
+    "ukuran": [
+      225,
+      355
+    ]
+  },
+  "cewe-duduk-baca": {
+    "file": "mascots/cewe-duduk-baca.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 00",
+    "ukuran": [
+      189,
+      356
+    ]
+  },
+  "cewe-laptop-bersila": {
+    "file": "mascots/cewe-laptop-bersila.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 01",
+    "ukuran": [
+      233,
+      287
+    ]
+  },
+  "cewe-berlari": {
+    "file": "mascots/cewe-berlari.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 02",
+    "ukuran": [
+      234,
+      352
+    ]
+  },
+  "cewe-melompat": {
+    "file": "mascots/cewe-melompat.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 03",
+    "ukuran": [
+      241,
+      319
+    ]
+  },
+  "cewe-kaca-pembesar": {
+    "file": "mascots/cewe-kaca-pembesar.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 10",
+    "ukuran": [
+      211,
+      278
+    ]
+  },
+  "cewe-berlutut-presentasi": {
+    "file": "mascots/cewe-berlutut-presentasi.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 11",
+    "ukuran": [
+      257,
+      322
+    ]
+  },
+  "cewe-membungkuk": {
+    "file": "mascots/cewe-membungkuk.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 12",
+    "ukuran": [
+      181,
+      335
+    ]
+  },
+  "cewe-mengintip-dinding": {
+    "file": "mascots/cewe-mengintip-dinding.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 13",
+    "ukuran": [
+      174,
+      357
+    ]
+  },
+  "cewe-duduk-berpikir": {
+    "file": "mascots/cewe-duduk-berpikir.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 20",
+    "ukuran": [
+      206,
+      345
+    ]
+  },
+  "cewe-tas-kerja": {
+    "file": "mascots/cewe-tas-kerja.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 21",
+    "ukuran": [
+      241,
+      348
+    ]
+  },
+  "cewe-koper": {
+    "file": "mascots/cewe-koper.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 22",
+    "ukuran": [
+      260,
+      343
+    ]
+  },
+  "cewe-naik-tangga": {
+    "file": "mascots/cewe-naik-tangga.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 23",
+    "ukuran": [
+      251,
+      346
+    ]
+  },
+  "cewe-baca-lantai": {
+    "file": "mascots/cewe-baca-lantai.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 30",
+    "ukuran": [
+      247,
+      302
+    ]
+  },
+  "cewe-menunjuk-semangat": {
+    "file": "mascots/cewe-menunjuk-semangat.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 31",
+    "ukuran": [
+      273,
+      312
+    ]
+  },
+  "cewe-bersandar-dinding": {
+    "file": "mascots/cewe-bersandar-dinding.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 32",
+    "ukuran": [
+      165,
+      346
+    ]
+  },
+  "cewe-seimbang": {
+    "file": "mascots/cewe-seimbang.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 2 sel 33",
+    "ukuran": [
+      272,
+      350
+    ]
+  },
+  "cewe-melambai": {
+    "file": "mascots/cewe-melambai.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 00",
+    "ukuran": [
+      168,
+      366
+    ]
+  },
+  "cewe-jempol": {
+    "file": "mascots/cewe-jempol.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 01",
+    "ukuran": [
+      141,
+      366
+    ]
+  },
+  "cewe-menunjuk-samping": {
+    "file": "mascots/cewe-menunjuk-samping.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 02",
+    "ukuran": [
+      184,
+      365
+    ]
+  },
+  "cewe-menunjuk-atas": {
+    "file": "mascots/cewe-menunjuk-atas.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 03",
+    "ukuran": [
+      147,
+      366
+    ]
+  },
+  "cewe-presentasi": {
+    "file": "mascots/cewe-presentasi.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 10",
+    "ukuran": [
+      203,
+      358
+    ]
+  },
+  "cewe-tangan-terbuka": {
+    "file": "mascots/cewe-tangan-terbuka.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 11",
+    "ukuran": [
+      244,
+      359
+    ]
+  },
+  "cewe-berpikir": {
+    "file": "mascots/cewe-berpikir.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 12",
+    "ukuran": [
+      134,
+      357
+    ]
+  },
+  "cewe-semangat": {
+    "file": "mascots/cewe-semangat.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 13",
+    "ukuran": [
+      178,
+      359
+    ]
+  },
+  "cewe-baca-buku": {
+    "file": "mascots/cewe-baca-buku.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 20",
+    "ukuran": [
+      141,
+      361
+    ]
+  },
+  "cewe-laptop": {
+    "file": "mascots/cewe-laptop.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 21",
+    "ukuran": [
+      173,
+      364
+    ]
+  },
+  "cewe-clipboard": {
+    "file": "mascots/cewe-clipboard.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 22",
+    "ukuran": [
+      159,
+      366
+    ]
+  },
+  "cewe-ponsel": {
+    "file": "mascots/cewe-ponsel.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 23",
+    "ukuran": [
+      170,
+      364
+    ]
+  },
+  "cewe-oke": {
+    "file": "mascots/cewe-oke.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 30",
+    "ukuran": [
+      160,
+      365
+    ]
+  },
+  "cewe-lipat-tangan": {
+    "file": "mascots/cewe-lipat-tangan.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 31",
+    "ukuran": [
+      137,
+      365
+    ]
+  },
+  "cewe-tangan-dirapatkan": {
+    "file": "mascots/cewe-tangan-dirapatkan.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 32",
+    "ukuran": [
+      135,
+      364
+    ]
+  },
+  "cewe-bendera-jerman": {
+    "file": "mascots/cewe-bendera-jerman.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 3 sel 33",
+    "ukuran": [
+      202,
+      365
+    ]
+  },
+  "cowo-duduk-baca": {
+    "file": "mascots/cowo-duduk-baca.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 00",
+    "ukuran": [
+      182,
+      340
+    ]
+  },
+  "cowo-laptop-bersila": {
+    "file": "mascots/cowo-laptop-bersila.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 01",
+    "ukuran": [
+      191,
+      279
+    ]
+  },
+  "cowo-berlari": {
+    "file": "mascots/cowo-berlari.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 02",
+    "ukuran": [
+      235,
+      346
+    ]
+  },
+  "cowo-melompat": {
+    "file": "mascots/cowo-melompat.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 03",
+    "ukuran": [
+      229,
+      301
+    ]
+  },
+  "cowo-kaca-pembesar": {
+    "file": "mascots/cowo-kaca-pembesar.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 10",
+    "ukuran": [
+      199,
+      254
+    ]
+  },
+  "cowo-berlutut-presentasi": {
+    "file": "mascots/cowo-berlutut-presentasi.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 11",
+    "ukuran": [
+      231,
+      315
+    ]
+  },
+  "cowo-membungkuk": {
+    "file": "mascots/cowo-membungkuk.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 12",
+    "ukuran": [
+      136,
+      330
+    ]
+  },
+  "cowo-mengintip-dinding": {
+    "file": "mascots/cowo-mengintip-dinding.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 13",
+    "ukuran": [
+      207,
+      340
+    ]
+  },
+  "cowo-duduk-berpikir": {
+    "file": "mascots/cowo-duduk-berpikir.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 20",
+    "ukuran": [
+      196,
+      325
+    ]
+  },
+  "cowo-tas-kerja": {
+    "file": "mascots/cowo-tas-kerja.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 21",
+    "ukuran": [
+      240,
+      345
+    ]
+  },
+  "cowo-koper": {
+    "file": "mascots/cowo-koper.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 22",
+    "ukuran": [
+      268,
+      332
+    ]
+  },
+  "cowo-naik-tangga": {
+    "file": "mascots/cowo-naik-tangga.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 23",
+    "ukuran": [
+      230,
+      347
+    ]
+  },
+  "cowo-baca-lantai": {
+    "file": "mascots/cowo-baca-lantai.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 30",
+    "ukuran": [
+      233,
+      282
+    ]
+  },
+  "cowo-menunjuk-semangat": {
+    "file": "mascots/cowo-menunjuk-semangat.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 31",
+    "ukuran": [
+      282,
+      291
+    ]
+  },
+  "cowo-bersandar-dinding": {
+    "file": "mascots/cowo-bersandar-dinding.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 32",
+    "ukuran": [
+      151,
+      329
+    ]
+  },
+  "cowo-seimbang": {
+    "file": "mascots/cowo-seimbang.png",
+    "transparent": true,
+    "sumber": "maskot info jerman 4 sel 33",
+    "ukuran": [
+      276,
+      334
+    ]
+  }
+}

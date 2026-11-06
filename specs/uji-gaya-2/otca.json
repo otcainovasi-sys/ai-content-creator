@@ -1,0 +1,165 @@
+{
+  "brand": "otca",
+  "slug": "uji-gaya-2",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+  "background": {
+    "src": "assets/stock/openverse-cc26331a-510.jpg",
+    "position": "center 30%"
+  },
+  "brief": {
+    "problem": "Uji gaya layout. Nama, kutipan, dan foto hanya contoh penempatan.",
+    "angle": "Uji layout",
+    "key_message": "-",
+    "cta": {
+      "type": "other"
+    }
+  },
+  "verified_claims": [
+    "9.900.000"
+  ],
+  "slides": [
+    {
+      "layout": "comment",
+      "role": "cover",
+      "intent": "G",
+      "author": "Orang tua",
+      "comment": "anak saya susah fokus belajarnya, kalau kelasnya online, belajarnya bisa tetap kondusif?",
+      "headline": "Kelas online, **tapi anak susah fokus?**",
+      "sub": "Belajar kondusif bukan soal tempat, tetapi bagaimana kelas dirancang.",
+      "mascot": "robot-berpikir"
+    },
+    {
+      "layout": "compare",
+      "role": "point",
+      "intent": "E",
+      "headline": "Tiga Jalur, Tiga Tuntutan",
+      "columns": [
+        {
+          "title": "Langsung S1",
+          "icon": "grad-cap",
+          "rows": [
+            {
+              "label": "Syarat",
+              "text": "Kualifikasi memenuhi syarat universitas"
+            }
+          ]
+        },
+        {
+          "title": "Studienkolleg",
+          "icon": "books",
+          "rows": [
+            {
+              "label": "Syarat",
+              "text": "Kelas persiapan sebelum studi"
+            }
+          ]
+        },
+        {
+          "title": "Duales Studium",
+          "icon": "briefcase",
+          "rows": [
+            {
+              "label": "Syarat",
+              "text": "Studi digabung praktik di perusahaan"
+            }
+          ]
+        }
+      ],
+      "punch": "Jalur berbeda berarti **persiapannya juga berbeda.**"
+    },
+    {
+      "layout": "feature",
+      "role": "point",
+      "intent": "H",
+      "headline": "Progres Anak Bisa Dipantau",
+      "screen": {
+        "src": "assets/brands/info-jerman/ui/portal-sample.png"
+      },
+      "steps": [
+        "Jadwal sesuai sekolah",
+        "Latihan sesuai target",
+        "Progres terukur"
+      ],
+      "flow": [
+        "Jadwal",
+        "Latihan",
+        "Progres"
+      ]
+    },
+    {
+      "layout": "proof",
+      "role": "single",
+      "intent": "J",
+      "eyebrow": "Student Achievement",
+      "headline": "Satu Langkah **Menuju Jerman**",
+      "image": {
+        "src": "assets/stock/openverse-60d07cfc-45e.jpg"
+      },
+      "sub": "Setiap pencapaian adalah bagian dari perjalanan menuju Jerman.",
+      "name": "Nama Siswa",
+      "label": "Contoh penempatan",
+      "quote": "Kutipan asli siswa tampil di sini, dengan izin.",
+      "cta": "Konsultasi dengan Tim OTCA"
+    },
+    {
+      "layout": "program",
+      "role": "single",
+      "intent": "L",
+      "headline": "Tuntaskan Bahasa Jerman Anak",
+      "image": {
+        "src": "assets/stock/openverse-c6fc30c0-cf5.jpg"
+      },
+      "imageLabel": "1-on-1 Coaching",
+      "guarantee": "**Sesuai Jadwal. Sesuai Kebutuhan. Sesuai Target.**",
+      "benefits": [
+        {
+          "icon": "direct-hit",
+          "title": "Fokus target"
+        },
+        {
+          "icon": "alarm-clock",
+          "title": "Jadwal fleksibel"
+        },
+        {
+          "icon": "chart",
+          "title": "Progres terukur"
+        }
+      ],
+      "cta": "Konsultasi dengan Tim OTCA"
+    },
+    {
+      "layout": "promo",
+      "role": "closing",
+      "intent": "K",
+      "headline": "PRINCE 60 **Online**",
+      "sub": "60 jam coaching + extra 2 jam",
+      "tiers": [
+        {
+          "name": "PRINCE 60 - Online",
+          "price": "Rp 9.900.000",
+          "featured": true
+        }
+      ],
+      "features": [
+        {
+          "icon": "check",
+          "title": "Private 1-on-1"
+        },
+        {
+          "icon": "spiral-calendar",
+          "title": "Jadwal fleksibel"
+        },
+        {
+          "icon": "direct-hit",
+          "title": "Fokus target"
+        }
+      ],
+      "cta": "Daftar 1-on-1 sekarang",
+      "ticketIcon": "trophy",
+      "ctaNote": "Sesuai Jadwal. Sesuai Kebutuhan. Sesuai Target."
+    }
+  ]
+}

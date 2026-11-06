@@ -1,0 +1,101 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-09-01-senin",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "pillar": "problem_education",
+  "schedule": "Senin 10:00",
+  "brief": {
+    "problem": "Orang tua mengira anak lulus SMA bisa langsung mendaftar S1 di Jerman.",
+    "angle": "Lanjutan seri jalur: membedah syarat masuk Studienkolleg, karena di situ target bahasa anak ditentukan.",
+    "key_message": "Target bahasa Jerman anak harus siap untuk ujian masuk Studienkolleg, bukan sekadar bisa.",
+    "audience": "Orang tua 35–55 tahun, anak SMA atau baru lulus, tujuan S1 Jerman",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    },
+    "sources": [
+      {
+        "claim": "Ijazah SMA/MA Indonesia umumnya belum memberi akses langsung ke universitas Jerman",
+        "source": "Kedutaan Jerman Jakarta",
+        "url": "https://jakarta.diplo.de/id-de/service/visa-und-einreise/unconditional-admission-letter1-2619460"
+      },
+      {
+        "claim": "Studienkolleg sekitar 1 tahun, diakhiri Feststellungsprüfung, memberi akses kuliah sesuai rumpun",
+        "source": "Goethe-Institut Indonesia",
+        "url": "https://www.goethe.de/ins/id/id/nad/stu/kol.html",
+        "check": true
+      },
+      {
+        "claim": "Ujian masuk: bahasa Jerman (umumnya minimal B1, banyak yang meminta B2) dan matematika",
+        "source": "BayStKO § 6; Goethe-Institut Indonesia",
+        "url": "https://www.gesetze-bayern.de/Content/Document/BayStKO2019-6"
+      }
+    ],
+    "risks": [
+      "Durasi dan syarat bahasa berbeda antar-Studienkolleg; copy memakai \"umumnya\" dan \"sekitar\".",
+      "Tidak menyebut beasiswa atau jaminan lolos."
+    ],
+    "references": [
+      "Carousel live \"Jalur ke Jerman Beragam, Mana yang Cocok?\""
+    ]
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Hook: anggapan umum orang tua bahwa lulus SMA bisa langsung daftar S1.",
+      "headline": "Lulus SMA, langsung S1 di Jerman? **Belum tentu.**",
+      "sub": "Ijazah SMA Indonesia umumnya belum membuka akses langsung ke universitas di Jerman.",
+      "image": {
+        "src": "assets/stock/openverse-582dd4f6-377.jpg"
+      }
+    },
+    {
+      "layout": "point",
+      "role": "context",
+      "intent": "Menjelaskan alasan: syarat kualifikasi masuk (HZB).",
+      "headline": "Kenapa tidak bisa **langsung?**",
+      "body": "Universitas di Jerman mensyaratkan kualifikasi masuk perguruan tinggi (Hochschulzugangsberechtigung). Ijazah SMA/MA Indonesia umumnya belum dianggap setara.",
+      "tip": "Ada pengecualian, misalnya lulusan Abitur atau IB, atau yang sudah kuliah di Indonesia dengan syarat tertentu."
+    },
+    {
+      "layout": "numbered_list",
+      "role": "point",
+      "intent": "Isi utama: tiga tahap jalur Studienkolleg.",
+      "headline": "Jalur Studienkolleg **dalam 3 tahap**",
+      "items": [
+        {
+          "title": "Lolos ujian masuk",
+          "text": "Tes bahasa Jerman (umumnya minimal B1, banyak yang meminta B2) dan matematika"
+        },
+        {
+          "title": "Kelas persiapan sekitar 1 tahun",
+          "text": "Materi sesuai rumpun jurusan, diajarkan dalam bahasa Jerman"
+        },
+        {
+          "title": "Ujian akhir Feststellungsprüfung",
+          "text": "Lulus FSP membuka akses kuliah sesuai rumpun jurusannya"
+        }
+      ]
+    },
+    {
+      "layout": "point",
+      "role": "context",
+      "intent": "Mindset shift: target bahasa anak.",
+      "headline": "Artinya, target bahasa anak **bukan sekadar \"bisa\"**",
+      "body": "Bahasa Jerman anak harus siap dipakai untuk ujian masuk, lalu untuk belajar di kelas yang seluruhnya berbahasa Jerman.",
+      "tip": "Lesen, Hören, Schreiben, dan Sprechen perlu dilatih sesuai target ujiannya."
+    },
+    {
+      "layout": "closing",
+      "role": "closing",
+      "intent": "Penutup pola OTCA \"jangan hanya tanya X\" + CTA komentar.",
+      "headline": "Jangan hanya tanya \"kampus mana?\" **Tanya juga: anak lewat jalur apa?**",
+      "cta": "KOMEN \"STUDI\"",
+      "ctaNote": "untuk info lebih lanjut dari Tim OTCA"
+    }
+  ],
+  "caption": "Lulus SMA, apakah anak bisa langsung mendaftar S1 di Jerman? Belum tentu.\n\nUniversitas di Jerman mensyaratkan kualifikasi masuk perguruan tinggi (Hochschulzugangsberechtigung). Ijazah SMA/MA Indonesia umumnya belum dianggap setara, sehingga banyak siswa menempuh Studienkolleg terlebih dahulu:\n\n1. Lolos ujian masuk: bahasa Jerman (umumnya minimal B1, banyak yang meminta B2) dan matematika.\n2. Kelas persiapan sekitar 1 tahun sesuai rumpun jurusan.\n3. Ujian akhir Feststellungsprüfung (FSP).\n\nArtinya, target bahasa Jerman anak bukan sekadar \"bisa\", tetapi siap dipakai untuk ujian dan belajar di kelas berbahasa Jerman.\n\nSyarat setiap Studienkolleg bisa berbeda. Komen \"STUDI\" untuk info lebih lanjut dari Tim OTCA.\n\n#StudiDiJerman #Studienkolleg #OTCA"
+}

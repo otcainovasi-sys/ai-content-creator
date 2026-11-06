@@ -1,0 +1,153 @@
+{
+ "brand": "jepang-koey",
+ "minggu": "2026-11-16",
+ "slot": [
+  {
+   "no": 1,
+   "jadwal": "Senin 10:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Cuma punya 30 menit per hari",
+   "angle": "Bagi 30 menit jadi 3 sesi",
+   "arketipe": "A",
+   "format": "carousel",
+   "mascot": "cewe-calm",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "platinum-n5-n4"
+   ]
+  },
+  {
+   "no": 2,
+   "jadwal": "Senin 18:30",
+   "pilar": "student_story",
+   "status": "butuh_data",
+   "topik": "Cerita siswa",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Nama, foto, kutipan asli siswa, beserta izin"
+   ]
+  },
+  {
+   "no": 3,
+   "jadwal": "Selasa 18:30",
+   "pilar": "proof_achievement",
+   "status": "butuh_data",
+   "topik": "Siswa lulus JFT atau JLPT",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Sertifikat, nama, izin siswa"
+   ]
+  },
+  {
+   "no": 4,
+   "jadwal": "Rabu 09:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Sudah lulus N4, cukup buat SSW?",
+   "angle": "Dua syarat SSW (i)",
+   "arketipe": "D",
+   "format": "carousel",
+   "mascot": "cowo-melipat-tangan",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "platinum-n5-n4"
+   ]
+  },
+  {
+   "no": 5,
+   "jadwal": "Rabu 18:30",
+   "pilar": "tutor_authority",
+   "status": "butuh_data",
+   "topik": "Profil tutor",
+   "arketipe": "J",
+   "format": "reels",
+   "data_dibutuhkan": [
+    "Foto dan kredensial terbaru Rachmat Sensei"
+   ]
+  },
+  {
+   "no": 6,
+   "jadwal": "Kamis 18:30",
+   "pilar": "student_story",
+   "status": "butuh_data",
+   "topik": "Cerita siswa",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Foto dan kutipan berizin"
+   ]
+  },
+  {
+   "no": 7,
+   "jadwal": "Jumat 09:00",
+   "pilar": "problem_education",
+   "status": "siap_brief",
+   "topik": "Sapaan hari pertama kerja di Jepang",
+   "angle": "4 sapaan kantor",
+   "arketipe": "B",
+   "format": "carousel",
+   "mascot": "cowo-pointing",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": []
+  },
+  {
+   "no": 8,
+   "jadwal": "Jumat 18:30",
+   "pilar": "proof_achievement",
+   "status": "butuh_data",
+   "topik": "Infografis nilai",
+   "arketipe": "J",
+   "format": "single",
+   "data_dibutuhkan": [
+    "Nilai ujian siswa dengan izin"
+   ]
+  },
+  {
+   "no": 9,
+   "jadwal": "Sabtu 11:00",
+   "pilar": "program_value",
+   "status": "siap_brief",
+   "topik": "Platinum N5–N4 atau Private 24–48 Jam",
+   "angle": "Bandingkan cara belajar dan jadwal",
+   "arketipe": "E",
+   "format": "carousel",
+   "mascot": "cewe-dm",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "platinum-n5-n4",
+    "private-24-48"
+   ]
+  },
+  {
+   "no": 10,
+   "jadwal": "Minggu 19:00",
+   "pilar": "conversion",
+   "status": "siap_brief",
+   "topik": "Bonus persiapan dan garansi",
+   "angle": "Bonus tanpa harga",
+   "arketipe": "I",
+   "format": "single",
+   "mascot": "cowo-pointing",
+   "cta": {
+    "type": "link_bio"
+   },
+   "produk": [
+    "bonus-konsultasi",
+    "bonus-materi",
+    "garansi"
+   ],
+   "catatan": "Harga kelas belum ada di materi."
+  }
+ ]
+}

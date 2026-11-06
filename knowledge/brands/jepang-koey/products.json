@@ -1,0 +1,87 @@
+{
+  "brand": "jepang-koey",
+  "diperbarui": "2026-11-05",
+  "items": [
+    {
+      "id": "platinum-n5-n4",
+      "kategori": "produk",
+      "nama": "Platinum N5–N4",
+      "detail": "Kelas grup interaktif untuk persiapan karier di Jepang.",
+      "sumber": "Slide target market (BRAND GUIDELINES)",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "private-24-48",
+      "kategori": "produk",
+      "nama": "Private 24–48 Jam",
+      "detail": "Kelas privat 1-on-1, durasi 24 atau 48 jam, jadwal fleksibel.",
+      "sumber": "Slide target market (BRAND GUIDELINES)",
+      "status": "terkonfirmasi"
+    },
+    {
+      "id": "harga",
+      "kategori": "harga",
+      "nama": "Harga kelas",
+      "detail": "Belum ada di materi.",
+      "sumber": "-",
+      "status": "perlu_konfirmasi"
+    },
+    {
+      "id": "bonus-konsultasi",
+      "kategori": "bonus",
+      "nama": "FREE Special Academic Consultation",
+      "detail": "Petakan jalur karier atau studi bersama mentor.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "bonus-materi",
+      "kategori": "bonus",
+      "nama": "FREE Premium Learning Material",
+      "detail": "Modul lengkap, bank soal, dan akses materi seumur hidup.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "garansi",
+      "kategori": "garansi",
+      "nama": "Garansi Mengulang Kelas",
+      "detail": "Jika tidak lulus ujian JLPT/JFT, S&K berlaku.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "bonus-ssw",
+      "kategori": "bonus",
+      "nama": "Kelas persiapan SSW/TG",
+      "detail": "Extra bonus.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "fitur-blueprint",
+      "kategori": "fitur",
+      "nama": "Japan Career Blueprint",
+      "detail": "Bangun persiapan ke Jepang.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "dari_post_live"
+    },
+    {
+      "id": "fitur-simulasi",
+      "kategori": "fitur",
+      "nama": "Kelas gratis simulasi ujian JLPT/JFT",
+      "detail": "Tampak pada post program.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi"
+    },
+    {
+      "id": "tutor-rachmat",
+      "kategori": "tutor",
+      "nama": "Rachmat Sensei",
+      "detail": "Tampak JLPT N2, Pendidikan Bahasa Jepang Universitas Negeri Jakarta, spesialisasi SSW/Tokutei Ginou.",
+      "sumber": "Post live, tangkapan 5 Nov 2026",
+      "status": "perlu_konfirmasi",
+      "catatan": "Teks kecil pada tangkapan grid."
+    }
+  ]
+}

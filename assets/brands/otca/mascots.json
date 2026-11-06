@@ -1,0 +1,158 @@
+{
+  "robot-berpikir": {
+    "file": "mascots/robot-berpikir.png",
+    "transparent": true
+  },
+  "robot-berpikir-cermin": {
+    "file": "mascots/robot-berpikir-cermin.png",
+    "transparent": true
+  },
+  "robot-bust": {
+    "file": "mascots/robot-bust.png",
+    "transparent": true
+  },
+  "robot-melambai": {
+    "file": "mascots/robot-melambai.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 00",
+    "ukuran": [
+      242,
+      351
+    ]
+  },
+  "robot-jempol": {
+    "file": "mascots/robot-jempol.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 01",
+    "ukuran": [
+      192,
+      353
+    ]
+  },
+  "robot-presentasi": {
+    "file": "mascots/robot-presentasi.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 02",
+    "ukuran": [
+      265,
+      351
+    ]
+  },
+  "robot-berpikir-hitung": {
+    "file": "mascots/robot-berpikir-hitung.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 03",
+    "ukuran": [
+      222,
+      357
+    ]
+  },
+  "robot-duduk-baca": {
+    "file": "mascots/robot-duduk-baca.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 10",
+    "ukuran": [
+      194,
+      336
+    ]
+  },
+  "robot-laptop-bersila": {
+    "file": "mascots/robot-laptop-bersila.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 11",
+    "ukuran": [
+      218,
+      303
+    ]
+  },
+  "robot-berlari": {
+    "file": "mascots/robot-berlari.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 12",
+    "ukuran": [
+      220,
+      339
+    ]
+  },
+  "robot-melompat": {
+    "file": "mascots/robot-melompat.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 13",
+    "ukuran": [
+      228,
+      320
+    ]
+  },
+  "robot-kaca-pembesar": {
+    "file": "mascots/robot-kaca-pembesar.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 20",
+    "ukuran": [
+      231,
+      285
+    ]
+  },
+  "robot-berlutut-presentasi": {
+    "file": "mascots/robot-berlutut-presentasi.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 21",
+    "ukuran": [
+      251,
+      325
+    ]
+  },
+  "robot-membungkuk": {
+    "file": "mascots/robot-membungkuk.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 22",
+    "ukuran": [
+      187,
+      330
+    ]
+  },
+  "robot-mengintip-dinding": {
+    "file": "mascots/robot-mengintip-dinding.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 23",
+    "ukuran": [
+      233,
+      326
+    ]
+  },
+  "robot-koper": {
+    "file": "mascots/robot-koper.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 30",
+    "ukuran": [
+      273,
+      344
+    ]
+  },
+  "robot-duduk-berpikir": {
+    "file": "mascots/robot-duduk-berpikir.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 31",
+    "ukuran": [
+      188,
+      347
+    ]
+  },
+  "robot-menunjuk-dua": {
+    "file": "mascots/robot-menunjuk-dua.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 32",
+    "ukuran": [
+      246,
+      342
+    ]
+  },
+  "robot-seimbang": {
+    "file": "mascots/robot-seimbang.png",
+    "transparent": true,
+    "sumber": "maskot otca official sel 33",
+    "ukuran": [
+      272,
+      344
+    ]
+  }
+}

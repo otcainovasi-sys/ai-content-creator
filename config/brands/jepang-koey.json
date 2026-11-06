@@ -1,0 +1,212 @@
+{
+  "slug": "jepang-koey",
+  "name": "Jepang Koey",
+  "pic": "Helmi",
+  "guideline": "Jepang Koey Brand Guideline Visual & Marketing (Nov 2026)",
+  "font": {
+    "family": "Montserrat",
+    "headline": 800,
+    "sub": 700,
+    "body": 500,
+    "uppercaseHeadline": false,
+    "cjkFont": "Yu Gothic"
+  },
+  "tokens": {
+    "bg": "#FAF8F5",
+    "ink": "#20252B",
+    "muted": "#555B63",
+    "accent": "#D71920",
+    "accentGradient": "#D71920",
+    "accentInk": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "surfaceInk": "#20252B",
+    "surfaceMuted": "#555B63",
+    "hlColor": "#D71920",
+    "hlBg": "transparent",
+    "heroInk": "#20252B",
+    "heroMuted": "#3D434B",
+    "footerInk": "#20252B",
+    "scrim": "linear-gradient(to bottom,#FAF8F5 0%,rgba(250,248,245,0) 20%,rgba(250,248,245,0) 40%,#FAF8F5 62%)",
+    "photoOpacity": "1",
+    "line": "#D71920",
+    "hlPad": "0",
+    "eyebrow": "#D71920",
+    "heroCtaBg": "#D71920",
+    "heroCtaInk": "#FFFFFF",
+    "tick": "#D71920",
+    "itemBg": "#FFFFFF",
+    "itemInk": "#20252B",
+    "itemMuted": "#555B63",
+    "itemBorder": "transparent",
+    "numZero": "#20252B",
+    "numColor": "#D71920",
+    "numBg": "transparent"
+  },
+  "logo": {
+    "default": "primary",
+    "hero": "primary",
+    "width": 210,
+    "height": 90
+  },
+  "frame": false,
+  "footer": "www.otca.co.id  |  @jepang.koey",
+  "safe": {
+    "feed_portrait": [
+      60,
+      58
+    ],
+    "feed_square": [
+      60,
+      58
+    ],
+    "story": [
+      84,
+      315
+    ],
+    "reels_cover": [
+      84,
+      421
+    ],
+    "landscape": [
+      72,
+      52
+    ]
+  },
+  "rules": {
+    "headlineMaxWords": 12,
+    "accentHex": "#D71920",
+    "accentMaxPct": 45,
+    "banned": [
+      "ketinggalan!",
+      "gampang banget",
+      "pasti berangkat",
+      "langsung kerja di jepang",
+      "atau masa depanmu gagal",
+      "sekarang juga"
+    ],
+    "requireWords": []
+  },
+  "style": {
+    "innerBase": "#FFFFFF",
+    "innerPhotoOpacity": ".42",
+    "innerScrim": "linear-gradient(to bottom,#FFFFFF 0%,rgba(255,255,255,.62) 11%,rgba(255,255,255,.5) 56%,rgba(230,90,90,.55) 68%,#D71920 82%,#BE151B 100%)",
+    "titleColor": "#D71920",
+    "titleFill": "none",
+    "titleTransform": "none",
+    "cardBg": "#FFFFFF",
+    "cardInk": "#20252B",
+    "cardMuted": "#555B63",
+    "cardBorder": "1px solid #E4E2DE",
+    "pillBg": "#D71920",
+    "pillInk": "#FFFFFF",
+    "labelBg": "#D71920",
+    "labelInk": "#FFFFFF",
+    "punchBg": "linear-gradient(180deg,#E8383E 0%,#C4141B 100%)",
+    "punchInk": "#FFFFFF",
+    "punchHl": "#E8B957",
+    "noteBg": "#EAF1F5",
+    "noteInk": "#20252B",
+    "noteLabel": "#D71920",
+    "footerBg": "transparent",
+    "footerFg": "#FFFFFF",
+    "footerPad": "0",
+    "softBg": "#EAF1F5",
+    "accentText": "#D71920",
+    "innerPhotoHeight": "100%",
+    "footerIcon": "none",
+    "innerPhotoOpacityDense": ".42",
+    "iconHalo": "#FDE8E8",
+    "cardTint": "#FFFFFF",
+    "cardAccent": "#D71920",
+    "heroGlow": "rgba(215,25,32,.12)",
+    "ctaBg": "linear-gradient(100deg,#D71920,#A91016)",
+    "ctaInk": "#FFFFFF",
+    "ticketBg": "#20252B",
+    "ticketInk": "#FFFFFF",
+    "ticketPrice": "#E8B957",
+    "titleBar": "none",
+    "stickerInk": "#20252B",
+    "coverInk": "#20252B",
+    "toneDark": "#20252B",
+    "toneDarkInk": "#FFFFFF",
+    "duoStyle": "box",
+    "duoBg": "#FFFFFF",
+    "duoInk": "#D71920",
+    "duoRadius": "0",
+    "duoPad": ".02em .22em",
+    "duoShadow": "none",
+    "innerFilter": "blur(3px) saturate(.9)",
+    "coverPhoto": ".95",
+    "coverScrim": "linear-gradient(to bottom,#FFFFFF 0%,rgba(255,255,255,.55) 9%,rgba(255,255,255,.08) 30%,rgba(230,60,60,.25) 52%,rgba(215,25,32,.92) 68%,#D71920 80%,#BE151B 100%)",
+    "titleShadow": "0 2px 4px rgba(120,0,0,.18)",
+    "markInk": "#D71920",
+    "punchRing": "7px solid rgba(255,255,255,.42)",
+    "pillFont": "31px",
+    "bigInk": "#D71920",
+    "bustMask": "linear-gradient(to bottom,#000 0%,#000 66%,rgba(0,0,0,.45) 84%,transparent 100%)"
+  },
+  "decor": {
+    "inner": [
+      {
+        "f": "koey-line-red.svg",
+        "s": "left:800px;top:6px;width:260px"
+      },
+      {
+        "f": "koey-line-white.svg",
+        "s": "left:-30px;top:1190px;width:230px;transform:scale(-1,1)"
+      }
+    ],
+    "cover": [
+      {
+        "f": "koey-line-red.svg",
+        "s": "left:800px;top:6px;width:260px"
+      },
+      {
+        "f": "koey-line-white.svg",
+        "s": "left:-30px;top:1190px;width:230px;transform:scale(-1,1)"
+      }
+    ],
+    "hero": [
+      {
+        "f": "koey-line-red.svg",
+        "s": "left:800px;top:6px;width:260px"
+      },
+      {
+        "f": "koey-line-white.svg",
+        "s": "left:-30px;top:1190px;width:230px;transform:scale(-1,1)"
+      }
+    ],
+    "sky": [
+      {
+        "f": "koey-cloud.svg",
+        "s": "left:-40px;top:16px;width:230px"
+      },
+      {
+        "f": "koey-cloud.svg",
+        "s": "left:880px;top:16px;width:230px;transform:scaleX(-1)"
+      },
+      {
+        "f": "sparkle.svg",
+        "s": "left:70px;top:640px;width:40px"
+      },
+      {
+        "f": "sparkle.svg",
+        "s": "left:980px;top:520px;width:32px"
+      }
+    ]
+  },
+  "design": {
+    "noFrame": true,
+    "noBlocks": [
+      "photo"
+    ],
+    "ctaPill": true,
+    "skins": [
+      "cover",
+      "sky",
+      "default"
+    ],
+    "ctaLastOnly": true,
+    "coverMascotBlock": true
+  }
+}

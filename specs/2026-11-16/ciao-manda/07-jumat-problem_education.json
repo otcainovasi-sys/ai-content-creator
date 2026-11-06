@@ -1,0 +1,226 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-16-07-jumat",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Jumat 09:00",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+    "position": "center 45%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 24,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 89,
+    "catatan": "Contoh suara asli di profil: \"Atasan bicara cepat? Belajar respons yang sopan.\" Hanzi dicek tutor."
+  },
+  "brief": {
+    "problem": "Atasan bicara cepat, takut salah tangkap instruksi.",
+    "angle": "3 kalimat minta ulang dan konfirmasi dengan sopan",
+    "key_message": "Lebih baik konfirmasi daripada menebak.",
+    "audience": "Pekerja 25–40 tahun di perusahaan China (manufaktur, logistik, IT), berinteraksi dengan atasan atau partner Tiongkok",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "请再说一遍、请说慢一点、我理解的是……，对吗？",
+        "source": "Ungkapan kantor umum; hanzi, pinyin, dan arti wajib dicek tutor Ciao Manda",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Kalimat Mandarin wajib dicek tutor."
+    ],
+    "references": [
+      "Carousel live 3 Langkah Menyapa Klien Tiongkok"
+    ]
+  },
+  "caption": "Atasan bicaranya cepat dan kamu belum menangkap semuanya?\n\nCoba tiga kalimat ini:\n1. 请再说一遍。(Qǐng zài shuō yí biàn.) Tolong ulangi sekali lagi.\n2. 请说慢一点。(Qǐng shuō màn yìdiǎn.) Tolong bicara lebih pelan.\n3. 我理解的是……，对吗？(Wǒ lǐjiě de shì…, duì ma?) Yang saya tangkap…, benar?\n\nKonfirmasi lebih aman daripada menebak instruksi.\n\nKlik link di bio untuk latihan bareng tutor.\n\n#MandarinKantor #BelajarMandarin #CiaoManda",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-e493ecc2-2df.jpg",
+        "position": "60% 50%",
+        "zoom": 1.1
+      },
+      "intent": "Hook: atasan bicara cepat.",
+      "headline": "Atasan Bicara Cepat? Minta Ulang dengan Sopan",
+      "blocks": [
+        {
+          "k": "icon",
+          "x": 4,
+          "y": 6,
+          "w": 50,
+          "h": 20,
+          "id": "c-bubble-zaishuo",
+          "z": 3,
+          "r": -5
+        },
+        {
+          "k": "icon",
+          "x": 50,
+          "y": 26,
+          "w": 44,
+          "h": 18,
+          "id": "c-bubble-man",
+          "z": 3,
+          "r": 5
+        },
+        {
+          "k": "icon",
+          "x": 6,
+          "y": 30,
+          "w": 34,
+          "h": 26,
+          "id": "c-headset",
+          "z": 3,
+          "r": -8
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 60,
+          "w": 100,
+          "h": 22,
+          "t": "Atasan Bicara Cepat? Minta Ulang dengan Sopan",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 46,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 9,
+          "t": "Konfirmasi lebih aman daripada menebak instruksi.",
+          "align": "left",
+          "color": "white",
+          "min": 27,
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Pola 3 Langkah Menyapa Klien: kartu putih berlabel.",
+      "headline": "3 Kalimat Biar Nggak Salah Tangkap",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6,
+          "w": 100,
+          "h": 9,
+          "t": "3 Kalimat Biar Nggak Salah Tangkap",
+          "variant": "duo",
+          "align": "center",
+          "max": 54,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "step",
+          "num": 1,
+          "x": 2,
+          "y": 19,
+          "w": 96,
+          "h": 22,
+          "head": "Minta diulang",
+          "t": "“**请再说一遍。**” (Qǐng zài shuō yí biàn.) Tolong ulangi sekali lagi.",
+          "max": 31
+        },
+        {
+          "k": "step",
+          "num": 2,
+          "x": 2,
+          "y": 44,
+          "w": 96,
+          "h": 22,
+          "head": "Minta lebih pelan",
+          "t": "“**请说慢一点。**” (Qǐng shuō màn yìdiǎn.) Tolong bicara lebih pelan.",
+          "max": 31
+        },
+        {
+          "k": "step",
+          "num": 3,
+          "x": 2,
+          "y": 69,
+          "w": 96,
+          "h": 22,
+          "head": "Konfirmasi instruksi",
+          "t": "“**我理解的是……，对吗？**” (Wǒ lǐjiě de shì…, duì ma?) Yang saya tangkap…, benar?",
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-e493ecc2-2df.jpg",
+        "position": "40% 50%",
+        "zoom": 1.1
+      },
+      "intent": "Penutup: maskot di tengah, judul merah putih, tombol.",
+      "headline": "Lebih Berani Konfirmasi di Meeting",
+      "cta": "Klik link di bio untuk latihan bareng tutor!",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 30,
+          "y": 2,
+          "w": 40,
+          "h": 58,
+          "id": "cewe-uang",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 55,
+          "w": 100,
+          "h": 16,
+          "t": "Lebih Berani Konfirmasi di Meeting",
+          "variant": "duo",
+          "align": "center",
+          "max": 58,
+          "min": 44,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 10,
+          "y": 74,
+          "w": 80,
+          "h": 13
+        }
+      ]
+    }
+  ]
+}

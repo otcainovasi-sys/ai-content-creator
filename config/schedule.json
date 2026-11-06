@@ -1,0 +1,23 @@
+{
+  "feed": [
+    { "day": "Senin", "time": "10:00", "pillar": "problem_education", "layout": "hero_photo" },
+    { "day": "Senin", "time": "18:30", "pillar": "student_story", "layout": "story_card" },
+    { "day": "Selasa", "time": "18:30", "pillar": "proof_achievement", "layout": "achievement" },
+    { "day": "Rabu", "time": "09:00", "pillar": "problem_education", "layout": "numbered_list" },
+    { "day": "Rabu", "time": "18:30", "pillar": "tutor_authority", "layout": "tutor_profile" },
+    { "day": "Kamis", "time": "18:30", "pillar": "student_story", "layout": "story_card" },
+    { "day": "Jumat", "time": "09:00", "pillar": "problem_education", "layout": "mascot_hero" },
+    { "day": "Jumat", "time": "18:30", "pillar": "proof_achievement", "layout": "score_infographic" },
+    { "day": "Sabtu", "time": "11:00", "pillar": "program_value", "layout": "program_value" },
+    { "day": "Minggu", "time": "19:00", "pillar": "conversion", "layout": "price_table" }
+  ],
+  "story": [
+    { "time": "08:00", "content": "Suasana kelas + countdown" },
+    { "time": "11:00", "content": "Profil tutor" },
+    { "time": "14:00", "content": "Testimoni" },
+    { "time": "17:00", "content": "Produk" },
+    { "time": "19:00", "content": "Keberangkatan ke {negara}" },
+    { "time": "20:00", "content": "Repost feed/Reels hari itu" }
+  ],
+  "country": { "otca": "Jerman", "info-jerman": "Jerman", "jepang-koey": "Jepang", "ciao-manda": "China" }
+}

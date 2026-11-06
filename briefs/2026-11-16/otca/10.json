@@ -1,0 +1,39 @@
+{
+  "brand": "otca",
+  "minggu": "2026-11-16",
+  "slot": 10,
+  "topik": "PRINCE 60 Online",
+  "angle": "",
+  "arketipe": "K",
+  "situasi": "Orang tua sudah membandingkan lembaga dan siap memilih.",
+  "insight": "Keputusan butuh harga dan isi yang jelas.",
+  "pesan": "PRINCE 60 Online: 60 jam coaching + extra 2 jam.",
+  "alur": [
+    {
+      "peran": "single",
+      "layout": "promo",
+      "tujuan": "Harga",
+      "unit": [
+        "Tiket harga",
+        "3 fitur",
+        "CTA"
+      ]
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Rp 9.900.000, 60 jam + extra 2 jam",
+      "sumber": "Dokumen evaluator OTCA",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "other"
+  },
+  "risiko": [
+    "Konfirmasi harga masih berlaku."
+  ],
+  "acuan": [
+    "Carousel \"Jalur ke Jerman Beragam, Mana yang Cocok?\""
+  ]
+}

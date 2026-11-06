@@ -1,0 +1,99 @@
+{
+  "brand": "jepang-koey",
+  "slug": "uji-gaya",
+  "month": "2026-11",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "caption": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+  "background": {
+    "src": "assets/stock/openverse-9a384aed-861.jpg",
+    "position": "28% center"
+  },
+  "verified_claims": [
+    "garansi",
+    "jaminan"
+  ],
+  "brief": {
+    "problem": "Uji gaya. Copy diambil dari post live brand ini, hanya untuk menguji desain. Bukan konten baru.",
+    "angle": "Uji gaya desain terhadap guideline dan feed live",
+    "key_message": "-",
+    "cta": {
+      "type": "comment",
+      "keyword": "JAPAN"
+    }
+  },
+  "slides": [
+    {
+      "layout": "cover",
+      "role": "cover",
+      "intent": "Cover maskot",
+      "headline": "Mulai sekarang, **target ke Jepang-mu kapan?**",
+      "sub": "Perkiraan waktu persiapan belajar, dari nol sampai siap seleksi.",
+      "mascot": "cowo-pointing"
+    },
+    {
+      "layout": "timeline",
+      "role": "point",
+      "intent": "Arketipe C: timeline",
+      "headline": "Target ke Jepang-mu **kapan?**",
+      "items": [
+        {
+          "icon": "pin",
+          "title": "Target berangkat awal 2027",
+          "range": "2–3 bulan persiapan",
+          "text": "**Fokus:** kuasai dasar bahasa Jepang, pelajari syarat jalur, cek apakah targetmu realistis."
+        },
+        {
+          "icon": "pin",
+          "title": "Target berangkat pertengahan 2027",
+          "range": "6–8 bulan persiapan",
+          "text": "**Fokus:** bangun fondasi dari nol, latih listening dan speaking, siapkan ujian."
+        },
+        {
+          "icon": "pin",
+          "title": "Target berangkat akhir 2027",
+          "range": "12–14 bulan persiapan",
+          "text": "**Fokus:** belajar terstruktur, persiapkan ujian bahasa dan keterampilan, ikuti seleksi kerja."
+        }
+      ],
+      "note": {
+        "label": "Catatan:",
+        "text": "Ini perkiraan waktu persiapan belajar, bukan jaminan lulus ujian atau berangkat."
+      }
+    },
+    {
+      "layout": "offer",
+      "role": "closing",
+      "intent": "Arketipe I: penawaran",
+      "headline": "Jangan tunggu 2027 **untuk mulai**",
+      "itemsTitle": "Yang kamu dapat:",
+      "mascot": "cowo-melipat-tangan",
+      "items": [
+        {
+          "icon": "compass",
+          "title": "Special Academic Consultation",
+          "text": "Petakan jalur karier bersama mentor"
+        },
+        {
+          "icon": "books",
+          "title": "Premium Learning Material",
+          "text": "Modul lengkap dan bank soal"
+        },
+        {
+          "icon": "check",
+          "title": "Garansi Mengulang Kelas",
+          "text": "S&K berlaku"
+        }
+      ],
+      "cta": "Komen \"JAPAN\"",
+      "ctaNote": "untuk mulai persiapan dari sekarang",
+      "badge": "BONUS",
+      "hero": [
+        "gift",
+        "star",
+        "sparkles"
+      ],
+      "ctaIcon": "speech"
+    }
+  ]
+}

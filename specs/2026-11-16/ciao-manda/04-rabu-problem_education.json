@@ -1,0 +1,483 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-16-04-rabu",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "archetype": "A Tips N cara",
+  "background": {
+    "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+    "position": "center 45%"
+  },
+  "verified_claims": [],
+  "rubric": {
+    "target": 24,
+    "informasi": 21,
+    "struktur": 21,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 88,
+    "catatan": "Konteks WeChat kantor dari profil audiens. Hanzi wajib dicek tutor."
+  },
+  "brief": {
+    "problem": "Pesan atasan di WeChat masuk, bingung membalas singkat tapi sopan.",
+    "angle": "4 balasan singkat yang sering dipakai",
+    "key_message": "Balasan singkat yang tepat menunjukkan kamu sudah menangkap pesannya.",
+    "audience": "Pekerja 25–40 tahun di perusahaan China (manufaktur, logistik, IT), berinteraksi dengan atasan atau partner Tiongkok",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "收到、好的、明白了、稍等一下",
+        "source": "Ungkapan kantor umum; hanzi, pinyin, dan arti wajib dicek tutor Ciao Manda",
+        "url": "",
+        "check": true
+      },
+      {
+        "claim": "Business Conversation Class with Native, Gratis Simulasi Ujian HSK, laporan belajar bulanan",
+        "source": "Post live Ciao Manda",
+        "url": "",
+        "check": true
+      }
+    ],
+    "risks": [
+      "Kalimat Mandarin wajib dicek tutor."
+    ],
+    "references": [
+      "Grid live: Salah Pengucapan",
+      "Penutup Kenapa Daftar Sekarang"
+    ]
+  },
+  "caption": "Pesan atasan masuk di WeChat, balasnya apa?\n\n• 收到 (shōudào): pesan diterima\n• 好的 (hǎo de): baik\n• 明白了 (míngbai le): saya mengerti\n• 稍等一下 (shāo děng yíxià): mohon tunggu sebentar\n\nHabis membalas 收到, lanjutkan dengan kapan kamu kirim hasilnya.\n\nKlik link di bio untuk latihan Mandarin kantor bareng tutor.\n\n#MandarinKantor #BelajarMandarin #CiaoManda",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "cover",
+      "bg": {
+        "src": "assets/stock/openverse-d88bef86-ac9.jpg",
+        "position": "center 30%"
+      },
+      "intent": "Hook: bingung membalas chat atasan.",
+      "headline": "Pesan Atasan Masuk di WeChat, Balasnya Apa?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 24,
+          "y": 2,
+          "w": 46,
+          "h": 64,
+          "id": "cewe-dm",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "icon",
+          "x": 70,
+          "y": 6,
+          "w": 28,
+          "h": 34,
+          "id": "c-phone-chat",
+          "z": 3,
+          "r": 8
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 10,
+          "w": 28,
+          "h": 14,
+          "id": "c-bubble-shoudao",
+          "z": 3,
+          "r": -6
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 60,
+          "w": 100,
+          "h": 22,
+          "t": "Pesan Atasan Masuk di WeChat, Balasnya Apa?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66,
+          "min": 46,
+          "color": "white",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 9,
+          "t": "4 balasan singkat yang sering dipakai di kantor.",
+          "align": "left",
+          "color": "white",
+          "min": 27,
+          "max": 31
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Empat kartu bergelembung hanzi 3D, pinyin, arti, dan kapan dipakai.",
+      "headline": "4 Balasan Singkat di WeChat",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 9,
+          "t": "4 Balasan Singkat di WeChat",
+          "variant": "duo",
+          "align": "center",
+          "max": 58,
+          "min": 40,
+          "color": "outline"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 11.5,
+          "w": 100,
+          "h": 8,
+          "t": "Pilih sesuai situasinya, biar atasan tahu pesannya sudah sampai.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 31
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 22,
+          "w": 49,
+          "h": 31,
+          "tone": "white",
+          "id": "c-bubble-shoudao",
+          "head": "shōudào",
+          "t": "**Pesan diterima**. Untuk instruksi atau file.",
+          "variant": "pill",
+          "max": 30
+        },
+        {
+          "k": "tile",
+          "x": 51,
+          "y": 22,
+          "w": 49,
+          "h": 31,
+          "tone": "white",
+          "id": "c-bubble-haode",
+          "head": "hǎo de",
+          "t": "**Baik**. Menyetujui permintaan.",
+          "variant": "pill",
+          "max": 30
+        },
+        {
+          "k": "tile",
+          "x": 0,
+          "y": 55,
+          "w": 49,
+          "h": 31,
+          "tone": "white",
+          "id": "c-bubble-mingbai",
+          "head": "míngbai le",
+          "t": "**Saya mengerti**. Setelah atasan menjelaskan.",
+          "variant": "pill",
+          "max": 30
+        },
+        {
+          "k": "tile",
+          "x": 51,
+          "y": 55,
+          "w": 49,
+          "h": 31,
+          "tone": "white",
+          "id": "c-bubble-shaodeng",
+          "head": "shāo děng yíxià",
+          "t": "**Mohon tunggu sebentar**. Saat perlu cek dulu.",
+          "variant": "pill",
+          "max": 30
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 89,
+          "w": 100,
+          "h": 7,
+          "t": "Geser untuk contoh lanjutannya.",
+          "align": "center",
+          "color": "white",
+          "min": 27,
+          "max": 30
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Contoh kalimat tersusun: hanzi, pinyin, arti.",
+      "headline": "Balas singkat, tetap jelas",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 9,
+          "t": "Balas Singkat, Tetap Jelas",
+          "variant": "duo",
+          "align": "center",
+          "max": 60,
+          "min": 40,
+          "color": "outline"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 12,
+          "w": 100,
+          "h": 10,
+          "t": "Habis membalas **收到**, lanjutkan dengan kapan kamu kirim hasilnya.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 31
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 0,
+          "y": 25,
+          "w": 68,
+          "h": 50
+        },
+        {
+          "k": "text",
+          "x": 3,
+          "y": 27,
+          "w": 64,
+          "h": 6,
+          "t": "**Contoh lanjutannya**",
+          "align": "left",
+          "color": "accent",
+          "min": 32,
+          "max": 38
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 36.5,
+          "w": 13,
+          "h": 10,
+          "id": "c-bubble-shoudao",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 35,
+          "w": 46,
+          "h": 5.5,
+          "t": "**收到，我下午发给您。**",
+          "align": "left",
+          "color": "accent",
+          "min": 30,
+          "max": 34
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 40.5,
+          "w": 46,
+          "h": 8,
+          "t": "(Shōudào, wǒ xiàwǔ fā gěi nín.) Diterima, saya kirim sore ini.",
+          "align": "left",
+          "color": "ink",
+          "min": 24,
+          "max": 28
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 57.5,
+          "w": 13,
+          "h": 10,
+          "id": "c-bubble-haode",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 56,
+          "w": 46,
+          "h": 5.5,
+          "t": "**好的，稍等一下。**",
+          "align": "left",
+          "color": "accent",
+          "min": 30,
+          "max": 34
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 61.5,
+          "w": 46,
+          "h": 8,
+          "t": "(Hǎo de, shāo děng yíxià.) Baik, mohon tunggu sebentar.",
+          "align": "left",
+          "color": "ink",
+          "min": 24,
+          "max": 28
+        },
+        {
+          "k": "mascot",
+          "x": 60,
+          "y": 24,
+          "w": 40,
+          "h": 58,
+          "id": "cewe-dm",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "ivory",
+      "bg": {
+        "src": "assets/stock/openverse-1e41ac53-d79.jpg",
+        "position": "center 45%"
+      },
+      "intent": "Penutup Kenapa Daftar Sekarang.",
+      "headline": "Biar Balas Chat Atasan Makin Lancar",
+      "cta": "Klik link di Bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 2,
+          "w": 100,
+          "h": 13,
+          "t": "Biar Balas Chat Atasan Makin Lancar",
+          "variant": "duo",
+          "align": "center",
+          "max": 56,
+          "min": 40,
+          "color": "outline"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 16,
+          "w": 100,
+          "h": 9,
+          "t": "Latihan percakapan kantor bareng tutor, dari chat sampai meeting.",
+          "align": "center",
+          "color": "ink",
+          "min": 27,
+          "max": 31
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 0,
+          "y": 28,
+          "w": 68,
+          "h": 47
+        },
+        {
+          "k": "text",
+          "x": 3,
+          "y": 30,
+          "w": 64,
+          "h": 6,
+          "t": "**Kenapa Daftar Sekarang?**",
+          "align": "left",
+          "color": "accent",
+          "min": 32,
+          "max": 38
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 39.5,
+          "w": 13,
+          "h": 10,
+          "id": "c-chat",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 37,
+          "w": 46,
+          "h": 15,
+          "t": "Dapatkan juga Bonus **Business Conversation with Native** dan Gratis Simulasi Ujian HSK.",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "icon",
+          "x": 3,
+          "y": 56.5,
+          "w": 13,
+          "h": 10,
+          "id": "c-hand-point",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 19,
+          "y": 54,
+          "w": 46,
+          "h": 15,
+          "t": "Mulai latihan bareng tutor Ciao Manda. **Klik link di Bio!**",
+          "align": "left",
+          "color": "ink",
+          "min": 25,
+          "max": 30
+        },
+        {
+          "k": "mascot",
+          "x": 62,
+          "y": 26,
+          "w": 38,
+          "h": 60,
+          "id": "cewe-say-hi",
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 88,
+          "w": 100,
+          "h": 8,
+          "t": "Simpan buat latihan balas chat atasan.",
+          "align": "center",
+          "color": "white",
+          "min": 27,
+          "max": 31
+        }
+      ]
+    }
+  ]
+}

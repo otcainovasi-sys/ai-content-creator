@@ -1,0 +1,68 @@
+{
+  "brand": "otca",
+  "minggu": "2026-11-16",
+  "slot": 4,
+  "topik": "Dana sebelum visa: apa itu Sperrkonto?",
+  "angle": "Biaya yang sering muncul paling akhir padahal harus siap sebelum visa",
+  "arketipe": "F",
+  "situasi": "Orang tua sudah menghitung biaya les dan tiket, lalu baru mendengar soal rekening blokir saat mengurus visa.",
+  "insight": "Dana hidup harus dibuktikan sebelum visa, bukan setelah tiba.",
+  "pesan": "Siapkan dana blokir sejak awal, bukan menjelang keberangkatan.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "cover",
+      "tujuan": "Hook angka",
+      "unit": [
+        "Headline",
+        "Sub",
+        "Adegan bonus"
+      ]
+    },
+    {
+      "peran": "point",
+      "layout": "labels",
+      "tujuan": "Isi Sperrkonto",
+      "unit": [
+        "Apa itu",
+        "11.904 euro per tahun",
+        "992 euro per bulan"
+      ]
+    },
+    {
+      "peran": "point",
+      "layout": "labels",
+      "tujuan": "Alternatif",
+      "unit": [
+        "Penjamin",
+        "Beasiswa"
+      ]
+    },
+    {
+      "peran": "closing",
+      "layout": "offer",
+      "tujuan": "CTA",
+      "unit": [
+        "Komen STUDI"
+      ]
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "992 euro per bulan, 11.904 euro per tahun",
+      "sumber": "Konsulat Jenderal Jerman Hong Kong, April 2026",
+      "url": "https://hongkong.diplo.de/resource/blob/2583960/b00c7caf59e5aad04ba9ed5e8350d3fa/student-data.pdf",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "comment",
+    "keyword": "STUDI"
+  },
+  "risiko": [
+    "Sumber resmi, tetapi bukan Kedutaan Jakarta. Cocokkan sebelum tayang."
+  ],
+  "acuan": [
+    "Carousel \"Jalur ke Jerman Beragam, Mana yang Cocok?\""
+  ]
+}

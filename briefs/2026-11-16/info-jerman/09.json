@@ -1,0 +1,46 @@
+{
+  "brand": "info-jerman",
+  "minggu": "2026-11-16",
+  "slot": 9,
+  "topik": "Bayar kursus, terus dibiarkan belajar sendiri?",
+  "angle": "Apa saja yang didapat di kelas Platinum A1–B1",
+  "arketipe": "H",
+  "situasi": "Pernah ikut kursus yang cuma kirim modul, lalu dibiarkan belajar sendiri.",
+  "pesan": "Kelas Platinum memberi pendampingan selain materi.",
+  "alur": [
+    {
+      "peran": "cover",
+      "layout": "free",
+      "tujuan": "Hook: dibiarkan belajar sendiri."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Empat fasilitas, ikon besar."
+    },
+    {
+      "peran": "point",
+      "layout": "free",
+      "tujuan": "Pola Yuk pantau progres: maskot kiri, kartu putih, pill kuning."
+    },
+    {
+      "peran": "closing",
+      "layout": "free",
+      "tujuan": "Maskot duo besar, CTA dalam pill."
+    }
+  ],
+  "fakta": [
+    {
+      "klaim": "Fasilitas Platinum: Speaking with Native, rekaman kelas, portal progres, German Career Blueprint",
+      "sumber": "Post live Info Jerman (tangkapan 5 Nov 2026)",
+      "url": "",
+      "check": true
+    }
+  ],
+  "cta": {
+    "type": "link_bio"
+  },
+  "risiko": [
+    "Semua fitur dari post live; cek dengan tim sebelum tayang."
+  ]
+}

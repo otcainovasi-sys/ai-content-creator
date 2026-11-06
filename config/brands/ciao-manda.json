@@ -1,0 +1,174 @@
+{
+  "slug": "ciao-manda",
+  "name": "Ciao Manda",
+  "pic": "Alya",
+  "guideline": "Ciao Manda Brand Guideline v1",
+  "font": {
+    "family": "Montserrat",
+    "headline": 800,
+    "sub": 700,
+    "body": 500,
+    "uppercaseHeadline": false,
+    "cjkFont": "Microsoft YaHei",
+    "cjk": true
+  },
+  "tokens": {
+    "bg": "#F8F6F2",
+    "ink": "#242830",
+    "muted": "#555A63",
+    "accent": "#79202A",
+    "accentGradient": "#79202A",
+    "accentInk": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "surfaceInk": "#242830",
+    "surfaceMuted": "#555A63",
+    "hlColor": "#79202A",
+    "hlBg": "#FFFFFF",
+    "heroInk": "#FFFFFF",
+    "heroMuted": "#F3E6E7",
+    "footerInk": "#FFFFFF",
+    "scrim": "linear-gradient(to bottom,#F8F6F2 0%,rgba(248,246,242,0) 20%,rgba(121,32,42,0) 40%,#79202A 64%)",
+    "photoOpacity": "1",
+    "line": "#79202A",
+    "hlPad": ".14em",
+    "eyebrow": "#79202A",
+    "heroCtaBg": "#FFFFFF",
+    "heroCtaInk": "#BD2331",
+    "tick": "#F3E6E7",
+    "itemBg": "#FFFFFF",
+    "itemInk": "#242830",
+    "itemMuted": "#555A63",
+    "itemBorder": "transparent",
+    "numZero": "#242830",
+    "numColor": "#79202A",
+    "numBg": "transparent"
+  },
+  "logo": {
+    "default": "primary",
+    "hero": "primary",
+    "width": 118,
+    "height": 96
+  },
+  "frame": false,
+  "footer": "www.otca.co.id",
+  "safe": {
+    "feed_portrait": [
+      60,
+      58
+    ],
+    "feed_square": [
+      60,
+      58
+    ],
+    "story": [
+      84,
+      315
+    ],
+    "reels_cover": [
+      84,
+      421
+    ],
+    "landscape": [
+      72,
+      52
+    ]
+  },
+  "rules": {
+    "headlineMaxWords": 12,
+    "accentHex": "#79202A",
+    "accentMaxPct": 60,
+    "banned": [
+      "pasti promosi",
+      "pasti naik jabatan",
+      "pasti lancar",
+      "wajib jago mandarin",
+      "masa sudah kerja"
+    ],
+    "requireWords": []
+  },
+  "style": {
+    "innerBase": "#F8F6F2",
+    "innerPhotoOpacity": ".16",
+    "innerScrim": "none",
+    "titleColor": "#79202A",
+    "titleFill": "none",
+    "titleTransform": "none",
+    "cardBg": "#FFFFFF",
+    "cardInk": "#242830",
+    "cardMuted": "#555A63",
+    "cardBorder": "1px solid #E6E1DA",
+    "pillBg": "#BD2331",
+    "pillInk": "#FFFFFF",
+    "labelBg": "#BD2331",
+    "labelInk": "#FFFFFF",
+    "punchBg": "linear-gradient(180deg,#8E2A36 0%,#6A1A24 100%)",
+    "punchInk": "#FFFFFF",
+    "punchHl": "#E9C78D",
+    "noteBg": "#79202A",
+    "noteInk": "#FFFFFF",
+    "noteLabel": "#E9C78D",
+    "footerBg": "#FFFFFF",
+    "footerFg": "#79202A",
+    "footerPad": "8px 32px",
+    "softBg": "#F1E9E0",
+    "accentText": "#BD2331",
+    "innerPhotoHeight": "62%",
+    "footerIcon": "inline-block",
+    "innerPhotoOpacityDense": ".16",
+    "iconHalo": "#F7E6E3",
+    "cardTint": "#FFFFFF",
+    "cardAccent": "#BD2331",
+    "heroGlow": "rgba(212,166,92,.25)",
+    "ctaBg": "linear-gradient(100deg,#BD2331,#79202A)",
+    "ctaInk": "#FFFFFF",
+    "ticketBg": "linear-gradient(115deg,#79202A,#5A1720)",
+    "ticketInk": "#FFFFFF",
+    "ticketPrice": "#E9C78D",
+    "titleBar": "none",
+    "stickerInk": "#79202A",
+    "coverInk": "#79202A",
+    "toneDark": "#79202A",
+    "toneDarkInk": "#FFFFFF",
+    "duoStyle": "box",
+    "duoBg": "#79202A",
+    "duoInk": "#FFFFFF",
+    "duoRadius": "8px",
+    "duoPad": ".02em .26em",
+    "duoShadow": "none",
+    "coverTransform": "uppercase",
+    "innerFilter": "grayscale(.6) brightness(1.1)",
+    "coverPhoto": ".95",
+    "coverScrim": "linear-gradient(to bottom,#F8F6F2 0%,rgba(248,246,242,.55) 10%,rgba(248,246,242,.1) 30%,rgba(140,50,60,.35) 50%,rgba(121,32,42,.94) 64%,#79202A 76%,#6A1A24 100%)",
+    "titleShadow": "0 3px 6px rgba(120,20,30,.22)",
+    "markInk": "#79202A",
+    "punchRing": "6px solid rgba(255,255,255,.4)",
+    "pillFont": "31px",
+    "bigInk": "#79202A",
+    "bustMask": "linear-gradient(to bottom,#000 0%,#000 64%,rgba(0,0,0,.45) 82%,transparent 100%)"
+  },
+  "decor": {
+    "inner": [],
+    "cover": [],
+    "hero": [],
+    "ivory": [
+      {
+        "f": "sparkle-gold.svg",
+        "s": "left:960px;top:620px;width:34px"
+      }
+    ]
+  },
+  "design": {
+    "noFrame": true,
+    "noBlocks": [
+      "photo"
+    ],
+    "noDecor": [
+      "lantern"
+    ],
+    "skins": [
+      "cover",
+      "ivory"
+    ],
+    "ctaLastOnly": true
+  }
+}

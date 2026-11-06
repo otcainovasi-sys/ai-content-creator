@@ -1,0 +1,37 @@
+{
+  "name": "otca-design-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Sistem produksi konten visual Instagram untuk brand OTCA",
+  "scripts": {
+    "render": "tsx src/cli/render.ts",
+    "batch": "tsx src/cli/batch.ts",
+    "stock": "tsx src/cli/stock.ts",
+    "plan": "tsx src/cli/plan.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "knowledge": "node scripts/check-knowledge.mjs",
+    "icons": "node scripts/tint-icons.mjs",
+    "check-plan": "tsx src/cli/check-plan.ts",
+    "review-week": "tsx src/cli/review-week.ts",
+    "decor": "node scripts/make-decor.mjs",
+    "make3d": "tsx scripts/make-3d.ts"
+  },
+  "dependencies": {
+    "@fontsource/lato": "^5.3.0",
+    "@fontsource/montserrat": "^5.3.0",
+    "dotenv": "^18.0.9",
+    "playwright": "^1.64.1",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "esbuild": "^0.28.2",
+    "three": "^0.187.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  }
+}

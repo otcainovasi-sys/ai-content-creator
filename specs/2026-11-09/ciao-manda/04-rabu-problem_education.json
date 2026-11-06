@@ -1,0 +1,31 @@
+{
+  "brand": "ciao-manda",
+  "slug": "2026-11-09-04-problem-education",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "format": "feed_portrait",
+  "schedule": "Rabu 09:00",
+  "caption": "Tidak yakin kapan pekerjaan harus selesai? Lebih baik tanya daripada menebak.\n\n这个什么时候要？\nZhège shénme shíhou yào?\nIni dibutuhkan kapan?\n\n最晚几号交？\nZuì wǎn jǐ hào jiāo?\nPaling lambat tanggal berapa diserahkan?\n\n我明天下午给您。\nWǒ míngtiān xiàwǔ gěi nín.\nSaya kirim besok sore.\n\nSimpan untuk dipakai di kantor.\n\n#MandarinUntukKerja #BelajarMandarin #CiaoManda",
+  "verified_claims": [],
+  "slides": [
+    {
+      "layout": "numbered_list",
+      "headline": "3 kalimat untuk **memastikan deadline**",
+      "items": [
+        {
+          "title": "这个什么时候要？",
+          "text": "Zhège shénme shíhou yào? · Ini dibutuhkan kapan?"
+        },
+        {
+          "title": "最晚几号交？",
+          "text": "Zuì wǎn jǐ hào jiāo? · Paling lambat tanggal berapa?"
+        },
+        {
+          "title": "我明天下午给您。",
+          "text": "Wǒ míngtiān xiàwǔ gěi nín. · Saya kirim besok sore."
+        }
+      ],
+      "cta": "Simpan untuk dipakai di kantor"
+    }
+  ]
+}

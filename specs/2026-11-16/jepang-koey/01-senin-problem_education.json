@@ -1,0 +1,292 @@
+{
+  "brand": "jepang-koey",
+  "slug": "2026-11-16-01-senin",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Senin 10:00",
+  "archetype": "A Tips N cara",
+  "background": {
+    "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+    "position": "70% 30%"
+  },
+  "verified_claims": [
+    "30 menit",
+    "10 menit"
+  ],
+  "rubric": {
+    "target": 23,
+    "informasi": 21,
+    "struktur": 22,
+    "copy": 22,
+    "pengurang": 0,
+    "total": 88,
+    "catatan": "Tips praktik tanpa klaim hasil. Mengikuti pola carousel Choukai."
+  },
+  "brief": {
+    "problem": "Pulang kerja capek, waktu belajar cuma sebentar.",
+    "angle": "Bagi 30 menit jadi tiga sesi kecil",
+    "key_message": "Target kecil yang konsisten lebih realistis buat pekerja.",
+    "audience": "Karyawan dan fresh graduate 22–35 tahun yang menimbang karier di Jepang",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [],
+    "risks": [
+      "Tips umum, bukan metode resmi kelas."
+    ],
+    "references": [
+      "Carousel live Choukai"
+    ]
+  },
+  "caption": "Pulang kerja sudah capek, sisa waktunya cuma 30 menit?\n\nBagi jadi tiga sesi kecil:\n1. 10 menit kosakata dari bidang kerjamu.\n2. 10 menit dengar audio pendek dan tirukan.\n3. 10 menit ulangi kata kemarin.\n\nWaktumu terbatas, jadi mulai dari target kecil yang konsisten.\n\nMau roadmap yang lebih terarah? Klik link di bio untuk lihat kelas Platinum N5–N4.\n\n#BelajarBahasaJepang #KerjaDiJepang #JepangKoey",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "sky",
+      "bg": {
+        "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+        "position": "70% 30%"
+      },
+      "intent": "Pola cover Choukai: maskot besar, properti 3D, kartu merah.",
+      "headline": "Pulang Kerja Capek, Cuma Punya 30 Menit Sehari?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 27,
+          "y": 0,
+          "w": 46,
+          "h": 80,
+          "id": "cewe-calm",
+          "z": 1,
+          "variant": "bust"
+        },
+        {
+          "k": "bar",
+          "variant": "fog",
+          "x": -10,
+          "y": 40,
+          "w": 120,
+          "h": 60,
+          "z": 2
+        },
+        {
+          "k": "icon",
+          "x": 0,
+          "y": 8,
+          "w": 32,
+          "h": 15,
+          "id": "c-bubble-30",
+          "z": 3,
+          "r": -6
+        },
+        {
+          "k": "icon",
+          "x": 72,
+          "y": 10,
+          "w": 26,
+          "h": 22,
+          "id": "c-alarm",
+          "z": 3,
+          "r": 8
+        },
+        {
+          "k": "icon",
+          "x": 2,
+          "y": 36,
+          "w": 28,
+          "h": 18,
+          "id": "c-books",
+          "z": 3
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 59,
+          "w": 100,
+          "h": 18,
+          "t": "Pulang Kerja Capek, Cuma Punya 30 Menit Sehari?",
+          "variant": "duo",
+          "align": "center",
+          "max": 58,
+          "min": 44,
+          "color": "accent",
+          "z": 3
+        },
+        {
+          "k": "card",
+          "x": 4,
+          "y": 79,
+          "w": 92,
+          "h": 18,
+          "tone": "brand",
+          "head": "Kapan sempat belajarnya? **Coba bagi jadi 3 sesi kecil ini**",
+          "max": 46,
+          "min": 34,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "sky",
+      "bg": {
+        "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+        "position": "70% 30%"
+      },
+      "intent": "Pola kartu bernomor Choukai.",
+      "headline": "3 sesi belajar 30 menit",
+      "blocks": [
+        {
+          "k": "step",
+          "num": 1,
+          "x": 2,
+          "y": 5,
+          "w": 88,
+          "h": 27,
+          "head": "10 menit: Kosakata",
+          "t": "Hafal **5 kata baru** dari bidang kerjamu, lengkap dengan cara bacanya.",
+          "max": 33
+        },
+        {
+          "k": "step",
+          "num": 2,
+          "x": 2,
+          "y": 35,
+          "w": 96,
+          "h": 27,
+          "head": "10 menit: Dengarkan",
+          "t": "Putar audio pendek, lalu **tirukan ucapannya** pelan-pelan.",
+          "max": 33
+        },
+        {
+          "k": "step",
+          "num": 3,
+          "x": 2,
+          "y": 65,
+          "w": 96,
+          "h": 27,
+          "head": "10 menit: Ulangi",
+          "t": "Buka lagi kata kemarin. Kalau lupa, **catat ulang** di buku kecilmu.",
+          "max": 33
+        },
+        {
+          "k": "icon",
+          "x": 78,
+          "y": -5,
+          "w": 24,
+          "h": 15,
+          "id": "c-books",
+          "z": 3,
+          "r": 6
+        },
+        {
+          "k": "icon",
+          "x": -3,
+          "y": 84,
+          "w": 18,
+          "h": 16,
+          "id": "c-flag-jp",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "sky",
+      "bg": {
+        "src": "assets/stock/openverse-a7fabd27-94d.jpg",
+        "position": "70% 30%"
+      },
+      "intent": "Pola penawaran Choukai: kartu putih, centang, maskot, kartu merah.",
+      "headline": "Mulai dari Target Kecil yang Konsisten",
+      "cta": "Mau roadmap yang lebih terarah? Klik link di bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 13,
+          "t": "Mulai dari Target Kecil yang Konsisten",
+          "variant": "duo",
+          "align": "center",
+          "max": 52,
+          "min": 40,
+          "color": "accent"
+        },
+        {
+          "k": "ring",
+          "variant": "plain",
+          "x": 2,
+          "y": 15,
+          "w": 96,
+          "h": 47
+        },
+        {
+          "k": "text",
+          "x": 6,
+          "y": 18,
+          "w": 88,
+          "h": 13,
+          "t": "Di **kelas Platinum N5–N4**, urutan materinya sudah disusun, jadi kamu tinggal ikuti:",
+          "align": "center",
+          "color": "ink",
+          "min": 26,
+          "max": 31
+        },
+        {
+          "k": "list",
+          "x": 8,
+          "y": 33,
+          "w": 62,
+          "h": 26,
+          "items": [
+            {
+              "t": "Kelas grup interaktif"
+            },
+            {
+              "t": "Latihan bareng tutor"
+            },
+            {
+              "t": "Persiapan karier di Jepang"
+            }
+          ],
+          "max": 31,
+          "note": "check"
+        },
+        {
+          "k": "icon",
+          "x": 70,
+          "y": 32,
+          "w": 26,
+          "h": 22,
+          "id": "c-calendar",
+          "z": 3,
+          "r": 6
+        },
+        {
+          "k": "mascot",
+          "x": 60,
+          "y": 58,
+          "w": 40,
+          "h": 42,
+          "id": "cowo-pointing",
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 0,
+          "y": 68,
+          "w": 62,
+          "h": 19
+        }
+      ]
+    }
+  ]
+}
