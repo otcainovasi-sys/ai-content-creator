@@ -1,0 +1,462 @@
+{
+  "brand": "otca",
+  "slug": "2026-11-jalur-sesuai-profil-anak",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "archetype": "D Kerangka dan alur keputusan",
+  "background": {
+    "src": "assets/brands/otca/feed/reichstag-bendera.png",
+    "position": "28% 35%"
+  },
+  "verified_claims": [],
+  "brief": {
+    "problem": "Orang tua bingung jalur kuliah ke Jerman mana yang cocok untuk anak.",
+    "angle": "Mulai dari kondisi anak, lalu cocokkan dengan jalurnya",
+    "key_message": "Tiap jalur punya syarat dan persiapan bahasa yang berbeda.",
+    "audience": "Orang tua siswa SMA kelas 11 dan 12",
+    "cta": {
+      "type": "comment",
+      "keyword": "STUDI"
+    },
+    "sources": [
+      {
+        "claim": "Studienkolleg umumnya dua semester, diakhiri Feststellungsprüfung",
+        "source": "DAAD",
+        "url": "https://www.daad.de/en/studying-in-germany/requirements/studienkollegs/"
+      },
+      {
+        "claim": "Akses kuliah dicek lewat database DAAD dan anabin",
+        "source": "Goethe-Universität Frankfurt, FAU",
+        "url": "https://www.uni-frankfurt.de/f7/certificate-recognition-and-studienkolleg-125023870"
+      },
+      {
+        "claim": "Duales Studium butuh kontrak perusahaan",
+        "source": "DAAD",
+        "url": "https://www.daad.de/en/studying-in-germany/universities/dual-studies/"
+      }
+    ],
+    "risks": [
+      "Urutan waktu di slide 5 adalah saran persiapan, bukan aturan resmi."
+    ],
+    "references": [
+      "PDF Education/Problem - Pilar OTCA"
+    ]
+  },
+  "caption": "Jerman sudah dipilih. Berikutnya, jalur mana yang sesuai dengan kondisi anak?\n\nIjazah, kesiapan akademik, dan rencana karier anak menentukan titik mulainya. Studienkolleg dan Duales Studium punya syarat dan persiapan masing-masing.\n\nKomen \"STUDI\" di bawah untuk info lebih lanjut dari Tim OTCA.\n\n#KuliahDiJerman #StudiJerman #OTCA",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "skin": "feed",
+      "headline": "Jerman sudah dipilih, jalurnya sudah cocok?",
+      "intent": "Robot besar di tengah, tanpa lencana.",
+      "blocks": [
+        {
+          "k": "bar",
+          "variant": "fogdark",
+          "x": -12,
+          "y": 36.56,
+          "w": 124,
+          "h": 63.44,
+          "z": 1
+        },
+        {
+          "k": "mascot",
+          "x": 26,
+          "y": 16,
+          "w": 48,
+          "h": 50,
+          "id": "robot-bust",
+          "z": 2
+        },
+        {
+          "k": "bar",
+          "variant": "fogfront",
+          "x": -12,
+          "y": 54.28,
+          "w": 124,
+          "h": 45.72,
+          "z": 2
+        },
+        {
+          "k": "title",
+          "x": 0,
+          "y": 63,
+          "w": 100,
+          "h": 18,
+          "t": "JERMAN SUDAH DIPILIH, **JALURNYA SUDAH COCOK UNTUK ANAK?**",
+          "variant": "duo",
+          "color": "white",
+          "align": "left",
+          "max": 66.7,
+          "min": 66.7,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 81.4,
+          "w": 100,
+          "h": 7.2,
+          "t": "Tiap anak punya titik mulai yang berbeda.",
+          "align": "left",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Kondisi Anak Menentukan Jalurnya",
+      "intent": "Panel kondisi ke jalur.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Kondisi Anak Menentukan Jalurnya",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "panel",
+          "x": 7,
+          "y": 29,
+          "w": 86,
+          "h": 45,
+          "head": "Cocokkan dengan kondisi anak",
+          "items": [
+            {
+              "head": "Ijazah memenuhi syarat",
+              "t": "cek langsung S1"
+            },
+            {
+              "head": "Butuh persiapan akademik",
+              "t": "cek Studienkolleg"
+            },
+            {
+              "head": "Ingin kuliah sambil kerja",
+              "t": "cek Duales Studium"
+            }
+          ]
+        },
+        {
+          "k": "mascot",
+          "variant": "bleed",
+          "x": 2,
+          "y": 81,
+          "w": 22,
+          "h": 30,
+          "id": "robot-kaca-pembesar",
+          "z": 1
+        },
+        {
+          "k": "text",
+          "x": 24,
+          "y": 82,
+          "w": 76,
+          "h": 8,
+          "t": "Mulai dari **data, bukan tebakan.**",
+          "align": "left",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Studienkolleg, Persiapan Sebelum S1",
+      "intent": "Fokus satu jalur: pita, kartu bertangga ke kiri, robot kanan.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Studienkolleg, Persiapan Sebelum S1",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "pill",
+          "variant": "ribbon",
+          "x": 10.04,
+          "y": 21.8,
+          "w": 79.91,
+          "h": 6.5,
+          "t": "Yang perlu orang tua tahu:"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 0,
+          "y": 33,
+          "w": 76,
+          "h": 11,
+          "id": "c-calendar",
+          "t": "**Durasi →** umumnya dua semester",
+          "max": 30,
+          "min": 28
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 0,
+          "y": 47,
+          "w": 68,
+          "h": 11,
+          "id": "c-books",
+          "t": "**Isi →** bekal akademik dan bahasa",
+          "max": 30,
+          "min": 28
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 0,
+          "y": 61,
+          "w": 60,
+          "h": 11,
+          "id": "c-clipboard",
+          "t": "**Akhir →** ujian Feststellungsprüfung",
+          "max": 30,
+          "min": 28
+        },
+        {
+          "k": "mascot",
+          "x": 66,
+          "y": 44,
+          "w": 32,
+          "h": 34,
+          "id": "robot-duduk-berpikir",
+          "z": 2
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 82,
+          "w": 100,
+          "h": 9,
+          "t": "Syarat masuknya berbeda **di tiap lembaga.**",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Duales Studium, Kuliah Sambil Kerja",
+      "intent": "Tiga kartu penuh, ikon kiri, tanpa maskot.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Duales Studium, Kuliah Sambil Kerja",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 3.5,
+          "y": 26,
+          "w": 93,
+          "h": 15,
+          "id": "c-briefcase",
+          "t": "Butuh kontrak kerja dengan perusahaan mitra.",
+          "max": 30,
+          "min": 28,
+          "head": "Perusahaan"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 3.5,
+          "y": 43.5,
+          "w": 93,
+          "h": 15,
+          "id": "c-chat",
+          "t": "Banyak perusahaan meminta bahasa Jerman yang baik.",
+          "max": 30,
+          "min": 28,
+          "head": "Bahasa"
+        },
+        {
+          "k": "card",
+          "variant": "feed",
+          "tone": "white",
+          "x": 3.5,
+          "y": 61,
+          "w": 93,
+          "h": 15,
+          "id": "c-target",
+          "t": "Cocok bila anak sudah mantap dengan bidangnya.",
+          "max": 30,
+          "min": 28,
+          "head": "Bidang"
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 82,
+          "w": 100,
+          "h": 9,
+          "t": "Tanyakan syaratnya **ke kampus dan perusahaan.**",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "skin": "feed",
+      "headline": "Kapan Mulai Menyiapkan?",
+      "intent": "Baris bernomor sebagai urutan waktu.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 6.2,
+          "w": 100,
+          "h": 16,
+          "t": "Kapan Mulai Menyiapkan?",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "pill",
+          "variant": "ribbon",
+          "x": 10.04,
+          "y": 21.8,
+          "w": 79.91,
+          "h": 6.5,
+          "t": "Urutan yang bisa dipakai:"
+        },
+        {
+          "k": "rows",
+          "x": 4,
+          "y": 34,
+          "w": 92,
+          "h": 43,
+          "variant": "num",
+          "max": 30,
+          "items": [
+            {
+              "head": "Kelas 11",
+              "t": "Cek status ijazah dan jalur yang terbuka bersama anak."
+            },
+            {
+              "head": "Kelas 12",
+              "t": "Kejar level bahasa sesuai syarat program tujuan."
+            },
+            {
+              "head": "Menjelang Lulus",
+              "t": "Catat tenggat pendaftaran dan siapkan dokumennya."
+            }
+          ]
+        },
+        {
+          "k": "text",
+          "x": 0,
+          "y": 84,
+          "w": 100,
+          "h": 9,
+          "t": "Makin awal dicek, **makin banyak waktu menyiapkan.**",
+          "align": "center",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "skin": "feed",
+      "headline": "Pilih Jalur yang Sesuai Kesiapan Anak",
+      "intent": "Robot di kiri, teks kanan, kartu CTA.",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 0,
+          "y": 13.26,
+          "w": 100,
+          "h": 22,
+          "t": "Pilih Jalur **yang Sesuai Kesiapan Anak**",
+          "variant": "duo",
+          "align": "center",
+          "max": 73.3,
+          "min": 73.3
+        },
+        {
+          "k": "mascot",
+          "x": 6,
+          "y": 38,
+          "w": 38,
+          "h": 42,
+          "id": "robot-jempol",
+          "z": 1
+        },
+        {
+          "k": "text",
+          "x": 46,
+          "y": 48,
+          "w": 54,
+          "h": 12,
+          "t": "Tim OTCA bantu susun persiapan bahasanya.",
+          "align": "left",
+          "min": 33.3,
+          "max": 33.3,
+          "z": 3
+        },
+        {
+          "k": "cta",
+          "variant": "tag",
+          "x": 8.23,
+          "y": 77.23,
+          "w": 88.78,
+          "h": 12.39,
+          "t": "KOMEN",
+          "id": "c-hand-point",
+          "note": "untuk info lebih lanjut dari Tim OTCA",
+          "z": 3,
+          "icons": [
+            "assets/brands/otca/feed/cta-tangan.png",
+            "assets/brands/otca/feed/cta-kilau.png"
+          ]
+        }
+      ],
+      "cta": "KOMEN “STUDI” DIBAWAH"
+    }
+  ]
+}

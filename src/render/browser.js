@@ -82,7 +82,7 @@ window.__fitAndMeasure = async function () {
       const box = { x, y, w: Math.max(...rs.map((r) => r.right)) - x, h: Math.max(...rs.map((r) => r.bottom)) - y };
       return { text: e.textContent.trim().replace(/\s+/g, ' '), size: parseFloat(getComputedStyle(e).fontSize), rect: box, ...layer(e), boxes: boxEls.flatMap((b, i) => (b === e || b.contains(e) ? [i] : [])), inner: innerBox(e), hits: hits(box), covered: (() => { const el = document.elementFromPoint(box.x + box.w / 2, box.y + box.h / 2); return !!el && !e.contains(el) && !el.contains(e) && !!el.closest('.fbar,.fmas,.fz img,.fz') && !el.closest('.footer') ? (el.className || el.tagName) + '' : ''; })() };
     }).filter(Boolean),
-    stacks: [...document.querySelectorAll('.frows,.pn-list')].map((e) => [...e.children].map((c) => { const g = document.createRange(); g.selectNodeContents(c.querySelector('.fr-b') || c); return rect(g.getBoundingClientRect()); })),
+    stacks: [...document.querySelectorAll('.frows,.pn-list,.fcol-l')].map((e) => [...e.children].map((c) => { const g = document.createRange(); g.selectNodeContents(c.querySelector('.fr-b') || c); return rect(g.getBoundingClientRect()); })),
     imgs: [...document.querySelectorAll('.main img:not(.fmas-i):not(.ct-hand):not(.ct-spark)')].filter((i) => i.getBoundingClientRect().width > 0).map((i) => ({ rect: rect(i.getBoundingClientRect()), inner: innerBox(i) })),
     mascots: [...document.querySelectorAll('.fmas-i')].map((e) => {
       const r = e.getBoundingClientRect(), k = Math.min(r.width / e.naturalWidth, r.height / e.naturalHeight), w = e.naturalWidth * k, h = e.naturalHeight * k;

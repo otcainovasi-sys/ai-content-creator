@@ -1,0 +1,401 @@
+{
+  "brand": "info-jerman",
+  "slug": "2026-11-pilihan-ke-jerman",
+  "month": "2026-11",
+  "pillar": "problem_education",
+  "type": "carousel",
+  "format": "feed_portrait",
+  "schedule": "Belum dijadwalkan",
+  "archetype": "B Daftar padat",
+  "background": {
+    "src": "assets/stock/openverse-273142cb-5d4.jpg",
+    "position": "center 12%"
+  },
+  "verified_claims": [],
+  "brief": {
+    "problem": "Calon peserta bingung memilih Ausbildung, kuliah, atau kerja di Jerman.",
+    "angle": "Pilihan mengikuti latar belakang dan tujuan kamu",
+    "key_message": "Cek latar belakang, tujuan, dan bahasa sebelum memilih jalur.",
+    "audience": "Calon peserta dari Indonesia",
+    "cta": {
+      "type": "link_bio"
+    },
+    "sources": [
+      {
+        "claim": "Ausbildung memadukan teori dan praktik kerja",
+        "source": "Feed live Info Jerman (PDF Indah hal. 3-4)",
+        "url": ""
+      },
+      {
+        "claim": "Jalur pekerja terampil untuk kandidat berkualifikasi",
+        "source": "Feed live Info Jerman (PDF Indah hal. 9)",
+        "url": ""
+      },
+      {
+        "claim": "Studienkolleg sebagai persiapan kuliah",
+        "source": "DAAD",
+        "url": "https://www.daad.de/en/studying-in-germany/requirements/studienkollegs/"
+      }
+    ],
+    "risks": [
+      "Tips umum; syarat tiap program bisa berbeda."
+    ],
+    "references": [
+      "PDF Problem Edukasi - Indah hal. 15-28"
+    ]
+  },
+  "caption": "Mau ke Jerman, tapi bingung pilih Ausbildung, kuliah, atau kerja?\n\nTiap pilihan punya syarat dan ritme yang beda. Cek dulu latar belakang, tujuan, dan kemampuan bahasamu.\n\nMau mulai dari bahasanya? Klik link di bio.\n\n#Ausbildung #KuliahDiJerman #InfoJerman",
+  "slides": [
+    {
+      "layout": "free",
+      "role": "cover",
+      "intent": "Maskot cowo berpikir di tengah, tiga gelembung pilihan.",
+      "headline": "Mau ke Jerman, enaknya Ausbildung, kuliah, atau kerja?",
+      "blocks": [
+        {
+          "k": "mascot",
+          "x": 30,
+          "y": 14.4,
+          "w": 40,
+          "h": 85,
+          "id": "cowo-berpikir",
+          "variant": "fade",
+          "z": 1
+        },
+        {
+          "k": "icon",
+          "x": -1.65,
+          "y": 3.03,
+          "w": 34.09,
+          "h": 15.61,
+          "id": "c-bubble-ausbildung",
+          "z": 2,
+          "r": -6
+        },
+        {
+          "k": "icon",
+          "x": 70.66,
+          "y": 1.65,
+          "w": 28.93,
+          "h": 14.69,
+          "id": "c-bubble-kuliah",
+          "z": 2,
+          "r": 6
+        },
+        {
+          "k": "icon",
+          "x": 72.73,
+          "y": 23.23,
+          "w": 26.86,
+          "h": 14.69,
+          "id": "c-bubble-kerja",
+          "z": 2,
+          "r": 4
+        },
+        {
+          "k": "title",
+          "x": 3.0,
+          "y": 60.79,
+          "w": 94.01,
+          "h": 24,
+          "t": "Mau ke Jerman, enaknya Ausbildung, kuliah, atau kerja?",
+          "variant": "duo",
+          "align": "left",
+          "max": 66.7,
+          "min": 66.7,
+          "z": 3
+        },
+        {
+          "k": "text",
+          "variant": "swipe",
+          "x": 3.0,
+          "y": 88.71,
+          "w": 94.01,
+          "h": 7,
+          "t": "Swipe buat cek bedanya",
+          "z": 3
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Tiga kolom bertangga.",
+      "headline": "Beda jalur, beda ritmenya",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 5.37,
+          "y": 1.84,
+          "w": 88.84,
+          "h": 13.77,
+          "t": "Beda jalur, **beda ritmenya**",
+          "variant": "duo",
+          "align": "left",
+          "max": 53.3,
+          "min": 53.3
+        },
+        {
+          "k": "col",
+          "x": 0.0,
+          "y": 24.15,
+          "w": 32.23,
+          "h": 55.1,
+          "tone": "white",
+          "head": "Ausbildung",
+          "note": "Vokasi",
+          "id": "c-briefcase",
+          "items": [
+            {
+              "t": "Belajar teori"
+            },
+            {
+              "t": "Praktik di perusahaan"
+            },
+            {
+              "t": "Dapat uang saku"
+            }
+          ]
+        },
+        {
+          "k": "col",
+          "x": 33.88,
+          "y": 20.48,
+          "w": 32.23,
+          "h": 58.77,
+          "tone": "white",
+          "head": "Kuliah",
+          "note": "Akademik",
+          "id": "c-deutsch-cap",
+          "items": [
+            {
+              "t": "Fokus ilmu dan riset"
+            },
+            {
+              "t": "Bisa lewat Studienkolleg"
+            },
+            {
+              "t": "Berujung gelar"
+            }
+          ]
+        },
+        {
+          "k": "col",
+          "x": 67.77,
+          "y": 24.15,
+          "w": 32.23,
+          "h": 55.1,
+          "tone": "white",
+          "head": "Kerja",
+          "note": "Profesional",
+          "id": "c-building",
+          "items": [
+            {
+              "t": "Kualifikasi diperiksa"
+            },
+            {
+              "t": "Pengalaman jadi modal"
+            },
+            {
+              "t": "Bahasa ikut kebutuhan kerja"
+            }
+          ]
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 15.5,
+          "y": 84.76,
+          "w": 69.21,
+          "h": 8.36,
+          "t": "Tiap jalur punya syarat sendiri, jadi cek dulu sebelum daftar!"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "point",
+      "intent": "Pola PDF hal. 16: Cek, angka besar, Hal ini, tiga kartu kanan.",
+      "headline": "Bingung pilih yang mana?",
+      "blocks": [
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 7.5,
+          "t": "Bingung pilih",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "big",
+          "x": 0,
+          "y": 8.5,
+          "w": 100,
+          "h": 7.5,
+          "t": "yang mana?",
+          "tone": "white",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "fat",
+          "x": 0,
+          "y": 30.49,
+          "w": 35.23,
+          "h": 12.12,
+          "t": "Cek",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "big",
+          "x": 0,
+          "y": 43.62,
+          "w": 35.23,
+          "h": 22.04,
+          "t": "3",
+          "max": 210,
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "fat",
+          "x": 0,
+          "y": 66.48,
+          "w": 35.23,
+          "h": 12.12,
+          "t": "Hal ini",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 40.29,
+          "y": 26.91,
+          "w": 57.85,
+          "h": 17.45,
+          "tone": "white",
+          "id": "c-books",
+          "head": "Latar belakang:",
+          "t": "Ijazah dan pengalamanmu sekarang apa?",
+          "max": 31,
+          "min": 25
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 40.29,
+          "y": 45.82,
+          "w": 57.85,
+          "h": 17.45,
+          "tone": "white",
+          "id": "c-target",
+          "head": "Tujuan:",
+          "t": "Mau gelar, keahlian kerja, atau langsung kerja?",
+          "max": 31,
+          "min": 25
+        },
+        {
+          "k": "card",
+          "variant": "note",
+          "x": 40.29,
+          "y": 64.74,
+          "w": 57.85,
+          "h": 17.45,
+          "tone": "white",
+          "id": "c-chat",
+          "head": "Bahasa:",
+          "t": "Levelmu sudah sampai mana?",
+          "max": 31,
+          "min": 25
+        },
+        {
+          "k": "pill",
+          "variant": "punch",
+          "x": 15.5,
+          "y": 86.59,
+          "w": 69.21,
+          "h": 8.36,
+          "t": "Jawabannya bakal nunjukin jalur yang paling masuk akal!"
+        }
+      ]
+    },
+    {
+      "layout": "free",
+      "role": "closing",
+      "intent": "Maskot cewe di kanan, tumpukan label, CTA gelap.",
+      "headline": "Apa pun jalurnya, bahasa tetap modal utama",
+      "cta": "Mulai dari bahasanya bareng Info Jerman by OTCA. Klik link di bio!",
+      "blocks": [
+        {
+          "k": "title",
+          "x": 5.37,
+          "y": 1.84,
+          "w": 88.84,
+          "h": 13.77,
+          "t": "Apa pun jalurnya, **bahasa tetap modal**",
+          "variant": "duo",
+          "align": "left",
+          "max": 53.3,
+          "min": 53.3
+        },
+        {
+          "k": "pill",
+          "variant": "stackhead",
+          "x": 4.55,
+          "y": 25.07,
+          "w": 43.39,
+          "h": 4.32,
+          "t": "Langkah pertama",
+          "tone": "dark",
+          "align": "center"
+        },
+        {
+          "k": "pill",
+          "variant": "stackbody",
+          "x": 4.13,
+          "y": 29.2,
+          "w": 44.21,
+          "h": 10.84,
+          "t": "Mulai dari levelmu",
+          "tone": "brand",
+          "align": "center"
+        },
+        {
+          "k": "bubble",
+          "x": 4.13,
+          "y": 43.43,
+          "w": 44.21,
+          "h": 18.37,
+          "tone": "white",
+          "t": "Kelas Platinum A1–B1",
+          "note": "Belajar bertahap sampai B1 bareng tutor.",
+          "max": 33.3,
+          "min": 28
+        },
+        {
+          "k": "mascot",
+          "x": 52,
+          "y": 26,
+          "w": 46,
+          "h": 58,
+          "id": "cewe-berdiri",
+          "z": 2
+        },
+        {
+          "k": "cta",
+          "variant": "pill",
+          "x": 9.61,
+          "y": 82.83,
+          "w": 80.79,
+          "h": 11.02
+        }
+      ]
+    }
+  ]
+}

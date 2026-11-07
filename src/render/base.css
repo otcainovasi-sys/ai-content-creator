@@ -902,3 +902,9 @@ tbody tr:last-child td{border-bottom:0}
 .skin-feed .fcol-t{color:#000;font-weight:500;line-height:1.15}
 .skin-feed .ck{width:32px;height:32px}
 .skin-feed .ck::after{left:11px;top:4px;width:8px;height:16px;border-width:0 4px 4px 0;border-color:#000}
+/* Kolom sempit (3 kolom): ruang teks lebih lebar supaya kata panjang seperti "Studienkolleg" muat */
+.brand-info-jerman .fcol{padding:0 16px 20px}
+.brand-info-jerman .fcol-l{padding:14px 8px}
+/* Daftar kolom: ruang kiri kanan lega, jarak antar-butir rapat dan tetap */
+.brand-info-jerman .fcol-l{padding:18px 16px;justify-content:center;gap:20px}
+.brand-info-jerman .fcol-r{gap:10px}
