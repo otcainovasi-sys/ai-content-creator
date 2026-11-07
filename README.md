@@ -21,6 +21,13 @@ Coba render satu konten:
 npm run render -- specs/khusus/otca/siapa-membantu-anak.json
 ```
 
+Skill `humanizer` (lisensi MIT, dari blader/humanizer), `cek-spasi`, `brief`, `copy`, `riset`, dan `rencana-minggu` sudah ada di `.claude/skills/`. Plugin desain dipasang sekali:
+
+```bash
+claude plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
+claude plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+```
+
 Hasilnya ada di `projects/`. Folder ini tidak masuk repo, jadi render ulang di komputer masing-masing.
 
 - **`.env`:** salin dari `.env.example` hanya kalau mau mencari foto baru lewat Pexels atau Pixabay. Render tidak membutuhkannya.
